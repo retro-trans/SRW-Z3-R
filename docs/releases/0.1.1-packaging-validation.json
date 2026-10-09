@@ -1,0 +1,49 @@
+{
+  "version": "0.1.1",
+  "local_build": "rengoku_en_018",
+  "build_report_sha256": "819cf17905618a2d14b2a857fbed43e85fb55efbca1389c40ae3c8e550fca4b5",
+  "build_source_commit": null,
+  "source_commit_role": "Published unchanged English and new packaging/tool sources; not the pre-Git historical build commit.",
+  "recorded_build_tests": 118,
+  "recorded_archive_member_readbacks": 173,
+  "focused_package_tests": 3,
+  "all_77_package_members_match_build018": true,
+  "rpcs3_native_installation": {
+    "pkg": {
+      "bytes": 721946688,
+      "sha256": "dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a"
+    },
+    "rpcs3_exe": {
+      "bytes": 67511296,
+      "sha256": "fca26c1714be8c7e290fb35432b51eef1804b0879744ac1697f75cfd35d4a85a"
+    },
+    "exit_code": 3221226505,
+    "installed_files": 77,
+    "all_77_game_files_match_build018_with_native_sdat_decryption": true,
+    "installed_stage": {
+      "bytes": 1248500,
+      "sha256": "06e21b41ac0f21db9fc9ae56a98ccb4aa1e86acbe420fda3c47fc9cc5994b8c1"
+    },
+    "isolated_install_only": true,
+    "gameplay_tested": false,
+    "ps3_hardware_tested": false
+  },
+  "retro_trans_actual_apply": {
+    "public_assets": false,
+    "original_recognized": true,
+    "latest_next_specific_routes_verified": true,
+    "actual_engine_output": {
+      "bytes": 721946688,
+      "sha256": "dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a"
+    },
+    "actual_apply_plan_passed": true,
+    "original_unchanged": {
+      "bytes": 530382896,
+      "sha256": "77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307"
+    },
+    "manifest_sha256": "6819999dd9c1ab3b08e06e897fac95d6a55d723a37432d510902205ffa05e332"
+  },
+  "signed_retail_package": false,
+  "gameplay_tested": false,
+  "ps3_hardware_tested": false
+}

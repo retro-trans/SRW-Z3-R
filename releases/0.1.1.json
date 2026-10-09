@@ -1,0 +1,24 @@
+{
+  "game_id": "srw-z3-rengoku-ps3",
+  "game_name": "Super Robot Taisen Z3: Rengoku-hen",
+  "platform": "PS3",
+  "version": "0.1.1",
+  "source_commit": "04a9ef47128d1bc455d242e1973a67a10c639c30",
+  "schema_version": 1,
+  "patches": [
+    {
+      "patch": "SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta",
+      "edition": "Japanese digital NPJB00689 (RPCS3 package)",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "pkg",
+      "target_format": "pkg",
+      "source_sha256": "77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307",
+      "source_bytes": 530382896,
+      "target_sha256": "dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a",
+      "target_bytes": 721946688,
+      "patch_sha256": "fdf3d18da6b150548cf918968b5767c4f3fbd0ce258fe38fb3618cb0dd21886b",
+      "patch_bytes": 191578190
+    }
+  ]
+}
