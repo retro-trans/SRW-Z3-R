@@ -11,7 +11,7 @@ def snapshot(output, write):
     output = output.resolve()
     if output.exists():
         raise ValueError('Refusing to overwrite public snapshot')
-    files = [ROOT / 'README.md', ROOT / '.gitignore', ROOT / 'requirements.txt',
+    files = [ROOT / 'README.md', ROOT / '.gitignore', ROOT / '.gitattributes', ROOT / 'requirements.txt',
              ROOT / 'AGENTS.md', ROOT / 'BASE_RULES.md', ROOT / 'CHANGELOG.md']
     files += sorted((ROOT / 'tools').glob('*.py'))
     files += sorted((ROOT / 'tests').glob('*.py'))
@@ -40,6 +40,11 @@ def snapshot(output, write):
     for path in files:
         dest = output / path.relative_to(ROOT); dest.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(path, dest)
+        if path.name == 'artwork_en.md':
+            import re
+            text = dest.read_text(encoding='utf8')
+            text = re.sub(r'(?m)^(### label [0-9]+):.*$', r'\1', text)
+            dest.write_text(text, encoding='utf8')
     for relative, data in cleaned.items():
         dest = output / relative; dest.parent.mkdir(parents=True, exist_ok=True)
         dest.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf8')
