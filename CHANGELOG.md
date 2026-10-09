@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-10-09 — Match SRW-Z3 release presentation
+
+- Compare actual SRW-Z3 v0.6.25 and v0.6.24 release bodies, then align 0.1.1
+  and the reusable template with the reference section order and title style.
+- Add the source-to-patch table and download size. Keep the short player-facing
+  checks on the release page and move detailed package/runtime evidence to
+  docs/validation/0.1.1.md. Preserve DeltaPatcher and xdelta3 instructions.
+- Match the README's player entry and separate credits/contribution sections.
+  Verify section order against the actual reference, manifest identities,
+  relative links and whitespace. Package assets and tag identity are unchanged.
+
 ## 2026-10-09 — Manual patching instructions
 
 - Document Delta Patcher and xdelta3 alongside Retro Trans in the README,

@@ -2,6 +2,8 @@
 
 Updated 2026-10-09 using `binhlt0402`:
 - Public repository: https://github.com/retro-trans/SRW-Z3-R
+- Release presentation and template follow SRW-Z3 v0.6.25 section order.
+  Detailed evidence is in docs/validation/0.1.1.md; current notes are on main.
 - First public release: https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1
 - Manual patching: docs/INSTALL.md includes Delta Patcher backup/checksum
   settings and an xdelta3 command verified against the published patch.

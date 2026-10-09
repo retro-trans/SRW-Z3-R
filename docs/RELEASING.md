@@ -43,3 +43,15 @@ in separate detailed validation. Preserve old releases and tag identities.
 Use `.github/RELEASE_TEMPLATE.md`. Source-dependent checks/builds require the
 private inputs described in `LOCAL_SOURCE_DATA.md`. No original script dumps,
 game files, licenses, fonts or downloaded executable tools belong in Git.
+
+## Player-facing release format
+
+Follow [SRW-Z3 release 0.6.25](https://github.com/retro-trans/SRW-Z3/releases/tag/v0.6.25)
+and `.github/RELEASE_TEMPLATE.md`: title `VERSION — SUMMARY`, a brief game/edition
+introduction, then Apply, What changed, PS3 and RPCS3 compatibility, What's
+included, How it was translated, Acknowledgements, Source code and Contribute.
+The first release uses What changed without a previous-version suffix.
+Apply includes a source-to-patch table, manual command, input/output identities
+and download size. Keep detailed binary evidence under `docs/validation/`.
+Use verified Rengoku facts and credits; reference formatting does not transfer
+Jigoku-hen ISO identities, upgrade routes or hardware support to this game.

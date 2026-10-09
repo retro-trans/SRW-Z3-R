@@ -1,13 +1,15 @@
-# Super Robot Taisen Z3: Rengoku-hen — English translation
+# Super Robot Taisen Z3: Rengoku-hen — translation project
 
 English translation tools and PS3 patches for **Dai-3-Ji Super Robot Taisen Z:
 Rengoku-hen / Purgatory Chapter**, Japanese digital release **NPJB00689**.
 
-**Players:** use [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest)
-to apply the [latest release](https://github.com/retro-trans/SRW-Z3-R/releases/latest)
-to your original Japanese **NPJB00689 PKG** and save a new English PKG for RPCS3.
-Follow [the installation guide](docs/INSTALL.md). Each release includes exact
-input/output hashes, download checksums, coverage and compatibility notes.
+**Players:** see [the installation guide](docs/INSTALL.md) and download
+[the latest release](https://github.com/retro-trans/SRW-Z3-R/releases/latest).
+Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) in Automatic
+mode with your matching Japanese **NPJB00689 PKG**, or apply the downloaded
+patch with DeltaPatcher or xdelta3. Save a new English PKG for RPCS3.
+Each release lists installation steps, required input hashes, translation
+coverage and compatibility notes.
 
 **Maintainers:** use [the release guide](docs/RELEASING.md) and
 [release template](.github/RELEASE_TEMPLATE.md).
@@ -22,8 +24,8 @@ Original Japanese script catalogs and game data remain local.
 
 **0.1.1 is the first public release**, supporting Retro Trans Automatic and
 manual xdelta modes. It uses verified local **build 018** and includes English
-story dialogue, battle subtitles, pilot,
-mech and weapon text, library/glossary entries, mission conditions, menus,
+story dialogue, battle subtitles, pilot/mech/weapon text, library/glossary
+entries, mission conditions, menus,
 Spirit/skill descriptions, narration and selected translated artwork.
 
 | Area | Recorded coverage |
@@ -95,11 +97,13 @@ Edit translation `text` fields by their existing ID. Preserve
 speech/internal-monologue wrappers. Source-dependent validation and builds
 require the matching local catalogs; do not bypass those checks.
 
-## Contribute and acknowledgements
+## Contribute
 
 Report bugs, proofreading corrections and playtesting results through
 [GitHub issues](https://github.com/retro-trans/SRW-Z3-R/issues). Include the
 release version, platform/runtime, affected screen and a screenshot.
+
+## Credits
 
 Translation uses AI-assisted drafts followed by terminology checks, editing
 and playtesting. The [Jigoku-hen project](https://github.com/retro-trans/SRW-Z3)

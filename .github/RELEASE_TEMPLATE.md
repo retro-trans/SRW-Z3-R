@@ -1,66 +1,90 @@
-# English {{VERSION}} — {{SUMMARY}}
+<!-- GitHub release title: {{VERSION}} — {{SUMMARY}} -->
 
-English patch for **Super Robot Taisen Z3: Rengoku-hen**, PS3 **NPJB00689**.
-Built from local build {{BUILD_ID}}. {{TEST_RELEASE_STATUS}}
+English translation patch for **Super Robot Taisen Z3: Rengoku-hen** on PS3
+(**NPJB00689**, Japanese digital release).
 
-## Apply
+{{RELEASE_SUMMARY_AND_TEST_STATUS}}
 
-Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest),
-refresh the catalog, browse to your original Japanese NPJB00689 PKG, and choose
-Automatic > Latest (or {{VERSION}}). Save a NEW `.pkg` and install that output
-through RPCS3. Alternatively download
-`SRW-Z3-R-NPJB00689-English-{{VERSION}}-RPCS3.xdelta` and use Apply xdelta,
-[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
-(with Backup original file and Checksum validation enabled), or
-[xdelta3](https://github.com/jmacd/xdelta/releases/latest):
+### Apply
 
-```sh
-xdelta3 -d -s "NPJB00689-original.pkg" "SRW-Z3-R-NPJB00689-English-{{VERSION}}-RPCS3.xdelta" "NPJB00689-English-{{VERSION}}.pkg"
+Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools), version
+{{MINIMUM_RETRO_TRANS_VERSION}} or later. Open **Automatic**, refresh the catalog,
+and select {{SUPPORTED_INPUTS}}. Choose a new output filename and keep the source.
+
+[DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) or
+[xdelta3](https://github.com/jmacd/xdelta) can apply the same patch:
+
+| Your source package | Patch |
+| --- | --- |
+| {{EXACT_SOURCE_EDITION_AND_VERSION}} | `{{PATCH_FILENAME}}` |
+
+```text
+xdelta3 -d -s "{{SOURCE_FILENAME}}" "{{PATCH_FILENAME}}" "{{OUTPUT_FILENAME}}"
 ```
 
-Replace the original filename with yours and use a new output filename.
+In DeltaPatcher, enable **Backup original file** and **Checksum validation**.
+{{INSTALLATION_GUIDE_LINK}}
+Use the exact source package; compare a rejected input with
+`BUILD-MANIFEST.json` and keep checksum verification enabled.
 
-`BUILD-MANIFEST.json` is the standard Retro Trans v1 manifest with exact source,
-output and patch identities. `SHA256SUMS.txt` verifies downloads;
-`VALIDATION.json` records the whole-package decode round trip. Keep input and
-output verification enabled. {{INSTALLATION_GUIDE_LINK}}
+{{INPUT_AND_OUTPUT_BYTE_COUNTS_AND_SHA256}}
 
-## What changed
+`BUILD-MANIFEST.json` records complete input/output identities.
+`SHA256SUMS.txt` verifies downloads; `VALIDATION.json` records the local package
+round trip. {{ACTUAL_PUBLIC_DOWNLOAD_AND_APPLY_RESULTS}}
+Patch download: **{{PATCH_DOWNLOAD_SIZE}}**.
 
-{{CHANGE_LIST}}
+### What changed{{OPTIONAL_PREVIOUS_VERSION_SUFFIX}}
 
-## Coverage and limits
+{{PLAYER_VISIBLE_CHANGE_LIST}}
 
-{{TRANSLATION_COUNTS_AND_REVIEW_FLAGS}}
-{{UNINSERTED_ARTWORK_AND_SUBTITLE_LIMITS}}
+{{FOCUSED_VALIDATION_SUMMARY_AND_VALIDATION_NOTES_LINK}}
 
-## PS3 and RPCS3 compatibility
+### PS3 and RPCS3 compatibility
 
-{{ACTUAL_RUNTIME_TEST_RESULTS}}
-The patch requires your own game and matching license. No license data is
-included. This modified PKG has cleared authentication and is for RPCS3;
-it is not a signed console installer. Keep `dev_hdd0/game/NPJB00689`: for this
-digital game it contains the game itself, not a disposable disc-install cache.
-Distinguish format checks from gameplay and hardware acceptance.
+Install the output PKG through RPCS3's **File > Install Packages/Raps/Edats**.
+Close RPCS3 and back up your installation first. Use your own matching license;
+no RAP is supplied. Preserve savedata and other games. Keep
+`dev_hdd0/game/NPJB00689`: this digital game's files are installed there.
+Restart the game and load an in-game save when testing.
 
-## Validation
+{{PACKAGE_SIGNING_AND_ACTUAL_RUNTIME_LIMITS}}
+{{GAMEPLAY_AND_HARDWARE_STATUS_WITH_VALIDATION_NOTES_LINK}}
 
-{{TEST_COUNTS_AND_PATCH_ROUNDTRIPS}}
-{{PUBLIC_SOURCE_PROVENANCE_AND_MANIFEST_NOTES}}
+### What's included
 
-## Acknowledgements and contribution
+{{TRANSLATION_COVERAGE_COUNTS_AND_REMAINING_REVIEW_WORK}}
+{{ASSET_INVENTORY_AND_PLATFORM_LANGUAGE_LIMITS}}
 
-AI-assisted translation drafts are followed by terminology checks, editing
-and playtesting. The Jigoku-hen project supplies glossary and tooling
-references. Report translation/layout problems with a screenshot and version
-at https://github.com/retro-trans/SRW-Z3-R/issues.
+### How it was translated
 
-GitHub's Source code archives contain project sources. Use the patch asset
-with your own game. No complete game image, original script dump, game file,
-font, license or third-party tool binary is distributed.
+Drafts are AI-assisted and followed by terminology checks, editing and review
+of playtesting reports. Community references guide names and terms.
+Proofreading and corrections are welcome.
 
-<!-- Maintainer checklist: exact version/tag; reviewed source snapshot;
-verified input/output hashes; whole-PKG round trip; native package extraction;
-Retro Trans route/apply check; uploaded asset digests; regular numeric release
-for catalog discovery; no original script catalogs or binary game data;
-public-download validation and scoped catalog refresh. -->
+### Acknowledgements
+
+{{VERIFIED_PROJECT_CREDITS_AND_REFERENCE_ACKNOWLEDGEMENTS}}
+
+### Source code
+
+GitHub's **Source code (zip)** contains project tools and English translation
+sources. Download a `.xdelta` asset to patch your own game.
+{{SOURCE_COMMIT_AND_RELEASE_TAG_PROVENANCE}}
+Japanese script catalogs, game binaries, fonts and licenses are not published.
+
+### Contribute
+
+Report bugs, proofreading corrections and playtesting results through
+[GitHub issues](https://github.com/retro-trans/SRW-Z3-R/issues).
+Include the release version, runtime version, affected screen and screenshot.
+
+---
+
+No complete game package is included. Apply this patch to a game you own.
+
+<!-- Follow docs/RELEASING.md and SRW-Z3 release 0.6.25's section order.
+Use Rengoku-specific package identities, coverage, credits and compatibility.
+Publish regular numeric versions for Retro Trans catalog discovery.
+Keep exact source/output checks and asset digests; distinguish package/file
+checks from gameplay/hardware results. Do not copy Jigoku-hen runtime claims. -->
