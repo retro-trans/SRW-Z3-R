@@ -35,6 +35,48 @@ Choose Apply xdelta, the matching original PKG, that local patch, and a new
 Compare your source and output against `BUILD-MANIFEST.json` and verify the
 patch download against `SHA256SUMS.txt`.
 
+## Delta Patcher
+
+Download [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
+and the `.xdelta` asset from [release 0.1.1](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1).
+
+1. Under **Original file**, select your matching Japanese NPJB00689 `.pkg`.
+2. Under **XDelta patch**, select
+   `SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta`.
+3. In the patch options, enable **Backup original file** and keep
+   **Checksum validation** enabled, then click **Apply patch**.
+4. With backup enabled, the output is named `<original-name>PATCHED.pkg` in
+   the same folder. Install that English package through RPCS3.
+
+Without Backup original file enabled, Delta Patcher replaces the input file.
+Use a separate copy of your original PKG if you prefer.
+
+## xdelta command line
+
+Download [xdelta3](https://github.com/jmacd/xdelta/releases/latest) and the same
+`.xdelta` asset. Run this in a folder containing the patch and your original
+package; replace `NPJB00689-original.pkg` with your original filename:
+
+```sh
+xdelta3 -d -s "NPJB00689-original.pkg" "SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta" "NPJB00689-English-0.1.1.pkg"
+```
+
+`-d` decodes the patch, and `-s` selects the original package. Use a new output
+filename. On Windows PowerShell, use `./xdelta3.exe` instead of `xdelta3` if
+its executable is in the current folder. Install the resulting English PKG
+through RPCS3.
+
+For either manual method, check the original identity listed above and the
+patch's `SHA256SUMS.txt`. The expected output is **721,946,688 bytes**, SHA-256
+`dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a`.
+You can check it in PowerShell with:
+
+```powershell
+Get-FileHash -Algorithm SHA256 "NPJB00689-English-0.1.1.pkg"
+```
+
+Use the actual output filename when checking a Delta Patcher result.
+
 ## Compatibility and license
 
 The output is a modified retail-style package with cleared authentication

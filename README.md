@@ -52,7 +52,13 @@ In Retro Trans 0.5.1 or later, refresh the catalog, browse to your original
 NPJB00689 PKG, select Automatic and Latest (or 0.1.1), and save to a new `.pkg`.
 The tool downloads and verifies the bare xdelta and checks the whole output.
 You can also download the `.xdelta` release asset and use Apply xdelta offline.
-No Python or separate patch engine is needed for players.
+No Python or separate patch engine is needed when using Retro Trans.
+
+You can also apply the same `.xdelta` with
+[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
+or [xdelta3 on the command line](https://github.com/jmacd/xdelta/releases/latest).
+See [manual patching instructions](docs/INSTALL.md#delta-patcher) for the
+backup setting, command example and output hash verification.
 
 Install the resulting PKG through RPCS3's **File > Install Packages/Raps/Edats**.
 The original package and saves are preserved. The package has modified content

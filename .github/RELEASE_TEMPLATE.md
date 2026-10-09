@@ -9,7 +9,16 @@ Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/late
 refresh the catalog, browse to your original Japanese NPJB00689 PKG, and choose
 Automatic > Latest (or {{VERSION}}). Save a NEW `.pkg` and install that output
 through RPCS3. Alternatively download
-`SRW-Z3-R-NPJB00689-English-{{VERSION}}-RPCS3.xdelta` and use Apply xdelta.
+`SRW-Z3-R-NPJB00689-English-{{VERSION}}-RPCS3.xdelta` and use Apply xdelta,
+[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
+(with Backup original file and Checksum validation enabled), or
+[xdelta3](https://github.com/jmacd/xdelta/releases/latest):
+
+```sh
+xdelta3 -d -s "NPJB00689-original.pkg" "SRW-Z3-R-NPJB00689-English-{{VERSION}}-RPCS3.xdelta" "NPJB00689-English-{{VERSION}}.pkg"
+```
+
+Replace the original filename with yours and use a new output filename.
 
 `BUILD-MANIFEST.json` is the standard Retro Trans v1 manifest with exact source,
 output and patch identities. `SHA256SUMS.txt` verifies downloads;

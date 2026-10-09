@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-09 — Manual patching instructions
+
+- Document Delta Patcher and xdelta3 alongside Retro Trans in the README,
+  installation guide, first public release notes and reusable release template.
+- Check Delta Patcher's upstream UI/source: Backup original file preserves the
+  input and writes a PATCHED.pkg output; keep Checksum validation enabled.
+- Run the documented xdelta3 -d -s command against the released patch: output
+  matches the expected 721,946,688-byte PKG and SHA-256; original unchanged.
+  Documentation links and whitespace checks pass. Release assets are unchanged.
+
 ## 2026-10-09 — First public release, English 0.1.1
 
 - Publish the first public release with a standard Retro Trans v1

@@ -3,6 +3,8 @@
 Updated 2026-10-09 using `binhlt0402`:
 - Public repository: https://github.com/retro-trans/SRW-Z3-R
 - First public release: https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1
+- Manual patching: docs/INSTALL.md includes Delta Patcher backup/checksum
+  settings and an xdelta3 command verified against the published patch.
 - Retro Trans compatibility: standard manifest v1 and one bare xdelta from the
   original NPJB00689 PKG to a new English PKG. Automatic and Apply xdelta are
   supported. Refresh the catalog before selecting Latest.
