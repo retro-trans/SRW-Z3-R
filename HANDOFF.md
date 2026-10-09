@@ -2,7 +2,7 @@
 
 Updated 2026-10-09 using `binhlt0402`:
 - Public repository: https://github.com/retro-trans/SRW-Z3-R
-- Current release: https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1
+- First public release: https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1
 - Retro Trans compatibility: standard manifest v1 and one bare xdelta from the
   original NPJB00689 PKG to a new English PKG. Automatic and Apply xdelta are
   supported. Refresh the catalog before selecting Latest.
@@ -15,10 +15,9 @@ Updated 2026-10-09 using `binhlt0402`:
   Headless teardown exits with an assertion; this is not a clean process-exit
   or gameplay claim. See docs/releases/0.1.1.md for the full limits.
 - The new PKG targets RPCS3 only and is not a signed console installer.
-  Gameplay and PS3 hardware checks remain pending. The historical 0.1.0
-  folder prerelease and all of its patch assets remain preserved.
+  Gameplay and PS3 hardware checks remain pending.
 
-PS3 Rengoku-hen, NPJB00689. Both releases use the same build-018 translation
+PS3 Rengoku-hen, NPJB00689. Release 0.1.1 uses build-018 translation
 and layout content. The 0.1.1 source commit identifies current packaging tools
 and unchanged English exports; the historical pre-Git build commit is unknown.
 Read BASE_RULES.md, docs/LOCAL_SOURCE_DATA.md and docs/RELEASING.md.

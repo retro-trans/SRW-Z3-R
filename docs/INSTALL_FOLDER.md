@@ -1,13 +1,15 @@
-# Installing the Rengoku-hen English patch
+# Local extracted-folder patch workflow
 
-Download the patch ZIP from [GitHub Releases](https://github.com/retro-trans/SRW-Z3-R/releases).
+This guide supports locally generated folder patches for maintainers. Public
+release 0.1.1 uses a whole-PKG patch; players should follow [INSTALL.md](INSTALL.md).
+Use a patch ZIP generated locally with `tools/package_public_release.py`.
 Use your own pristine **PS3 NPJB00689** game folder extracted from the matching
 Japanese Rengoku-hen package. The folder must contain `PARAM.SFO` and `USRDIR`.
 These patches do not accept Jigoku-hen BLJS10256 or an already translated build.
 
 ## Apply the patch
 
-1. Extract the release ZIP into a separate folder.
+1. Extract the locally generated patch ZIP into a separate folder.
 2. Install Python 3.8 or later and [xdelta3](https://github.com/jmacd/xdelta-gpl/releases).
 3. Close RPCS3 and keep your original game folder and saves backed up.
 4. Preview installation from the extracted patch folder:

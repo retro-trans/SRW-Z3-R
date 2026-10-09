@@ -1,6 +1,6 @@
 # Installing the Rengoku-hen English patch
 
-Release **0.1.1** uses Retro Trans's standard single-file xdelta format.
+The first public release, **0.1.1**, uses Retro Trans's standard single-file xdelta format.
 Input: your original Japanese **PS3 NPJB00689 PKG**.
 Output: a new English PKG for **RPCS3**, containing build 018's translation.
 No Python or separate xdelta installation is needed when using the Windows app.
@@ -40,7 +40,7 @@ patch download against `SHA256SUMS.txt`.
 The output is a modified retail-style package with cleared authentication
 blocks, intended for RPCS3. It is **not Sony-signed and is not advertised as a
 PS3/CFW/HEN package installer**. The fake SELF executable and translated assets
-are the same build 018 content as the folder release; package installation
+use verified local build 018 content; package installation
 natively decrypts its stage SDAT. Gameplay and physical-console checks remain
 pending. See the [release notes](releases/0.1.1.md) for validation limits.
 
@@ -50,14 +50,6 @@ The original `DATA01.EDAT` requires your matching
 `dev_hdd0/home/<active-user>/exdata/`. Error `80029521` indicates a missing
 matching license. Restart the game and load an in-game save when testing;
 emulator save states can retain earlier code or resources.
-
-## Historical folder installer
-
-[0.1.0](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.0) remains an
-independent folder-patch prerelease with its included `INSTALL.md`, twelve
-patches and `apply_release.py`. It does not support Retro Trans Automatic mode.
-Its Python installer requires a matching pristine extraction and a new output
-folder. Preserve the historical release assets and identities.
 
 Report the release version, RPCS3 version, affected screen and screenshot in a
 [GitHub issue](https://github.com/retro-trans/SRW-Z3-R/issues).

@@ -1,8 +1,8 @@
 # Preparing a public release
 
 Current releases use [Retro Trans's standard](https://github.com/retro-trans/retro-trans-tools/blob/main/docs/RELEASE_STANDARD.md)
-manifest **v1** and a bare whole-PKG xdelta. The 0.1.0 custom folder installer
-remains historical; never replace its published patch bytes or reuse its version.
+manifest **v1** and a bare whole-PKG xdelta. **0.1.1 is the first public release.**
+Never replace published patch bytes or reuse a published version.
 
 1. Verify a complete local NPJB00689 build and `verification/RESULT.json`.
    Keep original packages and extracted files untouched. Record runtime and

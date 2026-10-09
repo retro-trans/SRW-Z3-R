@@ -20,9 +20,9 @@ Original Japanese script catalogs and game data remain local.
 
 ## Current release and coverage
 
-**0.1.1** corrects release packaging for Retro Trans Automatic and manual
-xdelta modes. Translation content remains verified local **build 018**, first
-published in the 0.1.0 folder-patch prerelease. It includes English story dialogue, battle subtitles, pilot,
+**0.1.1 is the first public release**, supporting Retro Trans Automatic and
+manual xdelta modes. It uses verified local **build 018** and includes English
+story dialogue, battle subtitles, pilot,
 mech and weapon text, library/glossary entries, mission conditions, menus,
 Spirit/skill descriptions, narration and selected translated artwork.
 
@@ -61,8 +61,6 @@ installer**. Use your own matching activation/license; no RAP is supplied.
 Keep `dev_hdd0/game/NPJB00689`: for this digital game it holds the game itself,
 not a disposable disc-install cache. See [INSTALL.md](docs/INSTALL.md).
 
-The historical [0.1.0 folder installer](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.0)
-remains available for users who already have a pristine extracted folder.
 Physical PS3 testing and CFW/HEN compatibility remain unverified. No Vita build
 is included. GitHub's Source code archives contain project sources, not patches.
 

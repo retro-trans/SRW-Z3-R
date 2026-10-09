@@ -1,11 +1,11 @@
 # Changelog
 
-## 2026-10-09 — Retro Trans compatibility, English 0.1.1
+## 2026-10-09 — First public release, English 0.1.1
 
-- Replace the default distribution route with a standard Retro Trans v1
+- Publish the first public release with a standard Retro Trans v1
   original-PKG-to-English-PKG xdelta. Public release:
   https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1.
-  Translation/layout content remains build 018; preserve the 0.1.0 assets.
+  Translation/layout content uses verified local build 018.
 - Verify all 77 PKG members, three package tests, complete xdelta decode and
   Retro Trans's actual recognizer, Latest/Next/specific routes and local
   apply_plan. All six downloaded public assets match local/server hashes.
@@ -20,29 +20,9 @@
   verified stage SDAT plaintext. Its headless shutdown assertion is recorded
   separately. The PKG has cleared authentication and targets RPCS3 only;
   no signed console-package or gameplay acceptance is claimed.
-- Update README, install/release guides and template. Preserve the historical
-  folder guide for its installer. No original package, canonical translation,
+- Publish README, install/release guides and a reusable release template.
+  Retain the extracted-folder workflow for local maintainer builds. No original package, canonical translation,
   user's installed game or save changes; previous remaining work is unchanged.
-
-## 2026-10-09 — Public repository and English 0.1.0 prerelease
-
-- Publish https://github.com/retro-trans/SRW-Z3-R using `binhlt0402`, with
-  README, installation/releasing guides and a reusable release template
-  following SRW-Z3's structure. Public exports omit original script fields
-  while preserving English, IDs, fingerprints and runtime conventions.
-- Publish https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.0
-  from local build 018: twelve per-file xdelta patches, an installer,
-  manifest, validation metadata and checksums. No full game files, original
-  scripts, license files or third-party executables are distributed.
-- ZIP: 19,993,337 bytes; SHA-256
-  `19dee91cee92be760aaed3f5b8bbc2345031e76d71125910dfe192c3cb7e6c54`.
-  All twelve round trips, three installer tests and reconstruction of all
-  77 game files pass. All four public assets match uploaded SHA-256 values
-  and downloaded bytes; downloaded installer preview passes.
-- Canonical catalogs, original inputs, installed games and saves remain
-  unchanged. This is a public test release; gameplay and real PS3 checks
-  remain pending. Retro Trans Automatic mode is unsupported for this
-  directory patch format. Previous translation and artwork work remains.
 
 ## 2026-09-26 — Intermission and pilot layouts, test build 018
 

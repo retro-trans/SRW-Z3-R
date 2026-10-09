@@ -55,12 +55,12 @@ def snapshot(output, write):
     dest.write_text(json.dumps(glossary, ensure_ascii=False, indent=2) + '\n', encoding='utf8')
     (output / 'HANDOFF.md').write_text(
         '# Public repository handoff\n\n'
-        'PS3 Rengoku-hen, NPJB00689. Public 0.1.0 corresponds to verified local build 018.\n'
+        'PS3 Rengoku-hen, NPJB00689. First public release 0.1.1 corresponds to verified local build 018.\n'
         'Read BASE_RULES.md, docs/LOCAL_SOURCE_DATA.md and docs/RELEASING.md.\n'
         'English locales are publication exports without original script fields;\n'
         'source-dependent checks/builds require matching private local inputs.\n'
         'Preserve IDs, fingerprints, glossary references and runtime wrappers.\n'
-        'See docs/releases/0.1.0.md for coverage and gameplay/hardware limits.\n', encoding='utf8')
+        'See docs/releases/0.1.1.md for coverage and gameplay/hardware limits.\n', encoding='utf8')
     print('Wrote public snapshot; original source catalogs and build inputs remain intact.')
 
 
