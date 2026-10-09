@@ -1,0 +1,456 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00107",
+  "messages": {
+    "rengoku:STGZ3REN_00107:00000": {
+      "text": "$$アドヴェント$$\n「...Sorry about that.\n　This ended up being a rushed farewell」",
+      "status": "draft",
+      "source_sha": "3548620ee6",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00001": {
+      "text": "$$セツコ$$\n「No...\n　I understand you have your own circumstances」",
+      "status": "draft",
+      "source_sha": "ddc792795d",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00002": {
+      "text": "$$アドヴェント$$\n「Thank you, Setsuko.\n　I must head to $$蒼の地球$$」",
+      "status": "draft",
+      "source_sha": "780772e3c9",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00003": {
+      "text": "$$ランド$$\n「In the end, we never got to hear\n　about you and the $$スフィア$$」",
+      "status": "draft",
+      "source_sha": "097c7eca5c",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00004": {
+      "text": "$$アドヴェント$$\n「No need to worry about that, Rand.\n　This parting here is only temporary」",
+      "status": "draft",
+      "source_sha": "2daa70aef7",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00005": {
+      "text": "$$アドヴェント$$\n「We're sure to meet again」",
+      "status": "draft",
+      "source_sha": "b47e6dd84d",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00006": {
+      "text": "$$クロウ$$\n「That fate you keep talking about?」",
+      "status": "draft",
+      "source_sha": "8f410cd202",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00007": {
+      "text": "$$アドヴェント$$\n「At least, that's what I hope for」",
+      "status": "draft",
+      "source_sha": "bbae5fdeb3",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00008": {
+      "text": "$$アドヴェント$$\n「More importantly... are you sure, Crowe?\n　About not coming with me to $$蒼の地球$$」",
+      "status": "draft",
+      "source_sha": "b3d9952f29",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00009": {
+      "text": "$$クロウ$$\n「Paying off my debt in one lump sum is tempting,\n　but something's come up I need to do first」",
+      "status": "draft",
+      "source_sha": "dba00c3860",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00010": {
+      "text": "$$アドヴェント$$\n「Chasing down the $$怨嗟の魔蠍$$, is it...」",
+      "status": "draft",
+      "source_sha": "85e65dd96b",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00011": {
+      "text": "$$ランド$$\n「That bastard left us a hell of a parting gift」",
+      "status": "draft",
+      "source_sha": "0862b71cf4",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00012": {
+      "text": "$$セツコ$$\n「We'll split up and go after $$オリオン$$...\n　after $$バルビエル$$」",
+      "status": "draft",
+      "source_sha": "9e5db357d7",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00013": {
+      "text": "$$アドヴェント$$\n「With $$蒼の地球$$ sealed off by the dimensional cage now,\n　he should still be on $$翠の地球$$」",
+      "status": "draft",
+      "source_sha": "eafe3908dd",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": [
+        "Longest line 56 chars (dry-run warning); kept in full."
+      ]
+    },
+    "rengoku:STGZ3REN_00107:00014": {
+      "text": "$$アドヴェント$$\n「If we get hold of any information on our end,\n　I'll be in touch with you as well」",
+      "status": "draft",
+      "source_sha": "25483834d8",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00015": {
+      "text": "$$ランド$$\n「Right.\n　We're counting on you, $$アドヴェント$$」",
+      "status": "draft",
+      "source_sha": "23049603c9",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00016": {
+      "text": "$$クロウ$$\n「That's how it is.\n　...I'm off, Clavier」",
+      "status": "draft",
+      "source_sha": "c7946b30e1",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00017": {
+      "text": "$$クラヴィア$$\n「Y-Yes...!\n　Um...」",
+      "status": "draft",
+      "source_sha": "26070b77db",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00018": {
+      "text": "$$クロウ$$\n「$$クロウ・ブルースト$$」",
+      "status": "draft",
+      "source_sha": "722b4f2680",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00019": {
+      "text": "$$クラヴィア$$\n「Please take care out there, Crowe」",
+      "status": "draft",
+      "source_sha": "eb2ad7b70e",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00020": {
+      "text": "$$クラヴィア$$\n「Thank you for letting someone with no skills\n　and no memories stay at this base」",
+      "status": "draft",
+      "source_sha": "acc203675d",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00021": {
+      "text": "$$クロウ$$\n「Don't worry about it.\n　Just take it easy until your memory comes back」",
+      "status": "draft",
+      "source_sha": "07c52f07e8",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00022": {
+      "text": "$$メール$$\n（Clavier...）",
+      "status": "draft",
+      "source_sha": "46f43da1e2",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00023": {
+      "text": "$$ブルー$$\n（Drugs that act on the mind\n　were found in her body...）",
+      "status": "draft",
+      "source_sha": "424f6b4aec",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00024": {
+      "text": "$$ブルー$$\n（That's likely what amplified\n　the hatred inside her heart）",
+      "status": "draft",
+      "source_sha": "70aeae45da",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00025": {
+      "text": "$$セツコ$$\n（To lose her memory just as she's freed from that...）",
+      "status": "draft",
+      "source_sha": "c74cc08404",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00026": {
+      "text": "$$ランド$$\n（Barbiel...\n　what you did is unforgivable）",
+      "status": "draft",
+      "source_sha": "30ce262f15",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00027": {
+      "text": "$$アドヴェント$$\n「...It's time.\n　Let's go, Blue」",
+      "status": "draft",
+      "source_sha": "25bffe9929",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00028": {
+      "text": "$$ブルー$$\n「Yes, Captain」",
+      "status": "draft",
+      "source_sha": "40646b903d",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00029": {
+      "text": "$$ランド$$\n「Thanks for everything, Advent, Blue」",
+      "status": "draft",
+      "source_sha": "63d5a842c7",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00030": {
+      "text": "$$セツコ$$\n「Please be sure to destroy the $$時の牢獄$$\n　and save $$蒼の地球$$」",
+      "status": "draft",
+      "source_sha": "96f73cec17",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00031": {
+      "text": "$$クロウ$$\n「Give my regards to the others too」",
+      "status": "draft",
+      "source_sha": "351f238c59",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00032": {
+      "text": "$$ブルー$$\n「Yes.\n　Take care, everyone」",
+      "status": "draft",
+      "source_sha": "48c25ec085",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00033": {
+      "text": "$$アドヴェント$$\n「Thank you, Setsuko, Rand, Crowe.\n　Meeting you has been a great joy」",
+      "status": "draft",
+      "source_sha": "f442fa8b29",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00034": {
+      "text": "$$アドヴェント$$\n「And when we meet again,\n　I'll introduce you to a new $$スフィア・リアクター$$」",
+      "status": "draft",
+      "source_sha": "a9511ccba1",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00035": {
+      "text": "$$セツコ$$\n「...Huh?」",
+      "status": "draft",
+      "source_sha": "86f5034ed2",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00036": {
+      "text": "$$アドヴェント$$\n「$$いがみ合う双子$$...\n　He is surely the one who will save us...」",
+      "status": "draft",
+      "source_sha": "920e4722e6",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00037": {
+      "text": "$$ランド$$\n「$$いがみ合う双子$$...」",
+      "status": "draft",
+      "source_sha": "b0937a59a9",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00038": {
+      "text": "$$クロウ$$\n「That's a different guy from that $$ガドライト$$ one, right...?」",
+      "status": "draft",
+      "source_sha": "08e22366c2",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": [
+        "Longest line 58 chars (dry-run warning); kept in full."
+      ]
+    },
+    "rengoku:STGZ3REN_00107:00039": {
+      "text": "$$アドヴェント$$\n「Until we meet again, $$リアクター$$s!\n　That will be when the true battle begins!」",
+      "status": "draft",
+      "source_sha": "31c440264b",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00040": {
+      "text": "$$クロウ$$\n「He's gone...」",
+      "status": "draft",
+      "source_sha": "0154420b80",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00041": {
+      "text": "$$ランド$$\n「Was that really okay, Crowe?\n　If you'd stuck with Advent,\n　you could've paid off your debt」",
+      "status": "draft",
+      "source_sha": "ecf5a55b43",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00042": {
+      "text": "$$クロウ$$\n「...Relying on someone else to pay off my debt\n　just isn't my style」",
+      "status": "draft",
+      "source_sha": "09b58f91a5",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00043": {
+      "text": "$$メール$$\n「So cool, Crowe!」",
+      "status": "draft",
+      "source_sha": "766b3aafe8",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00044": {
+      "text": "$$セツコ$$\n「Though the reason's a bit... you know」",
+      "status": "draft",
+      "source_sha": "8f9f45fbba",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00045": {
+      "text": "$$クロウ$$\n「It's fine.\n　If Advent and the others do their part,\n　this Earth and that one should be able to travel between each other」",
+      "status": "draft",
+      "source_sha": "a24b653dae",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": [
+        "Longest line 69 chars (dry-run warning); kept in full rather than cutting meaning."
+      ]
+    },
+    "rengoku:STGZ3REN_00107:00046": {
+      "text": "$$クロウ$$\n「So I'll gather data on this Earth\n　and get $$チーフ$$ to buy it off me」",
+      "status": "draft",
+      "source_sha": "e6acfefd1e",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00047": {
+      "text": "$$ランド$$\n「Yeah!\n　And if reinforcements come from the other Earth too,\n　we can drive out the $$サイデリアル$$ in no time」",
+      "status": "draft",
+      "source_sha": "3ab5eb87e4",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00048": {
+      "text": "$$セツコ$$\n「To that end, let's split up,\n　go after $$バルビエル$$,\n　and gather as much information on the enemy as we can」",
+      "status": "draft",
+      "source_sha": "63f47f02ab",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00049": {
+      "text": "$$ランド$$\n「With $$セントラル・ベース$$ here,\n　the north of the central continent should be safe for now」",
+      "status": "draft",
+      "source_sha": "a72e0dc4f3",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": [
+        "Longest line 59 chars (dry-run warning); kept in full."
+      ]
+    },
+    "rengoku:STGZ3REN_00107:00050": {
+      "text": "$$メール$$\n「Well then, everyone in the $$レジスタンス$$!\n　We're counting on you for the rest~!」",
+      "status": "draft",
+      "source_sha": "ea4e73326a",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00051": {
+      "text": "$$レジスタンス$$\n「Understood.\n　Leave the rest to us」",
+      "status": "draft",
+      "source_sha": "f96f48b9f8",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00052": {
+      "text": "$$レジスタンス$$\n「This base you won for us...\n　we'll put it to good use」",
+      "status": "draft",
+      "source_sha": "e5aee5c5f7",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00053": {
+      "text": "$$レジスタンス$$\n「Thank you, Setsuko!\n　We'll do our best too!」",
+      "status": "draft",
+      "source_sha": "3b8a17c5a2",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00054": {
+      "text": "$$セツコ$$\n「Everyone...」",
+      "status": "draft",
+      "source_sha": "3db2689d4a",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00055": {
+      "text": "$$クロウ$$\n「Well then... shall we get going too」",
+      "status": "draft",
+      "source_sha": "165c761cc3",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00056": {
+      "text": "$$ランド$$\n「Yeah...\n　Don't you dare die, either of you」",
+      "status": "draft",
+      "source_sha": "e9c54f3548",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00057": {
+      "text": "$$セツコ$$\n「Let's live, no matter what, and meet again」",
+      "status": "draft",
+      "source_sha": "d155efad3a",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00058": {
+      "text": "$$クラヴィア$$\n「Take care, everyone!\n　Stay safe!」",
+      "status": "draft",
+      "source_sha": "6b9a49508e",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00059": {
+      "text": "$$メール$$\n「Okaaay!\n　We're off!!」",
+      "status": "draft",
+      "source_sha": "0492f3f7d5",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00060": {
+      "text": "$$セツコ$$\n（...I won't say it out loud, but\n　Rand and Crowe must feel it too...）",
+      "status": "draft",
+      "source_sha": "656ee6bd0f",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00061": {
+      "text": "$$ランド$$\n（A future of despair...\n　The battle waiting for us from here\n　is nothing like what we've faced before...）",
+      "status": "draft",
+      "source_sha": "e560e2a06b",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00107:00062": {
+      "text": "$$クロウ$$\n（Our fight with the Sphere...\n　the day it's settled can't be far off now...）",
+      "status": "draft",
+      "source_sha": "61afabdb18",
+      "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
+      "notes": []
+    }
+  }
+}

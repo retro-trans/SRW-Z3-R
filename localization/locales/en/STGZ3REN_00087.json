@@ -1,0 +1,140 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00087",
+  "messages": {
+    "rengoku:STGZ3REN_00087:00000": {
+      "text": "$$セツコ$$\n「Where is this...」",
+      "status": "draft",
+      "source_sha": "0881362160",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00001": {
+      "text": "$$クロウ$$\n「We... got thrown here by that $$時空震動$$ just now...?」",
+      "status": "draft",
+      "source_sha": "0ed2876f7f",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00002": {
+      "text": "$$メール$$\n「Look, darling!\n　The sea is blue!」",
+      "status": "draft",
+      "source_sha": "ed40426b7d",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00003": {
+      "text": "$$ランド$$\n「It really is!\n　It's not green!!」",
+      "status": "draft",
+      "source_sha": "c53d7e8529",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00004": {
+      "text": "$$ブルー$$\n「I've just confirmed our position!\n　This is the Earth I came from!」",
+      "status": "draft",
+      "source_sha": "dbfd9f87c8",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00005": {
+      "text": "$$セツコ$$\n「Then, this is...」",
+      "status": "draft",
+      "source_sha": "643873c4f9",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00006": {
+      "text": "$$ランド$$\n「$$蒼の地球$$...!」",
+      "status": "draft",
+      "source_sha": "42a1b25778",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00007": {
+      "text": "$$クロウ$$\n「Wait...\n　$$アドヴェント$$'s not here」",
+      "status": "draft",
+      "source_sha": "51be0c2a4d",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00008": {
+      "text": "$$ランド$$\n「That guy... did he get thrown somewhere else...?」",
+      "status": "draft",
+      "source_sha": "93889d1deb",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00009": {
+      "text": "$$ブルー$$\n「This is...!?」",
+      "status": "draft",
+      "source_sha": "b51bf5a6fa",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00010": {
+      "text": "$$クロウ$$\n「$$アドヴェント$$...!」",
+      "status": "draft",
+      "source_sha": "6a514eb51c",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00011": {
+      "text": "$$ブルー$$\n「N-no... it's not that!\n　This is...」",
+      "status": "draft",
+      "source_sha": "3520e63115",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00012": {
+      "text": "$$ガドライト$$\n「The hell...\n　A $$時空震動$$ hit, and I figured they'd come back,\n　but instead I get one hell of a surprise guest...」",
+      "status": "draft",
+      "source_sha": "8e21ab9063",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00013": {
+      "text": "$$ブルー$$\n「T-that's...」",
+      "status": "draft",
+      "source_sha": "a10962cb01",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00014": {
+      "text": "$$ランド$$\n「...No need to say it, $$ブルー$$」",
+      "status": "draft",
+      "source_sha": "7ee6dd8f79",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00015": {
+      "text": "$$セツコ$$\n「That's... the same as us...」",
+      "status": "draft",
+      "source_sha": "788d20d739",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00016": {
+      "text": "$$クロウ$$\n「A $$スフィア・リアクター$$!」",
+      "status": "draft",
+      "source_sha": "5d9d631c91",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00017": {
+      "text": "$$ガドライト$$\n「That's right...\n　My name is $$ガドライト・メオンサム$$...」",
+      "status": "draft",
+      "source_sha": "b4a308547f",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00087:00018": {
+      "text": "$$ガドライト$$\n「The $$いがみ合う双子$$ $$スフィア・リアクター$$」",
+      "status": "draft",
+      "source_sha": "d492156655",
+      "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
+      "notes": []
+    }
+  }
+}

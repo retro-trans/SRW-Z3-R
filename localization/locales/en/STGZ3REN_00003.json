@@ -1,0 +1,137 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00003",
+  "messages": {
+    "rengoku:STGZ3REN_00003:00000": {
+      "text": "Emerald Sea",
+      "status": "draft",
+      "source_sha": "494ee54f5b",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00001": {
+      "text": "Emerald Sea",
+      "status": "draft",
+      "source_sha": "494ee54f5b",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00002": {
+      "text": "Emerald Sea",
+      "status": "draft",
+      "source_sha": "494ee54f5b",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00003": {
+      "text": "$$ブルー$$\n「...This Earth... $$サイデリアル$$ has already...!?」",
+      "status": "draft",
+      "source_sha": "e6ef203530",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": [
+        "Source leaves the predicate unfinished. Retained the interruption without adding conquered or occupied."
+      ]
+    },
+    "rengoku:STGZ3REN_00003:00004": {
+      "text": "$$アドヴェント$$\n「My investigations show that $$翠の地球$$ has\n　no unified government.\n　Each region governs itself」",
+      "status": "draft",
+      "source_sha": "f528df1200",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00005": {
+      "text": "$$アドヴェント$$\n「$$サイデリアル$$ has come to this planet to defeat\n　those regions one by one and establish its rule」",
+      "status": "draft",
+      "source_sha": "ee904830f3",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00006": {
+      "text": "$$ブルー$$\n「Are they... aliens?」",
+      "status": "draft",
+      "source_sha": "a381c8a89e",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00007": {
+      "text": "$$アドヴェント$$\n「An organization of races from many worlds...\n　An interstellar alliance, you might call it」",
+      "status": "draft",
+      "source_sha": "5f35483e43",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00008": {
+      "text": "$$ブルー$$\n「Why would they come to Earth,\n　out here at the edge of the galaxy...?」",
+      "status": "draft",
+      "source_sha": "e9b91e4cb1",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00009": {
+      "text": "$$ブルー$$\n「No, for that matter,\n　why did $$ジェミニス$$ target Earth...?」",
+      "status": "draft",
+      "source_sha": "f59fddb8e2",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00010": {
+      "text": "$$アドヴェント$$\n「...Come, $$ブルー$$」",
+      "status": "draft",
+      "source_sha": "4f6c7322bd",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00011": {
+      "text": "$$ブルー$$\n「Where are we going, sir...?」",
+      "status": "draft",
+      "source_sha": "ca27db15e5",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00012": {
+      "text": "$$アドヴェント$$\n「Isn't it obvious?\n　On a journey to overthrow $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "0c664a8475",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00013": {
+      "text": "$$アドヴェント$$\n「Leaving them unchecked means\n　putting $$蒼の地球$$ in danger」",
+      "status": "draft",
+      "source_sha": "a79df435b5",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00014": {
+      "text": "$$ブルー$$\n「J-just the two of us...!?」",
+      "status": "draft",
+      "source_sha": "2fc550c5fc",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00015": {
+      "text": "$$アドヴェント$$\n「Do not worry. Here on $$翠の地球$$,\n　there are people whose fates\n　draw them and me together」",
+      "status": "draft",
+      "source_sha": "eede8bec2f",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": [
+        "Advent claims a mutual pull of fate. No identification of the warriors beyond the next source row."
+      ]
+    },
+    "rengoku:STGZ3REN_00003:00016": {
+      "text": "$$ブルー$$\n「You mean...?」",
+      "status": "draft",
+      "source_sha": "e42efbb4cb",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00003:00017": {
+      "text": "$$アドヴェント$$\n「Warriors known as $$スフィア・リアクター$$s」",
+      "status": "draft",
+      "source_sha": "a9428a93da",
+      "source_member_sha256": "97c890caec442e53241adfd01251a562cbd93c0b91b6b2ca33b04fe04834f716",
+      "notes": []
+    }
+  }
+}

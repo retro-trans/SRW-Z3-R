@@ -1,0 +1,879 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00022",
+  "messages": {
+    "rengoku:STGZ3REN_00022:00000": {
+      "text": "$$レジスタンス$$\n「Damn it...!\n　Does the $$サイデリアル$$ mean to\n　crush us here!?」",
+      "status": "draft",
+      "source_sha": "60714231ae",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00001": {
+      "text": "???\n「Looks like you're having a rough time.\n　Need a hand?」",
+      "status": "draft",
+      "source_sha": "20e7ace931",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00002": {
+      "text": "$$レジスタンス$$\n「You money-grubber!\n　Who'd ever take help from you!」",
+      "status": "draft",
+      "source_sha": "5afb0e1a72",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00003": {
+      "text": "???\n「Easy for you to say, but I can't\n　afford to run a charity here」",
+      "status": "draft",
+      "source_sha": "26dd9aeb06",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00004": {
+      "text": "???\n「Besides, I figured I was already\n　giving you a bargain price」",
+      "status": "draft",
+      "source_sha": "f11b9bcf33",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00005": {
+      "text": "$$レジスタンス$$\n「But...」",
+      "status": "draft",
+      "source_sha": "558adb2c14",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00006": {
+      "text": "???\n「Fine.\n　I'm not heartless either.\n　I'll knock another 10% off the price」",
+      "status": "draft",
+      "source_sha": "d2c169725f",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00007": {
+      "text": "$$レジスタンス$$\n「Still...」",
+      "status": "draft",
+      "source_sha": "d846078b25",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00008": {
+      "text": "???\n「Still too much?\n　Then I'll go all out and make it 20% off」",
+      "status": "draft",
+      "source_sha": "8c9f5c5d3f",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00009": {
+      "text": "$$レジスタンス$$\n「But even so...」",
+      "status": "draft",
+      "source_sha": "aff64752fb",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00010": {
+      "text": "???\n「Th-then, 30% off!\n　How about that!?」",
+      "status": "draft",
+      "source_sha": "0aedff0a9f",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00011": {
+      "text": "$$レジスタンス$$\n「A-aaaargh!」",
+      "status": "draft",
+      "source_sha": "9bd71a7ee2",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00012": {
+      "text": "???\n「Ah! You bastard!」",
+      "status": "draft",
+      "source_sha": "c52ec77743",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "Speaker kept as literal ??? per jp (pid is Crowe, but identity is still hidden at this point in the scene)."
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00013": {
+      "text": "$$クロウ$$\n「Don't go butting in\n　while a guy's talking business!」",
+      "status": "draft",
+      "source_sha": "c31683381d",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00014": {
+      "text": "$$レジスタンス$$\n「Th-that distance, in one hit...!?」",
+      "status": "draft",
+      "source_sha": "f08b2a6f31",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00015": {
+      "text": "$$クロウ$$\n「Don't worry about the money.\n　That was just a demonstration\n　to show off my skill... In other words, it's free」",
+      "status": "draft",
+      "source_sha": "31ae4d3792",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00016": {
+      "text": "$$クロウ$$\n「So, please, about that contract...」",
+      "status": "draft",
+      "source_sha": "0a6ff79d17",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00017": {
+      "text": "$$レジスタンス$$\n「Th-that alone doesn't prove your skill!\n　If you want us to hire you, take care of them!」",
+      "status": "draft",
+      "source_sha": "362b38b6ea",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00018": {
+      "text": "$$クロウ$$\n「...So basically, you're dumping\n　it all on me alone...」",
+      "status": "draft",
+      "source_sha": "484afe4f10",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00019": {
+      "text": "$$クロウ$$\n「The short end of the stick, huh...\n　Guess that's just my position in life...」",
+      "status": "draft",
+      "source_sha": "aa9fa94aa7",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00020": {
+      "text": "$$クロウ$$\n「But if I take care of them, I finally\n　land the contract I've been after.\n　And this time, I get paid properly」",
+      "status": "draft",
+      "source_sha": "c65ef8c7c2",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00021": {
+      "text": "$$クロウ$$\n「That 30% off from earlier?\n　I'm playing dumb about it, no matter what!!」",
+      "status": "draft",
+      "source_sha": "7f8488efb8",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00022": {
+      "text": "$$クロウ$$\n「Hey, hey...\n　Taking on reinforcements too? That's\n　overdoing the service, even for me」",
+      "status": "draft",
+      "source_sha": "261b830f50",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00023": {
+      "text": "$$クロウ$$\n「That's...!」",
+      "status": "draft",
+      "source_sha": "d3f42d090e",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00024": {
+      "text": "$$ＦＢ隊員$$\n「A $$バーグラー$$?」",
+      "status": "draft",
+      "source_sha": "1a0a0dfe99",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "Speaker ＦＢ隊員 rendered as plain 'FB Soldier'; see new_terms."
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00025": {
+      "text": "$$ＦＢ隊員$$\n「So, one of our own, huh」",
+      "status": "draft",
+      "source_sha": "a71cca01c6",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00026": {
+      "text": "$$クロウ$$\n「《$$ファイヤバグ$$》...!\n　Don't go calling me one of yours...!」",
+      "status": "draft",
+      "source_sha": "d6361b5c9f",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00027": {
+      "text": "$$ＦＢ隊員$$\n「Well, if it isn't Crowe?\n　Ha, what a coincidence~!」",
+      "status": "draft",
+      "source_sha": "0376f9e741",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00028": {
+      "text": "$$クロウ$$\n「I never wanted to see you again, though」",
+      "status": "draft",
+      "source_sha": "0dfb3e5000",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00029": {
+      "text": "$$ＦＢ隊員$$\n「Don't say that.\n　We got caught up in the $$時空震動$$ too,\n　and we've had our share of hardship, you know」",
+      "status": "draft",
+      "source_sha": "5ffe681150",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00030": {
+      "text": "$$ＦＢ隊員$$\n「Well... telling a hardship story to Crowe, huh!\n　Nyeh heh heh heh heh!」",
+      "status": "draft",
+      "source_sha": "859696eb1c",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00031": {
+      "text": "$$クロウ$$\n「...For the sake of my own sanity,\n　I'd better shut him up quick」",
+      "status": "draft",
+      "source_sha": "cd68329067",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00032": {
+      "text": "$$ＦＢ隊員$$\n「Wait, $$クロウ・ブルースト$$.\n　We have something to say to you」",
+      "status": "draft",
+      "source_sha": "0dfa65f6c8",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00033": {
+      "text": "$$ＦＢ隊員$$\n「Having lost our $$姫$$, we're\n　desperate just to survive too.\n　At least hear us out」",
+      "status": "draft",
+      "source_sha": "72513b0e5a",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00034": {
+      "text": "$$クロウ$$\n「...Go on, then」",
+      "status": "draft",
+      "source_sha": "81463621b3",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00035": {
+      "text": "$$ＦＢ隊員$$\n「Having lost our $$姫$$ and been swept up\n　in the $$時空震動$$, we're working\n　as mercenaries just to survive」",
+      "status": "draft",
+      "source_sha": "d34772c0fb",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00036": {
+      "text": "$$クロウ$$\n「Your employer is...」",
+      "status": "draft",
+      "source_sha": "db7a9d42b7",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00037": {
+      "text": "$$ＦＢ隊員$$\n「Just as you guessed, it's $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "d3bdcb5206",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00038": {
+      "text": "$$クロウ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "2d48e5b4cd",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00039": {
+      "text": "$$ＦＢ隊員$$\n「Are you going to spout soft nonsense\n　about justice at this point? To survive\n　like this, we can't afford to pick our methods」",
+      "status": "draft",
+      "source_sha": "c883c9bf82",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00040": {
+      "text": "$$ＦＢ隊員$$\n「The more skilled hands we have, the better.\n　You're coming with us too」",
+      "status": "draft",
+      "source_sha": "aa13ac964d",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00041": {
+      "text": "$$クロウ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "2d48e5b4cd",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00042": {
+      "text": "$$ＦＢ隊員$$\n「Don't act so high and mighty, Crowe.\n　In the end, you're the same kind of person as us」",
+      "status": "draft",
+      "source_sha": "9da08ffbd2",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00043": {
+      "text": "$$ＦＢ隊員$$\n「Besides, if you side with $$サイデリアル$$,\n　the pay's not bad either」",
+      "status": "draft",
+      "source_sha": "c2d3d283ab",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00044": {
+      "text": "$$クロウ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "2d48e5b4cd",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00045": {
+      "text": "$$ＦＢ隊員$$\n「Oh... wavering, are we, wavering!\n　Still living broke as ever, huh!」",
+      "status": "draft",
+      "source_sha": "2fa3808690",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "'揺れてる' teased as literal wavering, echoing the swaying-scale motif used later at 00088; not a glossary link since no 《》 brackets here"
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00046": {
+      "text": "$$ＦＢ隊員$$\n「Trooper Number 69, $$クロウ・ブルースト$$.\n　Come with us」",
+      "status": "draft",
+      "source_sha": "2a64910b68",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00047": {
+      "text": "$$ＦＢ隊員$$\n「Refusal isn't an option」",
+      "status": "draft",
+      "source_sha": "5d1395fa77",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00048": {
+      "text": "$$クロウ$$\n「...I'm not $$ファイヤバグ$$ anymore.\n　None of you have the right\n　to say anything about how I live」",
+      "status": "draft",
+      "source_sha": "f070cec75f",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00049": {
+      "text": "$$ＦＢ隊員$$\n「...So you're going to defy us to the end」",
+      "status": "draft",
+      "source_sha": "80004e99d0",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00050": {
+      "text": "$$ＦＢ隊員$$\n「If you won't let us decide how you live,\n　then we'll decide how you die」",
+      "status": "draft",
+      "source_sha": "2024367c5b",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00051": {
+      "text": "$$ＦＢ隊員$$\n「Decided!\n　You get lynched, then hanged!」",
+      "status": "draft",
+      "source_sha": "ef18ec400a",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00052": {
+      "text": "$$ＦＢ隊員$$\n「Now that that's settled...」",
+      "status": "draft",
+      "source_sha": "d286533c9f",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00053": {
+      "text": "$$ＦＢ隊員$$\n「From here on, we do it our way」",
+      "status": "draft",
+      "source_sha": "f9ff767ca4",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00054": {
+      "text": "$$ＦＢ隊員$$\n「Get ready, $$クロウ・ブルースト$$.\n　Death is the penalty for leaving $$ファイヤバグ$$...!」",
+      "status": "draft",
+      "source_sha": "54fedba4e9",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00055": {
+      "text": "$$ＦＢ隊員$$\n「What an idiot!\n　He could've just kept having\n　a good laugh with us again!」",
+      "status": "draft",
+      "source_sha": "d735541182",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00056": {
+      "text": "$$クロウ$$\n「Shut up」",
+      "status": "draft",
+      "source_sha": "be7f759555",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00057": {
+      "text": "$$クロウ$$\n「'Our way,' huh...\n　Makes me sick...」",
+      "status": "draft",
+      "source_sha": "8d7475d441",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00058": {
+      "text": "$$クロウ$$\n「Don't go binding me to your rules like that.\n　I'm the one who decides the weight\n　of what's on my scale」",
+      "status": "draft",
+      "source_sha": "c0f0a324bc",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00059": {
+      "text": "$$ＦＢ隊員$$\n「You...」",
+      "status": "draft",
+      "source_sha": "f0c3ca42cb",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00060": {
+      "text": "$$クロウ$$\n「Here I come, $$ファイヤバグ$$!\n　I'll take care of you,\n　and earn my money the honest way!」",
+      "status": "draft",
+      "source_sha": "d9fb9b01ce",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00061": {
+      "text": "$$クロウ$$\n「That's the way of life I chose!!」",
+      "status": "draft",
+      "source_sha": "626d11c674",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00062": {
+      "text": "$$ＦＢ隊員$$\n「Hey, hey!\n　What's wrong, what's wrong, Crowe!」",
+      "status": "draft",
+      "source_sha": "4869464cf8",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00063": {
+      "text": "$$ＦＢ隊員$$\n「Without your precious $$ブラスタ$$,\n　is this all you've got?」",
+      "status": "draft",
+      "source_sha": "4b7a7d2b75",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00064": {
+      "text": "$$クロウ$$\n「Don't make me laugh.\n　Why would I need to bring out $$ブラスタ$$\n　against the likes of you?」",
+      "status": "draft",
+      "source_sha": "f74bcb6649",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00065": {
+      "text": "$$ＦＢ隊員$$\n「What...?」",
+      "status": "draft",
+      "source_sha": "deff00100b",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00066": {
+      "text": "$$クロウ$$\n「I'll have you know, my $$アクシオ$$\n　is a sweet machine that outclasses\n　your $$バーグラー$$ by a mile」",
+      "status": "draft",
+      "source_sha": "d4336912b0",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00067": {
+      "text": "$$クロウ$$\n「After all, this is the $$チーフ$$'s pride\n　and joy, the $$スコートＳＰ$$」",
+      "status": "draft",
+      "source_sha": "644b69930c",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00068": {
+      "text": "$$ＦＢ隊員$$\n「Keep talking...!」",
+      "status": "draft",
+      "source_sha": "a3713afce1",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00069": {
+      "text": "$$ＦＢ隊員$$\n「I'll put an end to that unlovable\n　mouth of yours right here!」",
+      "status": "draft",
+      "source_sha": "ba993bdfe1",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00070": {
+      "text": "$$ＦＢ隊員$$\n「Wait!\n　Something's coming!!」",
+      "status": "draft",
+      "source_sha": "948a33d82e",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00071": {
+      "text": "$$セツコ$$\n「Black $$アクシオ|lc$$s are fighting each other...!」",
+      "status": "draft",
+      "source_sha": "6a5ade9ae9",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00072": {
+      "text": "$$ランド$$\n「What's this?\n　A falling-out among $$ファイヤバグ$$?」",
+      "status": "draft",
+      "source_sha": "48a434085d",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00073": {
+      "text": "$$クロウ$$\n「Well... guess it looks that way,\n　can't blame you for thinking so...」",
+      "status": "draft",
+      "source_sha": "38be6b4fb8",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00074": {
+      "text": "$$セツコ$$\n「Crowe...!」",
+      "status": "draft",
+      "source_sha": "31be9a8a5e",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00075": {
+      "text": "$$ランド$$\n「So the other $$リアクター$$\n　that $$アドヴェント$$ was talking about\n　was you after all!」",
+      "status": "draft",
+      "source_sha": "cc23f7156d",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00076": {
+      "text": "$$クロウ$$\n「Hey, $$セツコ$$, $$ランド$$.\n　It's been a while」",
+      "status": "draft",
+      "source_sha": "89f10a5ec0",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00077": {
+      "text": "$$クロウ$$\n「Meeting you here like this must be fate.\n　Lend me a hand」",
+      "status": "draft",
+      "source_sha": "cc9c65c7af",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00078": {
+      "text": "$$アドヴェント$$\n「It seems $$ファイヤバグ$$\n　is employed by $$サイデリアル$$.\n　There's no reason to refuse his request」",
+      "status": "draft",
+      "source_sha": "b78a510865",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00079": {
+      "text": "$$クロウ$$\n「You're a reasonable one.\n　I'll take you up on that」",
+      "status": "draft",
+      "source_sha": "dfd7c027a4",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00080": {
+      "text": "$$ＦＢ隊員$$\n「No fair, no fair!\n　This isn't a proper group lynching anymore!」",
+      "status": "draft",
+      "source_sha": "f43357e375",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00081": {
+      "text": "$$クロウ$$\n「Let me tell you, $$ファイヤバグ$$.\n　The strength I gained after leaving\n　isn't just $$ブラスタ$$」",
+      "status": "draft",
+      "source_sha": "4b8fbba75e",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00082": {
+      "text": "$$セツコ$$\n「A debt... is that it?」",
+      "status": "draft",
+      "source_sha": "5e59a43381",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00083": {
+      "text": "$$ランド$$\n「It sure was a driving force in his fighting」",
+      "status": "draft",
+      "source_sha": "74c90d8223",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00084": {
+      "text": "$$クロウ$$\n「That's not it!\n　The answer here is reliable friends, isn't it!」",
+      "status": "draft",
+      "source_sha": "cc482126b1",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00085": {
+      "text": "$$ブルー$$\n「What is with this guy...」",
+      "status": "draft",
+      "source_sha": "032adb1446",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00086": {
+      "text": "$$アドヴェント$$\n「He's the very person that 'she'\n　and I were looking for」",
+      "status": "draft",
+      "source_sha": "9576a64f7c",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "彼女 kept as quoted 'she' per source's nested emphasis quotes; referent not identified in this slice, no identity inserted"
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00087": {
+      "text": "$$ブルー$$\n「'She'...?」",
+      "status": "draft",
+      "source_sha": "a906df18a3",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00088": {
+      "text": "$$アドヴェント$$\n「Heh... $$揺れる天秤$$...\n　No matter where, no matter when,\n　your will never wavers, does it...」",
+      "status": "draft",
+      "source_sha": "2bb6ba5bb2",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00089": {
+      "text": "$$クロウ$$\n「Alright, here I come, $$ファイヤバグ$$!\n　I'll take care of you and rake\n　in a fat contract fee!」",
+      "status": "draft",
+      "source_sha": "7be929c95b",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00090": {
+      "text": "$$ランド$$\n「Alright! Cleaned up!」",
+      "status": "draft",
+      "source_sha": "2070808e65",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00091": {
+      "text": "$$セツコ$$\n「Looks like there's no reinforcements either」",
+      "status": "draft",
+      "source_sha": "411a592539",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00092": {
+      "text": "$$クロウ$$\n「Alright...!\n　Now I've got that contract fee locked in」",
+      "status": "draft",
+      "source_sha": "1e447d782d",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00093": {
+      "text": "$$セツコ$$\n「So it really was about money after all...」",
+      "status": "draft",
+      "source_sha": "2c1fc6aae7",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00094": {
+      "text": "$$クロウ$$\n「Well... I won't deny it」",
+      "status": "draft",
+      "source_sha": "568d126bb8",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00095": {
+      "text": "$$ランド$$\n「You're one unshakeable guy」",
+      "status": "draft",
+      "source_sha": "993c7124d4",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00096": {
+      "text": "$$クロウ$$\n「Look who's talking.\n　Neither of us has changed」",
+      "status": "draft",
+      "source_sha": "bd35c0907d",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00097": {
+      "text": "$$ランド$$\n「Can't argue with that」",
+      "status": "draft",
+      "source_sha": "90e2ce6bdc",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00098": {
+      "text": "$$セツコ$$\n「That's true」",
+      "status": "draft",
+      "source_sha": "bebc579b4a",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00099": {
+      "text": "$$アドヴェント$$\n「But, $$クロウ・ブルースト$$...\n　Unfortunately, this time you'll be working for free」",
+      "status": "draft",
+      "source_sha": "36c441b5a0",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00100": {
+      "text": "$$クロウ$$\n「Wha...!?」",
+      "status": "draft",
+      "source_sha": "4046a2116b",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00101": {
+      "text": "$$アドヴェント$$\n「You're going to travel together with me」",
+      "status": "draft",
+      "source_sha": "a35d40583a",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00102": {
+      "text": "$$アドヴェント$$\n「And that is also the wish\n　of Dr. $$トライア・スコート$$」",
+      "status": "draft",
+      "source_sha": "22a73e3037",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00103": {
+      "text": "$$クロウ$$\n「The $$チーフ$$'s...」",
+      "status": "draft",
+      "source_sha": "278e606297",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00104": {
+      "text": "$$ＦＢ隊員$$\n「Tch!\n　$$ファイヤバグ$$ isn't finished yet!」",
+      "status": "draft",
+      "source_sha": "2bf1e2a67c",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00105": {
+      "text": "$$ＦＢ隊員$$\n「Damn it!\n　If we'd just had our members together,\n　we wouldn't be caught looking this pathetic...!」",
+      "status": "draft",
+      "source_sha": "d606818266",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00106": {
+      "text": "$$ＦＢ隊員$$\n「《$$姫$$》... Princess... H-I-M-E!!\n　Someday, I'll be by your side...!」",
+      "status": "draft",
+      "source_sha": "362acd2157",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00107": {
+      "text": "$$クロウ$$\n「Don't wait for 'someday'—go right now」",
+      "status": "draft",
+      "source_sha": "3b1cb32957",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00108": {
+      "text": "$$ＦＢ隊員$$\n「How cruel of you!」",
+      "status": "draft",
+      "source_sha": "437794ba96",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00109": {
+      "text": "$$クロウ$$\n「A tiger leaves its hide when it dies...\n　A monster cat leaves behind a fool, huh...」",
+      "status": "draft",
+      "source_sha": "b87c32c105",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "Kept the tiger/cat proverb wordplay literal (虎は死して皮を遺す twisted into 化け猫は死して馬鹿を遺す); meaning preserved over idiom substitution."
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00110": {
+      "text": "$$クロウ$$\n「Looks like it's on me to finish them off...」",
+      "status": "draft",
+      "source_sha": "d2ce5d2582",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00111": {
+      "text": "$$クロウ$$\n「...A journey of a thousand miles begins with a single step...」",
+      "status": "draft",
+      "source_sha": "4f54b652fd",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "Line runs 63 chars (dry-run REVIEW warning); kept the full proverb rather than truncating."
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00112": {
+      "text": "$$クロウ$$\n「Let's do this!\n　No matter how huge the debt,\n　pay it down bit by bit and it'll hit zero someday!」",
+      "status": "draft",
+      "source_sha": "f623b56687",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "ゼロ here is the literal number (debt reaching zero), not the character Zero; left unwrapped intentionally."
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00113": {
+      "text": "$$クロウ$$\n「Even with your owner gone,\n　looks like you're still not living right...!」",
+      "status": "draft",
+      "source_sha": "5a16f021ac",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00114": {
+      "text": "$$クロウ$$\n「We used to eat from the same pot...!\n　I'll be your opponent!」",
+      "status": "draft",
+      "source_sha": "f4ec3eb0c2",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00115": {
+      "text": "$$セツコ$$\n「Even among Earthlings, there are those who've sided with $$サイデリアル$$...」",
+      "status": "draft",
+      "source_sha": "79ee221c45",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "Line runs 70 chars (dry-run REVIEW warning); kept full clause naming Earthlings who sided with Sidereal."
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00116": {
+      "text": "$$セツコ$$\n「If this fighting keeps up, the Earth will...!」",
+      "status": "draft",
+      "source_sha": "84d09d28e0",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00117": {
+      "text": "$$ランド$$\n「Damn it...!\n　If we Earthlings keep fighting each other,\n　we're just giving $$サイデリアル$$ a good laugh!」",
+      "status": "draft",
+      "source_sha": "37fc411031",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00118": {
+      "text": "$$ランド$$\n「Hey, firebugs!\n　Whoever's ready to get punched, step up first!」",
+      "status": "draft",
+      "source_sha": "762a1a5c04",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00119": {
+      "text": "$$アドヴェント$$\n「$$サイデリアル$$...\n　So this is how you bend this planet's people to your will...」",
+      "status": "draft",
+      "source_sha": "3eb8fd1ac5",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": [
+        "Line runs 62 chars (dry-run REVIEW warning)."
+      ]
+    },
+    "rengoku:STGZ3REN_00022:00120": {
+      "text": "$$アドヴェント$$\n「Gathering followers through force...\n　How ugly...!」",
+      "status": "draft",
+      "source_sha": "6112975a1d",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00022:00121": {
+      "text": "$$アドヴェント$$\n「Ah!」",
+      "status": "draft",
+      "source_sha": "2b5848f6d3",
+      "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
+      "notes": []
+    }
+  }
+}

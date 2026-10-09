@@ -1,0 +1,290 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00004",
+  "messages": {
+    "rengoku:STGZ3REN_00004:00000": {
+      "text": "$$アドヴェント$$\n「The transfer is complete.\n　...How do you feel, $$ブルー$$?」",
+      "status": "draft",
+      "source_sha": "c8fdd0c749",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00001": {
+      "text": "$$ブルー$$\n「No problems, sir」",
+      "status": "draft",
+      "source_sha": "868cef0774",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00002": {
+      "text": "$$アドヴェント$$\n「I see.\n　That is good to hear」",
+      "status": "draft",
+      "source_sha": "64e043c34d",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00003": {
+      "text": "$$ブルー$$\n（The captain's $$アスクレプス$$ has a jump system\n　that can even breach the 《$$時の牢獄$$》...）",
+      "status": "draft",
+      "source_sha": "e6bfc76aea",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": [
+        "Internal monologue retained. Captain is Blue's address for Advent, supported by scene and researched position."
+      ]
+    },
+    "rengoku:STGZ3REN_00004:00004": {
+      "text": "$$アドヴェント$$\n「What is it, $$ブルー$$?\n　Does everything you see seem so strange?」",
+      "status": "draft",
+      "source_sha": "14b7ca9fda",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00005": {
+      "text": "$$ブルー$$\n「Y-yes, sir.\n　I never imagined another Earth could exist\n　beyond the $$時の牢獄$$...」",
+      "status": "draft",
+      "source_sha": "f83451711d",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00006": {
+      "text": "$$アドヴェント$$\n「This emerald-green sea... If the Earth enclosed\n　by the $$時の牢獄$$ is $$蒼の地球$$,\n　then this must be $$翠の地球$$...」",
+      "status": "draft",
+      "source_sha": "43e7e97f54",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": [
+        "The source explicitly supplies color readings in Japanese. English color names convey the naming explanation; no extra literal gloss appended."
+      ]
+    },
+    "rengoku:STGZ3REN_00004:00007": {
+      "text": "$$ブルー$$\n「$$翠の地球$$...」",
+      "status": "draft",
+      "source_sha": "6cc62ae6e1",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00008": {
+      "text": "$$アドヴェント$$\n「Here, we need no camouflage to evade\n　《$$ジェミニス$$》 or the 《$$保守派$$》. You can\n　restore your $$アスクレプス$$ to its original colors」",
+      "status": "draft",
+      "source_sha": "72d4905189",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00009": {
+      "text": "$$ブルー$$\n「Understood, sir」",
+      "status": "draft",
+      "source_sha": "dab8af5391",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00010": {
+      "text": "$$アドヴェント$$\n「That's better.\n　My $$アスクレプス$$ is mine alone, after all」",
+      "status": "draft",
+      "source_sha": "9bccac271c",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00011": {
+      "text": "$$ブルー$$\n（Before we joined, after losing their patron\n　《$$エルガン$$》 $$ローディック$$, the $$クロノ$$ 《$$改革派$$》\n　were apparently on the verge of collapse...）",
+      "status": "draft",
+      "source_sha": "9f11f4ace7",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": [
+        "Two keyword links remain in source order: Elgan, then Reformists. Surname uses Rhodic per dedicated Akurasu character list; base Roddick and story-summary Laudic variants are recorded in the glossary override."
+      ]
+    },
+    "rengoku:STGZ3REN_00004:00012": {
+      "text": "$$ブルー$$\n（But since the captain appeared with the\n　$$アスクレプス$$, the $$改革派$$ have been regaining\n　their strength, growing stronger than ever...）",
+      "status": "draft",
+      "source_sha": "50d7c57f45",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00013": {
+      "text": "$$ブルー$$\n（Just what are the captain and the $$アスクレプス$$...?）",
+      "status": "draft",
+      "source_sha": "32337ba9d9",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00014": {
+      "text": "$$アドヴェント$$\n「$$コード：ブルー$$...\n　I can understand your unease」",
+      "status": "draft",
+      "source_sha": "1cc923f3eb",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00015": {
+      "text": "$$ブルー$$\n「...!」",
+      "status": "draft",
+      "source_sha": "3b51e27262",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00016": {
+      "text": "$$アドヴェント$$\n「But for now, I want you to trust me\n　and follow my lead」",
+      "status": "draft",
+      "source_sha": "522bbbcda6",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00017": {
+      "text": "$$ブルー$$\n「Y-yes, sir...」",
+      "status": "draft",
+      "source_sha": "2d2859734b",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00018": {
+      "text": "$$アドヴェント$$\n「Thank you.\n　Having you with me brings me joy,\n　just like having 《them》」",
+      "status": "draft",
+      "source_sha": "42fac35fb8",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": [
+        "Kept the linked pronoun them; did not replace it with a later-story identification."
+      ],
+      "link_labels": {
+        "彼等": "them"
+      }
+    },
+    "rengoku:STGZ3REN_00004:00019": {
+      "text": "$$ブルー$$\n「...Then, Captain...\n　What exactly are we here on $$翠の地球$$ to...?」",
+      "status": "draft",
+      "source_sha": "a33c18cc6c",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00020": {
+      "text": "$$アドヴェント$$\n「Before we discuss that,\n　let us deal with our welcoming party」",
+      "status": "draft",
+      "source_sha": "d5a06729c2",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00021": {
+      "text": "$$ブルー$$\n「Those are...!」",
+      "status": "draft",
+      "source_sha": "aae1eaafbb",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00022": {
+      "text": "$$ブルー$$\n「$$ジェミニス$$...!\n　Why are they here!?」",
+      "status": "draft",
+      "source_sha": "89de166197",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00023": {
+      "text": "$$アドヴェント$$\n「No, that's not quite right...\n　We should call them $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "2c6cb5a1ef",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00024": {
+      "text": "$$ブルー$$\n「$$サイデリアル$$?」",
+      "status": "draft",
+      "source_sha": "9566e15920",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00025": {
+      "text": "$$アドヴェント$$\n「That's right.\n　$$ジェミニス$$ is merely one unit\n　within $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "0212f59c24",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00026": {
+      "text": "$$アドヴェント$$\n「To battle, $$ブルー$$!\n　They are our enemies!」",
+      "status": "draft",
+      "source_sha": "0f2470d6a3",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00027": {
+      "text": "$$ブルー$$\n「Understood...!」",
+      "status": "draft",
+      "source_sha": "e22d7a7cf6",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00028": {
+      "text": "$$アドヴェント$$\n「Prepare yourselves, $$サイデリアル$$!\n　I will not let you do as you please\n　with this world!」",
+      "status": "draft",
+      "source_sha": "0c92847e96",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00029": {
+      "text": "$$アドヴェント$$\n「It's over, then...」",
+      "status": "draft",
+      "source_sha": "d877cf7ed5",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00030": {
+      "text": "$$ブルー$$\n「Captain...\n　Just what is this $$サイデリアル$$...?」",
+      "status": "draft",
+      "source_sha": "6516666708",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00031": {
+      "text": "$$アドヴェント$$\n「As I said,\n　they are enemies of the $$クロノ$$ $$改革派$$...」",
+      "status": "draft",
+      "source_sha": "c3676eeb7e",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00032": {
+      "text": "$$アドヴェント$$\n「In other words, those who distort\n　humanity's evolution」",
+      "status": "draft",
+      "source_sha": "cae6737480",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00033": {
+      "text": "$$アドヴェント$$\n「$$サイデリアル$$...\n　I will never tolerate your existence」",
+      "status": "draft",
+      "source_sha": "d1486bff47",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00034": {
+      "text": "$$アドヴェント$$\n「Foolish, powerless $$真徒$$s!\n　You shall pay for your sins!」",
+      "status": "needs_review",
+      "source_sha": "95edf08345",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": [
+        "True Disciple is a proposed English label for researched 真徒; terminology needs review. Meaning is not replaced with ordinary soldiers."
+      ]
+    },
+    "rengoku:STGZ3REN_00004:00035": {
+      "text": "$$ブルー$$\n「If they are no different from $$ジェミニス$$,\n　then I will not hesitate to fight...!」",
+      "status": "draft",
+      "source_sha": "c8af198809",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00004:00036": {
+      "text": "$$ブルー$$\n「I will protect it, no matter what!\n　Our blue planet!」",
+      "status": "draft",
+      "source_sha": "51e93f3923",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": [
+        "Our blue planet is descriptive 蒼い星, not the exact proper-name form 蒼の地球; kept descriptive wording."
+      ]
+    },
+    "rengoku:STGZ3REN_00004:00037": {
+      "text": "$$アドヴェント$$\n「Ah!」",
+      "status": "needs_review",
+      "source_sha": "2b5848f6d3",
+      "source_member_sha256": "458df4595f3d5285b39e54289d13b33c663aba3d1f759aa44583de3b20409ccf",
+      "notes": [
+        "Isolated t_999 exclamation; reachability and purpose unverified. Kept a literal draft instead of dropping the record."
+      ]
+    }
+  }
+}

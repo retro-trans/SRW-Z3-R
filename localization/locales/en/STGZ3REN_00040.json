@@ -1,0 +1,119 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00040",
+  "messages": {
+    "rengoku:STGZ3REN_00040:00000": {
+      "text": "$$レジスタンス$$\n「So that's the $$サイデリアル$$ base\n　overseeing this area...」",
+      "status": "draft",
+      "source_sha": "927a12882c",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00001": {
+      "text": "$$レジスタンス$$\n「A point where $$レイライン|lc$$s from many regions converge...」",
+      "status": "draft",
+      "source_sha": "4c7910e0ab",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00002": {
+      "text": "$$レジスタンス$$\n「Not using an Earth facility,\n　but built brand new...\n　Just looking at it makes my blood boil」",
+      "status": "draft",
+      "source_sha": "b50856452e",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00003": {
+      "text": "$$レジスタンス$$\n「They don't seem to have noticed us.\n　Should we launch a surprise attack?」",
+      "status": "draft",
+      "source_sha": "93b7205b65",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00004": {
+      "text": "$$レジスタンス$$\n「Hmm... Our mission is reconnaissance,\n　but if we deal even a little damage here,\n　it might ease things for them...」",
+      "status": "draft",
+      "source_sha": "4345117b41",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00005": {
+      "text": "$$レジスタンス$$\n「Stop, stop.\n　I've got a bad feeling about this」",
+      "status": "draft",
+      "source_sha": "870f10cf6f",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00006": {
+      "text": "$$レジスタンス$$\n「But we've come this far...!」",
+      "status": "draft",
+      "source_sha": "f12c58e622",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00007": {
+      "text": "$$レジスタンス$$\n「What is that?」",
+      "status": "draft",
+      "source_sha": "8a5d0d5e25",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00008": {
+      "text": "$$レジスタンス$$\n「All units, stay alert!\n　They might be about to...」",
+      "status": "draft",
+      "source_sha": "b36a33da15",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00009": {
+      "text": "$$レジスタンス$$\n「Captain!?」",
+      "status": "draft",
+      "source_sha": "f18965d7d0",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00010": {
+      "text": "$$レジスタンス$$\n「Is that attack coming from the base!?」",
+      "status": "draft",
+      "source_sha": "d7967a26be",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00011": {
+      "text": "$$レジスタンス$$\n「I don't know!\n　Just fall back!!」",
+      "status": "draft",
+      "source_sha": "6fcd175069",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00012": {
+      "text": "$$レジスタンス$$\n「E-everyone!!」",
+      "status": "draft",
+      "source_sha": "40d8a5f20b",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00013": {
+      "text": "$$レジスタンス$$\n「Aaaaaaaaaah!!」",
+      "status": "draft",
+      "source_sha": "1305398382",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00014": {
+      "text": "$$ギルター$$\n「\"Pathetic\" is the only word for it」",
+      "status": "draft",
+      "source_sha": "0d5d66edd1",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00040:00015": {
+      "text": "$$ギルター$$\n「Heh heh heh... Come, $$セツコ$$...\n　I'll teach you all the terror of $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "a00d1724c4",
+      "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
+      "notes": []
+    }
+  }
+}

@@ -1,0 +1,1375 @@
+{
+  "schema": 1,
+  "language": "en",
+  "source_catalog_sha256": "2e0bc4040a0d33d5715ce04a3e1e5746253301480075ea867d41fb98dad915f6",
+  "messages": {
+    "art:8083fbbe85239159495e": {
+      "text": "Super Robot Wars Z3: Rengoku-hen",
+      "status": "reviewed",
+      "source_sha256": "fabaeb673c7ecd7fe5d1c1b5926dba737be636d70b152ce1459b55893f941027"
+    },
+    "art:01b3e2f88a2d0308cfb3": {
+      "text": "Controls",
+      "status": "reviewed",
+      "source_sha256": "0da5bdc8c992d9943f902e6246fd08ebe4e8a5d04947e8f5427a8ae3da772ec8"
+    },
+    "art:e499d4f5e04c36db74fc": {
+      "text": "L2 Button / L1 Button / Directional Buttons / Left Stick / L3 Button / PS Button / SELECT Button / START Button / Right Stick / R3 Button / R2 Button / R1 Button / △ Button / ○ Button / × Button / □ Button",
+      "status": "reviewed",
+      "source_sha256": "af6c3633e0a8d14b1c2d18161b89f61ec151ad5b3096be1afcaef004196f8a34"
+    },
+    "art:4a0ee756d8eb292e4d99": {
+      "text": "Basic Controls",
+      "status": "reviewed",
+      "source_sha256": "0e582a5e3689ac01b0904c3011428e166404dc15199d3f298a72ebcf68d64af1"
+    },
+    "art:2661fc9aa21070b4ee59": {
+      "text": "Directional Buttons / Left Stick: Select an item / Move the cursor",
+      "status": "reviewed",
+      "source_sha256": "6656a14c663be3f44808abc1327daf63db7078f4c9f8979a40f8828af457a281"
+    },
+    "art:9d5d581bb8815060c9d1": {
+      "text": "○ Button: Confirm / Advance dialogue",
+      "status": "reviewed",
+      "source_sha256": "402b6a7598e0fc15306f819983c3cc383f9db9e8d6362316701a4630c661ef64"
+    },
+    "art:52e6904a15c8ddfa1555": {
+      "text": "× Button: Cancel / Back",
+      "status": "reviewed",
+      "source_sha256": "0eafea9defd9571d85691582c45450fb156373325f6276789e188cc3d1ff48d7"
+    },
+    "art:74ef8954b03fba3cef30": {
+      "text": "L1 Button / R1 Button: Change display / Change sorting criteria",
+      "status": "reviewed",
+      "source_sha256": "d27832836cce3b84e0c9e98c7cfcbb8e68a0a97ce103ab4a41d0c38dec57b840"
+    },
+    "art:c95779df97e7cc719730": {
+      "text": "SELECT Button: Show control help",
+      "status": "reviewed",
+      "source_sha256": "f936968cd8055c0fef69a3473b0425a0b9a0f12aa7eb94d76bcdea162154b9d0"
+    },
+    "art:bb9c3db3caec4856fb8e": {
+      "text": "START + L1 + R1 Buttons: Soft reset. Hold START during the reset to resume from your Quick Save data.",
+      "status": "reviewed",
+      "source_sha256": "27b62b282dfc8c09ab119536f549b637b4638883d3be19b81d063ff82c54f4a9"
+    },
+    "art:2734d612c7b92428e4ec": {
+      "text": "This game uses the same controls as Super Robot Wars Z3: Tengoku-hen.",
+      "status": "reviewed",
+      "source_sha256": "98294a931c87ebe5be3ebaa7a5cf2aad4b87f2f04fe2bf49c376f1c3f71fff89"
+    },
+    "art:0c6686fecc5cbdc869c2": {
+      "text": "©Okeanos / Gargantia on the Verdurous Planet Production Committee　©GAINAX, Kazuki Nakashima / Aniplex, KDE-J, TV Tokyo, Dentsu\n©GAINAX, Kazuki Nakashima / Gurren Lagann Movie Production Committee　©Shoji Gatoh, Shikidouji / Jindai High School Student Council\n©Shoji Gatoh, Shikidouji / Full Metal Panic! Film Partners　©Shoji Gatoh, Shikidouji / Mithril　©khara　©Sunrise\n©SUNRISE/PROJECT GEASS　Character Design ©2006-2008 CLAMP・ST　©XEBEC, FlyingDog / Sotsu\n©SHOJI KAWAMORI, SATELIGHT/Project AQUARION EVOL　©Sotsu, Sunrise　©BANDAIVISUAL・FlyingDog・GAINAX\n©Hikari Production, TMS　©Shinobu Fujiwara / Dancouga Nova Production Committee　©1983 Bigwest, TMS　©1994,1997 Bigwest\n©2009,2011 Bigwest / Macross Frontier Movie Production Committee　©1998 Shoji Gatoh, Shikidouji / Published by KADOKAWA Fujimi Shobo\n©1998 Go Nagai, Ken Ishikawa / Dynamic Planning, Shin Getter Robo Production Committee　©2009 Go Nagai / Dynamic Planning, Kurogane-ya\n©2003 GAINAX/TOP2 Committee　©2004 Shoji Kawamori, Satelight / Project AQUARION",
+      "status": "reviewed",
+      "source_sha256": "4cf15d3c739b57bcaf7a00fa05d43c2b2de5245d328fd2c41d26d67df9988e47",
+      "notes": "Okeanos attribution checked against original image and analysis/rengoku_terms.json sources."
+    },
+    "art:24cbd911e5e16dcf286d": {
+      "text": "Starting the Game",
+      "status": "reviewed",
+      "source_sha256": "9a446724729558fa4bca4a63f3edd0c35b91694e2f1c976fb6207b6a8b22f981"
+    },
+    "art:ab05d07c7c87e6224825": {
+      "text": "When you launch the game, the screen-size settings appear. Follow the on-screen instructions to adjust them. The title screen then appears. Press any button to open the main menu.",
+      "status": "reviewed",
+      "source_sha256": "fcf78bff13522031366324c93f151406b88d63672a4ffe8c1f6dbb569fc16234"
+    },
+    "art:b63dc85f95ee6f2a0c35": {
+      "text": "Main Menu",
+      "status": "reviewed",
+      "source_sha256": "b6f2c59e839fc9b8ac86c88ae4c26e23c3bafd2fc413acb58c46c5dd06845f4e"
+    },
+    "art:770bf7078eb2ccd963c3": {
+      "text": "Start the main game.",
+      "status": "reviewed",
+      "source_sha256": "5e098676425c680d03658f5f2ee63975a437f736773d38ab4b8e42c28bb1f404"
+    },
+    "art:056e990ac85dd8efc57f": {
+      "text": "Resume from a previously saved intermission. Select the data you wish to load.",
+      "status": "reviewed",
+      "source_sha256": "515124f3df6654e1e0a0c19da36b58852215fbb8067956d44bbd717c4977b26a"
+    },
+    "art:335443158c67e47e6a59": {
+      "text": "Resume from where you previously saved on the map.",
+      "status": "reviewed",
+      "source_sha256": "b156b5dadc77a51c42c8c31fdd2c70522e3b6adc1d5d672ae8061c00e28c0c2e"
+    },
+    "art:a8bcdb4819f06bf85965": {
+      "text": "View information about the game's characters, units, and other content.",
+      "status": "reviewed",
+      "source_sha256": "725fe0686bdc96e7507d14f3e472357928578ea0e040afd7dfdcd12382efb46d"
+    },
+    "art:c141000c5dac0f111ad7": {
+      "text": "Resume from a previously uploaded save. Select Download to download save data stored on the network.",
+      "status": "reviewed",
+      "source_sha256": "e60bbb9bd6c8a7c0bf7a36f43c16fd8f5e332fc962945424d783e06cc71f6d13"
+    },
+    "art:c5c51a545d5a48daaea8": {
+      "text": "Some commands, including Reassign Pilot, Swap Parts, Sub-Order, D-Trader, Rename Squad, and Bonus Chips, are unavailable in Super Robot Wars Z3: Rengoku-hen.",
+      "status": "reviewed",
+      "source_sha256": "47030f0d590fefbb14f6378cef326784c268cd2dbc35e79319c128645c1d3b68"
+    },
+    "art:7df54c82eb64dfb3f3d5": {
+      "text": "Saving",
+      "status": "reviewed",
+      "source_sha256": "ac77121923ce151d462e70346d351241b54e29856d1047776962a9bb8e030781"
+    },
+    "art:3e68aff73f2c3555df69": {
+      "text": "You can save through commands in intermissions and on the map. Each saves different information. Saving to the system's hard disk requires at least 2295 KB of free space.",
+      "status": "reviewed",
+      "source_sha256": "bdd5baa9a11d52b29b106aff4159a5ba718de7417379153818975673600a57dc"
+    },
+    "art:a1e6e8e4eaa0fcd9872d": {
+      "text": "Saving During Intermissions",
+      "status": "reviewed",
+      "source_sha256": "056e715283c135e4fb74fdee3c110e787cf1becabbb7fd49f1c9610167183e8e"
+    },
+    "art:00a75313cda3f97e2b89": {
+      "text": "Select Save from the intermission menu. To resume from that intermission, select your data through Load on the main menu or Load on the intermission menu.",
+      "status": "reviewed",
+      "source_sha256": "f536983b4a3b8bdda330b765e97c05312b67a403fb9b0148f265bab05707074e"
+    },
+    "art:c7778333d2d833c01508": {
+      "text": "Uploading During Intermissions",
+      "status": "reviewed",
+      "source_sha256": "8613b3c27d3c052213b095265d19af333b86641da2a90072acf2349540d629e8"
+    },
+    "art:81ae795595511fc85591": {
+      "text": "Select Network, then Upload, from the intermission menu to store save data on the network. You can store up to three saves. Selecting an occupied slot overwrites its data.",
+      "status": "reviewed",
+      "source_sha256": "abd868358bfdfb6cbbf96f204874175033d8e557e5dc02dde002294b35f98eb7"
+    },
+    "art:3176d82b65a5a4fc0d6a": {
+      "text": "Saving on the Map",
+      "status": "reviewed",
+      "source_sha256": "829813c4f25ee1da2525423ba51b6995542d2277d5525f0fbee51fdd2fb41b58"
+    },
+    "art:198fb4b2f2d7524225b8": {
+      "text": "Select Quick Save from the overall commands to choose where to save your data.",
+      "status": "reviewed",
+      "source_sha256": "877d377445ee05b9ce951be8536db2dcaf3af19f204fda3dd5a6c714edaca519"
+    },
+    "art:43baa19ae6ba78fc7de8": {
+      "text": "System Hard Disk",
+      "status": "reviewed",
+      "source_sha256": "480f3ac314e6134c89be3d59e9edb13d77eb89c07cca8d796288287bf3bdef41"
+    },
+    "art:4cdf0e7694a2bf7931b7": {
+      "text": "Store save data on the system's hard disk. Select Continue from the main menu to resume from the Quick Save data stored there.",
+      "status": "reviewed",
+      "source_sha256": "24913737a17b0d1ecc1cf2987963c3d726f25221fe7ab1562147aba199a35e6b"
+    },
+    "art:955a4e2b6677969361fd": {
+      "text": "Network",
+      "status": "reviewed",
+      "source_sha256": "ed0eb7bdd20f773f75643efb57e1aacdaa25d3199ee431da37cfe70adc36433d"
+    },
+    "art:4681ccce4025eeed39f1": {
+      "text": "Store save data on the network. Data saved here is stored as System Data.",
+      "status": "reviewed",
+      "source_sha256": "1ecf9f5298bc4943c292c5d5679248c7c540c9806a92cf6c746780d7c6b4c3a6"
+    },
+    "art:962e03f1eb9c9c56ba06": {
+      "text": "Sharing Data with the PlayStation®Vita Version",
+      "status": "reviewed",
+      "source_sha256": "c41f34f453d10dc23d78be153bbacca094973a20ae2f8527f708ab5ea5ceec9d"
+    },
+    "art:08ca510869ba620bda6b": {
+      "text": "The PlayStation®3 version of Super Robot Wars Z3: Rengoku-hen can share save data with the PlayStation®Vita version. Upload your save to the network from the PlayStation®3 version, then download it in the PlayStation®Vita version to continue playing there. You can also download data uploaded from the PlayStation®Vita version in the PlayStation®3 version.",
+      "status": "reviewed",
+      "source_sha256": "6a105287a66befc0a39764057b5016e6a60f22378d9e2f8848e6ce26f81c5032"
+    },
+    "art:a57900bc3adcb3153cf0": {
+      "text": "Download",
+      "status": "reviewed",
+      "source_sha256": "b85d7a94ae5775cf4becd9a65f79e5844d45d854bb92a29c88db65d609e6ff91"
+    },
+    "art:92392ad0b5406c1dbd2a": {
+      "text": "Main Menu",
+      "status": "reviewed",
+      "source_sha256": "b6f2c59e839fc9b8ac86c88ae4c26e23c3bafd2fc413acb58c46c5dd06845f4e"
+    },
+    "art:3428bec58f1a02dcb9a3": {
+      "text": "Select Download from the main menu to resume from System Data or Stage Data stored on the network.",
+      "status": "reviewed",
+      "source_sha256": "1c11863d8a30460ca63c2b2c60fc46a9b98a76b0172e514edbe759b21dd8f7da"
+    },
+    "art:dce82f0f51948d59dfee": {
+      "text": "Intermission",
+      "status": "reviewed",
+      "source_sha256": "462d71946f8fdba900954c0c72e78b4e1223aea6740b4774e91facaab84d821e"
+    },
+    "art:48aa67db481c76c2d85e": {
+      "text": "Select Network, then Download, during an intermission to resume from Stage Data stored on the network.",
+      "status": "reviewed",
+      "source_sha256": "b940e64f5d9ecca67572a35edd7bf941729d7e1de7639dfde9644ccebcd18e78"
+    },
+    "art:cc120269e3395a4d5233": {
+      "text": "Clear Data",
+      "status": "reviewed",
+      "source_sha256": "016c9f82343059d74eb4bc391cc3072453798aea72227e3cd23545c294eee22e"
+    },
+    "art:fa50034dca02d541a02d": {
+      "text": "After completing the game, you can save Clear Data and System Data following the ending.",
+      "status": "reviewed",
+      "source_sha256": "1b72a8671740a056c62834c610dc0cbb886a9648da3e9c2015b119c20be6b2f7"
+    },
+    "art:eb70a39b0f1747dede7b": {
+      "text": "Keep System Data recording your clear status on the system's hard disk, or store it on the network by selecting Quick Save from the overall map commands, then Upload to Network. This allows you to receive a Link Bonus in Super Robot Wars Z3: Tengoku-hen.",
+      "status": "reviewed",
+      "source_sha256": "820bb3b593e89ebff5250c0c7626ade7c15e0f41d2e6392943f6d6341a6540e5"
+    },
+    "art:47f3b8a6ac0bd2a49301": {
+      "text": "Bandai Namco Entertainment Official Website",
+      "status": "reviewed",
+      "source_sha256": "5acfa94ba683ab29e35a9a5ffd33b9cd80d8e7579a1a5a8d6b65e0a985b783a6"
+    },
+    "art:572cb733c353e2008e07": {
+      "text": "http://bandainamcoent.co.jp/",
+      "status": "reviewed",
+      "source_sha256": "c34a34264654fa55267d4566fed07775a9dfae7fd24f8e15814bab2615fb6d62"
+    },
+    "art:b1a22cedeaec9df57939": {
+      "text": "Bandai Namco Game Station",
+      "status": "reviewed",
+      "source_sha256": "5940b12c71fac1c2a135b2c48c33b306ae972cfeabd1a89e06d8e0978a22a0a9"
+    },
+    "art:483b1d5b66cbd48368c8": {
+      "text": "For questions about this product's game features, controls, or malfunctions: TEL:03-3375-7656. Telephone hours: 9:30–12:00 and 13:00–17:00, excluding Saturdays, Sundays, and public holidays.",
+      "status": "reviewed",
+      "source_sha256": "0e84764adc65b98f4f84f73430e2229e71a102f0ad7dc6a906a5b3c94c92b1a9"
+    },
+    "art:6f86b349fc7ce35d1061": {
+      "text": "Check the telephone number carefully to avoid dialing incorrectly.",
+      "status": "reviewed",
+      "source_sha256": "6ab6a9099d6752f788c599ba001ae58f9672efe20b48e4fbad102adf4fdddf72"
+    },
+    "art:52e36ee23131d9e23ae3": {
+      "text": "Please call only during the listed hours.",
+      "status": "reviewed",
+      "source_sha256": "b56c19c041de5540fe2c9fe494dad7afef39ab3a14d357dd7abb312f047fd2ce"
+    },
+    "art:39b15d71f3a3488c5ee1": {
+      "text": "If calling from outside Tokyo's 23 wards, remember to include the area code (03).",
+      "status": "reviewed",
+      "source_sha256": "a3338889ad525ceff89d3d57aaadfc902ade8c71c066465f91d1271e0b5324de"
+    },
+    "art:b0f631f1d32ac9f67521": {
+      "text": "We cannot answer questions about game strategies or walkthroughs.",
+      "status": "reviewed",
+      "source_sha256": "576f6a1754211de268dcf93d5d684b3bb5bac5ad8bb89f1a48fdae394153d6b1"
+    },
+    "art:c858e2affc288546cb8a": {
+      "text": "Please help guide future product development by completing our survey.",
+      "status": "reviewed",
+      "source_sha256": "9d05f80350d42926add6c9a2c5bac74abef4061d06b51963bf894316ba749325"
+    },
+    "art:46c7993dfd0f54e7559c": {
+      "text": "Survey: http://bandainamcoent.co.jp/cs_support/enq/ Access key: ACGN4K7W",
+      "status": "reviewed",
+      "source_sha256": "303501112ea517bdc6b8e89c0e568fc71467974c25630f8418bb4ca327f58a51"
+    },
+    "art:ed558729692259c8033f": {
+      "text": "You can respond using a computer or smartphone. Feature phones are not supported.",
+      "status": "reviewed",
+      "source_sha256": "777560cf55cf4765ca4061f8597a117470255a40aba49d29fbc989de1dc6f674"
+    },
+    "art:c07864ab526a9bb47f90": {
+      "text": "Free membership registration is required to respond.",
+      "status": "reviewed",
+      "source_sha256": "15f344e40deeaae557f838040cc0e5a14f4ebe4e526f6f54ef1769c9cba65c66"
+    },
+    "art:e8e590f2d55e4d017910": {
+      "text": "The survey may close without notice. Thank you for your understanding.",
+      "status": "reviewed",
+      "source_sha256": "1b4b05f8ab669a2ebaead447fe38eca6b67238576816974e6c8525330f4f3fa4"
+    },
+    "art:84cfb18f750995ed70db": {
+      "text": "See the survey page for details on how to respond and information about gifts.",
+      "status": "reviewed",
+      "source_sha256": "235b8cb4a04b5bc1210a2e4efa61372a872c18c16a4a47436342f52de1581f79"
+    },
+    "art:c56f0e0ffbf9d8241076": {
+      "text": "This product uses DynaFont. DynaFont is a registered trademark of DynaComware Taiwan Inc.",
+      "status": "reviewed",
+      "source_sha256": "d83ceffc61b603f8292c4236d573cc93557dc79f5089043d22e8396db18746ed"
+    },
+    "art:546efba204ec005675a8": {
+      "text": "Bandai Namco Entertainment Inc.",
+      "status": "reviewed",
+      "source_sha256": "292b319ac2ae385ec3411ef42e694599629d873a3ea1d84b5964b0cc9e42039b"
+    },
+    "art:dd3c982f3177ff34b305": {
+      "text": "Exporting this product or using it for commercial operations is prohibited.",
+      "status": "reviewed",
+      "source_sha256": "06f265b024783c5ab2f55d95e106d23b495d369c67f68001d73f489d54d67154"
+    },
+    "art:307546edd2f03b97c70b": {
+      "text": "Unauthorized copying and other unlawful use of this software are not permitted.",
+      "status": "reviewed",
+      "source_sha256": "e23b961649192fcc59c24d5170f2484cd0d9d27c31006cb80053ae238b3c0d82"
+    },
+    "art:49fe8aa62d9bc0076102": {
+      "text": "Customer support is available only within Japan.",
+      "status": "reviewed",
+      "source_sha256": "7cb5c1e3dc4c7eee49b555e0f278d053b0f2e0e7dafc796187dd2a12d736dd33"
+    },
+    "art:dcd6f482096d6f85f18e": {
+      "text": "Operation of this product is guaranteed only with system software and hardware officially supplied by Sony Computer Entertainment Inc.",
+      "status": "reviewed",
+      "source_sha256": "9c5e8c818b6a859fc9f168feabf7bd95596b13633e0e0ea13f131f9810170cc6"
+    },
+    "art:a49b317402cfbe9879ca": {
+      "text": "XrossMediaBar",
+      "status": "reviewed",
+      "source_sha256": "43cf8923b4b5ca38dd2300bdcc263942d67c6f381a26d215aa88d9d4f7011d1f"
+    },
+    "art:33c2ae8f87d4eeb28f5d": {
+      "text": "Shield Defense",
+      "status": "draft",
+      "source_sha256": "854d7f03cde2042b2d39b5413ce48da9b58b1f7bfa3020067542a14e91fcb791",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:6ef772dd48ad5fa44ae3": {
+      "text": "Sword Parry",
+      "status": "draft",
+      "source_sha256": "a3965f88d1e4fe99182f08bf79b2d2c6fba95a8b9c080457f61ca69ecc2a4b60",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:a09de5b98b1665396e0f": {
+      "text": "Afterimage",
+      "status": "draft",
+      "source_sha256": "e16dbadf047f407ed61662f7f64407caf76abc82532326cc4dcf1c50a86c3900",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:3f2bcedfcb1095ba17b3": {
+      "text": "Barrier",
+      "status": "draft",
+      "source_sha256": "b56060ed03bce38cc0d8b6d92bdac3f3ab4513b0c4bbb1121317307988843266",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:b464c80e4aa16d436b25": {
+      "text": "Cannot Deploy",
+      "status": "draft",
+      "source_sha256": "05734455559f779a1798f3b11af8619debb7a884e4fc57776e739fba4061a5a0",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:0d1288f9b27f2f0ea980": {
+      "text": "Combine",
+      "status": "draft",
+      "source_sha256": "d1d214f5bfb3591967de680ebe3b1af704c1b710e6af6bb364fbbc47df46ed0b",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:df993663e5cdef81a796": {
+      "text": "Intermission",
+      "status": "draft",
+      "source_sha256": "462d71946f8fdba900954c0c72e78b4e1223aea6740b4774e91facaab84d821e",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:3c555ed9897c898ca2b9": {
+      "text": "Sub Order",
+      "status": "draft",
+      "source_sha256": "6baa9f55c5e59fb19d36530a831efdca14f8310a5cfbc50781569a15e700861c",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:b7a481d99d1df3f58a3f": {
+      "text": "Guard",
+      "status": "draft",
+      "source_sha256": "ca31a5dd16c96822043d0c4ec6abb5287bce54affa5eda85359074f9a5881e72",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:bc5c9c72204c13cb2e48": {
+      "text": "Luck",
+      "status": "draft",
+      "source_sha256": "7f5f68e3a4602d3f95924c4bfb69fc58a46da63d6f3b2d0728d7643a2763efe5",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:9ca63c1e09a4eb3708c5": {
+      "text": "Focus",
+      "status": "draft",
+      "source_sha256": "5bbadd8f8c4f781dffdb673736ec01b03fdf7c9d348449f63fe1d74e1d653336",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:5f824516ca4471640ecc": {
+      "text": "Gain",
+      "status": "draft",
+      "source_sha256": "a80503b3a0b2e6376fc6cece3491a66ade77c44f506572a796ad5030cce677ea",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:ce875597838dfa1e3679": {
+      "text": "Strike",
+      "status": "draft",
+      "source_sha256": "8191306374aa59880e4ee57fde62a36b8b48ec6c140fa7ba0aa890402e7a7a13",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:7bc8542b15f76f192676": {
+      "text": "Disrupt",
+      "status": "draft",
+      "source_sha256": "3373916ede8fddacc7ac9eca70b80bf82ee716b6d2ffb39862eaaec7598a3d04",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:286294ec454427f718e3": {
+      "text": "Accel",
+      "status": "draft",
+      "source_sha256": "f0f0327bc55750d6c4373977722dc3fedb9678c667b10def57cfc6997b1c0c0b",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:678018cb70c3e8963427": {
+      "text": "Analyze",
+      "status": "draft",
+      "source_sha256": "b6a993c256ef577abb04b0c353affde222af27a0e4254d66bb697a154cfec553",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:2625b9d0b98c689f094b": {
+      "text": "Zeal",
+      "status": "draft",
+      "source_sha256": "8deae31ff422fb6a379e10dfbd031fb8018260da044faee25e9a18985a3fe862",
+      "notes": "Single-kanji tiles are Spirit Command icons, not ordinary prose. Full English drafts; tile layout needs rebuilding.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:313ee032430b82919bba": {
+      "text": "ALL",
+      "status": "draft",
+      "source_sha256": "08b602275aee291fc31d2c288a7eabb7728f60b93476167db990f784de0713d0",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:a51caf489188cbdd88a2": {
+      "text": "Attack",
+      "status": "draft",
+      "source_sha256": "c62991e857bf6db8df7b84e105550cd4d03590f0238997e583bcd078388afb32",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:e205a71ac145c9d1ff6b": {
+      "text": "Center",
+      "status": "draft",
+      "source_sha256": "4f13cdce8f338768a51100ae34eff85b46893d5cd95fe960a257fae8078d1702",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:fbddc6a906f669a1bfcc": {
+      "text": "Wide",
+      "status": "draft",
+      "source_sha256": "2084122e0b64ac69b7036e8752e8a306a0b71eafb41256852f1aa0f643454f7d",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:11afc8eb1f187e480271": {
+      "text": "MAP",
+      "status": "draft",
+      "source_sha256": "097022418c48be50f96847495ace097d42c2958ecb17b662ea306308cf5e36d9",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:4e3c3b2dd585ebdfaed5": {
+      "text": "Maximum",
+      "status": "draft",
+      "source_sha256": "4f00e0d0c15a9e3ebc6e4087695ae4d24b5ffdb4c55f01a6a90b3b83cf443fe8",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:326593351fb1f0325211": {
+      "text": "Break",
+      "status": "draft",
+      "source_sha256": "3e594ea7d473b5697e56a5c0db82e140866c03155fa9e980ff617377e45bc67e",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:e2ef55a187626c36e883": {
+      "text": "Counter",
+      "status": "draft",
+      "source_sha256": "194068e0300b74bb7ec135f557cf24727ed96a48f8b1c234f401e843ccb91c8b",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:453b8fbac270336d61ee": {
+      "text": "Support",
+      "status": "draft",
+      "source_sha256": "0267925bc28b60bfedf8e3d8d8685af1e953092c567267bba829ac4281494748",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:6c0d3d57201e0d031f1d": {
+      "text": "Attack",
+      "status": "draft",
+      "source_sha256": "c62991e857bf6db8df7b84e105550cd4d03590f0238997e583bcd078388afb32",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:96f55842a0db97c75a00": {
+      "text": "Defend",
+      "status": "draft",
+      "source_sha256": "75ba7a572706c98eaf57aab152664e4b3f6d6bbc0430a2d469155aa95d463466",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:03dd536b600a9c139e7c": {
+      "text": "Re-",
+      "status": "draft",
+      "source_sha256": "8aa07f1595bd98d4841178f6694407eb74c7398c73aeed4766fb6a3e8126310a",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:7134bc51864df9a5d4d9": {
+      "text": "Weapon",
+      "status": "draft",
+      "source_sha256": "b972b33e0f9b26e0708e873c703ff3b5f305d60778d4dd6633077c59feb7d840",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:cd84263b19ceea4e7135": {
+      "text": "Song",
+      "status": "draft",
+      "source_sha256": "602c513e5ff73db8b79402e39dd40a93cbf814e3a52f1f2e7dbbd49dec139f49",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:d9b44a9670111ff209a6": {
+      "text": "Spirit",
+      "status": "draft",
+      "source_sha256": "c4710024e9546610f1bdc6f154b6058c23ecf464feb49d31ee4bc6f2fd55a8e6",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:2fbdd929f29e9601984c": {
+      "text": "Grant",
+      "status": "draft",
+      "source_sha256": "9ff277ee876500ed314c150463b9900ced5b58a96fc7488e9df644ef80e4b627",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:1ef3169de48a47fbf7bc": {
+      "text": "Mobility",
+      "status": "draft",
+      "source_sha256": "7d782cdc5f1189322bce0284240f363676e7b5b413b26eb9414f809ce3110601",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:a7e05ecfd32f234e1448": {
+      "text": "Focus",
+      "status": "draft",
+      "source_sha256": "a96df030eed7e410c22fa628af1f716a871b295403d51b71c500b8dd783c2fc4",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:a69ec9c7e3b3b8904213": {
+      "text": "Accuracy",
+      "status": "draft",
+      "source_sha256": "3b00a4b7da9ed2c03a440b360f85e0d3563db5f89fec0546639f94dd46b7c931",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:0ad7fffe6998327f5b29": {
+      "text": "Ability",
+      "status": "draft",
+      "source_sha256": "5c5374dd958bcb79c1fe83a1b7a6c25df36603eec36f15f180a916af2022cee1",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:1845fed606cacab3a1c5": {
+      "text": "Armor",
+      "status": "draft",
+      "source_sha256": "a7efe890de54d0ba7dcb191de80d430e5d92b523634b1a86b162db7b65299d33",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:f2ce9329d39cc70d8dcd": {
+      "text": "Battle",
+      "status": "draft",
+      "source_sha256": "03fa1b51ce2207cd58bcf28323809fe145ec72afb9bcfebdfa750db9295daf18",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:dadbc267305400aded5a": {
+      "text": "Recovery",
+      "status": "draft",
+      "source_sha256": "5e6594bd1b7b3c75f3816157d52714261a244a7cfd4955e774e75ab5dab0b7b8",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:7b74f84a2040adc3fb90": {
+      "text": "Property",
+      "status": "draft",
+      "source_sha256": "d72ff0b58a399c5cbbd848beea815801c6f176e41d58022161e86cd73070745d",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:7880e8b32c740d0133de": {
+      "text": "Increase",
+      "status": "draft",
+      "source_sha256": "dd117739b2b9a70d5ee05c169ff78922f9732c4ed29f78ca6d5647dc827d3242",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:509243dffdff13eec36f": {
+      "text": "Value",
+      "status": "draft",
+      "source_sha256": "19126213b0d126380f5fc7474be08db05389f4dda440a030a522448b7b2ea084",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:39d230e0f84ca82217f5": {
+      "text": "Halved",
+      "status": "draft",
+      "source_sha256": "32d8fb6600678d214a24923beccded87a85136f4dd074d7e686b22a8748b9645",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:6478c26980f889883c97": {
+      "text": "Maximum",
+      "status": "draft",
+      "source_sha256": "9730c15f3c1963a1806fedca35317cb8f44a9d35d83a60fe68e205f41db05527",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:0c0e140d7bc4f93565f1": {
+      "text": "Decrease",
+      "status": "draft",
+      "source_sha256": "87a1f3aef531379deae27f4d0986c5b669315724bc8371c259815aca71e2260a",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:492e543de449644dc7e9": {
+      "text": "Disabled",
+      "status": "draft",
+      "source_sha256": "6c475741193526c640360dd499285c1ad7199350a136ddb5e2af715c5912de47",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:b6481aee7747dbdca6a1": {
+      "text": "Command",
+      "status": "draft",
+      "source_sha256": "00aad40f651e14f1bec1d111c6ee703920add2ae35e62cd6cd5d9a8a3a8e52dc",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:14ba26ed66c2b4996e45": {
+      "text": "Game",
+      "status": "draft",
+      "source_sha256": "fd24608330586093b66f5624f72b03e6a91ae1c1e330bc1c9368e294e4c35880",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:e97790ca998440b737bc": {
+      "text": "Start",
+      "status": "draft",
+      "source_sha256": "ffd178ad7071d5158723e9d6509ebffef904c86ea32a2f45a53ccbb2d811b889",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:9a775f78da59c2811c8e": {
+      "text": "Link Data and",
+      "status": "draft",
+      "source_sha256": "d42aad9c2496bdf6a7d423cd4709ec086e058fcb2468e9cce376c687a682c338",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:4f8ebf2be6c2872932bc": {
+      "text": "Protagonist Setup",
+      "status": "draft",
+      "source_sha256": "721732030fddb05a96448fcb8f744b8e2595b331cf55cebcb407cc3ff81ad511",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:70298cdcc2b006b1af73": {
+      "text": "Scenario Select",
+      "status": "draft",
+      "source_sha256": "531db1dbff66f53dd506c0993faa3552b61bcfd6e73c25a21381aafebbb9dcf1",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:2706976060e281436079": {
+      "text": "Main Story",
+      "status": "draft",
+      "source_sha256": "b41f66d67c347d32271ed4bb655961f36f653a57bb04acaa1a8f383109cac077",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:50e78d79b75bd9884c5b": {
+      "text": "Guidance",
+      "status": "draft",
+      "source_sha256": "e38f5354f014dc5586efcd37f6198c588ccb4ee38a4e9e91a64bd736514a8501",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:8ef671a8e4c18fcde377": {
+      "text": "Scenario",
+      "status": "draft",
+      "source_sha256": "d0dbb56faad5a28feaf54af49149bf429425f9f134d6d47ef179e98c8f03f36f",
+      "notes": "Atlas fragments are combined at runtime. Translate the composed label when rebuilding; do not replace tiles independently.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:a8094a4dfb6798e5f9b3": {
+      "text": "Single",
+      "status": "draft",
+      "source_sha256": "a9d508be19310d7db364f63e75c731db6355264c9a5d2278ea288f245330c259",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:0d97d78b101ac30401ac": {
+      "text": "Combine",
+      "status": "draft",
+      "source_sha256": "d1d214f5bfb3591967de680ebe3b1af704c1b710e6af6bb364fbbc47df46ed0b",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:aedccf1ec333a84cb631": {
+      "text": "Cannot Deploy",
+      "status": "draft",
+      "source_sha256": "05734455559f779a1798f3b11af8619debb7a884e4fc57776e739fba4061a5a0",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:f99627ded2f731d6474e": {
+      "text": "Unit",
+      "status": "draft",
+      "source_sha256": "b02489a8fc021611502868aef3e14ee944aa90b4c36171c3abb50f36ef4d2886",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:3deef371dbaaa51a9d14": {
+      "text": "Combination Attack",
+      "status": "draft",
+      "source_sha256": "b4f29a76239fed12f8e0537bd565b2e736ed647e08502965b49584df48d5b7fa",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:38f86f305d93778a5b77": {
+      "text": "Soul",
+      "status": "draft",
+      "source_sha256": "b9ba74447cbaca624042d82c3ebf3f660837db4fac4a072e6a108fbb6413d8bb",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:dd0a7c7b3f2c2a297274": {
+      "text": "Support 1",
+      "status": "draft",
+      "source_sha256": "0d36395b0c52ee5a5dc032ad495af0e134008a9903b6c2208bd0d954f39d9234",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:36979e1c6789109f2c78": {
+      "text": "Support 2",
+      "status": "draft",
+      "source_sha256": "61d5978af2825d248f9dd08704a94f93d3a904f0315d778ab73dde901a01dcd3",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:490b5c2c0dee639de2c7": {
+      "text": "Support 3",
+      "status": "draft",
+      "source_sha256": "6c5c9e07725e4c0d90b8ac4155c9162860ead60f54b7231037fd4af02f3a5bc6",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:74db216fe6b462910d84": {
+      "text": "Support 4",
+      "status": "draft",
+      "source_sha256": "ee8a4ca567be858889383163efd842ab7604b7f10429c652c9f804038f6d1608",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:a615bd5ebd8f41cfc888": {
+      "text": "Aboard",
+      "status": "draft",
+      "source_sha256": "d94b42bdb9a7c2f659e9dfed965300378edbb0f36297659dae8be1fe6513a2ef",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:265fd17bd2d3c7d8ac66": {
+      "text": "Multi Action",
+      "status": "draft",
+      "source_sha256": "a6e78db4d44b8b497744b38d58773e6788407b7008be6d5685b9e78aa9e4b1e3",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:30d4b2b11cbb98e513be": {
+      "text": "Combination Attack",
+      "status": "draft",
+      "source_sha256": "b4f29a76239fed12f8e0537bd565b2e736ed647e08502965b49584df48d5b7fa",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:717e5e87bd37d2c91730": {
+      "text": "Counter",
+      "status": "draft",
+      "source_sha256": "194068e0300b74bb7ec135f557cf24727ed96a48f8b1c234f401e843ccb91c8b",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:1769cc9cd062ebc099be": {
+      "text": "Re-Attack",
+      "status": "draft",
+      "source_sha256": "3225ce4b5e67314578ff8c99c0cf3458a6c6da833cc0bc3d6e2a6e2ff09686a8",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:d02e34ffb133b6a70487": {
+      "text": "Support Attack",
+      "status": "draft",
+      "source_sha256": "07e1d25071d63fea3fb0cd20b252e15f34db2eb535d2f21be6ed6aa3e84de8f8",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:bc0140afcc37e32d1453": {
+      "text": "Support Defend",
+      "status": "draft",
+      "source_sha256": "6e008b0ea8c4fd12384b3dd7012dee4cf3fb2e07fe6d25fd3893d05e6318b726",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:de3561b3fc4fd9cbd429": {
+      "text": "Maximum Break",
+      "status": "draft",
+      "source_sha256": "e8d0a84b58dfa2379211347153ffff3d46a016435c6a5bb1535cfbadcc54310a",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:4726ff28b22b80ddae21": {
+      "text": "Green Earth",
+      "status": "draft",
+      "source_sha256": "3077ec9eefc3d9742f159fb81867e46d63fb64a09b2fb7cd0a4e7a8a48bd47b8",
+      "notes": "Same chapter heading as interface:3077ec9eefc3d974",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:899bbf772396efd74f2f": {
+      "text": "Maiden's Prayer",
+      "status": "draft",
+      "source_sha256": "1f6ac9d33b12219609234b0aaaf622bd392b48b7d7a834104e0d731d524b5047",
+      "notes": "Same chapter heading as interface:1f6ac9d33b122196",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:b16eef52003bfa01ffc4": {
+      "text": "Charging Lion",
+      "status": "draft",
+      "source_sha256": "d5928a681f1c361ea49c6de9c0058adff5f0c713ff4089e960123dfbe4c49ac2",
+      "notes": "Same chapter heading as interface:d5928a681f1c361e",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:770a4575f6800a9fee91": {
+      "text": "On the Scale's Plate",
+      "status": "draft",
+      "source_sha256": "2ac049beeff1499fac228de157cad0e9038136f7665237f9ca1deb243502f78c",
+      "notes": "Same chapter heading as interface:2ac049beeff1499f",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:c02372e5b633d1d34bae": {
+      "text": "Sphere Chasers",
+      "status": "draft",
+      "source_sha256": "805ce60fbc72083c248772aea5ac0fec3854b02aca24c21cfaf10f42e15a79d4",
+      "notes": "Same chapter heading as interface:805ce60fbc72083c",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ]
+    },
+    "art:049e7db23968d91eb44e": {
+      "text": "Fugitive",
+      "status": "draft",
+      "source_sha256": "e9610389c9ea2cb131515a889631efd6c38a2fb1070409f4114409b9b35b3332",
+      "notes": "Same chapter heading as scenario:e9610389c9ea2cb1",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_01.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:85f451a55ec9187e2bd1": {
+      "text": "Terminal Base Battle",
+      "status": "draft",
+      "source_sha256": "4d0d6000db7da31e27dd7ba486b029edff2848fd634c3a094e09290af29a4cf9",
+      "notes": "Same chapter heading as interface:4d0d6000db7da31e",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:1325f89e538eca33aa64": {
+      "text": "Shikuu's Emptiness",
+      "status": "draft",
+      "source_sha256": "111f85770bfde296063811708fcb66e26d5d91b62f8af45306da9aab9146d06b",
+      "notes": "Same chapter heading as interface:111f85770bfde296",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:a4c834c1bc75620443c8": {
+      "text": "Sorrowful Maiden, Again",
+      "status": "draft",
+      "source_sha256": "d8bef61c0d7465509252736924432137a4310026a6a370321e22925435609fac",
+      "notes": "Same chapter heading as interface:d8bef61c0d746550",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:58676448aba811b7050c": {
+      "text": "Wounded Lion, Roaring in the Wilderness",
+      "status": "draft",
+      "source_sha256": "323603445c5841cded2d8c280fb86fbc976db1e0190954462755ac116b7afda4",
+      "notes": "Same chapter heading as interface:323603445c5841cd",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:9154cc2d0f53f9c183e9": {
+      "text": "Swaying Scales, Un-swaying Will",
+      "status": "draft",
+      "source_sha256": "7759dd78c6501d6471cc9d1c33d7857f61be3ac8c8bcf4938e0079e9e43b8f5e",
+      "notes": "Same chapter heading as interface:7759dd78c6501d64",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:35de17cfafd3c084772b": {
+      "text": "The Promised Decisive Battle",
+      "status": "draft",
+      "source_sha256": "9d05f17d0123adbaaf743c93697ee784b4481ee01dc44c77211a53968bc8d49a",
+      "notes": "Same chapter heading as interface:9d05f17d0123adba",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:1145254a15a548dc768a": {
+      "text": "Approaching Venom",
+      "status": "draft",
+      "source_sha256": "0a5ed317517d7ddc2bd2e4ad3e0671163aa2bbe1f0ceee9c3d26144e206f49a2",
+      "notes": "Same chapter heading as interface:0a5ed317517d7ddc",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:ee50916f3eecff08dc18": {
+      "text": "Within the Time Prison",
+      "status": "draft",
+      "source_sha256": "f8c4ec922495be791f2f0f3205fcea73e80a317033d11775dfc13f8cdcc16502",
+      "notes": "Same chapter heading as interface:f8c4ec922495be79",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:4738cf80bf526df5a139": {
+      "text": "At The End of a Deadly Struggle",
+      "status": "draft",
+      "source_sha256": "4e7a6acff1928df1d6478f4f61fe2c055f8f3aedc81f3a43cec6a72baca35b4e",
+      "notes": "Same chapter heading as interface:4e7a6acff1928df1",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ],
+      "terminology_review": "analysis/non_dialogue_terminology_applied.json"
+    },
+    "art:bf4e8e02651ddd443ae9": {
+      "text": "Super Robot Wars Z3: Rengoku-hen",
+      "status": "draft",
+      "source_sha256": "87cec9b0e6bdd04ae1487c23835b3db73e530fb4ea8397edc69ae10bb04bb97e",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:ad5d2ed93ff8eb643002": {
+      "text": "Super Robot Wars Z3: Rengoku-hen",
+      "status": "draft",
+      "source_sha256": "87cec9b0e6bdd04ae1487c23835b3db73e530fb4ea8397edc69ae10bb04bb97e",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:06e8d67e48701d1cc21b": {
+      "text": "Super Robot Wars Z3: Rengoku-hen",
+      "status": "draft",
+      "source_sha256": "87cec9b0e6bdd04ae1487c23835b3db73e530fb4ea8397edc69ae10bb04bb97e",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:325a6c411806b3e943a0": {
+      "text": "Super Robot Wars Z3: Rengoku-hen",
+      "status": "draft",
+      "source_sha256": "87cec9b0e6bdd04ae1487c23835b3db73e530fb4ea8397edc69ae10bb04bb97e",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:88b6c5d4c07a8efcc798": {
+      "text": "Notice",
+      "status": "draft",
+      "source_sha256": "3a66a2a897b14c5ff900d139f916f7ecc92db337e671d072317118529452d8ea",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:e244bb39149478b026bd": {
+      "text": "Distributing game software over the Internet without permission from the rights holder, or knowingly downloading an illegally distributed copy, is strictly prohibited by law.\nThank you for your understanding and cooperation.",
+      "status": "draft",
+      "source_sha256": "604b50b8056c85c2f000f57590606525c5dcf66efc138694ae4c4793df5ab731",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:009310910fa9d7ac59e2": {
+      "text": "©Okeanos / Gargantia on the Verdurous Planet Production Committee",
+      "status": "reviewed",
+      "source_sha256": "469168d90761aa02369d1b206d409097500cbf5815262b6c297133e1d3b65fb5",
+      "notes": "Okeanos attribution checked against original image and analysis/rengoku_terms.json sources.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:cb9ce35006c356f6287f": {
+      "text": "©GAINAX, Kazuki Nakashima / Aniplex, KDE-J, TV Tokyo, Dentsu",
+      "status": "reviewed",
+      "source_sha256": "80f0ca80c44a59d674a6a835b88e166778977cc3af10229ef3c49516ee04c183",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:224f9d7d368fb71607f0": {
+      "text": "©GAINAX, Kazuki Nakashima / Gurren Lagann Movie Production Committee",
+      "status": "reviewed",
+      "source_sha256": "2b3b52f5079e4d9db5e5630ee9d1a351bbb1557a0805c6a9c03b173762164ae0",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:c826ce857517515d6992": {
+      "text": "©Shoji Gatoh, Shikidouji / Jindai High School Student Council",
+      "status": "reviewed",
+      "source_sha256": "c2c6cb142c7dc25f258339fb6f4423edddff05ec61b7ba5c7bd1f7f53e55eb09",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:a613ec68924403a7fb7d": {
+      "text": "©Shoji Gatoh, Shikidouji / Full Metal Panic! Film Partners",
+      "status": "reviewed",
+      "source_sha256": "48b02cf281c8999ea8516db35e025c21888cca8df87cc44343741ac27f9a8a35",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:c1a30d3100315316eb4c": {
+      "text": "©Shoji Gatoh, Shikidouji / Mithril",
+      "status": "reviewed",
+      "source_sha256": "c95be8cb645e13bb86bf85366161e2e4aa6a54a359eed313731766237431b202",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:97764321913ab7a9b2c8": {
+      "text": "©khara",
+      "status": "reviewed",
+      "source_sha256": "4e62dcd78dd73a5b8a9221a370f5fad565d4b1a1c7cbfb0b674ee1100e65e265",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:9ab645b0df7ca8217154": {
+      "text": "©Sunrise",
+      "status": "reviewed",
+      "source_sha256": "6b4d8dd734587214e15a0e139e4674c3e23683f3ffccfa6b4cd8ac346856ff1e",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:5d01b3bf99e255002bed": {
+      "text": "©SUNRISE/PROJECT GEASS Character Design ©2006-2008 CLAMP・ST",
+      "status": "reviewed",
+      "source_sha256": "a32fa2af37ab36b6742d7e0907fee16c50249f20c5727116aaa50758a222fb89",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:faeb4379196e3cb160f4": {
+      "text": "©XEBEC, FlyingDog / Sotsu",
+      "status": "reviewed",
+      "source_sha256": "47a2c9c4845bdce416a7b14343b2260ba4785b4f6eeb520a754b61b5b92c7533",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:00566e7e850e8d3c7edb": {
+      "text": "©SHOJI KAWAMORI, SATELIGHT/Project AQUARION EVOL",
+      "status": "reviewed",
+      "source_sha256": "2f8a4d32511ea36ea2baf62e5018a69dfc1f3a65d0ad66e6c258db362e879fb8",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:c2b61f576b488df0602d": {
+      "text": "©Sotsu, Sunrise",
+      "status": "reviewed",
+      "source_sha256": "06729fb668364a02651494e7edbb8bb71d310a6d333eee4f56ae26e1033fbfba",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:c7fd1732fe73a3b26ef3": {
+      "text": "©BANDAIVISUAL・FlyingDog・GAINAX",
+      "status": "reviewed",
+      "source_sha256": "bd0cc4f7592e817bbecb56012a2e4e1095ec66fa28a2caf5cde720b5ceda24cb",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:64ea9b87ce6bc2ceb87a": {
+      "text": "©Hikari Production, TMS",
+      "status": "reviewed",
+      "source_sha256": "a5cf401cbe176be6bdedcd718925b25f51e0bd8a0623446174c4d34c31ce3f7b",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:b8f0e6e203ccaefa446b": {
+      "text": "©Shinobu Fujiwara / Dancouga Nova Production Committee",
+      "status": "reviewed",
+      "source_sha256": "c39ef80e63e7161601cf726a983c93830be0c4c57c4ef1400757404c943ec717",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:68f0a53594d2007883cd": {
+      "text": "©1983 Bigwest, TMS",
+      "status": "reviewed",
+      "source_sha256": "dd9797a7d2a3e5d32dad2994552edfff35ce1c61c4d23444773f39fd2c3b98c1",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:15de8c87f974d3d83f49": {
+      "text": "©1994,1997 Bigwest",
+      "status": "reviewed",
+      "source_sha256": "e38335b98ba720103094b77fefad82fcfa67792e0bbe66ce3ae5be153f298abe",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:283e0d7a68ca08851e2c": {
+      "text": "©2009,2011 Bigwest / Macross Frontier Movie Production Committee",
+      "status": "reviewed",
+      "source_sha256": "f4927086bcad2a318bb5d9a6a34e1093f746aa0aab4b2edc6d29ad3bf0480622",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:9a5c2cfffe67422701e0": {
+      "text": "©1998 Shoji Gatoh, Shikidouji / Published by KADOKAWA Fujimi Shobo",
+      "status": "reviewed",
+      "source_sha256": "425d7ca1e675e3f4c79fb665f88c92f3f6b4984df6c07004c0efa6ed33a4b350",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:70e83d1b7cd2d8e8d5d0": {
+      "text": "©1998 Go Nagai, Ken Ishikawa / Dynamic Planning, Shin Getter Robo Production Committee",
+      "status": "reviewed",
+      "source_sha256": "c3dd9081fafe2ca3122d6d72dd399823d07f8047d6fcacfc040e721af8326e29",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:24d5c6e1262025f420c9": {
+      "text": "©2009 Go Nagai / Dynamic Planning, Kurogane-ya",
+      "status": "reviewed",
+      "source_sha256": "9ac3f4aa1132efd5a825ed6c61192eca4b4dd90086a8bb76cfdb7a47149c2cdc",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:83db8b405b00b84c7775": {
+      "text": "©2003 GAINAX/TOP2 Committee",
+      "status": "reviewed",
+      "source_sha256": "0d14a9edd8f9e80f2d215a05e2a032c510e0f449b0ef297fb614c9f222ac4121",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    },
+    "art:fd5724cbdc827dcbdce5": {
+      "text": "©2004 Shoji Kawamori, Satelight / Project AQUARION",
+      "status": "reviewed",
+      "source_sha256": "140a656bbc9648f64cec80d6de9657a2e87d78f951048e0fa5bc98a13b4e7faf",
+      "notes": "Transcribed from startup image; same ownership attribution as manual. Preserve historical wording.",
+      "reviews": [
+        "work\\non_dialogue_reviews\\artwork_02.json"
+      ]
+    }
+  }
+}

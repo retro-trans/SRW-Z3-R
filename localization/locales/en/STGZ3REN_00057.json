@@ -1,0 +1,712 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00057",
+  "messages": {
+    "rengoku:STGZ3REN_00057:00000": {
+      "text": "Grassland",
+      "status": "draft",
+      "source_sha": "9e892d33d5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00001": {
+      "text": "Grassland",
+      "status": "draft",
+      "source_sha": "9e892d33d5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00002": {
+      "text": "Grassland",
+      "status": "draft",
+      "source_sha": "9e892d33d5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00003": {
+      "text": "$$サルディアス$$\n「Well, wasn't that lucky!\n　Thanks to $$オリオン$$'s fine play, we found\n　one of the $$スフィア$$s we were looking for!」",
+      "status": "draft",
+      "source_sha": "39da82c432",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00004": {
+      "text": "$$オリオン$$\n「This much... isn't worth\n　making a fuss over」",
+      "status": "draft",
+      "source_sha": "d995a550c6",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00005": {
+      "text": "$$サルディアス$$\n「Now that's cool...!\n　Acting quiet and indifferent to others, but\n　secretly a passionate guy underneath, huh?」",
+      "status": "draft",
+      "source_sha": "1dafca7ac2",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00006": {
+      "text": "$$オリオン$$\n「...」",
+      "status": "draft",
+      "source_sha": "1f0b88d47d",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00007": {
+      "text": "$$サルディアス$$\n「Oh...! Best I stop there,\n　for my own safety. Yes\n　indeed」",
+      "status": "draft",
+      "source_sha": "74f761d52f",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00008": {
+      "text": "$$アドヴェント$$\n「Right now, $$ブルー$$ is calling\n　on the nearby $$レジスタンス$$\n　for help」",
+      "status": "draft",
+      "source_sha": "6d0c3cc8a7",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00009": {
+      "text": "$$アドヴェント$$\n「Having lost the $$ターミナル・ベース$$, we need a new\n　forward base if we are to follow the $$レイライン|lc$$s\n　and strike the enemy's core」",
+      "status": "draft",
+      "source_sha": "71922f902e",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00010": {
+      "text": "$$サルディアス$$\n「In other words, we take back the $$スフィア$$\n　and help ourselves to the base storing\n　the machines while we're at it」",
+      "status": "draft",
+      "source_sha": "b0f9953e07",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00011": {
+      "text": "$$アドヴェント$$\n「That's right. We move before\n　the enemy notices $$オリオン$$\n　accessed their data」",
+      "status": "draft",
+      "source_sha": "4258fd11d4",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00012": {
+      "text": "$$セツコ$$\n「...」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00013": {
+      "text": "$$クラヴィア$$\n「What's wrong, $$セツコ$$? Is\n　something worrying you...?」",
+      "status": "draft",
+      "source_sha": "bff8114840",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00014": {
+      "text": "$$セツコ$$\n「Thank you, $$クラヴィア$$. But\n　I'm fine」",
+      "status": "draft",
+      "source_sha": "56a8b6c368",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00015": {
+      "text": "$$オリオン$$\n「...Are you worried about\n　《$$スフィアの反作用$$》?」",
+      "status": "draft",
+      "source_sha": "6b6929278c",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00016": {
+      "text": "$$サルディアス$$\n「What's that? This 'backlash'\n　you mentioned...?」",
+      "status": "draft",
+      "source_sha": "7d4d8db212",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00017": {
+      "text": "$$オリオン$$\n「I saw it in $$スフィア$$-related\n　data...」",
+      "status": "draft",
+      "source_sha": "36a4eabc96",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00018": {
+      "text": "$$オリオン$$\n「A $$スフィア$$ draws out $$次元力$$ through human\n　emotion and heart, but if it keeps drawing strong\n　power, various backlashes apparently occur」",
+      "status": "draft",
+      "source_sha": "94b2643af9",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": [
+        "Compressed to fit 4-line guide; kept the core claim (Sphere draws Dimensional Power from feeling, strain causes backlash) without the exact clause order of the source."
+      ]
+    },
+    "rengoku:STGZ3REN_00057:00019": {
+      "text": "$$クラヴィア$$\n「Simply put, it means\n　something bad happens」",
+      "status": "draft",
+      "source_sha": "ccef9a4104",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00020": {
+      "text": "$$セツコ$$\n「No, I'm fine. I've barely\n　seen any of that lately」",
+      "status": "draft",
+      "source_sha": "ebd2e0924a",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00021": {
+      "text": "$$クラヴィア$$\n「Huh...」",
+      "status": "draft",
+      "source_sha": "c392378310",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00022": {
+      "text": "$$アドヴェント$$\n「Then what is it you're\n　worried about?」",
+      "status": "draft",
+      "source_sha": "e0eceabe80",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00023": {
+      "text": "$$セツコ$$\n「To overcome great power,\n　we take up great power ourselves...\n　And that is how war keeps spreading...」",
+      "status": "draft",
+      "source_sha": "b9bb625430",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00024": {
+      "text": "$$オリオン$$\n「...Ridiculous. So you just\n　got cold feet, in the end?」",
+      "status": "draft",
+      "source_sha": "eb7d2725b7",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00025": {
+      "text": "$$セツコ$$\n「That's not it, $$オリオン$$」",
+      "status": "draft",
+      "source_sha": "020890dfe0",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00026": {
+      "text": "$$セツコ$$\n「There are things you can't protect without fighting.\n　And if my fighting can stop sorrow\n　from spreading, then I...」",
+      "status": "draft",
+      "source_sha": "653ee04a5c",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00027": {
+      "text": "$$アドヴェント$$\n「A heart that won't lose to\n　sorrow... That's what makes you\n　the $$悲しみの乙女$$'s $$リアクター$$」",
+      "status": "draft",
+      "source_sha": "88915a8e94",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00028": {
+      "text": "$$オリオン$$\n「How pointless. Fighting for\n　something like that」",
+      "status": "draft",
+      "source_sha": "cd3af88757",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00029": {
+      "text": "$$セツコ$$\n「...Thank you, $$オリオン$$. I'm\n　grateful you found the\n　$$バルゴラ$$ for me」",
+      "status": "draft",
+      "source_sha": "9547ddabf4",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00030": {
+      "text": "$$クラヴィア$$\n「$$バルゴラ$$ Glory... The\n　$$悲しみの乙女$$'s $$スフィア$$-equipped\n　unit...」",
+      "status": "draft",
+      "source_sha": "a373d6936d",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00031": {
+      "text": "$$セツコ$$\n「That unit means more to me\n　than just carrying a $$スフィア$$」",
+      "status": "draft",
+      "source_sha": "240bfabcf8",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00032": {
+      "text": "$$オリオン$$\n「Meaning...?」",
+      "status": "draft",
+      "source_sha": "abdc7d1218",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00033": {
+      "text": "$$セツコ$$\n「Yes... Call it a bond with\n　people precious to me」",
+      "status": "draft",
+      "source_sha": "7a07de0749",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00034": {
+      "text": "$$ランド$$\n「Now that's a tearjerker...」",
+      "status": "draft",
+      "source_sha": "92b05e728b",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00035": {
+      "text": "$$クロウ$$\n「Yeah... no kidding」",
+      "status": "draft",
+      "source_sha": "71a15bcd1c",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00036": {
+      "text": "$$ランド$$\n「That $$セツコ$$...\n　She won't say it, but she probably wants\n　to see 《$$デンゼル$$》 and 《$$トビー$$》」",
+      "status": "draft",
+      "source_sha": "34e9f255b2",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": [
+        "デンゼル (Denzel) is not yet a glossary key; used English label 'Denzel' inside the 《》 link per the link-labeling rule and listed it in new_terms."
+      ]
+    },
+    "rengoku:STGZ3REN_00057:00037": {
+      "text": "$$クロウ$$\n「Those the teammates of\n　$$セツコ$$'s I've heard about?」",
+      "status": "draft",
+      "source_sha": "e5a47ee2d6",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00038": {
+      "text": "$$ランド$$\n「Yeah. Ever since we got\n　flung into your world, they've\n　been missing this whole time」",
+      "status": "draft",
+      "source_sha": "a4952db563",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00039": {
+      "text": "$$クロウ$$\n「If they're alive, we'll meet\n　them someday... Them, and\n　$$メール$$ too」",
+      "status": "draft",
+      "source_sha": "9d124039ab",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00040": {
+      "text": "$$ランド$$\n「Yeah. Doc Fox too, and\n　$$エスター$$, and $$マルグリット$$」",
+      "status": "needs_review",
+      "source_sha": "4f9cc54079",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": [
+        "おキツネ博士 could not be identified this session (no glossary/non_dialogue/wiki hit); used provisional 'Doc Fox' and flagged for review."
+      ]
+    },
+    "rengoku:STGZ3REN_00057:00041": {
+      "text": "$$クロウ$$\n「Heh... yeah」",
+      "status": "draft",
+      "source_sha": "93458834de",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00042": {
+      "text": "$$ランド$$\n「So let's keep at it, for\n　that. Both of us」",
+      "status": "draft",
+      "source_sha": "b4ef85e343",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00043": {
+      "text": "$$クロウ$$\n「Yeah... Not just as an\n　afterthought, but I'll protect\n　$$セツコ$$, no matter what」",
+      "status": "draft",
+      "source_sha": "8970382bf9",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00044": {
+      "text": "$$ランド$$\n「Right! Making us cry is\n　fine, but I don't want to\n　see her tears anymore」",
+      "status": "draft",
+      "source_sha": "c9d82ef4f8",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00045": {
+      "text": "Red Backdrop",
+      "status": "draft",
+      "source_sha": "5bdd68fdc5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00046": {
+      "text": "Red Backdrop",
+      "status": "draft",
+      "source_sha": "5bdd68fdc5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00047": {
+      "text": "Red Backdrop",
+      "status": "draft",
+      "source_sha": "5bdd68fdc5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00048": {
+      "text": "$$セツコ$$\n（Where is this...）",
+      "status": "draft",
+      "source_sha": "58952de3bd",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00049": {
+      "text": "$$レジスタンス$$\n「Aah, aaaaaahhh!!」",
+      "status": "draft",
+      "source_sha": "cc86e0fab9",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00050": {
+      "text": "$$セツコ$$\n（Is this inside that child's\n　heart...? My consciousness is...\n　synced with him...）",
+      "status": "draft",
+      "source_sha": "e1d74b5883",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00051": {
+      "text": "$$レジスタンス$$\n「N-no...! I don't want to die...\n　I don't want to die!!」",
+      "status": "draft",
+      "source_sha": "2c3ba1cde5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00052": {
+      "text": "$$レジスタンス$$\n「M-Mom! Mom!! Help me!\n　Somebody help meee!」",
+      "status": "draft",
+      "source_sha": "06c7ed029e",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00053": {
+      "text": "$$セツコ$$\n（...!）",
+      "status": "draft",
+      "source_sha": "310a283f5a",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00054": {
+      "text": "$$セツコ$$\n（This can't go on, fighting\n　like this... I...）",
+      "status": "draft",
+      "source_sha": "7c343da68e",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00055": {
+      "text": "$$セツコ$$\n（I will put an end\n　to this sorrow, no matter\n　what!!）",
+      "status": "draft",
+      "source_sha": "de4653951c",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00056": {
+      "text": "Generic Hangar",
+      "status": "draft",
+      "source_sha": "1ad50a6052",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00057": {
+      "text": "Generic Hangar",
+      "status": "draft",
+      "source_sha": "1ad50a6052",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00058": {
+      "text": "Generic Hangar",
+      "status": "draft",
+      "source_sha": "1ad50a6052",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00059": {
+      "text": "　\n　\n　~Sidereal Base: Hangar~",
+      "status": "draft",
+      "source_sha": "0892484f54",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00060": {
+      "text": "$$クロウ$$\n「Where's $$セツコ$$?」",
+      "status": "draft",
+      "source_sha": "7a7d5193c0",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00061": {
+      "text": "$$クラヴィア$$\n「After she got out of the\n　$$バルゴラ$$, she fell asleep\n　like she'd passed out」",
+      "status": "draft",
+      "source_sha": "d45ba84780",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00062": {
+      "text": "$$クロウ$$\n「I see...」",
+      "status": "draft",
+      "source_sha": "5dba860ca5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00063": {
+      "text": "$$クラヴィア$$\n「It's fine. $$オリオン$$ and\n　$$サルディアス$$ are with her\n　right now」",
+      "status": "draft",
+      "source_sha": "25b597c46d",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00064": {
+      "text": "$$クロウ$$\n「Hey, hey...! Isn't it risky,\n　two men with a sleeping\n　maiden?」",
+      "status": "draft",
+      "source_sha": "e1bc94e749",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00065": {
+      "text": "$$クラヴィア$$\n「But $$オリオン$$ is head over heels for $$セツコ$$,\n　and $$サルディアス$$, despite how he looks,\n　is a gentleman」",
+      "status": "draft",
+      "source_sha": "734c0a1ad6",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00066": {
+      "text": "$$クロウ$$\n「That's what you say, but...」",
+      "status": "draft",
+      "source_sha": "bd01bbf91b",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00067": {
+      "text": "$$クラヴィア$$\n「Heh heh... having such naughty thoughts—\n　you really are a man too, Crowe」",
+      "status": "draft",
+      "source_sha": "e7aac7b463",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00068": {
+      "text": "$$クロウ$$\n「Alright, alright. I get it—so stay\n　with Setsuko too」",
+      "status": "draft",
+      "source_sha": "444ca2bf2e",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00069": {
+      "text": "$$クラヴィア$$\n「Yes」",
+      "status": "draft",
+      "source_sha": "2a6672c3e4",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00070": {
+      "text": "$$クロウ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "2d48e5b4cd",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00071": {
+      "text": "$$ランド$$\n「That Clavier... she's gotten a lot\n　more cheerful」",
+      "status": "draft",
+      "source_sha": "ac5dd02c17",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00072": {
+      "text": "$$クロウ$$\n「Might be thanks to the power of the $$スフィア$$\n　Setsuko drew out」",
+      "status": "draft",
+      "source_sha": "e4c86a1578",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00073": {
+      "text": "$$ランド$$\n「To think she could pull off something like\n　that... It really drove home how frightening\n　the $$スフィア$$ is」",
+      "status": "draft",
+      "source_sha": "b7ba8182ae",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00074": {
+      "text": "$$クロウ$$\n「...But... the reason we won today is that\n　$$ギルター$$ let some petty grudge get in the way」",
+      "status": "draft",
+      "source_sha": "e14dd8e618",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00075": {
+      "text": "$$ランド$$\n「...What do you make of it, Crowe?\n　Him knowing our movements」",
+      "status": "draft",
+      "source_sha": "b483e7878b",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00076": {
+      "text": "$$クロウ$$\n「Once you start suspecting, there's no\n　end to it...」",
+      "status": "draft",
+      "source_sha": "8467b75cd6",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00077": {
+      "text": "$$クロウ$$\n「$$オリオン$$, who pulled out the intel,\n　$$サルディアス$$ and $$クラヴィア$$, who had ties\n　to $$サイデリアル$$...」",
+      "status": "draft",
+      "source_sha": "b62d1de9c0",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00078": {
+      "text": "$$クロウ$$\n「The $$レジスタンス$$ group we asked to join\n　the operation... And then...」",
+      "status": "draft",
+      "source_sha": "729f0b4ff9",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00079": {
+      "text": "$$ランド$$\n「$$アドヴェント$$, huh...」",
+      "status": "draft",
+      "source_sha": "5425416475",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00080": {
+      "text": "$$クロウ$$\n「Yeah...」",
+      "status": "draft",
+      "source_sha": "3b28c06416",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00081": {
+      "text": "$$ランド$$\n「...Guess it's pointless to keep\n　thinking about it」",
+      "status": "draft",
+      "source_sha": "46fceb49e1",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00082": {
+      "text": "$$クロウ$$\n「That's about the size of it. Push it\n　further and it might just be $$ギルター$$'s\n　bluff, to stir up our paranoia」",
+      "status": "draft",
+      "source_sha": "ccfaaabc0a",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00083": {
+      "text": "$$ランド$$\n「So basically, all we can do is keep\n　moving forward」",
+      "status": "draft",
+      "source_sha": "1f9056bfcf",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00084": {
+      "text": "$$クロウ$$\n「That's the kind of development $$ザ・ヒート$$\n　likes, isn't it?」",
+      "status": "draft",
+      "source_sha": "319a0f63b0",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00085": {
+      "text": "$$ランド$$\n「Same goes for you, $$ジ・アンブレイカブル$$」",
+      "status": "draft",
+      "source_sha": "9bcee98484",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": [
+        "ジ・アンブレイカブル researched via WebSearch (srw.wiki.cre.jp / mr-blade.sakura.ne.jp) as Crowe's epithet, parallel to Rand's The Heat; not yet in glossary, added to new_terms."
+      ]
+    },
+    "rengoku:STGZ3REN_00057:00086": {
+      "text": "$$クロウ$$\n「Whatever else, $$バルゴラ$$ is back.\n　There's still hope」",
+      "status": "draft",
+      "source_sha": "cb91ff29a9",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00087": {
+      "text": "$$ランド$$\n「Never mind the modifications to $$バルゴラ$$,\n　but that $$ガナリー・カーバー$$...」",
+      "status": "draft",
+      "source_sha": "34dc5dea2d",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00088": {
+      "text": "$$クロウ$$\n「According to $$クラヴィア$$'s read, it's\n　equipment to let $$バルゴラ$$ control the $$スフィア$$\n　mounted in the $$カーバー$$ more directly」",
+      "status": "draft",
+      "source_sha": "0391f5ef67",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00089": {
+      "text": "$$ランド$$\n「I don't really get it, but $$サイデリアル$$ is\n　better at handling the $$スフィア$$. If it's\n　working fine, I guess that's good enough...」",
+      "status": "draft",
+      "source_sha": "2d84aa23f4",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00090": {
+      "text": "$$クロウ$$\n「Yeah. Beyond that, it's Setsuko's call」",
+      "status": "draft",
+      "source_sha": "379c8eb6e5",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00091": {
+      "text": "$$ランド$$\n「Well... for now, let's cover for\n　$$デンゼル$$ and $$トビー$$ ourselves」",
+      "status": "draft",
+      "source_sha": "b3d57cb1fd",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": [
+        "デンゼル (Denzel Hammer) not yet a glossary key; added to new_terms. 'デンゼルの旦那' rendered as 'old man Denzel' for consistency with Rand's established 'old man Sal' address."
+      ]
+    },
+    "rengoku:STGZ3REN_00057:00092": {
+      "text": "$$クロウ$$\n「...Might not be necessary」",
+      "status": "draft",
+      "source_sha": "20e1717b5a",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00093": {
+      "text": "$$ランド$$\n「Yeah. Setsuko might not need anyone's\n　help anymore」",
+      "status": "draft",
+      "source_sha": "97f3667d92",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00094": {
+      "text": "$$クロウ$$\n「But...」",
+      "status": "draft",
+      "source_sha": "25d47aa410",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00095": {
+      "text": "$$ランド$$\n「Yeah, I know. Anyone who makes her sad,\n　we'll be the ones to crush them」",
+      "status": "draft",
+      "source_sha": "cd86236578",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00096": {
+      "text": "$$クロウ$$\n「And someday... I hope all the fighting\n　comes to an end...」",
+      "status": "draft",
+      "source_sha": "beb62457d7",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00057:00097": {
+      "text": "$$ランド$$\n（That's how it is, $$デンゼル$$, $$トビー$$.\n　I believe we'll see you again someday,\n　for sure）",
+      "status": "draft",
+      "source_sha": "c0b3dc3aaf",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": [
+        "Same Denzel note as 00091; internal monologue wrapper."
+      ]
+    },
+    "rengoku:STGZ3REN_00057:00098": {
+      "text": "$$ランド$$\n（When we meet again, give Setsuko some\n　praise. She's carrying the $$グローリー・スター$$\n　banner admirably...）",
+      "status": "draft",
+      "source_sha": "aed01540da",
+      "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
+      "notes": []
+    }
+  }
+}

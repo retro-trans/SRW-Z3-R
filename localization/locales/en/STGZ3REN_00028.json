@@ -1,0 +1,602 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00028",
+  "messages": {
+    "rengoku:STGZ3REN_00028:00000": {
+      "text": "$$サイデリアル兵$$\n「Hey... another unit of those $$レジスタンス$$ scum?」",
+      "status": "draft",
+      "source_sha": "df01f8ecba",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00001": {
+      "text": "$$サイデリアル兵$$\n「This time it's Area 22.\n　The 3rd squad is heading out to intercept」",
+      "status": "draft",
+      "source_sha": "d3619a8ba1",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00002": {
+      "text": "$$サイデリアル兵$$\n「Their movements have been active lately...\n　Almost like the $$レジスタンス$$ cells everywhere are coordinating」",
+      "status": "draft",
+      "source_sha": "b0444b74b2",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": [
+        "Line runs 63 chars (dry-run REVIEW warning)."
+      ]
+    },
+    "rengoku:STGZ3REN_00028:00003": {
+      "text": "$$サイデリアル兵$$\n「No way...\n　Are you saying someone's pulled together\n　what used to be scattered groups?」",
+      "status": "draft",
+      "source_sha": "6befa46203",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00004": {
+      "text": "$$特殊部隊兵$$\n「There's no need to be afraid」",
+      "status": "draft",
+      "source_sha": "e2ea5878ff",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00005": {
+      "text": "$$サイデリアル兵$$\n「Y-you people are...」",
+      "status": "draft",
+      "source_sha": "0e8517089c",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00006": {
+      "text": "$$特殊部隊兵$$\n「They're nothing but a rabble in the end...\n　Even with someone giving the orders,\n　it hardly amounts to much」",
+      "status": "draft",
+      "source_sha": "6137f15e37",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00007": {
+      "text": "$$サイデリアル兵$$\n「B-but... if the enemy's target\n　is this base...」",
+      "status": "draft",
+      "source_sha": "c03fb06a02",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00008": {
+      "text": "$$特殊部隊兵$$\n「I said there's no need to be afraid」",
+      "status": "draft",
+      "source_sha": "d85f428a22",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00009": {
+      "text": "$$特殊部隊兵$$\n「If it comes to that, all we have to do is use 『that』」",
+      "status": "draft",
+      "source_sha": "fe80d00803",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": [
+        "『あれ』 kept as a nested quoted term 『that』 (bracket punctuation preserved, not Japanese text)."
+      ]
+    },
+    "rengoku:STGZ3REN_00028:00010": {
+      "text": "$$サイデリアル兵$$\n「...!」",
+      "status": "draft",
+      "source_sha": "8b82fbd579",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00011": {
+      "text": "$$特殊部隊兵$$\n「Looks like we've got guests at this base too.\n　Move out to intercept」",
+      "status": "draft",
+      "source_sha": "74481810c3",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00012": {
+      "text": "$$特殊部隊兵$$\n「Heh heh... wish us luck out there,\n　so we won't have to use 『that』」",
+      "status": "draft",
+      "source_sha": "04bbad5c0f",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": [
+        "Same 『あれ』 -> 『that』 treatment."
+      ]
+    },
+    "rengoku:STGZ3REN_00028:00013": {
+      "text": "$$サイデリアル兵$$\n「Creepy bunch, those two...」",
+      "status": "draft",
+      "source_sha": "7412cadd92",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00014": {
+      "text": "$$サイデリアル兵$$\n「No need to get involved with them.\n　They're under Commander $$ギルター$$'s direct command anyway,\n　a different chain from ours」",
+      "status": "draft",
+      "source_sha": "c3256a6d82",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": [
+        "Line runs 56 chars (dry-run REVIEW warning)."
+      ]
+    },
+    "rengoku:STGZ3REN_00028:00015": {
+      "text": "$$サイデリアル兵$$\n「Rumor has it they're locally conscripted troops, though...」",
+      "status": "draft",
+      "source_sha": "ca036cf169",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": [
+        "Line runs 60 chars (dry-run REVIEW warning)."
+      ]
+    },
+    "rengoku:STGZ3REN_00028:00016": {
+      "text": "$$サイデリアル兵$$\n「Forget that, let's prepare for the worst too.\n　In case 『that』 gets used...」",
+      "status": "draft",
+      "source_sha": "14028e64d5",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": [
+        "Same 『あれ』 -> 『that』 treatment."
+      ]
+    },
+    "rengoku:STGZ3REN_00028:00017": {
+      "text": "$$サイデリアル兵$$\n「Yeah...\n　Though I'd rather not imagine it...」",
+      "status": "draft",
+      "source_sha": "42f055b37c",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00018": {
+      "text": "$$ブルー$$\n「Enemy base, entering combat range」",
+      "status": "draft",
+      "source_sha": "569620a6cf",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00019": {
+      "text": "$$アドヴェント$$\n「Looks like the diversion by the\n　nearby $$レジスタンス$$ units paid off」",
+      "status": "draft",
+      "source_sha": "0d4bf41530",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00020": {
+      "text": "$$アドヴェント$$\n「Just what you'd expect from the ace of Area 35,\n　the wandering repairman, and the money-grubbing hotshot mercenary team.\n　They agreed to help us out without complaint」",
+      "status": "draft",
+      "source_sha": "e11313e35a",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": [
+        "Line 2 runs long (72 chars, dry-run REVIEW warning) to avoid cutting the ace/repairman/mercenary list; flagged as an acceptable length warning, not a meaning cut."
+      ]
+    },
+    "rengoku:STGZ3REN_00028:00021": {
+      "text": "$$クロウ$$\n「If that's the case, we've got a heavy responsibility」",
+      "status": "draft",
+      "source_sha": "ff9701a807",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00022": {
+      "text": "$$ランド$$\n「Yeah, if we can't take this base down,\n　we won't be able to face them」",
+      "status": "draft",
+      "source_sha": "28ae54c734",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00023": {
+      "text": "$$セツコ$$\n「And at this base,\n　$$スフィア$$ is being researched...」",
+      "status": "draft",
+      "source_sha": "c55cb1c722",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00024": {
+      "text": "$$ブルー$$\n「$$サイデリアル$$'s interception unit, incoming!」",
+      "status": "draft",
+      "source_sha": "53b35975ad",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00025": {
+      "text": "$$セツコ$$\n「That coloring...!\n　Directly under $$ギルター$$'s command...!」",
+      "status": "draft",
+      "source_sha": "6940ab47dc",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00026": {
+      "text": "$$ランド$$\n「But that stuck-up bastard doesn't seem to be around」",
+      "status": "draft",
+      "source_sha": "ca02db554f",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00027": {
+      "text": "$$アドヴェント$$\n「Knowing how eager he is for glory,\n　he's probably gone to mop up\n　the forces in the area himself」",
+      "status": "draft",
+      "source_sha": "accaffd8d1",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00028": {
+      "text": "$$クロウ$$\n「Then, as the $$レジスタンス$$'s star of hope,\n　let's hurry up and get the job done」",
+      "status": "draft",
+      "source_sha": "e4b1865589",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00029": {
+      "text": "$$アドヴェント$$\n「Don't let your guard down.\n　This base makes use of Earth facilities,\n　but I hear all sorts of research goes on here」",
+      "status": "draft",
+      "source_sha": "a734736546",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00030": {
+      "text": "$$ランド$$\n「It's probably research to torment Earthlings, right?\n　Then I'll smash it up nice and loud!」",
+      "status": "draft",
+      "source_sha": "40030bd44b",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00031": {
+      "text": "$$セツコ$$\n（He looks so alive...）",
+      "status": "draft",
+      "source_sha": "7bff53f090",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00032": {
+      "text": "$$クロウ$$\n（And here he is, hating that nickname...\n　what kind of logic is that...）",
+      "status": "draft",
+      "source_sha": "136845fbdf",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00033": {
+      "text": "$$アドヴェント$$\n「All units, move out!\n　Take down the defense force and seize this base!」",
+      "status": "draft",
+      "source_sha": "b39a5b8b5a",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00034": {
+      "text": "???\n（That white unit...）",
+      "status": "draft",
+      "source_sha": "ab04350411",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00035": {
+      "text": "???\n（Ah... my inspiration is\n　reacting...!）",
+      "status": "draft",
+      "source_sha": "81919c4f01",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00036": {
+      "text": "$$ランド$$\n「M-man, those guys were kind of creepy, huh」",
+      "status": "draft",
+      "source_sha": "3117e98fb8",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00037": {
+      "text": "$$クロウ$$\n「That unit... they felt a little\n　different from the rest...」",
+      "status": "draft",
+      "source_sha": "cbb645bcdf",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00038": {
+      "text": "$$セツコ$$\n「I hope that taking this base\n　will also let us get some information\n　on $$サイデリアル$$...」",
+      "status": "draft",
+      "source_sha": "6ff1600931",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00039": {
+      "text": "$$サイデリアル兵$$\n「Damn them!\n　Talking big, and this is how it ends!」",
+      "status": "draft",
+      "source_sha": "c8eeb59e4c",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00040": {
+      "text": "$$サイデリアル兵$$\n「Leave it for later!\n　If they've been beaten,\n　that means 『that thing』 will activate!」",
+      "status": "draft",
+      "source_sha": "a8d48212cf",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00041": {
+      "text": "$$セツコ$$\n「What is that...!?」",
+      "status": "draft",
+      "source_sha": "ed865166f5",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00042": {
+      "text": "$$ランド$$\n「Guess the ones who stayed behind ran for it」",
+      "status": "draft",
+      "source_sha": "0ad92726d5",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00043": {
+      "text": "$$クロウ$$\n「That's bad.\n　If they pulled out instead of surrendering,\n　they might've wrecked the base on the way out」",
+      "status": "draft",
+      "source_sha": "0c0afc1f8d",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00044": {
+      "text": "$$ブルー$$\n「Everyone...!\n　Something's coming out!」",
+      "status": "draft",
+      "source_sha": "d56a091b95",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00045": {
+      "text": "$$ランド$$\n「So there was still fighting power left!」",
+      "status": "draft",
+      "source_sha": "581570911b",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00046": {
+      "text": "$$アドヴェント$$\n「Watch out...!\n　That's...!」",
+      "status": "draft",
+      "source_sha": "d320cae58c",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00047": {
+      "text": "$$セツコ$$\n「Ugh...!」",
+      "status": "draft",
+      "source_sha": "eeadba337f",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00048": {
+      "text": "$$クロウ$$\n「What's the big idea!?\n　Don't they even care about defending the base!?」",
+      "status": "draft",
+      "source_sha": "56cc6ababd",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00049": {
+      "text": "$$アドヴェント$$\n「It's pointless to expect reason from them」",
+      "status": "draft",
+      "source_sha": "6e3f768934",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00050": {
+      "text": "$$ブルー$$\n「What do you mean...!?」",
+      "status": "draft",
+      "source_sha": "9d47e4f674",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00051": {
+      "text": "$$アドヴェント$$\n「Sending over the data\n　we monitored from that unit's cockpit」",
+      "status": "draft",
+      "source_sha": "f3139833d1",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00052": {
+      "text": "$$インセクト$$\n「.........」",
+      "status": "draft",
+      "source_sha": "ca06df5f71",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00053": {
+      "text": "$$セツコ$$\n「...!」",
+      "status": "draft",
+      "source_sha": "c51b11a0d5",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00054": {
+      "text": "$$ランド$$\n「What the hell is that!?\n　An alien!?」",
+      "status": "draft",
+      "source_sha": "b6cfb11038",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00055": {
+      "text": "$$アドヴェント$$\n「Most likely... some kind of modified soldier」",
+      "status": "draft",
+      "source_sha": "222fa6bf8a",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00056": {
+      "text": "$$クロウ$$\n「They turned an insect into a soldier!?」",
+      "status": "draft",
+      "source_sha": "ae5ba6530d",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00057": {
+      "text": "$$アドヴェント$$\n「They likely repurposed an insect's aggression\n　and coordination as a weapon」",
+      "status": "draft",
+      "source_sha": "2fe6ff752e",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00058": {
+      "text": "$$セツコ$$\n「So that's... what was being\n　researched at this base...」",
+      "status": "draft",
+      "source_sha": "4dbe34f578",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00059": {
+      "text": "$$ランド$$\n「Wait a second!\n　Say what you want, but that thing's clearly\n　just attacking whatever's in reach!」",
+      "status": "draft",
+      "source_sha": "1e1f184ac2",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00060": {
+      "text": "$$クロウ$$\n「So it's unfinished...!\n　That's why the ones who stayed behind bolted so fast!」",
+      "status": "draft",
+      "source_sha": "c18a1fe6e7",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00061": {
+      "text": "$$アドヴェント$$\n「All units, be careful.\n　It's dangerous to leave that thing running loose」",
+      "status": "draft",
+      "source_sha": "88e276442c",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00062": {
+      "text": "$$アドヴェント$$\n「And an insect's aggression and reflexes\n　surpass a human's」",
+      "status": "draft",
+      "source_sha": "a302ee04dd",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00063": {
+      "text": "$$クロウ$$\n「Guess we've got no choice but to fight...」",
+      "status": "draft",
+      "source_sha": "d6d82ef49d",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00064": {
+      "text": "$$ランド$$\n「Damn it!\n　Never thought I'd be catching bugs\n　at this age!」",
+      "status": "draft",
+      "source_sha": "946f77ab68",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00065": {
+      "text": "$$ブルー$$\n「We managed to win, but...」",
+      "status": "draft",
+      "source_sha": "55fd1fe700",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00066": {
+      "text": "$$セツコ$$\n「To think they're developing weapons like that...」",
+      "status": "draft",
+      "source_sha": "f127df973c",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00067": {
+      "text": "$$クロウ$$\n「$$サイデリアル$$...\n　seems they're more dangerous than we thought」",
+      "status": "draft",
+      "source_sha": "5a9e08f22c",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00068": {
+      "text": "$$ランド$$\n「Let's go smash the enemy's core, quick.\n　Once we crush the head, the $$レジスタンス$$ everywhere else\n　can push things to at least even odds」",
+      "status": "draft",
+      "source_sha": "b70cfcdfe3",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00069": {
+      "text": "$$アドヴェント$$\n「Let's hope this base becomes part of that strength」",
+      "status": "draft",
+      "source_sha": "af61ca5b51",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00070": {
+      "text": "???\n「N-no way...\n　those people... are they really coming in here...!?」",
+      "status": "draft",
+      "source_sha": "381329773d",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00071": {
+      "text": "$$セツコ$$\n（These people... they're hurling\n　feelings of hatred at us...）",
+      "status": "draft",
+      "source_sha": "34b6553c53",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00072": {
+      "text": "$$セツコ$$\n（But why...?\n　Why can I sense that...?）",
+      "status": "draft",
+      "source_sha": "312eed55f7",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00073": {
+      "text": "$$アドヴェント$$\n（Hatred laid bare once reason is destroyed...\n　which means, behind it is...）",
+      "status": "draft",
+      "source_sha": "4800d96072",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00074": {
+      "text": "$$セツコ$$\n「Turning Earth's creatures into weapons...!」",
+      "status": "draft",
+      "source_sha": "b140d87795",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00075": {
+      "text": "$$セツコ$$\n「$$サイデリアル$$...!\n　We have to stop this, no matter what...!」",
+      "status": "draft",
+      "source_sha": "8a3e07bd8d",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00076": {
+      "text": "$$ランド$$\n「Pest control's not exactly my job,\n　but I can't say that now!!」",
+      "status": "draft",
+      "source_sha": "354a65b203",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00077": {
+      "text": "$$ランド$$\n「Whatever you are,\n　if you stand in front of me, you'd better be ready!」",
+      "status": "draft",
+      "source_sha": "1b41925b56",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00078": {
+      "text": "$$クロウ$$\n「I feel for you, being modified and forced to fight\n　without even understanding why...」",
+      "status": "draft",
+      "source_sha": "825e1fe700",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00079": {
+      "text": "$$クロウ$$\n「But I've got no plans to die either...!\n　Scrape my arm, scrape my leg,\n　I'm not calling off the attack!」",
+      "status": "draft",
+      "source_sha": "dd2f547a33",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00080": {
+      "text": "$$アドヴェント$$\n（Such a sly little trick...）",
+      "status": "draft",
+      "source_sha": "103f38d379",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00081": {
+      "text": "$$アドヴェント$$\n（But don't think something like this\n　is enough to stop me）",
+      "status": "draft",
+      "source_sha": "9e7626bc71",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00028:00082": {
+      "text": "$$アドヴェント$$\n「Ah!」",
+      "status": "draft",
+      "source_sha": "2b5848f6d3",
+      "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
+      "notes": []
+    }
+  }
+}

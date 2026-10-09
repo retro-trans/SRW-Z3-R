@@ -1,0 +1,614 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00034",
+  "messages": {
+    "rengoku:STGZ3REN_00034:00000": {
+      "text": "$$サルディアス$$\n「Whoa!」",
+      "status": "draft",
+      "source_sha": "b06317e51f",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00001": {
+      "text": "$$特殊部隊兵$$\n「$$サルディアス・アクス$$.\n　Just give up already」",
+      "status": "draft",
+      "source_sha": "467f08845c",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00002": {
+      "text": "$$特殊部隊兵$$\n「You're the last one left.\n　Don't think betrayal will be forgiven」",
+      "status": "draft",
+      "source_sha": "8b5e889bad",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00003": {
+      "text": "$$サルディアス$$\n「That, right there.\n　That stiffness of yours just doesn't suit me,\n　not one bit」",
+      "status": "draft",
+      "source_sha": "ef05ab3dd0",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00004": {
+      "text": "$$特殊部隊兵$$\n「Then die...!」",
+      "status": "draft",
+      "source_sha": "dc308f2dd3",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00005": {
+      "text": "$$サルディアス$$\n「Hold on a second.\n　Looks like we've got company」",
+      "status": "draft",
+      "source_sha": "6cf94a3187",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00006": {
+      "text": "$$ランド$$\n「Just like $$ブルー$$ said!\n　$$サイデリアル$$ are fighting each other!」",
+      "status": "draft",
+      "source_sha": "d510fab0c8",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00007": {
+      "text": "$$ブルー$$\n「When I first detected them,\n　it was a multi-on-multi fight, but...」",
+      "status": "draft",
+      "source_sha": "6555f8b9ff",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00008": {
+      "text": "$$クロウ$$\n「So all but that one unit\n　got taken out, huh」",
+      "status": "draft",
+      "source_sha": "c08aac7b36",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00009": {
+      "text": "$$セツコ$$\n「But that machine...\n　it's the same type $$ギルター$$ rides」",
+      "status": "draft",
+      "source_sha": "7ad403cbfc",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00010": {
+      "text": "$$ランド$$\n「So basically, he's some kind of big shot, huh」",
+      "status": "draft",
+      "source_sha": "6044460168",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00011": {
+      "text": "$$サルディアス$$\n「Hey there!\n　You're the ones they call the rumored\n　hope of the $$レジスタンス$$, right!?」",
+      "status": "draft",
+      "source_sha": "9d92f83b36",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00012": {
+      "text": "$$サルディアス$$\n「My name is $$サルディアス・アクス$$.\n　I'd like to defect!」",
+      "status": "draft",
+      "source_sha": "5776d268e6",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00013": {
+      "text": "$$サルディアス$$\n「My, you're impatient.\n　Wait until I'm done talking」",
+      "status": "draft",
+      "source_sha": "b3eaca62e2",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00014": {
+      "text": "$$セツコ$$\n「What should we do?」",
+      "status": "draft",
+      "source_sha": "f6cd5da66e",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00015": {
+      "text": "$$クロウ$$\n「$$ファイヤバグ$$'s over there.\n　At the very least, we take them down」",
+      "status": "draft",
+      "source_sha": "b18c3229da",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00016": {
+      "text": "$$ランド$$\n「We can decide what to do with that\n　old man Sal-whatever over there after that」",
+      "status": "draft",
+      "source_sha": "51991c18fe",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": [
+        "\"サル何とかのおっさん\" (old man Sal-whatever) reflects Rand not remembering the full name yet."
+      ]
+    },
+    "rengoku:STGZ3REN_00034:00017": {
+      "text": "$$サルディアス$$\n「It's $$サルディアス$$.\n　Whatever else you do, please don't just call me \"Sal\"」",
+      "status": "draft",
+      "source_sha": "bf38e94237",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00018": {
+      "text": "$$ランド$$\n「Alright, alright.\n　We'll talk about that later」",
+      "status": "draft",
+      "source_sha": "213e01e8ea",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00019": {
+      "text": "$$クロウ$$\n「Alright, let's go, $$セツコ$$」",
+      "status": "draft",
+      "source_sha": "8833a84aa2",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00020": {
+      "text": "$$セツコ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00021": {
+      "text": "$$クロウ$$\n「I know that mysterious boy's on your mind,\n　but let's leave that to $$アドヴェント$$」",
+      "status": "draft",
+      "source_sha": "6d66a88d5d",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00022": {
+      "text": "$$セツコ$$\n「Right...」",
+      "status": "draft",
+      "source_sha": "72bb573688",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00023": {
+      "text": "$$ランド$$\n「That's how it is, old man Sal.\n　For now, we're lending a hand」",
+      "status": "draft",
+      "source_sha": "8411441d91",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00024": {
+      "text": "$$サルディアス$$\n「I told you, about that nickname...」",
+      "status": "draft",
+      "source_sha": "bc0b6f4f8f",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00025": {
+      "text": "$$クロウ$$\n「Talk later.\n　First, we get through this!」",
+      "status": "draft",
+      "source_sha": "2c1a8b35db",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00026": {
+      "text": "$$サルディアス$$\n「Yes, please do!\n　Show me that rumored strength of yours!」",
+      "status": "draft",
+      "source_sha": "4842a379cc",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00027": {
+      "text": "$$ブルー$$\n「Be careful!\n　Enemy reinforcements incoming!」",
+      "status": "draft",
+      "source_sha": "7ed14577e4",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00028": {
+      "text": "$$クロウ$$\n「They're swarming out in droves!」",
+      "status": "draft",
+      "source_sha": "4ad6b6d463",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00029": {
+      "text": "$$ランド$$\n「With this many, it's gonna be a pain!」",
+      "status": "draft",
+      "source_sha": "47a2cff7c8",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00030": {
+      "text": "$$ブルー$$\n「It's alright.\n　We've got backup coming too」",
+      "status": "draft",
+      "source_sha": "c9c981d599",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00031": {
+      "text": "$$クロウ$$\n「Great timing, $$アドヴェント$$!」",
+      "status": "draft",
+      "source_sha": "6ee3fd1231",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00032": {
+      "text": "$$ランド$$\n「Who's that bandaged guy over there?」",
+      "status": "draft",
+      "source_sha": "f2c1583a2d",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00033": {
+      "text": "$$アドヴェント$$\n「He's the one piloting it」",
+      "status": "draft",
+      "source_sha": "0ab93a779b",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00034": {
+      "text": "???\n「.........」",
+      "status": "draft",
+      "source_sha": "26604fbff1",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": [
+        "Speaker is pid_R_OLON_Q (later named Orion by Setsuko at 00057/00061), kept as literal \"???\" per source and house rule since the JP speaker tag itself is ？？？ throughout this slice."
+      ]
+    },
+    "rengoku:STGZ3REN_00034:00035": {
+      "text": "$$セツコ$$\n「Huh...」",
+      "status": "draft",
+      "source_sha": "86f5034ed2",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00036": {
+      "text": "$$アドヴェント$$\n「When he learned enemy reinforcements were closing in on you,\n　he offered to sortie as well」",
+      "status": "draft",
+      "source_sha": "f1f663aadd",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00037": {
+      "text": "$$セツコ$$\n「Can you... fight?」",
+      "status": "draft",
+      "source_sha": "052b303f52",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00038": {
+      "text": "???\n「I remember how to pilot a machine」",
+      "status": "draft",
+      "source_sha": "af7c7b132f",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00039": {
+      "text": "$$ランド$$\n「Sounds like he's got a grudge\n　against $$サイデリアル$$ too」",
+      "status": "draft",
+      "source_sha": "f813e3e6c8",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00040": {
+      "text": "$$サルディアス$$\n「Um, I don't know your situation over there,\n　but if you're going to help, please make it quick.\n　I'm... in quite a bind here」",
+      "status": "draft",
+      "source_sha": "8c021546c1",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00041": {
+      "text": "$$ランド$$\n「Got it, old man Sal!」",
+      "status": "draft",
+      "source_sha": "91904d6882",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00042": {
+      "text": "$$サルディアス$$\n「Ahh... somehow I just can't be happy about that」",
+      "status": "draft",
+      "source_sha": "b0296dae3b",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00043": {
+      "text": "$$セツコ$$\n「Are you alright?\n　You're not pushing yourself?」",
+      "status": "draft",
+      "source_sha": "3a977d8cd7",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00044": {
+      "text": "???\n「You don't need to worry about me.\n　I don't intend to be a burden to you」",
+      "status": "draft",
+      "source_sha": "d85d9223e6",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00045": {
+      "text": "$$アドヴェント$$\n「Then prove those words to me」",
+      "status": "draft",
+      "source_sha": "2431104651",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00046": {
+      "text": "???\n「That's the plan」",
+      "status": "draft",
+      "source_sha": "ea74312d65",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00047": {
+      "text": "$$クロウ$$\n「Somehow we pulled it off...」",
+      "status": "draft",
+      "source_sha": "5950236a5a",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00048": {
+      "text": "$$アドヴェント$$\n「But by retaking the base,\n　$$サイデリアル$$'s attention is starting to gather on us」",
+      "status": "draft",
+      "source_sha": "ed2b0bdbd6",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00049": {
+      "text": "$$クロウ$$\n「Yeah...\n　Looks like a rough road ahead」",
+      "status": "draft",
+      "source_sha": "8228a39af0",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00050": {
+      "text": "$$ランド$$\n「Don't worry so much.\n　We've picked up some reliable allies, after all」",
+      "status": "draft",
+      "source_sha": "1349c6d959",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00051": {
+      "text": "???\n「.........」",
+      "status": "draft",
+      "source_sha": "26604fbff1",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00052": {
+      "text": "$$セツコ$$\n「Thank you.\n　Today's victory is thanks to you and $$アドヴェント$$」",
+      "status": "draft",
+      "source_sha": "d28271844a",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00053": {
+      "text": "???\n「I didn't fight to help you or anything」",
+      "status": "draft",
+      "source_sha": "721955c4c6",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00054": {
+      "text": "$$セツコ$$\n「Even so, I want to thank you.\n　Thank you」",
+      "status": "draft",
+      "source_sha": "fa5b9d0004",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00055": {
+      "text": "???\n「...Suit yourself」",
+      "status": "draft",
+      "source_sha": "3de74225f5",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00056": {
+      "text": "$$セツコ$$\n「Then, one more thing...\n　Since we'll be fighting together from now on,\n　I want to decide what to call you」",
+      "status": "draft",
+      "source_sha": "b8d200cb5b",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00057": {
+      "text": "$$セツコ$$\n「How about... $$オリオン$$?」",
+      "status": "draft",
+      "source_sha": "e043782f35",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00058": {
+      "text": "$$アドヴェント$$\n「Taken from the stars shining overhead...\n　Not a bad name」",
+      "status": "draft",
+      "source_sha": "a5d5307e3a",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00059": {
+      "text": "$$セツコ$$\n「What do you think?」",
+      "status": "draft",
+      "source_sha": "7563ea2080",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00060": {
+      "text": "???\n「...I told you, suit yourself」",
+      "status": "draft",
+      "source_sha": "e76d338296",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00061": {
+      "text": "$$セツコ$$\n「Then from now on, I'll call you $$オリオン$$」",
+      "status": "draft",
+      "source_sha": "ce5ddada45",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00062": {
+      "text": "$$サルディアス$$\n「Ah, how beautiful...!\n　What a heartwarming scene you've shown me」",
+      "status": "draft",
+      "source_sha": "8cd1f56623",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00063": {
+      "text": "$$サルディアス$$\n「As a comrade who'll be fighting alongside you from now on,\n　I'd love to be granted a name too, but unfortunately\n　I'm rather fond of this name, $$サルディアス$$...」",
+      "status": "draft",
+      "source_sha": "ee7b1c044f",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00064": {
+      "text": "$$ランド$$\n「Wait a second, old man Sal.\n　You planning on coming with us?」",
+      "status": "draft",
+      "source_sha": "fdefede775",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00065": {
+      "text": "$$サルディアス$$\n「Huh... wasn't that your intention\n　when you saved me?」",
+      "status": "draft",
+      "source_sha": "440acec482",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00066": {
+      "text": "$$クロウ$$\n「That depends on how the interrogation goes」",
+      "status": "draft",
+      "source_sha": "4682085a05",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00067": {
+      "text": "$$サルディアス$$\n「Ah... that's not fair!\n　That boy over there looks like he used to be\n　one of $$サイデリアル$$ too, yet it's only me!」",
+      "status": "draft",
+      "source_sha": "5de82b7547",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00068": {
+      "text": "$$サルディアス$$\n「Ahh... pretty boys have it easy...\n　If only I were twenty years younger...」",
+      "status": "draft",
+      "source_sha": "5733c33810",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00069": {
+      "text": "$$アドヴェント$$\n「That's enough.\n　...Since you were piloting the captain's unit,\n　you must hold a certain rank」",
+      "status": "draft",
+      "source_sha": "0fc2eca43f",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00070": {
+      "text": "$$アドヴェント$$\n「I expect you to provide information\n　on $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "0ba71222a1",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00071": {
+      "text": "$$サルディアス$$\n「Haha... let's take that\n　a little at a time, shall we...」",
+      "status": "draft",
+      "source_sha": "c16b0947b7",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00072": {
+      "text": "$$アドヴェント$$\n「First, let's return to base.\n　$$クラヴィア$$ is waiting for us」",
+      "status": "draft",
+      "source_sha": "20b77306d9",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00073": {
+      "text": "$$ランド$$\n「Let's hope she's got the food ready\n　like she promised」",
+      "status": "draft",
+      "source_sha": "cac83f3759",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00074": {
+      "text": "$$クロウ$$\n「Us, bewitched by the $$スフィア$$, a $$サイデリアル$$ scientist,\n　a mysterious boy, a deserter...\n　Sounds like a lively party in the making...」",
+      "status": "draft",
+      "source_sha": "f84903be1e",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00075": {
+      "text": "$$サルディアス$$\n「Oh, dear... I'm done for...\n　To think my life would end in a place like this...」",
+      "status": "draft",
+      "source_sha": "066cbe95d2",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": [
+        "event t_009, different from surrounding t_008 dialogue; reads as an alternate/defeat-quote line for Saldias, translated on its own terms."
+      ]
+    },
+    "rengoku:STGZ3REN_00034:00076": {
+      "text": "???\n「I'm... not yet...」",
+      "status": "draft",
+      "source_sha": "dd6f6a1de5",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": [
+        "event t_010; ？？？ speaker (Orion pre-naming) also reads as an alternate/defeat-quote line."
+      ]
+    },
+    "rengoku:STGZ3REN_00034:00077": {
+      "text": "$$サルディアス$$\n「Well... gaining freedom turns out to be\n　more difficult than I thought...」",
+      "status": "draft",
+      "source_sha": "4e4cfc34af",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": [
+        "event t_100, a separate flavor/aside line for Saldias outside the main t_008 scene."
+      ]
+    },
+    "rengoku:STGZ3REN_00034:00078": {
+      "text": "$$サルディアス$$\n「Believing paradise lies just beyond that difficulty,\n　I suppose I'll keep at it!」",
+      "status": "draft",
+      "source_sha": "dac7f5cbd6",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00079": {
+      "text": "$$アドヴェント$$\n（Having seized a $$サイデリアル$$ base,\n　and now taking in a deserter as well,\n　the enemy's eyes will turn to us...）",
+      "status": "draft",
+      "source_sha": "771635ffe0",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00080": {
+      "text": "$$アドヴェント$$\n（If we keep fighting like this,\n　opponents our current strength can't match\n　will surely appear...）",
+      "status": "draft",
+      "source_sha": "d476dc1780",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00081": {
+      "text": "$$アドヴェント$$\n「But even so...!\n　We must move forward!」",
+      "status": "draft",
+      "source_sha": "8d7f9d3c48",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00082": {
+      "text": "???\n「My existence... my fight...」",
+      "status": "draft",
+      "source_sha": "9c82288587",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": [
+        "event t_102; ？？？ speaker, likely an alternate aside line paired with 00081/00083."
+      ]
+    },
+    "rengoku:STGZ3REN_00034:00083": {
+      "text": "???\n「...Right now... all I can do is move forward...!」",
+      "status": "draft",
+      "source_sha": "a2302c686b",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00034:00084": {
+      "text": "$$アドヴェント$$\n「Ah!」",
+      "status": "draft",
+      "source_sha": "2b5848f6d3",
+      "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
+      "notes": []
+    }
+  }
+}

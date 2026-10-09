@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00097",
+  "messages": {
+    "rengoku:STGZ3REN_00097:00000": {
+      "text": "$$セツコ$$\n「This is...!」",
+      "status": "draft",
+      "source_sha": "40973163ac",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00001": {
+      "text": "$$クロウ$$\n「Near $$セントラル・ベース$$...」",
+      "status": "draft",
+      "source_sha": "a25e4d7ac1",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00002": {
+      "text": "$$ランド$$\n「So we... made it back, huh」",
+      "status": "draft",
+      "source_sha": "bb81167c4c",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00003": {
+      "text": "$$アドヴェント$$\n「That's right」",
+      "status": "draft",
+      "source_sha": "7abeaf16bf",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00004": {
+      "text": "$$アドヴェント$$\n「There's something we must do here, on this $$翠の地球$$」",
+      "status": "draft",
+      "source_sha": "bfb1e162a8",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00005": {
+      "text": "$$セツコ$$\n「Liberating the $$中央大陸$$, right?」",
+      "status": "draft",
+      "source_sha": "76cd7b097f",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": [
+        "中央大陸 (Central Continent) is not a glossary key; used the established English from non_dialogue.json library/scenario entries (library:93e18006c122f53c, scenario:df1728a6e37eb2a4)"
+      ]
+    },
+    "rengoku:STGZ3REN_00097:00006": {
+      "text": "$$アドヴェント$$\n「That's right.\n　Fortunately, getting caught in the $$時空震動$$ means\n　$$サイデリアル$$ has lost track of us」",
+      "status": "draft",
+      "source_sha": "a0d242eb10",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00007": {
+      "text": "$$クロウ$$\n「Caught in it...?\n　Wasn't that something you did?」",
+      "status": "draft",
+      "source_sha": "73280862a4",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00008": {
+      "text": "$$アドヴェント$$\n「I'm sorry...\n　Even I don't fully understand what happened then...」",
+      "status": "draft",
+      "source_sha": "b4d179a8d1",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00009": {
+      "text": "$$クロウ$$\n「...Forget it.\n　Now's not the time to talk about that」",
+      "status": "draft",
+      "source_sha": "217e829cfa",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00010": {
+      "text": "$$セツコ$$\n「With that man $$尸空$$ absent,\n　and the enemy having lost track of us, now is...」",
+      "status": "draft",
+      "source_sha": "feae915266",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00011": {
+      "text": "$$ランド$$\n「Our best chance to take down $$セントラル・ベース$$, huh」",
+      "status": "draft",
+      "source_sha": "49cd68259c",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00097:00012": {
+      "text": "$$アドヴェント$$\n「Let's go...\n　We'll defeat the $$怨嗟の魔蠍$$ and free this continent\n　from $$サイデリアル$$'s grip」",
+      "status": "draft",
+      "source_sha": "7ea4570df0",
+      "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
+      "notes": []
+    }
+  }
+}

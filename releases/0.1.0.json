@@ -1,0 +1,830 @@
+{
+  "schema": "srw-z3-r-file-patches-v1",
+  "game_id": "srw-z3-rengoku-ps3",
+  "game_name": "Super Robot Taisen Z3: Rengoku-hen",
+  "title_id": "NPJB00689",
+  "platform": "PS3",
+  "language": "en",
+  "version": "0.1.0",
+  "local_build": "rengoku_en_018",
+  "distribution": "per-file-xdelta",
+  "retro_trans_automatic_supported": false,
+  "build_report_sha256": "819cf17905618a2d14b2a857fbed43e85fb55efbca1389c40ae3c8e550fca4b5",
+  "source_pkg_sha256": "77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307",
+  "build_source_commit": null,
+  "provenance_note": "Existing build 018 predates Git initialization. Published translations remove original script fields; the build input hashes remain in the local build report.",
+  "source_files": {
+    "ICON0.PNG": {
+      "bytes": 88347,
+      "sha256": "ac02da54ed297dc4fbe54c2bd57a58e9aa73319267c651d807f9d5d9983213cd"
+    },
+    "MANUAL/001.DDS": {
+      "bytes": 1409152,
+      "sha256": "1f1a6fea392a56bcf80cc74d6788590012712039223f8ca74d4a7ace46bb8700"
+    },
+    "MANUAL/002.DDS": {
+      "bytes": 1409152,
+      "sha256": "2fcb64bf5058694e3580ce11ffb2b4bd35d1dc8760cfb9a90957ad9080965863"
+    },
+    "MANUAL/003.DDS": {
+      "bytes": 1409152,
+      "sha256": "ab0c756a2f284ed12321b948a3d04f1b798d6950b834ada0d7feaf1ba1922fe0"
+    },
+    "MANUAL/004.DDS": {
+      "bytes": 1409152,
+      "sha256": "5bb8c3de8264eac294abf227fc9240885103d9381d9ec86606c8fed218c3ed26"
+    },
+    "PARAM.SFO": {
+      "bytes": 1192,
+      "sha256": "22f7dcae6da75e8ce22ea99ef03ef1045e80ba63080cccdcfa6e75b87b423983"
+    },
+    "PIC1.PNG": {
+      "bytes": 2339650,
+      "sha256": "4cfd561f4c5326d865443c159919986e85cdd1b2bc939ad34331dfdd2443ac32"
+    },
+    "PS3LOGO.DAT": {
+      "bytes": 5120,
+      "sha256": "e08430957ac3f4ee719dc2ed04d3443c395dd3b997d8f34f68a1b5c37d92f425"
+    },
+    "USRDIR/COMMONDATA_REN/KURODATA/LUACPKZ3REN.CPK": {
+      "bytes": 67132,
+      "sha256": "b829d9a277bbd3dc82124df70da7c028abc4a073be10d9e7be49e7328b40238f"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTV_ALL_KEYWORD_DEF.CPK": {
+      "bytes": 12840,
+      "sha256": "aae766305e5cb58aa760f6065e11749dcfbe5eb32632e4eea38f44c595d8f7f8"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_KW.CPK": {
+      "bytes": 27484,
+      "sha256": "5bdca3d22ef3013b94366cd28ef0653830d44fa40f8fcd911f772b479613d3be"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_PT.CPK": {
+      "bytes": 15380,
+      "sha256": "32561c20a7001747ff88edfe44495591901679f178086279dd23edd3f1bd4c77"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_RT.CPK": {
+      "bytes": 23772,
+      "sha256": "c59fe88ada9ac83165c2bb57c7cb61a30466ba8892e3f927fc988fdc199a532d"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/RPW_DATA.CPK": {
+      "bytes": 31552,
+      "sha256": "a9b1dece02bce3dbad6820b3a9155f833face366e953086490c14e1fb3382e65"
+    },
+    "USRDIR/DATA_REN/AIDDATA/AIDDATAPACK_R.CPK": {
+      "bytes": 11897588,
+      "sha256": "f386a7939865a04244fb9ad7e88a4f14f3dba2e9ca86f555c3026f28e1a13e03"
+    },
+    "USRDIR/DATA_REN/ANIME/EFFPS3.CPK": {
+      "bytes": 83086224,
+      "sha256": "4c3c453f4928c923f90040acc0dea23fbc8e4ef2cd23f166a36283c5b8c6ba44"
+    },
+    "USRDIR/DATA_REN/BTLC/BAR.CPK": {
+      "bytes": 720472,
+      "sha256": "035b9a87a0f53b674d2059bf28b7ec66e310c75a6661bff15a232b417eb8848a"
+    },
+    "USRDIR/DATA_REN/BTLC/BG.CPK": {
+      "bytes": 40940028,
+      "sha256": "b2124eb19067c6fe8ac62fa62d1a464970bbc10a96409207b5fe88e02f3d41e6"
+    },
+    "USRDIR/DATA_REN/BTLC/CMN.CPK": {
+      "bytes": 500352,
+      "sha256": "8acd927529c2bdf092e24f77d13710284dd6a876c1c5253d6dffc403f7c6995b"
+    },
+    "USRDIR/DATA_REN/BTLC/PCI.CPK": {
+      "bytes": 8469240,
+      "sha256": "aba743fd6fb3c61ade0218736335772f5fc5c5d36f753fe6046b97df13a086f6"
+    },
+    "USRDIR/DATA_REN/BTLC/RB.CPK": {
+      "bytes": 15187352,
+      "sha256": "87a0cf74dbf11ee5c9dc4e9d95da99b9c1503972e24ee3d982d5bf789640a4be"
+    },
+    "USRDIR/DATA_REN/BTLC/SRVC.BIN": {
+      "bytes": 311040,
+      "sha256": "bb6ac9b950bfec2d2528332709f0a06e2d4368fa333fdb6a308f9869ce0bb471"
+    },
+    "USRDIR/DATA_REN/BTLC/WCI.CPK": {
+      "bytes": 1241064,
+      "sha256": "209633df9dced6d43e3416c1fc71f5a8eedc21a452b916e216c5e7af7cca06d0"
+    },
+    "USRDIR/DATA_REN/BTLC/WP.CPK": {
+      "bytes": 122082876,
+      "sha256": "83fc6d69facb9e41a011035049c062aa59b2b5096d8910210494de9cbb56d26e"
+    },
+    "USRDIR/DATA_REN/BTLC/XP.CPK": {
+      "bytes": 437384,
+      "sha256": "f79e3dfe20b5f5f77e1fea96ae2ac56a1db6f5fd64a59b51326c823816950bba"
+    },
+    "USRDIR/DATA_REN/FACE/FACE.CPK": {
+      "bytes": 8301548,
+      "sha256": "e91f2c95ffbb2012376e5250c3b0370848e33269c9dd46ea507fd550d0a35e03"
+    },
+    "USRDIR/DATA_REN/HIYAMA/KANJI-FIX.BN": {
+      "bytes": 12416,
+      "sha256": "431e632e99c29b55315fecb0804cc85ac36ceb50e499a060b0d7db762f046ac5"
+    },
+    "USRDIR/DATA_REN/KURODATA/DATA01.EDAT": {
+      "bytes": 496,
+      "sha256": "0348d8b8e3b3b61e8c0723af1e069b86506e478a36c06016f89c63bfeba96152"
+    },
+    "USRDIR/DATA_REN/KURODATA/KDATAPS3Z3REN.CPK": {
+      "bytes": 1006148,
+      "sha256": "2364ba82b7b323268df7551c68dbb57437f53393c8a21d7644a2e139d0fd1280"
+    },
+    "USRDIR/DATA_REN/KURODATA/N_CACHE.BIN": {
+      "bytes": 4194304,
+      "sha256": "5627e7c9c3bb726fa9534e72344162374505997052df3c937c8d6a9f88e8603d"
+    },
+    "USRDIR/DATA_REN/MAPETC/MAPZ3RENPS3.CPK": {
+      "bytes": 25052972,
+      "sha256": "875305aaccf5b0720fbd59f98821a5ab8e43920648a59c2f7a000dc2ff8718f1"
+    },
+    "USRDIR/DATA_REN/MAPETC/PIECEZ3RENPS3.CPK": {
+      "bytes": 288976,
+      "sha256": "14b85041e035dfbf95c596adcbb807909560beddb6df2c06448747576668578e"
+    },
+    "USRDIR/DATA_REN/MTDATA/Z3OF1_PS3_BGFILE.CPK": {
+      "bytes": 19382180,
+      "sha256": "cd27602b4843dd4745f98219f5a4d3352a3b73afcb143ce4cd474ed413d56125"
+    },
+    "USRDIR/DATA_REN/ROBOPIX/ROBOTPIX.CPK": {
+      "bytes": 6772132,
+      "sha256": "5acfbba73b895f598f17c8f6be4048070b8e7b65fe65ba3e81a6ab200fc012a9"
+    },
+    "USRDIR/DATA_REN/SOUND/BGMZ3RENPS3.AWB": {
+      "bytes": 72141728,
+      "sha256": "20e1f946031792eae5980dc636a54fdb61d71a945a2ed0b503d43fffd638cde2"
+    },
+    "USRDIR/DATA_REN/SOUND/SEZ3RENPS3.CPK": {
+      "bytes": 9197472,
+      "sha256": "a8f2dba77b61b37eeec1f18e4f553f391b09009480145fdf662d3d4b25103c4e"
+    },
+    "USRDIR/DATA_REN/SOUND/SOUNDACFZ3RENPS3.ACF": {
+      "bytes": 3904,
+      "sha256": "3383d5cae0bac179ca1b175239634602e35233db7933b1227fd6d087eb31370d"
+    },
+    "USRDIR/DATA_REN/SOUND/TALKZ3RENPS3.CPK": {
+      "bytes": 82711392,
+      "sha256": "5b77555ad6f17b7e4ff78d667fc67fd0e6a77197993f50378f3cf881a89baf23"
+    },
+    "USRDIR/DATA_REN/STAGE/STGZ3REN.SDAT": {
+      "bytes": 338224,
+      "sha256": "3e94551a39c0fde2af5a993ee4a0287151c5a4d5495608f6ad1f3413bdd125fa"
+    },
+    "USRDIR/DATA_REN/TABATA/SMP_VIDEO_YUV2RGB_CONV.CGELF": {
+      "bytes": 1860,
+      "sha256": "4ec2e60af43c16ecf1c28d44512270def14c5d2143266b1d8fc0414df86bbcb7"
+    },
+    "USRDIR/DATA_REN/TABATA/TPACKPS3.CPK": {
+      "bytes": 4157100,
+      "sha256": "c065b83d6ed8cc5fbab5b667ea69b1460582e147ea8f2b0ab4ec037510b80395"
+    },
+    "USRDIR/EBOOT.BIN": {
+      "bytes": 3651088,
+      "sha256": "c8ba133f2ac5c71e07ac4c6ba240043c38ba6683fd4b13286cc55c4a971c63f4"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_00.CGELF": {
+      "bytes": 796,
+      "sha256": "511d049d794a9934cecb5cfa08824d8d12e73a2df98f3f706a6d654baf40f6df"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_01.CGELF": {
+      "bytes": 772,
+      "sha256": "cb4be412b4f0c26e2c716825b3226f59cfff1f8c286736795f0074389336538a"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_02.CGELF": {
+      "bytes": 804,
+      "sha256": "10e20422405f5526974507cb92d607ba1ba202e6c2d33ae0e61a9c8e3dadde1b"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_02D.CGELF": {
+      "bytes": 900,
+      "sha256": "703d78c0b31b885ea734a2a5318d599b75ca9a392f0331360106b31df336cb0d"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_ALPHAFULL.CGELF": {
+      "bytes": 892,
+      "sha256": "39a2677ced70097adf7d3eb4f96814cc4cc56ac4479c709e3f9690ea18ea802e"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_BCS.CGELF": {
+      "bytes": 1058,
+      "sha256": "506d5e5251df7654cb88647f7e5e2b5601cfeb9930ae864217d640f1fd715de2"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_BINARY.CGELF": {
+      "bytes": 1026,
+      "sha256": "5b67ebae2d5d93421f6a5ffdbe6e8602570de9805720f2ad04bd26467527b0b6"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_DIM.CGELF": {
+      "bytes": 1092,
+      "sha256": "5a6fecc260c86ef5af36bad49060eca5431acc7673d0e678e4919b4853935db2"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_DIMLARGE.CGELF": {
+      "bytes": 1356,
+      "sha256": "96eaff2a5c16e67669d15df1793cbb23c1493f3980639aa38f45be79fc7caf41"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_DRAWEDGE.CGELF": {
+      "bytes": 1438,
+      "sha256": "7efa2a5fc5c28197ac3a8cf1ee9b0427ecc46938fbf8b642d03fddb190e2e5d6"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_GRAYSCALE.CGELF": {
+      "bytes": 976,
+      "sha256": "e50c4f6aa73b13759210ccb02d3539bd7508c72539da35051dac49027f1c8006"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_HIGHLIGHT.CGELF": {
+      "bytes": 878,
+      "sha256": "5bfdc2ce1e18d66eb9381de703e5ffd48d01ef17a778c530a686251689ca5ad2"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_NODRAW.CGELF": {
+      "bytes": 796,
+      "sha256": "8f608ffb3fe4420a9a81451e9009175dbe9b98a68c32564d68f4ede84941caf6"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_SR.CGELF": {
+      "bytes": 1086,
+      "sha256": "7b40bae27e7001b3966d4eacbaa646b63198d3a56955ced2e1997851e4a1fbfa"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_TEST.CGELF": {
+      "bytes": 1108,
+      "sha256": "874b0a69cc274f227993885b26491f737c06448de6f2da783adc51318ee7936a"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_00.CGELF": {
+      "bytes": 992,
+      "sha256": "aa153623d8989ea558c7a6e18b24c1d4bbade83e269460c888277f7226d05239"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_01.CGELF": {
+      "bytes": 984,
+      "sha256": "799a5b5f810b3b0102a57e71d3960726d7084534f63249b04db1d802ac8ba352"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_DIM.CGELF": {
+      "bytes": 1268,
+      "sha256": "7a18fc066481a30722fa8cc8338a0f3bf90e0cb6906f5b5a3459bca45a48e3e9"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_DIMLARGE.CGELF": {
+      "bytes": 1552,
+      "sha256": "6f803a3d31c58201bf03e78b45cbae92fce517293da4f9d07f181b0b97fa1d61"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_DRAWEDGE.CGELF": {
+      "bytes": 1316,
+      "sha256": "b5e66396d45c22d0d6e3aba17350b6fbf9639f0ad46a58c6dee13b9d8cd6f87c"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_SR.CGELF": {
+      "bytes": 1116,
+      "sha256": "4bbbee468a50fe00580d5d7f9c8a1097b270bdad130cd68117fbfd2f41b14c5b"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_TEST.CGELF": {
+      "bytes": 956,
+      "sha256": "108ad4a8e3479190615577ce3734ae41e60694449a240534b253121cb3de48db"
+    },
+    "USRDIR/SHADERS/SAMPLE_SHADER_GRAY.CGELF": {
+      "bytes": 892,
+      "sha256": "fea3278d70e02b2d805751041fb19f16747fd68b500d416c259ec437a67007d5"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_FRAGMENT.CGELF": {
+      "bytes": 1318,
+      "sha256": "b7da950209cf6b3c3ccebe4b8bab15dba5a26b9935650682f1626193d3670aac"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_FRAGMENT.FCG": {
+      "bytes": 2168,
+      "sha256": "e95bf456d6bbe7d941d4e964c5efdfa4a77f888713853314771e7031ff437daa"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_FRAGMENT.FPO": {
+      "bytes": 1024,
+      "sha256": "6f4362ed205b974c12a7364319f948f0e4bd6dffa614b01bfb65482185f12602"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_VERTEX.CGELF": {
+      "bytes": 916,
+      "sha256": "bc7c746e781e942bba4051fffe60d7060e04f7ec9de9f4b5ee3e873064fd7c93"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_VERTEX.VCG": {
+      "bytes": 1357,
+      "sha256": "fcc1b01c4e600fd3a3d4ee0b12b7a3bccfe997f8ff0fe37624f6467703ed4860"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_VERTEX.VPO": {
+      "bytes": 608,
+      "sha256": "9321789ca3936862ea0dfb946faf265cfec13f304ba5c915ce325f4f82135bcc"
+    },
+    "USRDIR/SHADERS/SRNORM_F.CGELF": {
+      "bytes": 1238,
+      "sha256": "3b02d5f6e89901713ed03822c70d1aa7e0e496e9d3ce44724f59b00f51255069"
+    },
+    "USRDIR/SHADERS/SRNORM_F.FCG": {
+      "bytes": 1551,
+      "sha256": "5025c47f2e433c63f6f44902cce8f2da4d90aae9df6e95326aa44026406fbf3d"
+    },
+    "USRDIR/SHADERS/SRNORM_F.FPO": {
+      "bytes": 848,
+      "sha256": "b150de15300717a10830f1ff42251092ade45e623dad611e40788df7198d0f62"
+    },
+    "USRDIR/SHADERS/SRNORM_V.CGELF": {
+      "bytes": 1132,
+      "sha256": "2c347128ecbd94f3f606a7f5974f9f1502b0bb1d63c6468a4cdd324fd487797b"
+    },
+    "USRDIR/SHADERS/SRNORM_V.VCG": {
+      "bytes": 1348,
+      "sha256": "097129a05c202920a58d6e493ed6c838fb2e6c84510cf41ee9938d3d65c9ad2c"
+    },
+    "USRDIR/SHADERS/SRNORM_V.VPO": {
+      "bytes": 976,
+      "sha256": "3dfe1921a4e7d3a26a0244d172e08ab83f926f43504a16f3d88b4943275a9a36"
+    }
+  },
+  "target_files": {
+    "ICON0.PNG": {
+      "bytes": 88347,
+      "sha256": "ac02da54ed297dc4fbe54c2bd57a58e9aa73319267c651d807f9d5d9983213cd"
+    },
+    "MANUAL/001.DDS": {
+      "bytes": 1409152,
+      "sha256": "1f1a6fea392a56bcf80cc74d6788590012712039223f8ca74d4a7ace46bb8700"
+    },
+    "MANUAL/002.DDS": {
+      "bytes": 1409152,
+      "sha256": "2fcb64bf5058694e3580ce11ffb2b4bd35d1dc8760cfb9a90957ad9080965863"
+    },
+    "MANUAL/003.DDS": {
+      "bytes": 1409152,
+      "sha256": "ab0c756a2f284ed12321b948a3d04f1b798d6950b834ada0d7feaf1ba1922fe0"
+    },
+    "MANUAL/004.DDS": {
+      "bytes": 1409152,
+      "sha256": "5bb8c3de8264eac294abf227fc9240885103d9381d9ec86606c8fed218c3ed26"
+    },
+    "PARAM.SFO": {
+      "bytes": 1192,
+      "sha256": "39239361abda094ba7c147225fd341c7a38b212ec6599f24ebcbe68dde43428f"
+    },
+    "PIC1.PNG": {
+      "bytes": 2339650,
+      "sha256": "4cfd561f4c5326d865443c159919986e85cdd1b2bc939ad34331dfdd2443ac32"
+    },
+    "PS3LOGO.DAT": {
+      "bytes": 5120,
+      "sha256": "e08430957ac3f4ee719dc2ed04d3443c395dd3b997d8f34f68a1b5c37d92f425"
+    },
+    "USRDIR/COMMONDATA_REN/KURODATA/LUACPKZ3REN.CPK": {
+      "bytes": 102044,
+      "sha256": "1aed428008bf8e4af1e61c31ab1f88d6961ec8fbc7a1bbbc09befff8c3557714"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTV_ALL_KEYWORD_DEF.CPK": {
+      "bytes": 46599,
+      "sha256": "a3bb5a2d6eb0880f5f84c22ef81e5ec4c4367979fb8380280d1461674931179b"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_KW.CPK": {
+      "bytes": 90104,
+      "sha256": "713dac2a7897f5de12229b07773487ecfad6565786ac852750cc19ebf5df3f8a"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_PT.CPK": {
+      "bytes": 45044,
+      "sha256": "a3e9c4f752a5e79f45a5632e04a0c15becae9021575f1b87e5bbe2b0c2d14690"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_RT.CPK": {
+      "bytes": 74016,
+      "sha256": "08ea100411742197007fbb991a3b65d5ba6b50f9c401ae54436c49cba6cfb077"
+    },
+    "USRDIR/COMMONDATA_REN/MTDATA/RPW_DATA.CPK": {
+      "bytes": 31552,
+      "sha256": "a9b1dece02bce3dbad6820b3a9155f833face366e953086490c14e1fb3382e65"
+    },
+    "USRDIR/DATA_REN/AIDDATA/AIDDATAPACK_R.CPK": {
+      "bytes": 16678854,
+      "sha256": "4ad7f28bbf1fca3930d9b1d4af14821454a37559029b66c76e5f3efbcbd5a935"
+    },
+    "USRDIR/DATA_REN/ANIME/EFFPS3.CPK": {
+      "bytes": 115142304,
+      "sha256": "b39b8c24a712476a12b0c4a2c8cff66df651877a7af7df52196013ace8c936f1"
+    },
+    "USRDIR/DATA_REN/BTLC/BAR.CPK": {
+      "bytes": 720472,
+      "sha256": "035b9a87a0f53b674d2059bf28b7ec66e310c75a6661bff15a232b417eb8848a"
+    },
+    "USRDIR/DATA_REN/BTLC/BG.CPK": {
+      "bytes": 40940028,
+      "sha256": "b2124eb19067c6fe8ac62fa62d1a464970bbc10a96409207b5fe88e02f3d41e6"
+    },
+    "USRDIR/DATA_REN/BTLC/CMN.CPK": {
+      "bytes": 500352,
+      "sha256": "8acd927529c2bdf092e24f77d13710284dd6a876c1c5253d6dffc403f7c6995b"
+    },
+    "USRDIR/DATA_REN/BTLC/PCI.CPK": {
+      "bytes": 8469240,
+      "sha256": "aba743fd6fb3c61ade0218736335772f5fc5c5d36f753fe6046b97df13a086f6"
+    },
+    "USRDIR/DATA_REN/BTLC/RB.CPK": {
+      "bytes": 15187352,
+      "sha256": "87a0cf74dbf11ee5c9dc4e9d95da99b9c1503972e24ee3d982d5bf789640a4be"
+    },
+    "USRDIR/DATA_REN/BTLC/SRVC.BIN": {
+      "bytes": 505760,
+      "sha256": "070dc3d243e40ca7f8ea623a831d23608e643d83e83bba01dddfc733fad1a3e7"
+    },
+    "USRDIR/DATA_REN/BTLC/WCI.CPK": {
+      "bytes": 1241064,
+      "sha256": "209633df9dced6d43e3416c1fc71f5a8eedc21a452b916e216c5e7af7cca06d0"
+    },
+    "USRDIR/DATA_REN/BTLC/WP.CPK": {
+      "bytes": 122082876,
+      "sha256": "83fc6d69facb9e41a011035049c062aa59b2b5096d8910210494de9cbb56d26e"
+    },
+    "USRDIR/DATA_REN/BTLC/XP.CPK": {
+      "bytes": 437384,
+      "sha256": "f79e3dfe20b5f5f77e1fea96ae2ac56a1db6f5fd64a59b51326c823816950bba"
+    },
+    "USRDIR/DATA_REN/FACE/FACE.CPK": {
+      "bytes": 8301548,
+      "sha256": "e91f2c95ffbb2012376e5250c3b0370848e33269c9dd46ea507fd550d0a35e03"
+    },
+    "USRDIR/DATA_REN/HIYAMA/KANJI-FIX.BN": {
+      "bytes": 12416,
+      "sha256": "431e632e99c29b55315fecb0804cc85ac36ceb50e499a060b0d7db762f046ac5"
+    },
+    "USRDIR/DATA_REN/KURODATA/DATA01.EDAT": {
+      "bytes": 496,
+      "sha256": "0348d8b8e3b3b61e8c0723af1e069b86506e478a36c06016f89c63bfeba96152"
+    },
+    "USRDIR/DATA_REN/KURODATA/KDATAPS3Z3REN.CPK": {
+      "bytes": 1006148,
+      "sha256": "2364ba82b7b323268df7551c68dbb57437f53393c8a21d7644a2e139d0fd1280"
+    },
+    "USRDIR/DATA_REN/KURODATA/N_CACHE.BIN": {
+      "bytes": 4194304,
+      "sha256": "5627e7c9c3bb726fa9534e72344162374505997052df3c937c8d6a9f88e8603d"
+    },
+    "USRDIR/DATA_REN/MAPETC/MAPZ3RENPS3.CPK": {
+      "bytes": 25052972,
+      "sha256": "875305aaccf5b0720fbd59f98821a5ab8e43920648a59c2f7a000dc2ff8718f1"
+    },
+    "USRDIR/DATA_REN/MAPETC/PIECEZ3RENPS3.CPK": {
+      "bytes": 288976,
+      "sha256": "14b85041e035dfbf95c596adcbb807909560beddb6df2c06448747576668578e"
+    },
+    "USRDIR/DATA_REN/MTDATA/Z3OF1_PS3_BGFILE.CPK": {
+      "bytes": 19382180,
+      "sha256": "cd27602b4843dd4745f98219f5a4d3352a3b73afcb143ce4cd474ed413d56125"
+    },
+    "USRDIR/DATA_REN/ROBOPIX/ROBOTPIX.CPK": {
+      "bytes": 6772132,
+      "sha256": "5acfbba73b895f598f17c8f6be4048070b8e7b65fe65ba3e81a6ab200fc012a9"
+    },
+    "USRDIR/DATA_REN/SOUND/BGMZ3RENPS3.AWB": {
+      "bytes": 72141728,
+      "sha256": "20e1f946031792eae5980dc636a54fdb61d71a945a2ed0b503d43fffd638cde2"
+    },
+    "USRDIR/DATA_REN/SOUND/SEZ3RENPS3.CPK": {
+      "bytes": 9197472,
+      "sha256": "a8f2dba77b61b37eeec1f18e4f553f391b09009480145fdf662d3d4b25103c4e"
+    },
+    "USRDIR/DATA_REN/SOUND/SOUNDACFZ3RENPS3.ACF": {
+      "bytes": 3904,
+      "sha256": "3383d5cae0bac179ca1b175239634602e35233db7933b1227fd6d087eb31370d"
+    },
+    "USRDIR/DATA_REN/SOUND/TALKZ3RENPS3.CPK": {
+      "bytes": 82711392,
+      "sha256": "5b77555ad6f17b7e4ff78d667fc67fd0e6a77197993f50378f3cf881a89baf23"
+    },
+    "USRDIR/DATA_REN/STAGE/STGZ3REN.SDAT": {
+      "bytes": 1250016,
+      "sha256": "e3f3869f90f2e1994940b2ef2d1e349fbcb49199b90da7958f2bf8b743e225fe"
+    },
+    "USRDIR/DATA_REN/TABATA/SMP_VIDEO_YUV2RGB_CONV.CGELF": {
+      "bytes": 1860,
+      "sha256": "4ec2e60af43c16ecf1c28d44512270def14c5d2143266b1d8fc0414df86bbcb7"
+    },
+    "USRDIR/DATA_REN/TABATA/TPACKPS3.CPK": {
+      "bytes": 42341024,
+      "sha256": "0239cb4127605c4cc78ed8a3a206e8867c6375bb5d4c3407fb91706779bc240c"
+    },
+    "USRDIR/EBOOT.BIN": {
+      "bytes": 15287984,
+      "sha256": "1521c2702cf74d9107c2b67220303e3c52766aaa966d1504bfcede8416226ac5"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_00.CGELF": {
+      "bytes": 796,
+      "sha256": "511d049d794a9934cecb5cfa08824d8d12e73a2df98f3f706a6d654baf40f6df"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_01.CGELF": {
+      "bytes": 772,
+      "sha256": "cb4be412b4f0c26e2c716825b3226f59cfff1f8c286736795f0074389336538a"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_02.CGELF": {
+      "bytes": 804,
+      "sha256": "10e20422405f5526974507cb92d607ba1ba202e6c2d33ae0e61a9c8e3dadde1b"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_02D.CGELF": {
+      "bytes": 900,
+      "sha256": "703d78c0b31b885ea734a2a5318d599b75ca9a392f0331360106b31df336cb0d"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_ALPHAFULL.CGELF": {
+      "bytes": 892,
+      "sha256": "39a2677ced70097adf7d3eb4f96814cc4cc56ac4479c709e3f9690ea18ea802e"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_BCS.CGELF": {
+      "bytes": 1058,
+      "sha256": "506d5e5251df7654cb88647f7e5e2b5601cfeb9930ae864217d640f1fd715de2"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_BINARY.CGELF": {
+      "bytes": 1026,
+      "sha256": "5b67ebae2d5d93421f6a5ffdbe6e8602570de9805720f2ad04bd26467527b0b6"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_DIM.CGELF": {
+      "bytes": 1092,
+      "sha256": "5a6fecc260c86ef5af36bad49060eca5431acc7673d0e678e4919b4853935db2"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_DIMLARGE.CGELF": {
+      "bytes": 1356,
+      "sha256": "96eaff2a5c16e67669d15df1793cbb23c1493f3980639aa38f45be79fc7caf41"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_DRAWEDGE.CGELF": {
+      "bytes": 1438,
+      "sha256": "7efa2a5fc5c28197ac3a8cf1ee9b0427ecc46938fbf8b642d03fddb190e2e5d6"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_GRAYSCALE.CGELF": {
+      "bytes": 976,
+      "sha256": "e50c4f6aa73b13759210ccb02d3539bd7508c72539da35051dac49027f1c8006"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_HIGHLIGHT.CGELF": {
+      "bytes": 878,
+      "sha256": "5bfdc2ce1e18d66eb9381de703e5ffd48d01ef17a778c530a686251689ca5ad2"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_NODRAW.CGELF": {
+      "bytes": 796,
+      "sha256": "8f608ffb3fe4420a9a81451e9009175dbe9b98a68c32564d68f4ede84941caf6"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_SR.CGELF": {
+      "bytes": 1086,
+      "sha256": "7b40bae27e7001b3966d4eacbaa646b63198d3a56955ced2e1997851e4a1fbfa"
+    },
+    "USRDIR/SHADERS/AID_F_SHADER_TEST.CGELF": {
+      "bytes": 1108,
+      "sha256": "874b0a69cc274f227993885b26491f737c06448de6f2da783adc51318ee7936a"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_00.CGELF": {
+      "bytes": 992,
+      "sha256": "aa153623d8989ea558c7a6e18b24c1d4bbade83e269460c888277f7226d05239"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_01.CGELF": {
+      "bytes": 984,
+      "sha256": "799a5b5f810b3b0102a57e71d3960726d7084534f63249b04db1d802ac8ba352"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_DIM.CGELF": {
+      "bytes": 1268,
+      "sha256": "7a18fc066481a30722fa8cc8338a0f3bf90e0cb6906f5b5a3459bca45a48e3e9"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_DIMLARGE.CGELF": {
+      "bytes": 1552,
+      "sha256": "6f803a3d31c58201bf03e78b45cbae92fce517293da4f9d07f181b0b97fa1d61"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_DRAWEDGE.CGELF": {
+      "bytes": 1316,
+      "sha256": "b5e66396d45c22d0d6e3aba17350b6fbf9639f0ad46a58c6dee13b9d8cd6f87c"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_SR.CGELF": {
+      "bytes": 1116,
+      "sha256": "4bbbee468a50fe00580d5d7f9c8a1097b270bdad130cd68117fbfd2f41b14c5b"
+    },
+    "USRDIR/SHADERS/AID_V_SHADER_TEST.CGELF": {
+      "bytes": 956,
+      "sha256": "108ad4a8e3479190615577ce3734ae41e60694449a240534b253121cb3de48db"
+    },
+    "USRDIR/SHADERS/SAMPLE_SHADER_GRAY.CGELF": {
+      "bytes": 892,
+      "sha256": "fea3278d70e02b2d805751041fb19f16747fd68b500d416c259ec437a67007d5"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_FRAGMENT.CGELF": {
+      "bytes": 1318,
+      "sha256": "b7da950209cf6b3c3ccebe4b8bab15dba5a26b9935650682f1626193d3670aac"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_FRAGMENT.FCG": {
+      "bytes": 2168,
+      "sha256": "e95bf456d6bbe7d941d4e964c5efdfa4a77f888713853314771e7031ff437daa"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_FRAGMENT.FPO": {
+      "bytes": 1024,
+      "sha256": "6f4362ed205b974c12a7364319f948f0e4bd6dffa614b01bfb65482185f12602"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_VERTEX.CGELF": {
+      "bytes": 916,
+      "sha256": "bc7c746e781e942bba4051fffe60d7060e04f7ec9de9f4b5ee3e873064fd7c93"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_VERTEX.VCG": {
+      "bytes": 1357,
+      "sha256": "fcc1b01c4e600fd3a3d4ee0b12b7a3bccfe997f8ff0fe37624f6467703ed4860"
+    },
+    "USRDIR/SHADERS/SMP_VIDEO_YUV2RGB_CONV_VERTEX.VPO": {
+      "bytes": 608,
+      "sha256": "9321789ca3936862ea0dfb946faf265cfec13f304ba5c915ce325f4f82135bcc"
+    },
+    "USRDIR/SHADERS/SRNORM_F.CGELF": {
+      "bytes": 1238,
+      "sha256": "3b02d5f6e89901713ed03822c70d1aa7e0e496e9d3ce44724f59b00f51255069"
+    },
+    "USRDIR/SHADERS/SRNORM_F.FCG": {
+      "bytes": 1551,
+      "sha256": "5025c47f2e433c63f6f44902cce8f2da4d90aae9df6e95326aa44026406fbf3d"
+    },
+    "USRDIR/SHADERS/SRNORM_F.FPO": {
+      "bytes": 848,
+      "sha256": "b150de15300717a10830f1ff42251092ade45e623dad611e40788df7198d0f62"
+    },
+    "USRDIR/SHADERS/SRNORM_V.CGELF": {
+      "bytes": 1132,
+      "sha256": "2c347128ecbd94f3f606a7f5974f9f1502b0bb1d63c6468a4cdd324fd487797b"
+    },
+    "USRDIR/SHADERS/SRNORM_V.VCG": {
+      "bytes": 1348,
+      "sha256": "097129a05c202920a58d6e493ed6c838fb2e6c84510cf41ee9938d3d65c9ad2c"
+    },
+    "USRDIR/SHADERS/SRNORM_V.VPO": {
+      "bytes": 976,
+      "sha256": "3dfe1921a4e7d3a26a0244d172e08ab83f926f43504a16f3d88b4943275a9a36"
+    }
+  },
+  "patches": [
+    {
+      "file": "PARAM.SFO",
+      "patch": "patches/01-PARAM.SFO.xdelta",
+      "source": {
+        "bytes": 1192,
+        "sha256": "22f7dcae6da75e8ce22ea99ef03ef1045e80ba63080cccdcfa6e75b87b423983"
+      },
+      "target": {
+        "bytes": 1192,
+        "sha256": "39239361abda094ba7c147225fd341c7a38b212ec6599f24ebcbe68dde43428f"
+      },
+      "patch_identity": {
+        "bytes": 253,
+        "sha256": "bb79d15e082b731597116af1cf5667c6aad5e2b9a348c40b05943c474be22e4e"
+      }
+    },
+    {
+      "file": "USRDIR/COMMONDATA_REN/KURODATA/LUACPKZ3REN.CPK",
+      "patch": "patches/02-LUACPKZ3REN.CPK.xdelta",
+      "source": {
+        "bytes": 67132,
+        "sha256": "b829d9a277bbd3dc82124df70da7c028abc4a073be10d9e7be49e7328b40238f"
+      },
+      "target": {
+        "bytes": 102044,
+        "sha256": "1aed428008bf8e4af1e61c31ab1f88d6961ec8fbc7a1bbbc09befff8c3557714"
+      },
+      "patch_identity": {
+        "bytes": 12609,
+        "sha256": "1844c672245076b12fa756ff798af0760da3deee2b2c0f311af3921b88209f50"
+      }
+    },
+    {
+      "file": "USRDIR/COMMONDATA_REN/MTDATA/MTV_ALL_KEYWORD_DEF.CPK",
+      "patch": "patches/03-MTV_ALL_KEYWORD_DEF.CPK.xdelta",
+      "source": {
+        "bytes": 12840,
+        "sha256": "aae766305e5cb58aa760f6065e11749dcfbe5eb32632e4eea38f44c595d8f7f8"
+      },
+      "target": {
+        "bytes": 46599,
+        "sha256": "a3bb5a2d6eb0880f5f84c22ef81e5ec4c4367979fb8380280d1461674931179b"
+      },
+      "patch_identity": {
+        "bytes": 15479,
+        "sha256": "f16d6d5885d756b7edd509cf17d3ab010ad8e64825d6390e89850d3a0246af40"
+      }
+    },
+    {
+      "file": "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_KW.CPK",
+      "patch": "patches/04-MTZKN_KW.CPK.xdelta",
+      "source": {
+        "bytes": 27484,
+        "sha256": "5bdca3d22ef3013b94366cd28ef0653830d44fa40f8fcd911f772b479613d3be"
+      },
+      "target": {
+        "bytes": 90104,
+        "sha256": "713dac2a7897f5de12229b07773487ecfad6565786ac852750cc19ebf5df3f8a"
+      },
+      "patch_identity": {
+        "bytes": 16135,
+        "sha256": "79271c5f7182f3ee723db5201d29d816fbb38913bd5f71ef1baf57e975204b45"
+      }
+    },
+    {
+      "file": "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_PT.CPK",
+      "patch": "patches/05-MTZKN_PT.CPK.xdelta",
+      "source": {
+        "bytes": 15380,
+        "sha256": "32561c20a7001747ff88edfe44495591901679f178086279dd23edd3f1bd4c77"
+      },
+      "target": {
+        "bytes": 45044,
+        "sha256": "a3e9c4f752a5e79f45a5632e04a0c15becae9021575f1b87e5bbe2b0c2d14690"
+      },
+      "patch_identity": {
+        "bytes": 9019,
+        "sha256": "c62c206d87408837a75535e1a3fafd141df2371eb0b8f5382ee9a8fd7bb6e585"
+      }
+    },
+    {
+      "file": "USRDIR/COMMONDATA_REN/MTDATA/MTZKN_RT.CPK",
+      "patch": "patches/06-MTZKN_RT.CPK.xdelta",
+      "source": {
+        "bytes": 23772,
+        "sha256": "c59fe88ada9ac83165c2bb57c7cb61a30466ba8892e3f927fc988fdc199a532d"
+      },
+      "target": {
+        "bytes": 74016,
+        "sha256": "08ea100411742197007fbb991a3b65d5ba6b50f9c401ae54436c49cba6cfb077"
+      },
+      "patch_identity": {
+        "bytes": 12023,
+        "sha256": "8bfcee636bac7c1babfa8636e26f80ba448fa7121f37b8fcab80e6c56005ab96"
+      }
+    },
+    {
+      "file": "USRDIR/DATA_REN/AIDDATA/AIDDATAPACK_R.CPK",
+      "patch": "patches/07-AIDDATAPACK_R.CPK.xdelta",
+      "source": {
+        "bytes": 11897588,
+        "sha256": "f386a7939865a04244fb9ad7e88a4f14f3dba2e9ca86f555c3026f28e1a13e03"
+      },
+      "target": {
+        "bytes": 16678854,
+        "sha256": "4ad7f28bbf1fca3930d9b1d4af14821454a37559029b66c76e5f3efbcbd5a935"
+      },
+      "patch_identity": {
+        "bytes": 615095,
+        "sha256": "a208d7ff7202cde2a88466c8b369ddf4aade9056357256d3fd351d60cea35ca2"
+      }
+    },
+    {
+      "file": "USRDIR/DATA_REN/ANIME/EFFPS3.CPK",
+      "patch": "patches/08-EFFPS3.CPK.xdelta",
+      "source": {
+        "bytes": 83086224,
+        "sha256": "4c3c453f4928c923f90040acc0dea23fbc8e4ef2cd23f166a36283c5b8c6ba44"
+      },
+      "target": {
+        "bytes": 115142304,
+        "sha256": "b39b8c24a712476a12b0c4a2c8cff66df651877a7af7df52196013ace8c936f1"
+      },
+      "patch_identity": {
+        "bytes": 9142135,
+        "sha256": "dde69a101257991331f5cada10260b469c6e4623e233f4746792f574e1206080"
+      }
+    },
+    {
+      "file": "USRDIR/DATA_REN/BTLC/SRVC.BIN",
+      "patch": "patches/09-SRVC.BIN.xdelta",
+      "source": {
+        "bytes": 311040,
+        "sha256": "bb6ac9b950bfec2d2528332709f0a06e2d4368fa333fdb6a308f9869ce0bb471"
+      },
+      "target": {
+        "bytes": 505760,
+        "sha256": "070dc3d243e40ca7f8ea623a831d23608e643d83e83bba01dddfc733fad1a3e7"
+      },
+      "patch_identity": {
+        "bytes": 92203,
+        "sha256": "b72666e0190af03cd759c5a4a0bf2962ca521a8a9b57863ecedeab50fc5ba1fd"
+      }
+    },
+    {
+      "file": "USRDIR/DATA_REN/STAGE/STGZ3REN.SDAT",
+      "patch": "patches/10-STGZ3REN.SDAT.xdelta",
+      "source": {
+        "bytes": 338224,
+        "sha256": "3e94551a39c0fde2af5a993ee4a0287151c5a4d5495608f6ad1f3413bdd125fa"
+      },
+      "target": {
+        "bytes": 1250016,
+        "sha256": "e3f3869f90f2e1994940b2ef2d1e349fbcb49199b90da7958f2bf8b743e225fe"
+      },
+      "patch_identity": {
+        "bytes": 1250282,
+        "sha256": "09a2cf6799acbe1a268c0efd42de2e3a95d06f707495aae45384b9ab247273a6"
+      }
+    },
+    {
+      "file": "USRDIR/DATA_REN/TABATA/TPACKPS3.CPK",
+      "patch": "patches/11-TPACKPS3.CPK.xdelta",
+      "source": {
+        "bytes": 4157100,
+        "sha256": "c065b83d6ed8cc5fbab5b667ea69b1460582e147ea8f2b0ab4ec037510b80395"
+      },
+      "target": {
+        "bytes": 42341024,
+        "sha256": "0239cb4127605c4cc78ed8a3a206e8867c6375bb5d4c3407fb91706779bc240c"
+      },
+      "patch_identity": {
+        "bytes": 4864085,
+        "sha256": "0d3fcfb067d39c97f9f761060d50e7f76cdcbdb9be19d76e725352227e513dc7"
+      }
+    },
+    {
+      "file": "USRDIR/EBOOT.BIN",
+      "patch": "patches/12-EBOOT.BIN.xdelta",
+      "source": {
+        "bytes": 3651088,
+        "sha256": "c8ba133f2ac5c71e07ac4c6ba240043c38ba6683fd4b13286cc55c4a971c63f4"
+      },
+      "target": {
+        "bytes": 15287984,
+        "sha256": "1521c2702cf74d9107c2b67220303e3c52766aaa966d1504bfcede8416226ac5"
+      },
+      "patch_identity": {
+        "bytes": 3945639,
+        "sha256": "47bfd5db3719fb339bbb6ba91272e24a5642b44d99cbacf8d1d3a629d6b9602e"
+      }
+    }
+  ]
+}

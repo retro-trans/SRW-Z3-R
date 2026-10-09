@@ -1,0 +1,410 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00009",
+  "messages": {
+    "rengoku:STGZ3REN_00009:00000": {
+      "text": "Old Battlefield",
+      "status": "draft",
+      "source_sha": "0cc27933e4",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00001": {
+      "text": "Old Battlefield",
+      "status": "draft",
+      "source_sha": "0cc27933e4",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00002": {
+      "text": "Old Battlefield",
+      "status": "draft",
+      "source_sha": "0cc27933e4",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00003": {
+      "text": "$$レジスタンス$$\n「...What are they doing?」",
+      "status": "draft",
+      "source_sha": "87888d98a9",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00004": {
+      "text": "$$レジスタンス$$\n「They've already broken through our defensive\n　line and are closing in on the city」",
+      "status": "draft",
+      "source_sha": "2f31dadad2",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00005": {
+      "text": "$$レジスタンス$$\n「We committed nearly all our remaining forces\n　to that front...」",
+      "status": "draft",
+      "source_sha": "58a99c5ed1",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00006": {
+      "text": "$$レジスタンス$$\n「We have nothing left to defend the city with...」",
+      "status": "draft",
+      "source_sha": "3e12534781",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00007": {
+      "text": "$$レジスタンス$$\n「But...!\n　There are still people living here!」",
+      "status": "draft",
+      "source_sha": "84671b0c2c",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00008": {
+      "text": "$$レジスタンス$$\n「You don't have to tell me that」",
+      "status": "draft",
+      "source_sha": "180e3f991e",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00009": {
+      "text": "$$レジスタンス$$\n「Then what are we going to do?」",
+      "status": "draft",
+      "source_sha": "07635e0308",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00010": {
+      "text": "$$レジスタンス$$\n「...I've already made up my mind」",
+      "status": "draft",
+      "source_sha": "47d4c49df3",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": [
+        "Adjacent reply about resolve and later willingness to die establish determination. Did not insert an explicit wish to die."
+      ]
+    },
+    "rengoku:STGZ3REN_00009:00011": {
+      "text": "$$レジスタンス$$\n「...!」",
+      "status": "draft",
+      "source_sha": "4ef1c7df57",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00012": {
+      "text": "$$レジスタンス$$\n「We didn't start this fight\n　because we thought we could win...」",
+      "status": "draft",
+      "source_sha": "babed76f8c",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00013": {
+      "text": "$$レジスタンス$$\n「An alien force whose size we can't even guess...\n　We know nothing of who they are or what they want...」",
+      "status": "draft",
+      "source_sha": "6548511928",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00014": {
+      "text": "$$レジスタンス$$\n「We were thrown together by a $$時空震動$$,\n　with no real organization or fighting force...\n　It would take a miracle for us to win」",
+      "status": "draft",
+      "source_sha": "6d71481ca8",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00015": {
+      "text": "$$レジスタンス$$\n「But however powerful they are,\n　if we can just strike at their heart...」",
+      "status": "draft",
+      "source_sha": "ef7b4b24a9",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00016": {
+      "text": "$$レジスタンス$$\n「If we were 《$$ＺＥＵＴＨ$$》,\n　we might have been able to fight that way...」",
+      "status": "draft",
+      "source_sha": "2d2ce884a4",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00017": {
+      "text": "$$レジスタンス$$\n「$$ＺＥＵＴＨ$$...?」",
+      "status": "draft",
+      "source_sha": "84b1d68b5a",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00018": {
+      "text": "$$レジスタンス$$\n「Haven't I told you about them?\n　An independent unit from the world I came from」",
+      "status": "draft",
+      "source_sha": "1bc322a6ba",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00019": {
+      "text": "$$レジスタンス$$\n「Warriors who fought alone against those trying\n　to rule the world from the shadows, and won」",
+      "status": "draft",
+      "source_sha": "f32d1f098f",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": [
+        "孤独な戦い preserved as fighting alone; did not import a named antagonist omitted from this line."
+      ]
+    },
+    "rengoku:STGZ3REN_00009:00020": {
+      "text": "$$レジスタンス$$\n「They sound like 《$$ＺＥＸＩＳ$$》 from my world」",
+      "status": "draft",
+      "source_sha": "863d5583d2",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00021": {
+      "text": "$$レジスタンス$$\n「They were a small, elite unit too,\n　fighting to save the world」",
+      "status": "draft",
+      "source_sha": "4c6140853d",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00022": {
+      "text": "$$レジスタンス$$\n「Every world has its saviors...\n　Then let's be the saviors of this one」",
+      "status": "draft",
+      "source_sha": "c474dbc724",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00023": {
+      "text": "$$レジスタンス$$\n「Though I doubt we can even save this city,\n　let alone the world」",
+      "status": "draft",
+      "source_sha": "b3d689c6fc",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00024": {
+      "text": "$$レジスタンス$$\n「Even so, I'll do it.\n　With a literal resolve to die」",
+      "status": "draft",
+      "source_sha": "6450b68878",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00025": {
+      "text": "???\n「No」",
+      "status": "draft",
+      "source_sha": "fca27fd52e",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00026": {
+      "text": "$$セツコ$$\n「You mustn't die」",
+      "status": "draft",
+      "source_sha": "6652c6fdab",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00027": {
+      "text": "$$レジスタンス$$\n「$$セツコ$$...!」",
+      "status": "draft",
+      "source_sha": "aebb973a38",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00028": {
+      "text": "$$レジスタンス$$\n「You're safe, $$セツコ$$!」",
+      "status": "draft",
+      "source_sha": "9cfa53069c",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00029": {
+      "text": "$$セツコ$$\n「But the defensive line...」",
+      "status": "draft",
+      "source_sha": "cabef2ac41",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00030": {
+      "text": "$$レジスタンス$$\n「...I've heard the report.\n　Now it's our turn to stake our lives」",
+      "status": "draft",
+      "source_sha": "0c42554a0c",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00031": {
+      "text": "$$セツコ$$\n「I'll take on that role」",
+      "status": "draft",
+      "source_sha": "7e863f3a52",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00032": {
+      "text": "$$レジスタンス$$\n「But...」",
+      "status": "draft",
+      "source_sha": "558adb2c14",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00033": {
+      "text": "$$レジスタンス$$\n「You're certainly our group's ace.\n　But all alone...」",
+      "status": "draft",
+      "source_sha": "a5beec5676",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00034": {
+      "text": "$$セツコ$$\n「The enemy will target me, the one who survived.\n　While they do, all of you...」",
+      "status": "draft",
+      "source_sha": "b476eb28ac",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00035": {
+      "text": "$$レジスタンス$$\n「Captain, it's bad!\n　They're here!」",
+      "status": "draft",
+      "source_sha": "e9d18c84a3",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00036": {
+      "text": "$$レジスタンス$$\n「Tch...!\n　Charging in on the momentum of breaking our line!」",
+      "status": "draft",
+      "source_sha": "2f491fdfa0",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00037": {
+      "text": "$$セツコ$$\n「Let's hurry, captain...!\n　There's no time left!」",
+      "status": "draft",
+      "source_sha": "d38d6f72f5",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00038": {
+      "text": "$$レジスタンス$$\n「Guh...」",
+      "status": "draft",
+      "source_sha": "ecd988184a",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00039": {
+      "text": "Night Sky",
+      "status": "draft",
+      "source_sha": "4ee60fa19f",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00040": {
+      "text": "Night Sky",
+      "status": "draft",
+      "source_sha": "4ee60fa19f",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00041": {
+      "text": "Night Sky",
+      "status": "draft",
+      "source_sha": "4ee60fa19f",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00042": {
+      "text": "$$アドヴェント$$\n「...Let me introduce myself properly.\n　My name is $$アドヴェント$$.\n　This is my subordinate, $$ブルー$$」",
+      "status": "draft",
+      "source_sha": "8eb03f924f",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00043": {
+      "text": "$$ブルー$$\n「Pleased to meet you」",
+      "status": "draft",
+      "source_sha": "6a514524e5",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00044": {
+      "text": "$$セツコ$$\n「I'm $$セツコ・オハラ$$.\n　Thank you for helping」",
+      "status": "draft",
+      "source_sha": "0f350c1f0b",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00045": {
+      "text": "$$アドヴェント$$\n「I'm glad to meet you, $$悲しみの乙女$$」",
+      "status": "draft",
+      "source_sha": "d8b8c7c554",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00046": {
+      "text": "$$セツコ$$\n「Calling me by that name means...」",
+      "status": "draft",
+      "source_sha": "f900058cf5",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00047": {
+      "text": "$$アドヴェント$$\n「Just as you guessed.\n　I too am one of those captivated by 《$$スフィア$$》」",
+      "status": "draft",
+      "source_sha": "6d34c05fb3",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00048": {
+      "text": "$$セツコ$$\n「You too...are you a $$スフィア・リアクター$$?」",
+      "status": "draft",
+      "source_sha": "4e41245fd2",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00049": {
+      "text": "$$アドヴェント$$\n「Before that, I want to ask you something.\n　Where is the unit carrying your Sphere,\n　your $$悲しみの乙女$$?」",
+      "status": "draft",
+      "source_sha": "b9753caa58",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00050": {
+      "text": "$$セツコ$$\n「...$$バルゴラ$$ got separated from me\n　when I was caught up in the $$時空震動$$」",
+      "status": "draft",
+      "source_sha": "3582b722df",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00051": {
+      "text": "$$アドヴェント$$\n「I see...」",
+      "status": "draft",
+      "source_sha": "e00b97515f",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00052": {
+      "text": "$$アドヴェント$$\n「But there's no need to worry, $$セツコ$$.\n　I'm sure that somewhere on the journey ahead,\n　you'll meet your beloved unit again」",
+      "status": "draft",
+      "source_sha": "1ca49b8db5",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00053": {
+      "text": "$$セツコ$$\n「A journey...?」",
+      "status": "draft",
+      "source_sha": "4851e45291",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00054": {
+      "text": "$$アドヴェント$$\n「That's right.\n　To defeat $$サイデリアル$$...\n　and for humanity's future...」",
+      "status": "draft",
+      "source_sha": "bda77f8eca",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00055": {
+      "text": "$$アドヴェント$$\n「You'll come with me」",
+      "status": "draft",
+      "source_sha": "e3e5cb61f8",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00009:00056": {
+      "text": "$$セツコ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
+      "notes": []
+    }
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00045",
+  "messages": {
+    "rengoku:STGZ3REN_00045:00000": {
+      "text": "$$サイデリアル$$ Base: Hangar",
+      "status": "draft",
+      "source_sha": "6bb381433b",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00001": {
+      "text": "$$サイデリアル$$ Base: Hangar",
+      "status": "draft",
+      "source_sha": "6bb381433b",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00002": {
+      "text": "$$サイデリアル$$ Base: Hangar",
+      "status": "draft",
+      "source_sha": "6bb381433b",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00003": {
+      "text": "　\n　\n　~$$ターミナル・ベース$$: Hangar~",
+      "status": "draft",
+      "source_sha": "d3ef038874",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": [
+        "New location name ターミナル・ベース (Terminal Base): the resistance's own name for the captured Sidereal base, introduced here; see new_terms."
+      ]
+    },
+    "rengoku:STGZ3REN_00045:00004": {
+      "text": "$$クロウ$$\n「Damn it!」",
+      "status": "draft",
+      "source_sha": "e3fd1837c4",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00005": {
+      "text": "$$クロウ$$\n「Not yet, $$クラヴィア$$!」",
+      "status": "draft",
+      "source_sha": "d187fdab31",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00006": {
+      "text": "$$クラヴィア$$\n「I-I still can't break through the protections!」",
+      "status": "draft",
+      "source_sha": "67a3dea42c",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00007": {
+      "text": "$$クロウ$$\n「Hurry up!\n　If we run $$アドヴェント$$'s custom virus program,\n　we can knock the $$次元転移砲$$ out of action!」",
+      "status": "draft",
+      "source_sha": "38c6dbac03",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00008": {
+      "text": "$$クラヴィア$$\n「If he can make something that amazing,\n　you'd think $$アドヴェント$$ could just hack it\n　himself...」",
+      "status": "draft",
+      "source_sha": "15680c9b1b",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00009": {
+      "text": "$$クロウ$$\n「Quit whining!\n　If $$アドヴェント$$ pulls out, our fighting\n　strength takes a nosedive!」",
+      "status": "draft",
+      "source_sha": "bbf7ccb676",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00010": {
+      "text": "$$クロウ$$\n「Then you're the only one who knows the $$サイデリアル$$\n　systems well enough to do it!」",
+      "status": "draft",
+      "source_sha": "b16668d54d",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00011": {
+      "text": "$$クラヴィア$$\n「S-someone like me... there's no way I can do it...」",
+      "status": "draft",
+      "source_sha": "3e0a561e39",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00012": {
+      "text": "$$クロウ$$\n「$$クラヴィア$$...」",
+      "status": "draft",
+      "source_sha": "afcd43150c",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00013": {
+      "text": "$$クラヴィア$$\n「It's always... always been like this...\n　Whenever someone expects something of me... I let them down...\n　I'm...」",
+      "status": "draft",
+      "source_sha": "1d19627197",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00014": {
+      "text": "$$クラヴィア$$\n「So even if this is left to someone like me...」",
+      "status": "draft",
+      "source_sha": "6fe07f2099",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00015": {
+      "text": "$$クロウ$$\n「So what?」",
+      "status": "draft",
+      "source_sha": "3c7e44c42f",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00016": {
+      "text": "$$クラヴィア$$\n「Huh...」",
+      "status": "draft",
+      "source_sha": "c392378310",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00017": {
+      "text": "$$クロウ$$\n「I don't give a damn about who you were before you met us」",
+      "status": "draft",
+      "source_sha": "17247fb0e5",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00018": {
+      "text": "$$クロウ$$\n「The $$クラヴィア・アーゴ$$ I know\n　is a little scatterbrained, but when it counts,\n　she's a woman who sticks to her own will」",
+      "status": "draft",
+      "source_sha": "cb06c01fd3",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00019": {
+      "text": "$$クロウ$$\n「A person like that pulls off something big when it matters most...\n　That's why me and everyone else bet on you」",
+      "status": "draft",
+      "source_sha": "7da51eb9ee",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00020": {
+      "text": "$$クラヴィア$$\n「$$クロウ$$...」",
+      "status": "draft",
+      "source_sha": "e9b1b15d85",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00021": {
+      "text": "$$クロウ$$\n「I'll hold off anyone who gets in the way of your work.\n　So hurry!」",
+      "status": "draft",
+      "source_sha": "478ca1288f",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00022": {
+      "text": "$$クラヴィア$$\n「Yes!\n　I'll... give it a try!」",
+      "status": "draft",
+      "source_sha": "4a9a3c3f7a",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00023": {
+      "text": "Base: Command Room",
+      "status": "draft",
+      "source_sha": "b0def1ba19",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00024": {
+      "text": "Base: Command Room",
+      "status": "draft",
+      "source_sha": "b0def1ba19",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00025": {
+      "text": "Base: Command Room",
+      "status": "draft",
+      "source_sha": "b0def1ba19",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00026": {
+      "text": "　\n　\n　~$$ターミナル・ベース$$: Command Room~",
+      "status": "draft",
+      "source_sha": "d76e9306cf",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00027": {
+      "text": "$$クラヴィア$$\n「...Honestly... that's just too much...」",
+      "status": "draft",
+      "source_sha": "3532a6d72e",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00028": {
+      "text": "$$クラヴィア$$\n「...What do you mean, \"paying off a debt\"...\n　It's really ridiculous...」",
+      "status": "draft",
+      "source_sha": "f833715551",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00029": {
+      "text": "$$クロウ$$\n「Hey, $$セツコ$$...\n　I think... I might've made $$クラヴィア$$ mad...」",
+      "status": "draft",
+      "source_sha": "c0d869db9c",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00030": {
+      "text": "$$セツコ$$\n「I wouldn't know」",
+      "status": "draft",
+      "source_sha": "c941734a8e",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00031": {
+      "text": "$$クロウ$$\n「W-what, even you, $$セツコ$$...」",
+      "status": "draft",
+      "source_sha": "460edcf2ef",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00032": {
+      "text": "$$セツコ$$\n「$$クロウ$$, please reflect on your own behavior a little」",
+      "status": "draft",
+      "source_sha": "7100b28330",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00033": {
+      "text": "$$サルディアス$$\n「My, my, $$クロウ$$...\n　You really are quite the enemy of women」",
+      "status": "draft",
+      "source_sha": "df88745bfd",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00034": {
+      "text": "$$クロウ$$\n「It's true that women are my enemy,\n　but me being women's enemy...」",
+      "status": "draft",
+      "source_sha": "5b42e2e1ea",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00035": {
+      "text": "$$オリオン$$\n「Love and hatred are two sides of the same coin...\n　You'll end up hating each other eventually」",
+      "status": "draft",
+      "source_sha": "ce8bb9e36b",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00036": {
+      "text": "$$ランド$$\n「Come on...\n　You barely ever talk, and that's the line you go with!?」",
+      "status": "draft",
+      "source_sha": "9a5d21e4d3",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00037": {
+      "text": "$$クロウ$$\n「Yeah, well.\n　I was born under a star that doesn't get along with women,\n　but hating each other is where I draw the line」",
+      "status": "draft",
+      "source_sha": "498017246d",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00038": {
+      "text": "$$ブルー$$\n「The $$レジスタンス$$ members who were running diversions\n　nearby are gathering at this base one after another」",
+      "status": "draft",
+      "source_sha": "5b4a91c740",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00039": {
+      "text": "$$セツコ$$\n「So this will be our base of operations from now on」",
+      "status": "draft",
+      "source_sha": "21e7972ebd",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00040": {
+      "text": "$$クロウ$$\n「In that case, it was lucky those guys\n　didn't wreck the place before leaving」",
+      "status": "draft",
+      "source_sha": "1f0501e2f1",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00041": {
+      "text": "$$クラヴィア$$\n「...Understood」",
+      "status": "draft",
+      "source_sha": "9f9c106e83",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00042": {
+      "text": "$$アドヴェント$$\n「Have you found where the $$スフィア$$-equipped unit went?」",
+      "status": "draft",
+      "source_sha": "6199f3a9ad",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00043": {
+      "text": "$$クラヴィア$$\n「No... not yet on that,\n　but as for what that $$レイライン|lc$$ does...」",
+      "status": "draft",
+      "source_sha": "ef7d0e3f46",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00044": {
+      "text": "$$クロウ$$\n「Really, $$クラヴィア$$!?」",
+      "status": "draft",
+      "source_sha": "dd27773af5",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00045": {
+      "text": "$$クラヴィア$$\n「That's... it's laid out along the earth's veins,\n　and it draws out this planet's own $$次元力$$」",
+      "status": "draft",
+      "source_sha": "c223446376",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": [
+        "地脈 (earth veins/ley veins) translated as plain 'earth's veins', kept distinct from the glossary term レイライン (Ley Line) to avoid conflating two different Japanese words."
+      ]
+    },
+    "rengoku:STGZ3REN_00045:00046": {
+      "text": "$$セツコ$$\n「...!」",
+      "status": "draft",
+      "source_sha": "c51b11a0d5",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00047": {
+      "text": "$$ランド$$\n「$$クロウ$$...!\n　You mean...!」",
+      "status": "draft",
+      "source_sha": "102386476c",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00048": {
+      "text": "$$クロウ$$\n「Yeah... it's the same as $$ＺＯＮＥ$$...」",
+      "status": "draft",
+      "source_sha": "7869e3f4cb",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00049": {
+      "text": "$$サルディアス$$\n「What's that?\n　This \"$$ＺＯＮＥ$$\" you're talking about...」",
+      "status": "draft",
+      "source_sha": "f62445adea",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00050": {
+      "text": "$$クロウ$$\n「A nation that existed on a different Earth than ours...\n　A system built by 《$$インサラウム$$》...」",
+      "status": "draft",
+      "source_sha": "49553b9295",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00051": {
+      "text": "$$クロウ$$\n「Just like that $$レイライン|lc$$,\n　it has the function of drawing out the Earth's $$次元力$$」",
+      "status": "draft",
+      "source_sha": "9f58ecacf3",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00052": {
+      "text": "$$クロウ$$\n「And then, 《$$ＺＯＮＥ$$》ran out of control\n　and turned the Earth where $$インサラウム$$ was into a dead planet...」",
+      "status": "draft",
+      "source_sha": "50477103fb",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00053": {
+      "text": "$$クラヴィア$$\n「Huh...!?」",
+      "status": "draft",
+      "source_sha": "4df0f99784",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00054": {
+      "text": "$$ブルー$$\n「Then...」",
+      "status": "draft",
+      "source_sha": "de2082fd23",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00045:00055": {
+      "text": "$$クロウ$$\n「If we leave the $$レイライン|lc$$ alone like this,\n　worst case, this Earth might end up repeating\n　what happened to $$インサラウム$$...」",
+      "status": "draft",
+      "source_sha": "052aba5812",
+      "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
+      "notes": []
+    }
+  }
+}

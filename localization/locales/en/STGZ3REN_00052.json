@@ -1,0 +1,766 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00052",
+  "messages": {
+    "rengoku:STGZ3REN_00052:00000": {
+      "text": "$$レジスタンス$$\n「This base, we finally got it...!\n　We're going to protect it no\n　matter what!」",
+      "status": "draft",
+      "source_sha": "35d56b7a16",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00001": {
+      "text": "$$レジスタンス$$\n「All the $$レジスタンス$$ groups nearby\n　are gathered here! We won't lose,\n　no matter what comes at us!」",
+      "status": "draft",
+      "source_sha": "61fdb24f1e",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00002": {
+      "text": "$$レジスタンス$$\n「Here it comes...!\n　All units, stay alert!」",
+      "status": "draft",
+      "source_sha": "31a2c81df1",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00003": {
+      "text": "$$レジスタンス$$\n「It's huge!\n　What kind of size is that!」",
+      "status": "draft",
+      "source_sha": "51d141f705",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00004": {
+      "text": "$$レジスタンス$$\n「And that eerie presence...」",
+      "status": "draft",
+      "source_sha": "6eb4ea1ac4",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00005": {
+      "text": "???\n「...」",
+      "status": "draft",
+      "source_sha": "26604fbff1",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00006": {
+      "text": "$$レジスタンス$$\n「But it's just one unit!\n　Let's hit it before it gets going!」",
+      "status": "draft",
+      "source_sha": "eea6324586",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00007": {
+      "text": "$$レジスタンス$$\n「First squad, move up front!」",
+      "status": "draft",
+      "source_sha": "4889136c62",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00008": {
+      "text": "$$ランド$$\n「Get back, all of you!!」",
+      "status": "draft",
+      "source_sha": "9c0c7fb3c2",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00009": {
+      "text": "???\n「Too slow」",
+      "status": "draft",
+      "source_sha": "f27c666dca",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00010": {
+      "text": "$$レジスタンス$$\n「A-aaaaaaargh!!」",
+      "status": "draft",
+      "source_sha": "da2390f61a",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00011": {
+      "text": "$$レジスタンス$$\n「O-one hit...!」",
+      "status": "draft",
+      "source_sha": "e6bbbe770c",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00012": {
+      "text": "$$セツコ$$\n「Please fall back, everyone!\n　We'll handle this!」",
+      "status": "draft",
+      "source_sha": "4f75052367",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00013": {
+      "text": "$$レジスタンス$$\n「But...!」",
+      "status": "draft",
+      "source_sha": "c98a8f4386",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00014": {
+      "text": "$$クロウ$$\n「This ain't the time for some pointless pride!\n　Run, if you don't want to die!」",
+      "status": "draft",
+      "source_sha": "b7aaa6dae1",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00015": {
+      "text": "$$ランド$$\n「That goes for anyone still in the base, too!\n　Get as far away as you can, right now!」",
+      "status": "draft",
+      "source_sha": "f0bf1d5cae",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00016": {
+      "text": "$$レジスタンス$$\n「Y-yes!」",
+      "status": "draft",
+      "source_sha": "cfb3d59e12",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00017": {
+      "text": "$$尸空$$\n「...So you've sensed the power.\n　As expected, from a kindred spirit」",
+      "status": "draft",
+      "source_sha": "c73282751b",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00018": {
+      "text": "$$クロウ$$\n「You...」",
+      "status": "draft",
+      "source_sha": "a2a8ea4427",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00019": {
+      "text": "$$尸空$$\n「Just as you suspected」",
+      "status": "draft",
+      "source_sha": "87f475c7e0",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": [
+        "pid tag reads pid_R_CLAW but the source jp text's own speaker line is 尸空 (Shikuu); translated per the jp speaker line, per brief record-shape rule."
+      ]
+    },
+    "rengoku:STGZ3REN_00052:00020": {
+      "text": "$$尸空$$\n「My name is $$尸空$$.\n　I'm the $$スフィア・リアクター$$ of the $$沈黙の巨蟹$$」",
+      "status": "draft",
+      "source_sha": "621a07333a",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": [
+        "Dropped the inline furigana gloss （きょかい） for 巨蟹 since the whole term 沈黙の巨蟹 is rendered via the glossary key $$沈黙の巨蟹$$; no separate reading needed in English."
+      ]
+    },
+    "rengoku:STGZ3REN_00052:00021": {
+      "text": "$$クラヴィア$$\n「The $$沈黙の巨蟹$$...!」",
+      "status": "draft",
+      "source_sha": "b69b7ae557",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00022": {
+      "text": "$$サルディアス$$\n「So $$サイデリアル$$ really did have\n　one of those $$スフィア$$s too, huh...!」",
+      "status": "draft",
+      "source_sha": "99c47f20a8",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00023": {
+      "text": "$$セツコ$$\n（This feeling...）",
+      "status": "draft",
+      "source_sha": "8cf7c76b44",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00024": {
+      "text": "$$クロウ$$\n（Tch...\n　Now I understand, even the part I didn't want to...）",
+      "status": "draft",
+      "source_sha": "7182b411e9",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00025": {
+      "text": "$$ランド$$\n（This guy... he's far stronger than us...）",
+      "status": "draft",
+      "source_sha": "9f12dd213d",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00026": {
+      "text": "$$アドヴェント$$\n「So you're the reactor of the $$沈黙の巨蟹$$.\n　And a member of $$サイデリアル$$ as well」",
+      "status": "draft",
+      "source_sha": "9b14dcd237",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00027": {
+      "text": "$$尸空$$\n「That's right」",
+      "status": "draft",
+      "source_sha": "47d6c10c36",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00028": {
+      "text": "$$アドヴェント$$\n「Let me be blunt.\n　I want the power of the $$スフィア$$\n　to bring down $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "cda3f0c147",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00029": {
+      "text": "$$アドヴェント$$\n「Would you lend me your strength as well?」",
+      "status": "draft",
+      "source_sha": "bebb78710d",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00030": {
+      "text": "$$尸空$$\n「...A poor joke」",
+      "status": "draft",
+      "source_sha": "b5519beb78",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00031": {
+      "text": "$$アドヴェント$$\n「Surely even you haven't sworn true loyalty\n　to $$サイデリアル$$?」",
+      "status": "draft",
+      "source_sha": "b7378e1b68",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00032": {
+      "text": "$$尸空$$\n「I simply carry out my contracts」",
+      "status": "draft",
+      "source_sha": "6eeece1df9",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00033": {
+      "text": "$$セツコ$$\n「Here it comes...!」",
+      "status": "draft",
+      "source_sha": "b15ad34075",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00034": {
+      "text": "$$尸空$$\n「First, you'll deal with these」",
+      "status": "draft",
+      "source_sha": "dbbc4d7f9f",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00035": {
+      "text": "$$オリオン$$\n「Leaving it to his subordinates, watching from above.\n　Quite the big shot」",
+      "status": "draft",
+      "source_sha": "88c45d6803",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00036": {
+      "text": "$$サルディアス$$\n「O-Orion...\n　You might want to lay off the provocation...」",
+      "status": "draft",
+      "source_sha": "ae4ed7ca8f",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00037": {
+      "text": "$$ランド$$\n「Old man's got a point.\n　That guy's menace ain't just bluster」",
+      "status": "draft",
+      "source_sha": "65403c79c4",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00038": {
+      "text": "$$セツコ$$\n「What should we do, $$アドヴェント$$?」",
+      "status": "draft",
+      "source_sha": "2ff8b26311",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00039": {
+      "text": "$$アドヴェント$$\n「Even if we fall back,\n　we need to buy time\n　to let the $$レジスタンス$$ escape」",
+      "status": "draft",
+      "source_sha": "1c8e423847",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00040": {
+      "text": "$$ブルー$$\n「What...!\n　We're giving up the base we finally got!?」",
+      "status": "draft",
+      "source_sha": "1893b039e8",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00041": {
+      "text": "$$クロウ$$\n「If you wanna throw your life away,\n　go ahead and keep clinging to your pride」",
+      "status": "draft",
+      "source_sha": "fd7be9966f",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00042": {
+      "text": "$$ブルー$$\n「...!」",
+      "status": "draft",
+      "source_sha": "3b51e27262",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00043": {
+      "text": "$$クラヴィア$$\n「$$クロウ$$...」",
+      "status": "draft",
+      "source_sha": "e9b1b15d85",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00044": {
+      "text": "$$クロウ$$\n「$$クラヴィア$$...\n　You're about to learn, whether you like it or not,\n　just how terrifying the $$スフィア$$ you're after is」",
+      "status": "draft",
+      "source_sha": "d94b10a976",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00045": {
+      "text": "$$ランド$$\n「But we got no choice but to do it!\n　We'll be the wall until everyone gets clear!」",
+      "status": "draft",
+      "source_sha": "f32e95986f",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00046": {
+      "text": "$$サルディアス$$\n「Oh dear... I should've just fled\n　with the $$レジスタンス$$ folks too...」",
+      "status": "draft",
+      "source_sha": "513a632c98",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00047": {
+      "text": "$$セツコ$$\n「Can you do it, $$オリオン$$?」",
+      "status": "draft",
+      "source_sha": "1a8d4fa249",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00048": {
+      "text": "$$オリオン$$\n「No need to worry about me.\n　...Besides, I just can't stand guys like that」",
+      "status": "draft",
+      "source_sha": "dba7df93b1",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00049": {
+      "text": "$$オリオン$$\n「If I could kill him, I'd want to do it myself」",
+      "status": "draft",
+      "source_sha": "bc904c29a0",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00050": {
+      "text": "$$アドヴェント$$\n「Everyone, don't push it!\n　Just hold the line for five minutes!」",
+      "status": "draft",
+      "source_sha": "8db1da601e",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00051": {
+      "text": "$$尸空$$\n「Those five minutes...\n　resist with everything you have」",
+      "status": "draft",
+      "source_sha": "bf19225901",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00052": {
+      "text": "$$尸空$$\n「.........」",
+      "status": "draft",
+      "source_sha": "7ff795b540",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00053": {
+      "text": "$$クラヴィア$$\n「We did it!\n　We actually did it!!」",
+      "status": "draft",
+      "source_sha": "c5431f31fd",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00054": {
+      "text": "$$クロウ$$\n「Not yet!」",
+      "status": "draft",
+      "source_sha": "3d6ceefd1a",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00055": {
+      "text": "$$尸空$$\n「That's right」",
+      "status": "draft",
+      "source_sha": "47d6c10c36",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": [
+        "pid tag reads pid_R_CLAW but the source jp text's own speaker line is 尸空 (Shikuu); translated per the jp speaker line."
+      ]
+    },
+    "rengoku:STGZ3REN_00052:00056": {
+      "text": "$$ブルー$$\n「The unit's damage is regenerating!」",
+      "status": "draft",
+      "source_sha": "ffe364a611",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00057": {
+      "text": "$$サルディアス$$\n「Is this what they call the power of the $$スフィア$$!?」",
+      "status": "draft",
+      "source_sha": "79b43b56f9",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00058": {
+      "text": "$$尸空$$\n「This much is only a fragment of it」",
+      "status": "draft",
+      "source_sha": "1634f84dfd",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00059": {
+      "text": "$$クラヴィア$$\n「No way...」",
+      "status": "draft",
+      "source_sha": "f235678317",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00060": {
+      "text": "$$アドヴェント$$\n「Everyone, fall back」",
+      "status": "draft",
+      "source_sha": "cea8cf6af1",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00061": {
+      "text": "$$セツコ$$\n「Right...」",
+      "status": "draft",
+      "source_sha": "72bb573688",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00062": {
+      "text": "$$クロウ$$\n「Damn it...」",
+      "status": "draft",
+      "source_sha": "c59adff3c9",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00063": {
+      "text": "$$ランド$$\n「...Never thought I'd see the day\n　I'd say something like that...」",
+      "status": "draft",
+      "source_sha": "6a78e15b05",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00064": {
+      "text": "$$ランド$$\n「You're gonna regret this, crab bastard!」",
+      "status": "draft",
+      "source_sha": "5ff576fa12",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00065": {
+      "text": "$$尸空$$\n「Still going to keep resisting?」",
+      "status": "draft",
+      "source_sha": "44f1aa201b",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00066": {
+      "text": "$$クロウ$$\n「Guh...」",
+      "status": "draft",
+      "source_sha": "e2784248ac",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00067": {
+      "text": "$$オリオン$$\n「I don't like it...!\n　That attitude, looking down on everyone!」",
+      "status": "draft",
+      "source_sha": "83f9d933ac",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": [
+        "pid tag reads pid_R_CLAW but the source jp text's own speaker line is オリオン (Orion); translated per the jp speaker line."
+      ]
+    },
+    "rengoku:STGZ3REN_00052:00068": {
+      "text": "$$セツコ$$\n「$$オリオン$$...!」",
+      "status": "draft",
+      "source_sha": "931493ab07",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00069": {
+      "text": "$$尸空$$\n「...It's just my nature」",
+      "status": "draft",
+      "source_sha": "94c5c64e40",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00070": {
+      "text": "$$ブルー$$\n「E-energy's overflowing!」",
+      "status": "draft",
+      "source_sha": "1921dcefa8",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00071": {
+      "text": "$$サルディアス$$\n「Is this what they call the power of the $$スフィア$$!?」",
+      "status": "draft",
+      "source_sha": "79b43b56f9",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00072": {
+      "text": "$$尸空$$\n「This much is only a fragment of it」",
+      "status": "draft",
+      "source_sha": "1634f84dfd",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00073": {
+      "text": "$$クラヴィア$$\n「No way...」",
+      "status": "draft",
+      "source_sha": "f235678317",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00074": {
+      "text": "$$アドヴェント$$\n「Everyone, fall back」",
+      "status": "draft",
+      "source_sha": "cea8cf6af1",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00075": {
+      "text": "$$セツコ$$\n「Right...」",
+      "status": "draft",
+      "source_sha": "72bb573688",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00076": {
+      "text": "$$クロウ$$\n「Damn it...」",
+      "status": "draft",
+      "source_sha": "c59adff3c9",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00077": {
+      "text": "$$ランド$$\n「...Never thought I'd see the day\n　I'd say something like that...」",
+      "status": "draft",
+      "source_sha": "6a78e15b05",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00078": {
+      "text": "$$ランド$$\n「You're gonna regret this, crab bastard!」",
+      "status": "draft",
+      "source_sha": "5ff576fa12",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00079": {
+      "text": "$$尸空$$\n「The $$悲しみの乙女$$, the $$傷だらけの獅子$$,\n　the $$揺れる天秤$$...」",
+      "status": "draft",
+      "source_sha": "0a02118304",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00080": {
+      "text": "$$尸空$$\n「Yes...\n　The fight is still ahead」",
+      "status": "draft",
+      "source_sha": "297abcdcb8",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00081": {
+      "text": "$$尸空$$\n「Hoh...」",
+      "status": "draft",
+      "source_sha": "cbf7eb7605",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00082": {
+      "text": "$$セツコ$$\n「We landed a fair amount of damage, and yet...」",
+      "status": "draft",
+      "source_sha": "604cacbb26",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00083": {
+      "text": "$$クロウ$$\n「Tch...!\n　Still won't drop that composed act, huh」",
+      "status": "draft",
+      "source_sha": "10724723ce",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00084": {
+      "text": "$$尸空$$\n「That's hardly my fault」",
+      "status": "draft",
+      "source_sha": "4014fa549a",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00085": {
+      "text": "$$ランド$$\n「Damn it!\n　I'll wipe that smug look off your face!」",
+      "status": "draft",
+      "source_sha": "4001df986f",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00086": {
+      "text": "$$尸空$$\n「...I look forward to it」",
+      "status": "draft",
+      "source_sha": "b08c1f6af5",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00087": {
+      "text": "$$尸空$$\n「...What are you?」",
+      "status": "draft",
+      "source_sha": "77c0311d65",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00088": {
+      "text": "$$アドヴェント$$\n「A pity, $$沈黙の巨蟹$$.\n　If you won't become my comrade,\n　then I have no choice but to defeat you!」",
+      "status": "draft",
+      "source_sha": "2b3e21e26a",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00089": {
+      "text": "$$ブルー$$\n「Even a giant unit, if I just get in close...!」",
+      "status": "draft",
+      "source_sha": "ed33e35647",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00090": {
+      "text": "$$尸空$$\n「...I wouldn't」",
+      "status": "draft",
+      "source_sha": "5b289988ad",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00091": {
+      "text": "$$尸空$$\n「The $$悲しみの乙女$$, is it...」",
+      "status": "draft",
+      "source_sha": "cf99119b2b",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00092": {
+      "text": "$$セツコ$$\n「I... might not be able to beat him...!\n　Even so...!」",
+      "status": "draft",
+      "source_sha": "817014bc71",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": [
+        "'him' referring to Shikuu (established male in character profile) as あの人; confirmed by context_after 00093/00094 continuing Shikuu's own reflection on this fight."
+      ]
+    },
+    "rengoku:STGZ3REN_00052:00093": {
+      "text": "$$尸空$$\n「Not opposed to sacrificing yourself\n　to protect your comrades?」",
+      "status": "draft",
+      "source_sha": "69fac3c5de",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00094": {
+      "text": "$$尸空$$\n「For him, that's the worst\n　opponent to face...」",
+      "status": "draft",
+      "source_sha": "6f4bd5907e",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00095": {
+      "text": "$$オリオン$$\n「I'll be the one to take down\n　someone like you...!」",
+      "status": "draft",
+      "source_sha": "618de0ba04",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00096": {
+      "text": "$$尸空$$\n「Is that so...」",
+      "status": "draft",
+      "source_sha": "136a0193d8",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00097": {
+      "text": "$$ランド$$\n「Not much meat on this crab,\n　but I'll eat you head\n　first!」",
+      "status": "draft",
+      "source_sha": "55d13fcbb4",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00098": {
+      "text": "$$尸空$$\n「Let flesh be cut to sever\n　the bone... A fitting way to\n　fight, for the $$傷だらけの獅子$$」",
+      "status": "draft",
+      "source_sha": "178a7ec828",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00099": {
+      "text": "$$サルディアス$$\n「Um... if it's all right with\n　you, would you mind letting\n　just me go?」",
+      "status": "draft",
+      "source_sha": "e5e24c05be",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00100": {
+      "text": "$$尸空$$\n「Annihilating anyone who comes\n　at me is also part of\n　my contract」",
+      "status": "draft",
+      "source_sha": "dd39a3361b",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00101": {
+      "text": "$$クロウ$$\n「It's not just the $$スフィア$$\n　resonance. My gut's telling me\n　how dangerous this guy is...!」",
+      "status": "draft",
+      "source_sha": "88fdd740de",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00102": {
+      "text": "$$尸空$$\n「But still you come at me...\n　Is that the nature of the\n　$$揺れる天秤$$?」",
+      "status": "draft",
+      "source_sha": "c146272593",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00103": {
+      "text": "$$尸空$$\n「...I don't like it」",
+      "status": "draft",
+      "source_sha": "cdf946eedd",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00104": {
+      "text": "$$クラヴィア$$\n「So this is the $$スフィア$$'s\n　power... and the power of\n　the one who wields it...」",
+      "status": "draft",
+      "source_sha": "f77fceaca0",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00105": {
+      "text": "$$尸空$$\n「Seems you have some aptitude\n　to sense it, at least」",
+      "status": "draft",
+      "source_sha": "81611ec69e",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00052:00106": {
+      "text": "$$アドヴェント$$\n「Ah!」",
+      "status": "draft",
+      "source_sha": "2b5848f6d3",
+      "source_member_sha256": "1d6cb750c049c3bd78d39beae083af3e85e883110928487bfe7a44ed557ac776",
+      "notes": []
+    }
+  }
+}

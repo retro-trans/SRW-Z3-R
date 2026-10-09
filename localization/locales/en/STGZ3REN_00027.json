@@ -1,0 +1,274 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00027",
+  "messages": {
+    "rengoku:STGZ3REN_00027:00000": {
+      "text": "Hangar",
+      "status": "draft",
+      "source_sha": "44d08e5977",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00001": {
+      "text": "Hangar",
+      "status": "draft",
+      "source_sha": "44d08e5977",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00002": {
+      "text": "Hangar",
+      "status": "draft",
+      "source_sha": "44d08e5977",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00003": {
+      "text": "　\n　\n　~Inside Sidereal Base: Hangar~",
+      "status": "draft",
+      "source_sha": "89ceb17c5b",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": [
+        "Location banner (pid_MUZIN); kept centering spacing approximate, translated text only."
+      ]
+    },
+    "rengoku:STGZ3REN_00027:00004": {
+      "text": "$$アドヴェント$$\n「...Stay alert.\n　$$サイデリアル$$ has withdrawn, but there's no telling\n　what they've left behind」",
+      "status": "draft",
+      "source_sha": "32137ba61e",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00005": {
+      "text": "$$ランド$$\n「If that bug from earlier shows up\n　in the flesh, I don't think I could take it」",
+      "status": "draft",
+      "source_sha": "44b4069672",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00006": {
+      "text": "$$クロウ$$\n「Just in case, we had $$セツコ$$ wait\n　in the rear, but I'd rather we skip\n　meeting one ourselves too」",
+      "status": "draft",
+      "source_sha": "641c26ade3",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00007": {
+      "text": "$$クロウ$$\n「Who's there!?」",
+      "status": "draft",
+      "source_sha": "16ba48bd69",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00008": {
+      "text": "$$クラヴィア$$\n「I-I'm sorry, I'm sorry!\n　P-please don't shoot!!」",
+      "status": "draft",
+      "source_sha": "82d86134ac",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00009": {
+      "text": "$$クロウ$$\n「That depends on what you do from here」",
+      "status": "draft",
+      "source_sha": "dc5ceb01ac",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00010": {
+      "text": "$$クラヴィア$$\n「Y-yeh, yes...!」",
+      "status": "draft",
+      "source_sha": "3b54c9721e",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00011": {
+      "text": "$$ランド$$\n「You didn't stay behind\n　to ambush us... right?」",
+      "status": "draft",
+      "source_sha": "e6b113de42",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00012": {
+      "text": "$$クロウ$$\n「If that's the case, we're being underestimated」",
+      "status": "draft",
+      "source_sha": "64ff4038ad",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00013": {
+      "text": "$$クラヴィア$$\n「U-um...!\n　You're $$クロウ・ブルースト$$, aren't you!\n　And you over there, you're $$ランド・トラビス$$!」",
+      "status": "draft",
+      "source_sha": "a43c466635",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00014": {
+      "text": "$$クロウ$$\n「Uh, yeah...」",
+      "status": "draft",
+      "source_sha": "00a63387f7",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00015": {
+      "text": "$$ランド$$\n「Us... could we be famous or something?」",
+      "status": "draft",
+      "source_sha": "13237a42f1",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00016": {
+      "text": "$$アドヴェント$$\n「Just who are you...」",
+      "status": "draft",
+      "source_sha": "ca703e7052",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00017": {
+      "text": "$$クラヴィア$$\n「M-my name is $$クラヴィア・アーゴ$$...」",
+      "status": "draft",
+      "source_sha": "9dd3011e17",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00018": {
+      "text": "$$クラヴィア$$\n「I was researching $$スフィア$$ at this base」",
+      "status": "draft",
+      "source_sha": "bf4a321904",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00019": {
+      "text": "$$クロウ$$\n「$$スフィア$$...」",
+      "status": "draft",
+      "source_sha": "bf91a31612",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00020": {
+      "text": "Facility Corridor",
+      "status": "draft",
+      "source_sha": "7e193a4a43",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00021": {
+      "text": "Facility Corridor",
+      "status": "draft",
+      "source_sha": "7e193a4a43",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00022": {
+      "text": "Facility Corridor",
+      "status": "draft",
+      "source_sha": "7e193a4a43",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00023": {
+      "text": "　\n　\n　~Inside Sidereal Base~",
+      "status": "draft",
+      "source_sha": "8a8918b378",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": [
+        "Location banner (pid_MUZIN); same treatment as 00003."
+      ]
+    },
+    "rengoku:STGZ3REN_00027:00024": {
+      "text": "$$セツコ$$\n「......」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": [
+        "Source has a 5x「…」 long-pause ellipsis; rendered as a single extended '......' per style rule (no literal … characters)."
+      ]
+    },
+    "rengoku:STGZ3REN_00027:00025": {
+      "text": "$$ブルー$$\n「What's wrong, $$セツコ$$?\n　Something on your mind...?」",
+      "status": "draft",
+      "source_sha": "2df54aded7",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00026": {
+      "text": "$$セツコ$$\n「No...」",
+      "status": "draft",
+      "source_sha": "7aa0169876",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00027": {
+      "text": "$$ブルー$$\n「It'll be fine.\n　With the Captain, $$ランド$$, and $$クロウ$$,\n　there's nothing to fear, whatever comes」",
+      "status": "draft",
+      "source_sha": "d134e1e3da",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00028": {
+      "text": "$$セツコ$$\n「You're right...」",
+      "status": "draft",
+      "source_sha": "33572be3cb",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00029": {
+      "text": "$$セツコ$$\n（What is this... this uneasy feeling...）",
+      "status": "draft",
+      "source_sha": "24f45c7101",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00030": {
+      "text": "$$ブルー$$\n「Who's there!?」",
+      "status": "draft",
+      "source_sha": "95da4c7d35",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00031": {
+      "text": "???\n「Ah...」",
+      "status": "draft",
+      "source_sha": "fd410ff57a",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00032": {
+      "text": "$$ブルー$$\n「Who are you?\n　A $$サイデリアル$$ soldier?」",
+      "status": "draft",
+      "source_sha": "7f4654971b",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00033": {
+      "text": "???\n「I...」",
+      "status": "draft",
+      "source_sha": "94e3b6bef7",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00034": {
+      "text": "???\n「I don't know what I am...」",
+      "status": "draft",
+      "source_sha": "a07b16dab4",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00035": {
+      "text": "$$セツコ$$\n「Huh...」",
+      "status": "draft",
+      "source_sha": "86f5034ed2",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00027:00036": {
+      "text": "???\n「......」",
+      "status": "draft",
+      "source_sha": "26604fbff1",
+      "source_member_sha256": "0d10e4e5d984d26c2a36284535bbbbebbae80efb3ee01947a48abf85fea3d68b",
+      "notes": [
+        "Same long-pause ellipsis treatment as 00027:00024."
+      ]
+    }
+  }
+}

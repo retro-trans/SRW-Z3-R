@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "build": "018",
+  "installer_tests_passed": 3,
+  "complete_installer_target_files_verified": 77,
+  "patch_roundtrips_passed": 12,
+  "public_snapshot_original_fields_removed": 9571,
+  "public_snapshot_english_text_ids_fingerprints_preserved": true,
+  "gameplay_tested": false,
+  "ps3_hardware_tested": false
+}

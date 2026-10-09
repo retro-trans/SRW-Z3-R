@@ -1,0 +1,911 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00092",
+  "messages": {
+    "rengoku:STGZ3REN_00092:00000": {
+      "text": "$$セツコ$$\n「The $$いがみ合う双子$$ $$スフィア・リアクター$$...」",
+      "status": "draft",
+      "source_sha": "90fa3ec75b",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00001": {
+      "text": "$$ブルー$$\n「...That's him」",
+      "status": "draft",
+      "source_sha": "799080e6c6",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00002": {
+      "text": "$$クロウ$$\n「$$ブルー$$...」",
+      "status": "draft",
+      "source_sha": "7c1c03a010",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00003": {
+      "text": "$$ブルー$$\n「$$ジェミニス$$, who sealed our Earth in the $$時の牢獄$$\n　and aimed to turn humanity against itself...!」",
+      "status": "draft",
+      "source_sha": "0e63dccdeb",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00004": {
+      "text": "$$ブルー$$\n「And that man is their commander...!\n　$$ガドライト・メオンサム$$!」",
+      "status": "draft",
+      "source_sha": "1b5eab64a2",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00005": {
+      "text": "$$ガドライト$$\n「Thanks for the introduction.\n　I'm $$ガドライト$$, the cause of it all」",
+      "status": "draft",
+      "source_sha": "6bf837650c",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00006": {
+      "text": "$$ランド$$\n「After pulling something like that,\n　you've got some nerve smirking about it」",
+      "status": "draft",
+      "source_sha": "1dee4c5e89",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00007": {
+      "text": "$$ガドライト$$\n「Hold on.\n　From the looks of it, you lot came from the other Earth, right?」",
+      "status": "draft",
+      "source_sha": "0d6f0b065e",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00008": {
+      "text": "$$ガドライト$$\n「If so, getting angry over what happens to this Earth\n　doesn't make sense」",
+      "status": "draft",
+      "source_sha": "0f38bc5b5e",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00009": {
+      "text": "$$ランド$$\n「Shut it, you villain!\n　That's not the point!」",
+      "status": "draft",
+      "source_sha": "193be02411",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00010": {
+      "text": "$$クロウ$$\n「There are people on this Earth who looked out for us.\n　And more than that, I just don't like guys\n　who mess with someone else's planet for their own sake」",
+      "status": "draft",
+      "source_sha": "c3863454a6",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00011": {
+      "text": "$$セツコ$$\n「If defeating you saves this Earth,\n　then we'll fight you too」",
+      "status": "draft",
+      "source_sha": "6d22657154",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00012": {
+      "text": "$$ガドライト$$\n「...I've got no intention of that」",
+      "status": "draft",
+      "source_sha": "68894cd08a",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00013": {
+      "text": "$$ブルー$$\n「What!?」",
+      "status": "draft",
+      "source_sha": "5c5f91d76c",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00014": {
+      "text": "$$ガドライト$$\n「I'll get straight to the point.\n　Won't you team up with me?」",
+      "status": "draft",
+      "source_sha": "5e9aaba13a",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00015": {
+      "text": "$$セツコ$$\n「Huh...?」",
+      "status": "draft",
+      "source_sha": "86f5034ed2",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00016": {
+      "text": "$$ランド$$\n「You want us to help a villain out!?」",
+      "status": "draft",
+      "source_sha": "714b4faab3",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00017": {
+      "text": "$$クロウ$$\n「...Wait」",
+      "status": "draft",
+      "source_sha": "d434cde415",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00018": {
+      "text": "$$ブルー$$\n「$$クロウ$$!\n　You're actually going to hear that man out!?」",
+      "status": "draft",
+      "source_sha": "05661e10cd",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00019": {
+      "text": "$$クロウ$$\n「...Unless that man's a fool,\n　he must know our answer is no」",
+      "status": "draft",
+      "source_sha": "ffcdda85ee",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00020": {
+      "text": "$$クロウ$$\n「But if he's bringing it up anyway,\n　there must be a good reason for it.\n　I want to know what it is」",
+      "status": "draft",
+      "source_sha": "181da51696",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00021": {
+      "text": "$$ガドライト$$\n「Bingo.\n　And it's not a bad deal\n　for you lot either」",
+      "status": "draft",
+      "source_sha": "096b94efbe",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00022": {
+      "text": "$$ガドライト$$\n「...If it goes well,\n　both me and $$ジェミニス$$ could get out\n　of this crappy way of living...」",
+      "status": "draft",
+      "source_sha": "4c8e0aa99b",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00023": {
+      "text": "$$ランド$$\n「Skip the preamble and just spit it out already.\n　And I'm warning you, no bullshitting」",
+      "status": "draft",
+      "source_sha": "9bca7e06f1",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00024": {
+      "text": "$$ガドライト$$\n「I know.\n　I'm not like the $$偽りの黒羊$$」",
+      "status": "draft",
+      "source_sha": "e830a78f1d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00025": {
+      "text": "$$ガドライト$$\n「The reason I want to team up with you...\n　Plain and simple, it's to fight them」",
+      "status": "draft",
+      "source_sha": "fb5492f546",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00026": {
+      "text": "$$セツコ$$\n「Them...?」",
+      "status": "draft",
+      "source_sha": "6f68229ef4",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00027": {
+      "text": "$$ガドライト$$\n「My $$いがみ合う双子$$ $$スフィア$$\n　and your three $$スフィア$$s...\n　If we bring them together, we might just pull it off...」",
+      "status": "draft",
+      "source_sha": "583b2daf8f",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00028": {
+      "text": "$$ガドライト$$\n「Though in your case,\n　nothing's going to work\n　unless you raise your Stage」",
+      "status": "draft",
+      "source_sha": "f8d7f72e4a",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": [
+        "'ステージ' (Stage) is a generic game-mechanic term here, not a glossary proper noun; left as plain capitalized 'Stage', not added to new_terms."
+      ]
+    },
+    "rengoku:STGZ3REN_00092:00029": {
+      "text": "$$ランド$$\n「So basically you want us to be your soldiers?」",
+      "status": "draft",
+      "source_sha": "4694dd0a4e",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00030": {
+      "text": "$$ガドライト$$\n「Of course, I'll prepare a fitting reward」",
+      "status": "draft",
+      "source_sha": "4fe12497a2",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00031": {
+      "text": "$$ガドライト$$\n「Depending on how it goes, we $$ジェミニス$$\n　might even pull out from this planet」",
+      "status": "draft",
+      "source_sha": "0eae042527",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00032": {
+      "text": "$$ブルー$$\n「What!?」",
+      "status": "draft",
+      "source_sha": "5c5f91d76c",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00033": {
+      "text": "$$ガドライト$$\n「And eventually, you lot too will have to face them...」",
+      "status": "draft",
+      "source_sha": "a42561d8a5",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00034": {
+      "text": "$$ガドライト$$\n「...!」",
+      "status": "draft",
+      "source_sha": "ab3606a400",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00035": {
+      "text": "$$ブルー$$\n「What's wrong!?」",
+      "status": "draft",
+      "source_sha": "8fb7c33f2f",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00036": {
+      "text": "$$セツコ$$\n「This feeling...」",
+      "status": "draft",
+      "source_sha": "cc01700a23",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00037": {
+      "text": "$$クロウ$$\n「Is it him...!」",
+      "status": "draft",
+      "source_sha": "16d51def31",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00038": {
+      "text": "$$尸空$$\n「...」",
+      "status": "draft",
+      "source_sha": "7ff795b540",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00039": {
+      "text": "$$クロウ$$\n「$$尸空$$...!」",
+      "status": "draft",
+      "source_sha": "43d0b27113",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00040": {
+      "text": "$$ランド$$\n「I thought that bastard wasn't at\n　$$セントラル・ベース$$, and here he was all along!」",
+      "status": "draft",
+      "source_sha": "34c15b1b12",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00041": {
+      "text": "$$ブラック$$\n「Be careful!\n　$$ジェミニス$$ is coming!」",
+      "status": "draft",
+      "source_sha": "c4d661762d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00042": {
+      "text": "$$アンナロッタ$$\n「$$ガドライト$$!\n　Sorry I'm late!」",
+      "status": "draft",
+      "source_sha": "8da39c8aad",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00043": {
+      "text": "$$ガドライト$$\n「...」",
+      "status": "draft",
+      "source_sha": "68a3fcafdb",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00044": {
+      "text": "$$アンナロッタ$$\n「$$ガドライト$$...?」",
+      "status": "draft",
+      "source_sha": "489b41a73a",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00045": {
+      "text": "$$ガドライト$$\n「...So basically we've got no choice\n　but to keep wading through this cesspool...」",
+      "status": "draft",
+      "source_sha": "c04a134a56",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00046": {
+      "text": "$$ガドライト$$\n「Damn it all!!」",
+      "status": "draft",
+      "source_sha": "5b84429048",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00047": {
+      "text": "$$セツコ$$\n「What's going on...!?」",
+      "status": "draft",
+      "source_sha": "267b414a69",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00048": {
+      "text": "$$ランド$$\n「I don't know the details, but\n　it looks like $$尸空$$ showing up\n　blew his deal to pieces」",
+      "status": "draft",
+      "source_sha": "c31868fd2d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00049": {
+      "text": "$$クロウ$$\n「In other words...」",
+      "status": "draft",
+      "source_sha": "c3adedd17b",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00050": {
+      "text": "$$ガドライト$$\n「Yeah, that's right.\n　Sorry for wasting your time...」",
+      "status": "draft",
+      "source_sha": "19dba2f924",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00051": {
+      "text": "$$ガドライト$$\n「Looks like I've got no choice\n　but to fight you after all」",
+      "status": "draft",
+      "source_sha": "5e11cb11cf",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00052": {
+      "text": "$$ランド$$\n「Bring it on!\n　That's what we had in mind from the start!」",
+      "status": "draft",
+      "source_sha": "47857a7baa",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00053": {
+      "text": "$$セツコ$$\n「$$ブルー$$!\n　If we defeat him here...」",
+      "status": "draft",
+      "source_sha": "15b7d26d17",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00054": {
+      "text": "$$ブルー$$\n「Yes!\n　We can save the Earth!」",
+      "status": "draft",
+      "source_sha": "1f9097020a",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00055": {
+      "text": "$$ガドライト$$\n「Ha...! Don't underestimate me!」",
+      "status": "draft",
+      "source_sha": "6228b782bc",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00056": {
+      "text": "$$クロウ$$\n「Tch...!」",
+      "status": "draft",
+      "source_sha": "316084a051",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00057": {
+      "text": "$$セツコ$$\n「This power...!」",
+      "status": "draft",
+      "source_sha": "a524f76775",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00058": {
+      "text": "$$ガドライト$$\n「Even worn down, I'm still a $$サード・ステージ$$ $$リアクター$$.\n　No matter how many of your caliber gang up on me,\n　I don't intend to lose」",
+      "status": "draft",
+      "source_sha": "eafbb7c82a",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00059": {
+      "text": "$$ランド$$\n「A minute ago you were counting on our strength,\n　what a selfish bastard!」",
+      "status": "draft",
+      "source_sha": "31218ccba9",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00060": {
+      "text": "$$ガドライト$$\n「...Yeah, guess so」",
+      "status": "draft",
+      "source_sha": "829063efb3",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00061": {
+      "text": "$$ガドライト$$\n「But there's no turning back for me now!\n　I'm gonna beat you down quick\n　and use it to score points!」",
+      "status": "draft",
+      "source_sha": "3898e02688",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00062": {
+      "text": "$$ガドライト$$\n「Damn it...!\n　Is this the backlash for getting my hopes up!?\n　I let $$ジェミニア$$ take a shameful hit!」",
+      "status": "draft",
+      "source_sha": "6fadf9311a",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00063": {
+      "text": "$$ブルー$$\n「Did we get him!?」",
+      "status": "draft",
+      "source_sha": "bcea802276",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00064": {
+      "text": "$$ガドライト$$\n「Don't make me laugh!」",
+      "status": "draft",
+      "source_sha": "b3abbc7334",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00065": {
+      "text": "$$セツコ$$\n「The unit is regenerating...!」",
+      "status": "draft",
+      "source_sha": "2e8b7cbf45",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00066": {
+      "text": "$$ランド$$\n「That cheap $$スフィア$$ power again!?」",
+      "status": "draft",
+      "source_sha": "fd1f1c9d73",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00067": {
+      "text": "$$ガドライト$$\n「Beating me with power like yours\n　was never in the cards」",
+      "status": "draft",
+      "source_sha": "ec32d3c32f",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00068": {
+      "text": "$$クロウ$$\n「Damn it!\n　Same as with《$$アイム$$》!」",
+      "status": "draft",
+      "source_sha": "df6ee4e104",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00069": {
+      "text": "$$ガドライト$$\n「If you get it,\n　hurry up and raise the white flag...」",
+      "status": "draft",
+      "source_sha": "722c1c917d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00070": {
+      "text": "$$ガドライト$$\n「Impressive, a battle-hardened $$リアクター$$!\n　You're putting up quite a fight!」",
+      "status": "draft",
+      "source_sha": "5e2f35a108",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00071": {
+      "text": "$$ガドライト$$\n「But still!」",
+      "status": "draft",
+      "source_sha": "6c5b58c56e",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00072": {
+      "text": "$$セツコ$$\n「The unit's damage is being repaired...!」",
+      "status": "draft",
+      "source_sha": "2a4774fbf5",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00073": {
+      "text": "$$ランド$$\n「That cheap $$スフィア$$ power!」",
+      "status": "draft",
+      "source_sha": "51410a6e9c",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00074": {
+      "text": "$$ガドライト$$\n「Beating me with power like yours\n　was never in the cards」",
+      "status": "draft",
+      "source_sha": "ec32d3c32f",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00075": {
+      "text": "$$クロウ$$\n「Damn it!\n　Same as with《$$アイム$$》!」",
+      "status": "draft",
+      "source_sha": "df6ee4e104",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00076": {
+      "text": "$$ガドライト$$\n「If you get it,\n　hurry up and raise the white flag...」",
+      "status": "draft",
+      "source_sha": "722c1c917d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00077": {
+      "text": "$$アドヴェント$$\n「That's enough, $$ガドライト$$」",
+      "status": "draft",
+      "source_sha": "5fefaeb30d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00078": {
+      "text": "$$ガドライト$$\n「So you showed up, party crasher!\n　Don't think that just because you came,\n　you can beat me!」",
+      "status": "draft",
+      "source_sha": "1725179ded",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00079": {
+      "text": "$$アドヴェント$$\n「Don't misunderstand.\n　The one to defeat you is neither me\n　nor the $$リアクター$$ here」",
+      "status": "draft",
+      "source_sha": "f3310c3097",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00080": {
+      "text": "$$アドヴェント$$\n「The one to defeat you is 『him』」",
+      "status": "draft",
+      "source_sha": "82b60c1298",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00081": {
+      "text": "$$ガドライト$$\n「That's a lousy joke...!」",
+      "status": "draft",
+      "source_sha": "96858c9d58",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00082": {
+      "text": "$$アドヴェント$$\n「$$セツコ$$, $$ランド$$, $$クロウ$$!\n　Come with me!」",
+      "status": "draft",
+      "source_sha": "d349df6241",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00083": {
+      "text": "$$ランド$$\n「Come with you...」",
+      "status": "draft",
+      "source_sha": "4cbaeab3bf",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00084": {
+      "text": "$$アドヴェント$$\n「This battle for $$蒼の地球$$ can be left to them」",
+      "status": "draft",
+      "source_sha": "8fcdfddceb",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00085": {
+      "text": "$$セツコ$$\n「Them...?」",
+      "status": "draft",
+      "source_sha": "5ddf7ab78d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00086": {
+      "text": "$$アドヴェント$$\n「Warriors you know well」",
+      "status": "draft",
+      "source_sha": "050aac986e",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00087": {
+      "text": "$$セツコ$$\n「Then...」",
+      "status": "draft",
+      "source_sha": "b75dfb5ba2",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00088": {
+      "text": "$$クロウ$$\n「Understood.\n　If they're here, there's no need for us」",
+      "status": "draft",
+      "source_sha": "b2717e5f92",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00089": {
+      "text": "$$ガドライト$$\n「Running away!?」",
+      "status": "draft",
+      "source_sha": "6eda4823f7",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00090": {
+      "text": "$$ランド$$\n「That's not it」",
+      "status": "draft",
+      "source_sha": "0dc587b30f",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00091": {
+      "text": "$$クロウ$$\n「Seems your opponent isn't us」",
+      "status": "draft",
+      "source_sha": "7325f1c76e",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00092": {
+      "text": "$$セツコ$$\n「They'll surely defeat you\n　and bring peace back to this Earth」",
+      "status": "draft",
+      "source_sha": "dcb77fd30d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00093": {
+      "text": "$$アドヴェント$$\n「$$ガドライト・メオンサム$$.\n　The next time we meet, your twisted wish\n　will be cut off completely」",
+      "status": "draft",
+      "source_sha": "d4b28e4a12",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00094": {
+      "text": "$$ガドライト$$\n「Tch...」",
+      "status": "draft",
+      "source_sha": "cd96ddcb35",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00095": {
+      "text": "$$ガドライト$$\n「Acting like he knows everything...」",
+      "status": "draft",
+      "source_sha": "705734dc49",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00096": {
+      "text": "$$ガドライト$$\n「...Damn it...\n　The dimensional cage is almost complete,\n　and yet something's smoldering in me again...」",
+      "status": "draft",
+      "source_sha": "bd563d96c6",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": [
+        "次元の檻 kept descriptive (\"dimensional cage\"); not found as a named term in game text or wikis. Reuse this wording at 00092:00117."
+      ]
+    },
+    "rengoku:STGZ3REN_00092:00097": {
+      "text": "$$アンナロッタ$$\n「How careless...!」",
+      "status": "draft",
+      "source_sha": "bf1eaa8d42",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00098": {
+      "text": "$$ガドライト$$\n「Fall back, $$アンナロッタ$$!」",
+      "status": "draft",
+      "source_sha": "3f329c40c1",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00099": {
+      "text": "$$アンナロッタ$$\n「But...」",
+      "status": "draft",
+      "source_sha": "7599c51c6c",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00100": {
+      "text": "$$ガドライト$$\n「The enemy is a $$リアクター$$.\n　I'll deal with him」",
+      "status": "draft",
+      "source_sha": "8a5c050cac",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00101": {
+      "text": "$$アンナロッタ$$\n「...Understood.\n　I'm counting on you, $$ガドライト$$」",
+      "status": "draft",
+      "source_sha": "522a7561e6",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00102": {
+      "text": "$$ガドライト$$\n（I'll protect only you...\n　The child in your belly\n　is the last hope for us $$ジェミナイド$$）",
+      "status": "draft",
+      "source_sha": "282d0663c2",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00103": {
+      "text": "$$ガドライト$$\n「So you're the $$悲しみの乙女$$...!」",
+      "status": "draft",
+      "source_sha": "f392e9ba7b",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00104": {
+      "text": "$$セツコ$$\n「I am... $$セツコ・オハラ$$!」",
+      "status": "draft",
+      "source_sha": "074fc93285",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00105": {
+      "text": "$$ガドライト$$\n「I see...\n　Looks like becoming a $$リアクター$$\n　hasn't done you any favors either」",
+      "status": "draft",
+      "source_sha": "c0a254b793",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00106": {
+      "text": "$$ガドライト$$\n「Then let me carry that misfortune for you!\n　Fall in under me!」",
+      "status": "draft",
+      "source_sha": "a7fd5f35bc",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00107": {
+      "text": "$$セツコ$$\n「I won't let that happen!\n　$$バルゴラ$$, Sphere included, is part of me!」",
+      "status": "draft",
+      "source_sha": "0bef1b2e63",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00108": {
+      "text": "$$セツコ$$\n「I have no intention of handing\n　$$グローリー・スター$$'s bond to anyone!」",
+      "status": "draft",
+      "source_sha": "38653f57e9",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00109": {
+      "text": "$$ガドライト$$\n「$$傷だらけの獅子$$!\n　Let's see how much punishment you can take!」",
+      "status": "draft",
+      "source_sha": "59b3da1dac",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00110": {
+      "text": "$$メール$$\n「Hey!\n　Don't talk about my darling like a punching bag!」",
+      "status": "draft",
+      "source_sha": "dffc336201",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00111": {
+      "text": "$$ランド$$\n「Let me tell you, $$ガドライト$$!\n　$$傷だらけの獅子$$ isn't my only nickname!」",
+      "status": "draft",
+      "source_sha": "6b8d16852e",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00112": {
+      "text": "$$ランド$$\n「I'm $$ザ・ヒート$$!\n　My heat will burn that smug attitude of yours to ash!」",
+      "status": "draft",
+      "source_sha": "911c811555",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00113": {
+      "text": "$$ガドライト$$\n「Hot stuff, big guy!\n　But your heat's no match for my rage!」",
+      "status": "draft",
+      "source_sha": "f8be7195df",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00114": {
+      "text": "$$ガドライト$$\n「And even your heat\n　can't light a fire under my resignation!」",
+      "status": "draft",
+      "source_sha": "c468fff64d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00115": {
+      "text": "$$ガドライト$$\n「I know, $$揺れる天秤$$.\n　$$トライア・スコート$$ built that machine of yours, didn't she?」",
+      "status": "draft",
+      "source_sha": "d514d36eee",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00116": {
+      "text": "$$クロウ$$\n「This guy...!\n　He knows about the $$チーフ$$!?」",
+      "status": "draft",
+      "source_sha": "362c3d3232",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00117": {
+      "text": "$$ガドライト$$\n「Too bad.\n　If that doctor's awakening had come a little sooner,\n　she might've broken through the dimensional cage」",
+      "status": "draft",
+      "source_sha": "db5579c614",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00118": {
+      "text": "$$ガドライト$$\n「Looks like you're fumbling around with something,\n　but soon enough you'll learn it's pointless!」",
+      "status": "draft",
+      "source_sha": "a992363221",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00119": {
+      "text": "$$クロウ$$\n「Heh...」",
+      "status": "draft",
+      "source_sha": "094d7f34df",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00120": {
+      "text": "$$ガドライト$$\n「What's with that confidence!」",
+      "status": "draft",
+      "source_sha": "b1279b7764",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00121": {
+      "text": "$$クロウ$$\n「I don't know much about this Earth's situation,\n　but if the $$チーフ$$'s on the move, that's a relief」",
+      "status": "draft",
+      "source_sha": "ca7bac47bb",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00122": {
+      "text": "$$ガドライト$$\n「Looks like you don't get that hoping is pointless!」",
+      "status": "draft",
+      "source_sha": "8b1d430c6d",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00123": {
+      "text": "$$クロウ$$\n「You're underestimating the $$チーフ$$.\n　She's tougher than you'd ever imagine」",
+      "status": "draft",
+      "source_sha": "82530211ce",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00124": {
+      "text": "$$クロウ$$\n「No matter how careful I am,\n　she saddles me with debt one way or another!」",
+      "status": "draft",
+      "source_sha": "4836f40cc3",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00092:00125": {
+      "text": "$$ガドライト$$\n「So you're that bastard's underling...!」",
+      "status": "draft",
+      "source_sha": "addb1afe60",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": [
+        "野郎 is a rough epithet Gadlight uses for the Chief (Traia Scott, female); rendered as 'that bastard' to preserve the insult without asserting a gender the term doesn't literally carry here"
+      ]
+    },
+    "rengoku:STGZ3REN_00092:00126": {
+      "text": "$$ガドライト$$\n「Then give 'em a message from me!\n　Tell 'em not to think I'll let 'em do as they please forever!」",
+      "status": "draft",
+      "source_sha": "c02cd44f55",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": [
+        "あいつ kept gender-neutral ('them/em') referring to the Chief"
+      ]
+    },
+    "rengoku:STGZ3REN_00092:00127": {
+      "text": "$$アドヴェント$$\n「Ah!」",
+      "status": "draft",
+      "source_sha": "2b5848f6d3",
+      "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
+      "notes": []
+    }
+  }
+}

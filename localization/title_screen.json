@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "source": "第３次スーパーロボット大戦Ｚ　連獄篇",
+  "display": ["3rd SUPER ROBOT WARS", "PURGATORY", "CHAPTER"],
+  "note": "Title artwork localization, following Z3.1's English wordmark and translated subtitle treatment. Rengoku-hen remains the title spelling in prose catalogs.",
+  "subtitle_basis": "https://blog.ja.playstation.com/2015/04/02/20150402_srwz/",
+  "subtitle_basis_note": "Producer Terada explains that 連獄 derives from 煉獄, between heaven and hell, with the first character changed like the other Z3 subtitles. Purgatory Chapter is this project's English rendering, not an official English title.",
+  "asset": "USRDIR/DATA_REN/ANIME/EFFPS3.CPK:133",
+  "source_sha256": "e13739e4e1b893bb2dcd1eaddf3c15921b6d0d7efed6e9173c2d8c335460f95a",
+  "wordmark": {
+    "path": "work/title010_art/wordmark.png",
+    "sha256": "294369bf76cdae6613224ec7887ff8438984111d58644a75825482fa27e81356",
+    "origin": "Read-only copy of ../SRW Z3/work/title_logo_final/wordmark.png"
+  },
+  "subtitle": {
+    "path": "work/title010_art/subtitle.png",
+    "sha256": "8fc8a17b5b3315b49eaf48414a27a8b855d69716bad63507c5ccca841d81375e",
+    "origin": "Built-in image_gen, using the sibling's AI-created subtitle-v2.png as a style reference. Original game data was not sent to the generator.",
+    "generated_source": "work/title010_art/subtitle-source.png",
+    "generated_source_sha256": "441cbc4bd5abfb7868315bf717f886150e4eec63fb784e042bb73c6592f8f8d9",
+    "packing": "Crop generated alpha bounds, resize proportionally to width 316, position at (8,5) within a transparent 339x117 native tile; preserve generated alpha."
+  }
+}

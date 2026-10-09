@@ -1,0 +1,769 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00016",
+  "messages": {
+    "rengoku:STGZ3REN_00016:00000": {
+      "text": "$$レジスタンス$$\n「Damn it!\n　Flaunting Earth-made weapons like that...!」",
+      "status": "draft",
+      "source_sha": "fff400f030",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00001": {
+      "text": "$$レジスタンス$$\n「Is he trying to piss us off\n　on purpose or something?」",
+      "status": "draft",
+      "source_sha": "2d902d92db",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00002": {
+      "text": "$$ギルター$$\n「Heh... So you've noticed my strategic intent」",
+      "status": "draft",
+      "source_sha": "b37dff4c75",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00003": {
+      "text": "$$レジスタンス$$\n「What's with that guy...?\n　Just hearing his voice tells me\n　how obnoxious he is」",
+      "status": "draft",
+      "source_sha": "cbbf7c7ff5",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00004": {
+      "text": "$$ギルター$$\n「I'll give my name to you, since you're about to die.\n　I am $$ギルター・ベローネ$$」",
+      "status": "draft",
+      "source_sha": "c33ea86955",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00005": {
+      "text": "$$ギルター$$\n「The man appointed commander of the force\n　tasked with wiping out this continent's resistance」",
+      "status": "draft",
+      "source_sha": "9ddddad557",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00006": {
+      "text": "$$ギルター$$\n「Now then, as a greeting,\n　let me play you a funeral march!」",
+      "status": "draft",
+      "source_sha": "4d0168cdb4",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00007": {
+      "text": "$$レジスタンス$$\n「The difference in strength is overwhelming!」",
+      "status": "draft",
+      "source_sha": "536d52f1e5",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00008": {
+      "text": "$$レジスタンス$$\n「Don't give up!\n　If we hold out, a repairman might show!」",
+      "status": "draft",
+      "source_sha": "a73c25cbb1",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00009": {
+      "text": "$$レジスタンス$$\n「Asking us to hold onto hope\n　in a situation like this is impossible!」",
+      "status": "draft",
+      "source_sha": "7a65b797e9",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00010": {
+      "text": "$$ギルター$$\n「Quite right!\n　First squad, move forward!」",
+      "status": "draft",
+      "source_sha": "f0df3664b5",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00011": {
+      "text": "$$レジスタンス$$\n「Are they going for the kill!?」",
+      "status": "draft",
+      "source_sha": "1e2897fa41",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00012": {
+      "text": "$$レジスタンス$$\n「It's all right!\n　Looks like we made it in time!」",
+      "status": "draft",
+      "source_sha": "c075eba39b",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00013": {
+      "text": "$$ランド$$\n「Sorry to keep you waiting!」",
+      "status": "draft",
+      "source_sha": "89be25f3e6",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00014": {
+      "text": "$$レジスタンス$$\n「Who are you!?」",
+      "status": "draft",
+      "source_sha": "0c9ea6839f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00015": {
+      "text": "$$ランド$$\n「Hey now... you're the ones\n　who called me, aren't you?」",
+      "status": "draft",
+      "source_sha": "72101d1791",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00016": {
+      "text": "$$レジスタンス$$\n「Then you're...!」",
+      "status": "draft",
+      "source_sha": "224fffd4de",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00017": {
+      "text": "$$ランド$$\n「That's right... the wandering repair crew\n　known for sincere service and a smiling staff,\n　$$ビーター・サービス$$...」",
+      "status": "draft",
+      "source_sha": "d1df062634",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00018": {
+      "text": "$$ランド$$\n「The one they call $$ザ・ヒート$$,\n　$$ランド・トラビス$$ — that's me!」",
+      "status": "draft",
+      "source_sha": "73d8554436",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00019": {
+      "text": "$$レジスタンス$$\n「Way too intense!!」",
+      "status": "draft",
+      "source_sha": "2e03b196f5",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00020": {
+      "text": "$$ギルター$$\n「A single reinforcement — how pitiful!\n　Finish him off along with the rest!」",
+      "status": "draft",
+      "source_sha": "fd0cbb3304",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00021": {
+      "text": "$$レジスタンス$$\n「Whoa!」",
+      "status": "draft",
+      "source_sha": "192f3e8405",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00022": {
+      "text": "$$ランド$$\n「Like I'd let that happen!」",
+      "status": "draft",
+      "source_sha": "2234055f6b",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00023": {
+      "text": "$$ギルター$$\n「What!?」",
+      "status": "draft",
+      "source_sha": "b00260b491",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00024": {
+      "text": "$$ランド$$\n「Geez.\n　I'm the one doing the repairs here.\n　Don't go making more work for me」",
+      "status": "draft",
+      "source_sha": "659936a4b3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00025": {
+      "text": "$$ギルター$$\n「Some repairman!\n　What you're doing is destruction, isn't it!」",
+      "status": "draft",
+      "source_sha": "30c99caaf2",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00026": {
+      "text": "$$ランド$$\n「Huh?」",
+      "status": "draft",
+      "source_sha": "2ee32d3bc3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00027": {
+      "text": "$$レジスタンス$$\n（Nice...!）",
+      "status": "draft",
+      "source_sha": "b2c11c762f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00028": {
+      "text": "$$ギルター$$\n「Some \"The Heat\"!\n　$$ザ・クラッシャー$$ suits you far better!!」",
+      "status": "draft",
+      "source_sha": "26d2abd700",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00029": {
+      "text": "$$ランド$$\n「!」",
+      "status": "draft",
+      "source_sha": "76d24ca8c3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00030": {
+      "text": "$$ランド$$\n「Why you...」",
+      "status": "draft",
+      "source_sha": "68a4fbb012",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00031": {
+      "text": "$$ギルター$$\n「Wh-what is that intensity...!?」",
+      "status": "draft",
+      "source_sha": "146e3d4b8e",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00032": {
+      "text": "$$レジスタンス$$\n「Mister $$ザ・ヒート$$,\n　we've taken a bit too much damage.\n　Mind if we leave this to you?」",
+      "status": "draft",
+      "source_sha": "67073484fc",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00033": {
+      "text": "$$ランド$$\n「Sure thing, old-timer.\n　Go on ahead.\n　I'll catch up once I've dealt with some business」",
+      "status": "draft",
+      "source_sha": "951b712ba1",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00034": {
+      "text": "$$レジスタンス$$\n「\"Business\"...?」",
+      "status": "draft",
+      "source_sha": "721fe6c1c2",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00035": {
+      "text": "$$レジスタンス$$\n「Don't tell me... you're going it alone...」",
+      "status": "draft",
+      "source_sha": "77fe4a920a",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00036": {
+      "text": "$$レジスタンス$$\n「Never you mind, never you mind.\n　Let's clear out so we don't get in his way」",
+      "status": "draft",
+      "source_sha": "539b41da15",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00037": {
+      "text": "$$レジスタンス$$\n「Uh... right...」",
+      "status": "draft",
+      "source_sha": "4708de21dd",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00038": {
+      "text": "$$レジスタンス$$\n（$$ランド・トラビス$$ of $$ビーター・サービス$$ —\n　\"$$ザ・クラッシャー$$\" is a forbidden word for him...\n　Bad luck, Mr. $$ギルター$$, or whatever your name is）",
+      "status": "draft",
+      "source_sha": "a4acba97c8",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00039": {
+      "text": "$$ギルター$$\n「Fool!\n　Sacrificing yourself to let your comrades escape!」",
+      "status": "draft",
+      "source_sha": "43b01cda04",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00040": {
+      "text": "$$ランド$$\n「Sacrifice?\n　It's nothing like that」",
+      "status": "draft",
+      "source_sha": "b1c434c4a4",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00041": {
+      "text": "$$ランド$$\n「I'm just settling the score\n　with the guy who ticked me off!」",
+      "status": "draft",
+      "source_sha": "abd1333e16",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00042": {
+      "text": "$$ギルター$$\n「Gr-grr!\n　Then I'll make you feel just how powerless you are!\n　Prepare yourself, $$ザ・クラッシャー$$!」",
+      "status": "draft",
+      "source_sha": "738e69ef8f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00043": {
+      "text": "$$ギルター$$\n「Wha—!?」",
+      "status": "draft",
+      "source_sha": "7abf743dd2",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00044": {
+      "text": "$$ランド$$\n「You've ticked me off twice now!\n　I'm not stopping!!」",
+      "status": "draft",
+      "source_sha": "c25289cd51",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00045": {
+      "text": "$$ランド$$\n「$$メール$$'s not here to rein me in!\n　I'm going all out today!!」",
+      "status": "draft",
+      "source_sha": "a9c56105a0",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00046": {
+      "text": "$$ギルター$$\n「Grr!\n　What an insufferably hot-blooded man!」",
+      "status": "draft",
+      "source_sha": "4bf30c5293",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00047": {
+      "text": "$$ランド$$\n「You don't have to tell me that!\n　That's just how $$ザ・ヒート$$ lives!」",
+      "status": "draft",
+      "source_sha": "cbe98c85fd",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00048": {
+      "text": "$$ギルター$$\n「Silence, $$ザ・クラッシャー$$!\n　You are—」",
+      "status": "draft",
+      "source_sha": "050d3cff70",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00049": {
+      "text": "$$ギルター$$\n「Guh!」",
+      "status": "draft",
+      "source_sha": "69a8064dea",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00050": {
+      "text": "$$ランド$$\n「Acting all clever,\n　and turns out you're a total idiot!\n　Making me this angry...!」",
+      "status": "draft",
+      "source_sha": "5dfef7c744",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00051": {
+      "text": "$$ギルター$$\n「L-look at reality!\n　Even you can't handle this many at once—」",
+      "status": "draft",
+      "source_sha": "b699b224f6",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00052": {
+      "text": "???\n「Is that so, I wonder?」",
+      "status": "draft",
+      "source_sha": "6b5bf67b51",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00053": {
+      "text": "$$ギルター$$\n「That unit...!\n　$$セツコ・オハラ$$, and the meddlers from before!」",
+      "status": "draft",
+      "source_sha": "f85fcf819f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00054": {
+      "text": "$$セツコ$$\n「$$ギルター$$!\n　Why are you here!?」",
+      "status": "draft",
+      "source_sha": "bbfba989b3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00055": {
+      "text": "$$ギルター$$\n「I'm no longer a squad leader for a single area.\n　I'm the commander of this continent's\n　resistance suppression force」",
+      "status": "draft",
+      "source_sha": "4293ce5489",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00056": {
+      "text": "$$アドヴェント$$\n「Seems you were promoted\n　for your achievements securing the $$レイライン|lc$$s」",
+      "status": "draft",
+      "source_sha": "6026e99359",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00057": {
+      "text": "$$セツコ$$\n「To think someone like that\n　became commander of the whole army...」",
+      "status": "draft",
+      "source_sha": "2ab0a2a557",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00058": {
+      "text": "$$ランド$$\n「$$セツコ$$!?\n　Is that you piloting the blue one,\n　$$セツコ$$!?」",
+      "status": "draft",
+      "source_sha": "4590d9984f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00059": {
+      "text": "$$セツコ$$\n「That voice — it's you, $$ランド$$!\n　What happened to $$ガンレオン$$ and $$メール$$!?」",
+      "status": "draft",
+      "source_sha": "4987311bec",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00060": {
+      "text": "$$ランド$$\n「We got separated!」",
+      "status": "draft",
+      "source_sha": "7881517d49",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00061": {
+      "text": "$$セツコ$$\n「So stifling...」",
+      "status": "draft",
+      "source_sha": "2f2b031f4e",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": [
+        "あつくる… is 暑苦しい cut off (confirmed by 00063 dizziness from the heat/intensity and Advent's 暑苦しさ at 00064)."
+      ]
+    },
+    "rengoku:STGZ3REN_00016:00062": {
+      "text": "$$ブルー$$\n「What's wrong, $$セツコ$$!?」",
+      "status": "draft",
+      "source_sha": "ecd39829c3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00063": {
+      "text": "$$セツコ$$\n「S-sorry...\n　It's just... $$ランド$$'s intensity\n　is making me dizzy...」",
+      "status": "draft",
+      "source_sha": "acd6b7ec2e",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00064": {
+      "text": "$$アドヴェント$$\n「I see, that stifling intensity...\n　As expected of the one they call\n　the $$傷だらけの獅子$$, $$ザ・ヒート$$」",
+      "status": "draft",
+      "source_sha": "7c382f4679",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00065": {
+      "text": "$$ランド$$\n「You know about me and $$ガンレオン$$?」",
+      "status": "draft",
+      "source_sha": "0fc341fefd",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00066": {
+      "text": "$$アドヴェント$$\n「We'll talk later.\n　First we need to deal with that man」",
+      "status": "draft",
+      "source_sha": "02c98ad781",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00067": {
+      "text": "$$ランド$$\n「OK.\n　Let's wrap this up fast —\n　I've got to get back to work」",
+      "status": "draft",
+      "source_sha": "0f6f1bb76e",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00068": {
+      "text": "$$ギルター$$\n「\"Wrap up fast\"!?\n　You dare to treat me—」",
+      "status": "draft",
+      "source_sha": "5291534fea",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00069": {
+      "text": "$$ランド$$\n「Shut it!\n　I'm from $$ビーター・サービス$$!\n　I came here on a repair job!」",
+      "status": "draft",
+      "source_sha": "08781d6555",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00070": {
+      "text": "$$ランド$$\n「$$セツコ$$, lend me a hand!\n　Anyone who gets in the way of my work\n　is getting scrapped, fast!」",
+      "status": "draft",
+      "source_sha": "ebbdb3d663",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00071": {
+      "text": "$$セツコ$$\n「Yes!」",
+      "status": "draft",
+      "source_sha": "dad4e4856e",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00072": {
+      "text": "$$アドヴェント$$\n（Heh... as expected of the $$傷だらけの獅子$$...）",
+      "status": "draft",
+      "source_sha": "9583acf6c5",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00073": {
+      "text": "$$ギルター$$\n「Grr!\n　I only came today to greet the $$レジスタンス$$!\n　I'm leaving!」",
+      "status": "draft",
+      "source_sha": "cfe1913443",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00074": {
+      "text": "$$ランド$$\n「Wait right there!\n　I haven't hit you enough yet!」",
+      "status": "draft",
+      "source_sha": "f61040dfe1",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00075": {
+      "text": "$$ギルター$$\n「Silence, $$ザ・クラッシャー$$!\n　I have no intention of dealing with a man like you!」",
+      "status": "draft",
+      "source_sha": "aea81632e1",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00076": {
+      "text": "$$ランド$$\n「Hold it right there, you bastard!\n　Now I've got one more reason to hit you!!」",
+      "status": "draft",
+      "source_sha": "1cb56b69fc",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00077": {
+      "text": "$$アドヴェント$$\n「I see.\n　So that's the reason your bad name carries so far」",
+      "status": "draft",
+      "source_sha": "5ce195e5a3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00078": {
+      "text": "$$ランド$$\n「Ugh...」",
+      "status": "draft",
+      "source_sha": "9f889173db",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00079": {
+      "text": "$$セツコ$$\n「A-anyway, I'm glad you're safe, $$ランド$$」",
+      "status": "draft",
+      "source_sha": "6ea944c576",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00080": {
+      "text": "$$ランド$$\n「Same goes for you, $$セツコ$$」",
+      "status": "draft",
+      "source_sha": "ed9ee3fcd3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00081": {
+      "text": "$$ランド$$\n「Looks like you got separated\n　from your $$バルゴラ$$ too, huh」",
+      "status": "draft",
+      "source_sha": "161ae2053d",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00082": {
+      "text": "$$セツコ$$\n「Yeah...」",
+      "status": "draft",
+      "source_sha": "72bb573688",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00083": {
+      "text": "$$ランド$$\n「Let's trade info, the two of us.\n　I want to thank that guy over there too」",
+      "status": "draft",
+      "source_sha": "fcf4faab89",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00084": {
+      "text": "$$ブルー$$\n（Surprisingly polite...）",
+      "status": "draft",
+      "source_sha": "9ba4dc786f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00085": {
+      "text": "$$アドヴェント$$\n「$$ブルー$$, you mustn't judge people by appearances alone」",
+      "status": "draft",
+      "source_sha": "fc1ec286f4",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00086": {
+      "text": "$$ブルー$$\n「Y-yes, sir...!」",
+      "status": "draft",
+      "source_sha": "171c591929",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00087": {
+      "text": "$$セツコ$$\n「A-$$アドヴェント$$...!\n　That's rude to $$ランド$$!」",
+      "status": "draft",
+      "source_sha": "20fd7f5e6a",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00088": {
+      "text": "$$ランド$$\n「It's fine, it's fine, $$セツコ$$.\n　I owe you one for the help today, anyway」",
+      "status": "draft",
+      "source_sha": "0be69b5f1a",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00089": {
+      "text": "$$アドヴェント$$\n「That generosity of yours—\n　you really are a man worthy of the $$傷だらけの獅子$$」",
+      "status": "draft",
+      "source_sha": "b7e2e63801",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00090": {
+      "text": "$$ランド$$\n「Guess I still can't shake this hot temper of mine...!」",
+      "status": "draft",
+      "source_sha": "546179447c",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00091": {
+      "text": "$$ランド$$\n「Well... that's just how $$ザ・ヒート$$ lives!」",
+      "status": "draft",
+      "source_sha": "5ceb1c2a63",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00092": {
+      "text": "$$ランド$$\n（Just wait, $$メール$$.\n　Until I come get you and the boss back, there's no way I'm dying!）",
+      "status": "draft",
+      "source_sha": "c43214d9dc",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": [
+        "'親方' (boss/mentor figure Rand is thinking of) is not a named, glossaried character in this slice; translated as gender-neutral 'the boss'."
+      ]
+    },
+    "rengoku:STGZ3REN_00016:00093": {
+      "text": "$$ギルター$$\n「Before I make a bloody example of you $$レジスタンス$$ scum,\n　first you, who dared defy me...」",
+      "status": "draft",
+      "source_sha": "2abd399cee",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00094": {
+      "text": "$$ランド$$\n「Alright!\n　Take the boss's head and the fight's over!\n　Let's go!」",
+      "status": "draft",
+      "source_sha": "ae5c0e8c48",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00095": {
+      "text": "$$ギルター$$\n「Listen when I'm talking, The Cru—」",
+      "status": "draft",
+      "source_sha": "f2b7fc8af4",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": [
+        "Gilter's line is cut off mid-word on Rand's nickname; rendered as an interrupted 'The Cru—' rather than the full glossary term, since the source itself is truncated."
+      ]
+    },
+    "rengoku:STGZ3REN_00016:00096": {
+      "text": "$$ランド$$\n「Shut up!\n　I'm not so bored that I'll sit quiet and\n　listen to insults!!」",
+      "status": "draft",
+      "source_sha": "86d44dc6a6",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00097": {
+      "text": "$$ギルター$$\n「Heh heh heh, I'm delighted, $$セツコ$$.\n　I figured we'd meet again eventually if I kept hunting $$レジスタンス$$,\n　but I didn't expect it to be this soon」",
+      "status": "draft",
+      "source_sha": "82562386f1",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00098": {
+      "text": "$$セツコ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00099": {
+      "text": "$$ギルター$$\n「Struck speechless by rage?\n　That resolute face of yours is what drives me to fight」",
+      "status": "draft",
+      "source_sha": "baed70b63f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00100": {
+      "text": "$$セツコ$$\n「I despise a contemptible person like you...!」",
+      "status": "draft",
+      "source_sha": "be39930b3d",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00101": {
+      "text": "$$ギルター$$\n「Know your place!\n　I've been ordered to capture you,\n　but nobody said unharmed!」",
+      "status": "draft",
+      "source_sha": "893560c00e",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00102": {
+      "text": "$$セツコ$$\n「I will not lose...!\n　Not to $$サイデリアル$$'s rule,\n　nor to someone like you!」",
+      "status": "draft",
+      "source_sha": "441b425dd8",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00103": {
+      "text": "$$ギルター$$\n「You pest!\n　You've shown up again!」",
+      "status": "draft",
+      "source_sha": "45f22a0590",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00104": {
+      "text": "$$アドヴェント$$\n「I have no interest in you.\n　But if I defeat you here,\n　will your master come out?」",
+      "status": "draft",
+      "source_sha": "353dcc4265",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00105": {
+      "text": "$$ギルター$$\n「Y-you...!\n　Are you trying to insult $$ギルター・ベローネ$$!?」",
+      "status": "draft",
+      "source_sha": "33837d76b4",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00106": {
+      "text": "$$アドヴェント$$\n「It's presumptuous for someone of your caliber\n　to even carry pride!」",
+      "status": "draft",
+      "source_sha": "63cf5b6f0f",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00016:00107": {
+      "text": "$$アドヴェント$$\n「Ah!」",
+      "status": "draft",
+      "source_sha": "2b5848f6d3",
+      "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
+      "notes": []
+    }
+  }
+}

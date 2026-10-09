@@ -1,0 +1,294 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00081",
+  "messages": {
+    "rengoku:STGZ3REN_00081:00000": {
+      "text": "Night Sky",
+      "status": "draft",
+      "source_sha": "4ee60fa19f",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00001": {
+      "text": "Night Sky",
+      "status": "draft",
+      "source_sha": "4ee60fa19f",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00002": {
+      "text": "Night Sky",
+      "status": "draft",
+      "source_sha": "4ee60fa19f",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00003": {
+      "text": "$$アドヴェント$$\n「...What's the status of $$ブルー$$ and the others?」",
+      "status": "draft",
+      "source_sha": "34b8cd5ac2",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00004": {
+      "text": "$$ホワイト$$\n「Their biological functions are still malfunctioning.\n　The enemy likely scattered nanomachines\n　that attack the human body」",
+      "status": "draft",
+      "source_sha": "1814139efb",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00005": {
+      "text": "$$ホワイト$$\n「The symptoms are especially severe for the\n　three $$リアクター$$s who seem to have been\n　set as the enemy's specific targets」",
+      "status": "draft",
+      "source_sha": "e734a80ede",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00006": {
+      "text": "$$アドヴェント$$\n「$$怨嗟の魔蠍$$...\n　So, the scorpion's poison...」",
+      "status": "draft",
+      "source_sha": "6a692a0417",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00007": {
+      "text": "$$ブラック$$\n「It's fortunate the Captain kept us on\n　standby as backup personnel,\n　just in case」",
+      "status": "draft",
+      "source_sha": "d0e5c36023",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00008": {
+      "text": "$$アドヴェント$$\n「But we lost our comrade $$レッド$$...」",
+      "status": "draft",
+      "source_sha": "608f4df84b",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00009": {
+      "text": "$$ブラック$$\n「I think he got his wish too—\n　being able to save the Captain」",
+      "status": "draft",
+      "source_sha": "26a4e49f37",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00010": {
+      "text": "$$ホワイト$$\n「That's why, Captain...\n　please lead us」",
+      "status": "draft",
+      "source_sha": "afadfa71be",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00011": {
+      "text": "$$アドヴェント$$\n「...What's the status of the medical nanomachines\n　used on $$ブルー$$ and the others?」",
+      "status": "draft",
+      "source_sha": "2a88ce170a",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00012": {
+      "text": "$$ホワイト$$\n「It looks like it'll take time for them to take effect」",
+      "status": "draft",
+      "source_sha": "4fa50b39bd",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00013": {
+      "text": "$$アドヴェント$$\n「And even if their bodies recover,\n　the betrayal will leave a deep wound\n　on their hearts...」",
+      "status": "draft",
+      "source_sha": "356730e669",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00014": {
+      "text": "$$オリオン$$\n「...How pointless」",
+      "status": "draft",
+      "source_sha": "8baf460f7c",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00015": {
+      "text": "$$アドヴェント$$\n「$$オリオン$$...」",
+      "status": "draft",
+      "source_sha": "a59647c2d0",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00016": {
+      "text": "$$オリオン$$\n「This is what happens when you put your\n　hopes in someone. If you never depend on\n　others in the first place, you'd never get hurt」",
+      "status": "draft",
+      "source_sha": "496e864634",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00017": {
+      "text": "$$アドヴェント$$\n「I'll hear your theory later」",
+      "status": "draft",
+      "source_sha": "e639e94f17",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00018": {
+      "text": "$$アドヴェント$$\n「First, what I want to ask is why\n　you weren't affected by the poison」",
+      "status": "draft",
+      "source_sha": "7f03422598",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00019": {
+      "text": "$$オリオン$$\n「If we're talking about that, I'd like to\n　know too—why you're unscathed」",
+      "status": "draft",
+      "source_sha": "20cabe065f",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00020": {
+      "text": "$$アドヴェント$$\n「...Very well.\n　Let's end the questions there, $$オリオン$$」",
+      "status": "draft",
+      "source_sha": "67b2aac91a",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00021": {
+      "text": "$$アドヴェント$$\n「But given the situation,\n　I'll personally keep watch on you」",
+      "status": "draft",
+      "source_sha": "c0fd2abc23",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00022": {
+      "text": "$$オリオン$$\n「Are you suspecting me too?」",
+      "status": "draft",
+      "source_sha": "b38cd69ded",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00023": {
+      "text": "$$アドヴェント$$\n「That's not it.\n　It's a fact that you were fighting $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "357dd98c58",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00024": {
+      "text": "$$オリオン$$\n「Who knows.\n　I might just still be playing innocent」",
+      "status": "draft",
+      "source_sha": "2004625462",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00025": {
+      "text": "$$アドヴェント$$\n「I don't care for that habit of\n　playing up your own vices」",
+      "status": "draft",
+      "source_sha": "d9c6904660",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00026": {
+      "text": "$$オリオン$$\n「I've never once thought about\n　being liked by anyone」",
+      "status": "draft",
+      "source_sha": "641b480490",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00027": {
+      "text": "$$アドヴェント$$\n「...How do you see $$サルディアス$$ and\n　$$クラヴィア$$'s betrayal?」",
+      "status": "draft",
+      "source_sha": "02347809a9",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00028": {
+      "text": "$$オリオン$$\n「.........」",
+      "status": "draft",
+      "source_sha": "1f0b88d47d",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00029": {
+      "text": "$$オリオン$$\n「It's true our strategy was leaking to the\n　enemy, but that seems different from\n　having an informant」",
+      "status": "draft",
+      "source_sha": "83e46f60de",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00030": {
+      "text": "$$アドヴェント$$\n「What do you mean?」",
+      "status": "draft",
+      "source_sha": "34e050ce67",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00031": {
+      "text": "$$オリオン$$\n「They were stuck that close to us.\n　If they'd wanted to kill us,\n　they could have done it anytime」",
+      "status": "draft",
+      "source_sha": "0812c15b9d",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00032": {
+      "text": "$$アドヴェント$$\n「Are you saying we were being\n　let loose on purpose?」",
+      "status": "draft",
+      "source_sha": "ab00193fa4",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00033": {
+      "text": "$$オリオン$$\n「Maybe.\n　...But if that's the case, that's an awful lot\n　of needless damage to take」",
+      "status": "draft",
+      "source_sha": "4df372ecc6",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00034": {
+      "text": "$$オリオン$$\n「Beyond this, there's nothing to do\n　but ask the person themselves」",
+      "status": "draft",
+      "source_sha": "4e9552ca81",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00035": {
+      "text": "$$アドヴェント$$\n「True」",
+      "status": "draft",
+      "source_sha": "e1c21a9b70",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00036": {
+      "text": "$$オリオン$$\n「Now that they've revealed themselves like that,\n　they're not going to leave us alone either」",
+      "status": "draft",
+      "source_sha": "4fc3577b26",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00037": {
+      "text": "$$オリオン$$\n「Much less pass up this chance, with\n　$$セツコ$$ and the others poisoned...」",
+      "status": "draft",
+      "source_sha": "0ee1bb10fc",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00038": {
+      "text": "$$ブラック$$\n「Captain!\n　We've detected an enemy unit approaching!」",
+      "status": "draft",
+      "source_sha": "99b4e16b75",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00039": {
+      "text": "$$アドヴェント$$\n「So they've come...」",
+      "status": "draft",
+      "source_sha": "5d72340ba2",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00081:00040": {
+      "text": "$$オリオン$$\n「Well then... how far can we manage\n　while lugging around the sick, I wonder...」",
+      "status": "draft",
+      "source_sha": "89eb35138a",
+      "source_member_sha256": "7d94f781131d99c4da95e79106a5ea6e31c3e5dde0d329bf674315c670e45a15",
+      "notes": []
+    }
+  }
+}

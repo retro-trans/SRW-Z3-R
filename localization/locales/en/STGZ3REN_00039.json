@@ -1,0 +1,404 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00039",
+  "messages": {
+    "rengoku:STGZ3REN_00039:00000": {
+      "text": "General-Purpose Hangar",
+      "status": "draft",
+      "source_sha": "1ad50a6052",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00001": {
+      "text": "General-Purpose Hangar",
+      "status": "draft",
+      "source_sha": "1ad50a6052",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00002": {
+      "text": "General-Purpose Hangar",
+      "status": "draft",
+      "source_sha": "1ad50a6052",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00003": {
+      "text": "　\n　\n　~Resistance Base: Hangar~",
+      "status": "draft",
+      "source_sha": "8dd5dfed15",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": [
+        "pid_MUZIN location banner; source has 3 space-only/indented lines before the banner text, collapsed to one blank line plus the single fullwidth-space-indented banner line, matching the treatment used in story_0010 (id 00033:00003)."
+      ]
+    },
+    "rengoku:STGZ3REN_00039:00004": {
+      "text": "$$ランド$$\n「The recon squad was wiped out!?」",
+      "status": "draft",
+      "source_sha": "c9958b8690",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00005": {
+      "text": "$$レジスタンス$$\n「Word just came in.\n　Seems they were taken out by the enemy base's defense weapon」",
+      "status": "draft",
+      "source_sha": "dadc72d787",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00006": {
+      "text": "$$レジスタンス$$\n「Apparently it's an invisible barrage\n　that hits before you even notice it—impossible to dodge」",
+      "status": "draft",
+      "source_sha": "ece24f8344",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00007": {
+      "text": "$$クラヴィア$$\n「That's probably... the $$次元転移砲$$...」",
+      "status": "draft",
+      "source_sha": "f98e41fcd5",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00008": {
+      "text": "$$クロウ$$\n「If you knew something like that existed,\n　why didn't you tell us!?」",
+      "status": "draft",
+      "source_sha": "2ca717fcb1",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00009": {
+      "text": "$$クラヴィア$$\n「S-sorry...\n　I thought that was only a plan,\n　and that it wouldn't be deployed for a long while...」",
+      "status": "draft",
+      "source_sha": "fe523840e1",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00010": {
+      "text": "$$アドヴェント$$\n「Stop it, $$クロウ$$.\n　So the recon squad's sacrifice isn't wasted,\n　we give this base assault everything we have」",
+      "status": "draft",
+      "source_sha": "a0d2324605",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00011": {
+      "text": "$$クロウ$$\n「...I know that without you telling me」",
+      "status": "draft",
+      "source_sha": "a43f4b05be",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00012": {
+      "text": "$$サルディアス$$\n「Well, that was unlucky, wasn't it~」",
+      "status": "draft",
+      "source_sha": "e77383d3c9",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00013": {
+      "text": "$$サルディアス$$\n「I'd only heard rumors of its existence,\n　but the $$次元転移砲$$ never misses—\n　giving up on this assault might be safer...」",
+      "status": "draft",
+      "source_sha": "02b99dd38b",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": [
+        "Line 2 runs ~51 chars (near the provisional guide) to keep 'Dimensional Transfer Cannon' spelled out in full rather than abbreviated."
+      ]
+    },
+    "rengoku:STGZ3REN_00039:00014": {
+      "text": "$$ランド$$\n「Hey, old man...\n　don't go saying stuff that kills our motivation」",
+      "status": "draft",
+      "source_sha": "664e0b2673",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00015": {
+      "text": "$$クロウ$$\n「$$ランド$$'s right.\n　We've got a reason\n　we have to take that base」",
+      "status": "draft",
+      "source_sha": "63fd8066b1",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00016": {
+      "text": "$$アドヴェント$$\n「$$クラヴィア$$...\n　If it's that base, we might learn\n　where $$クロウ$$ and the others' units ended up, right?」",
+      "status": "draft",
+      "source_sha": "bd0300d53d",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00017": {
+      "text": "$$クラヴィア$$\n「Y-yes...!\n　Since data on $$スフィア$$-equipped units\n　has been sent to this base...」",
+      "status": "draft",
+      "source_sha": "514fe918b8",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00018": {
+      "text": "$$クラヴィア$$\n「I think we should assume $$サイデリアル$$\n　has obtained one of your units」",
+      "status": "draft",
+      "source_sha": "f7469c2e88",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00019": {
+      "text": "$$セツコ$$\n「You don't know which unit it is?」",
+      "status": "draft",
+      "source_sha": "6e9484798c",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00020": {
+      "text": "$$クラヴィア$$\n「I'm sorry...\n　Someone as low-ranking as me\n　never had access to data that detailed」",
+      "status": "draft",
+      "source_sha": "b04fbfb4c4",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00021": {
+      "text": "$$クロウ$$\n「So all the data this base was handling\n　has been wiped, huh...」",
+      "status": "draft",
+      "source_sha": "1d75fa456a",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00022": {
+      "text": "$$クラヴィア$$\n「But if it's the $$ターミナル・ベース$$,\n　we should definitely be able to get the information」",
+      "status": "draft",
+      "source_sha": "db470ca305",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00023": {
+      "text": "$$クラヴィア$$\n「The amount of information they handle there\n　is nothing compared to here」",
+      "status": "draft",
+      "source_sha": "bc806dc1b7",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00024": {
+      "text": "$$アドヴェント$$\n「If we can seize that base,\n　we'll learn where the $$スフィア$$-equipped unit went...」",
+      "status": "draft",
+      "source_sha": "05607b5763",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00025": {
+      "text": "$$クロウ$$\n「It's the base that oversees the units in this area.\n　Take it down, and this whole region's\n　practically liberated」",
+      "status": "draft",
+      "source_sha": "c3cfef23df",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00026": {
+      "text": "$$ランド$$\n「In short, it means we've gotta do it\n　no matter what」",
+      "status": "draft",
+      "source_sha": "8f54b02689",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00027": {
+      "text": "$$レジスタンス$$\n「But with that $$次元転移砲$$ there...」",
+      "status": "draft",
+      "source_sha": "eb711bcd55",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00028": {
+      "text": "$$アドヴェント$$\n「...We'll handle that.\n　Gather the groups active in the area\n　and stage a large-scale diversion」",
+      "status": "draft",
+      "source_sha": "340b188815",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00029": {
+      "text": "$$レジスタンス$$\n「Understood.\n　We wish you good fortune in battle」",
+      "status": "draft",
+      "source_sha": "8742f332db",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00030": {
+      "text": "$$クロウ$$\n「Easy for you to say...\n　You got a plan, $$アドヴェント$$?」",
+      "status": "draft",
+      "source_sha": "2dec60dcce",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00031": {
+      "text": "$$アドヴェント$$\n「It's not that I don't have one...\n　...But it'll require her strength」",
+      "status": "draft",
+      "source_sha": "4ed666fdfb",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00032": {
+      "text": "$$アドヴェント$$\n「Will you do it, $$クラヴィア$$?」",
+      "status": "draft",
+      "source_sha": "939b179b38",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00033": {
+      "text": "$$クラヴィア$$\n「Eh... m-me...!?」",
+      "status": "draft",
+      "source_sha": "ead51ea4e1",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00034": {
+      "text": "$$アドヴェント$$\n「Let's begin preparations to take the\n　$$ターミナル・ベース$$ right away. From now on, we'll\n　use the enemy transport left here as our mothership」",
+      "status": "draft",
+      "source_sha": "df4b4c09e9",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00035": {
+      "text": "$$ランド$$\n「Alright...!\n　Leave the maintenance to me」",
+      "status": "draft",
+      "source_sha": "25c7909625",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00036": {
+      "text": "$$アドヴェント$$\n「I'll arrange the crew needed to pilot the ship.\n　Everyone, hurry your launch preparations」",
+      "status": "draft",
+      "source_sha": "65488bcdf7",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00037": {
+      "text": "$$クラヴィア$$\n「M-me... becoming the strength\n　to take the $$ターミナル・ベース$$...」",
+      "status": "draft",
+      "source_sha": "abbce9043a",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00038": {
+      "text": "$$オリオン$$\n「......」",
+      "status": "draft",
+      "source_sha": "1f0b88d47d",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": [
+        "「………」 (5x ellipsis) rendered as literal '......' per established long-pause convention."
+      ]
+    },
+    "rengoku:STGZ3REN_00039:00039": {
+      "text": "$$セツコ$$\n「$$オリオン$$...\n　Stay behind at this base」",
+      "status": "draft",
+      "source_sha": "55d4744294",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00040": {
+      "text": "$$オリオン$$\n「Why?」",
+      "status": "draft",
+      "source_sha": "2460926e1d",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00041": {
+      "text": "$$セツコ$$\n「Before that, let me ask.\n　What are you fighting for?」",
+      "status": "draft",
+      "source_sha": "7122f7f2c6",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00042": {
+      "text": "$$オリオン$$\n「...Deep in my heart, one emotion is swirling...」",
+      "status": "draft",
+      "source_sha": "904f511f19",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00043": {
+      "text": "$$セツコ$$\n「That is...」",
+      "status": "draft",
+      "source_sha": "338f6faac0",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00044": {
+      "text": "$$オリオン$$\n「Hatred toward $$サイデリアル$$」",
+      "status": "draft",
+      "source_sha": "63248a6f2b",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00045": {
+      "text": "$$オリオン$$\n「I don't know where that feeling comes from,\n　but I fight to be rid of it」",
+      "status": "draft",
+      "source_sha": "6c79c837c5",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00046": {
+      "text": "$$セツコ$$\n「......」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": [
+        "「………」 rendered as '......' per established convention."
+      ]
+    },
+    "rengoku:STGZ3REN_00039:00047": {
+      "text": "$$オリオン$$\n「Will you laugh at me for being foolish?」",
+      "status": "draft",
+      "source_sha": "bd351adb7e",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00048": {
+      "text": "$$オリオン$$\n「You're kind, after all.\n　I'd guess you asked that\n　because how I fight made you uneasy」",
+      "status": "draft",
+      "source_sha": "98f55c6b0d",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00049": {
+      "text": "$$セツコ$$\n「......」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": [
+        "「………」 rendered as '......' per established convention."
+      ]
+    },
+    "rengoku:STGZ3REN_00039:00050": {
+      "text": "$$オリオン$$\n「Now that you've heard me,\n　do you want me to stop fighting even more?」",
+      "status": "draft",
+      "source_sha": "9242a9fdea",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00051": {
+      "text": "$$セツコ$$\n「...That's not it...\n　It's just...」",
+      "status": "draft",
+      "source_sha": "81ed31af67",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00052": {
+      "text": "$$オリオン$$\n「Just what?」",
+      "status": "draft",
+      "source_sha": "765a0b87fb",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00053": {
+      "text": "$$セツコ$$\n「It's just... sad, that's all...」",
+      "status": "draft",
+      "source_sha": "72ed7f27f8",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00039:00054": {
+      "text": "$$オリオン$$\n「......」",
+      "status": "draft",
+      "source_sha": "1f0b88d47d",
+      "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
+      "notes": [
+        "「………」 rendered as '......' per established convention."
+      ]
+    }
+  }
+}

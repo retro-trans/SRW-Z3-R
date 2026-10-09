@@ -1,0 +1,771 @@
+{
+  "schema": 1,
+  "language": "en",
+  "member": "STGZ3REN_00015",
+  "messages": {
+    "rengoku:STGZ3REN_00015:00000": {
+      "text": "Forest",
+      "status": "draft",
+      "source_sha": "70f4c18c32",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00001": {
+      "text": "Forest",
+      "status": "draft",
+      "source_sha": "70f4c18c32",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00002": {
+      "text": "Forest",
+      "status": "draft",
+      "source_sha": "70f4c18c32",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00003": {
+      "text": "$$ブルー$$\n「.........」",
+      "status": "draft",
+      "source_sha": "7ec5bd20a9",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00004": {
+      "text": "$$アドヴェント$$\n「What's wrong, $$ブルー$$?\n　Are you anxious about whether $$セツコ$$ will come with us?」",
+      "status": "draft",
+      "source_sha": "3f0a8ad80e",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00005": {
+      "text": "$$ブルー$$\n「Y-yes...」",
+      "status": "draft",
+      "source_sha": "2d2859734b",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00006": {
+      "text": "$$アドヴェント$$\n「There's nothing to fear.\n　She'll come, I'm sure」",
+      "status": "draft",
+      "source_sha": "2028962901",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00007": {
+      "text": "$$ブルー$$\n「But she looked like she had some dissatisfaction\n　with your methods, Captain」",
+      "status": "draft",
+      "source_sha": "d7ef633fa0",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00008": {
+      "text": "$$ブルー$$\n「And besides, she's a core fighting force of the\n　$$レジスタンス$$ group in this area...」",
+      "status": "draft",
+      "source_sha": "b1cbc81b1f",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00009": {
+      "text": "$$アドヴェント$$\n「Repeating small local skirmishes will never lead\n　to final victory. She must understand that too」",
+      "status": "draft",
+      "source_sha": "6cc7ae530d",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00010": {
+      "text": "$$アドヴェント$$\n「And more than anything, she and I\n　are destined to walk the same path」",
+      "status": "draft",
+      "source_sha": "528725522a",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00011": {
+      "text": "$$ブルー$$\n「I see...」",
+      "status": "draft",
+      "source_sha": "b9ac85dc99",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00012": {
+      "text": "$$アドヴェント$$\n「There... take a look」",
+      "status": "draft",
+      "source_sha": "85b5990eae",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00013": {
+      "text": "$$セツコ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00014": {
+      "text": "$$アドヴェント$$\n「I've been waiting, $$セツコ$$.\n　Glad you came」",
+      "status": "draft",
+      "source_sha": "4cc660745e",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00015": {
+      "text": "$$セツコ$$\n「I'll be coming along with you.\n　Thank you for having me, $$アドヴェント$$,\n　$$ブルー$$」",
+      "status": "draft",
+      "source_sha": "9a3bc821fd",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00016": {
+      "text": "$$アドヴェント$$\n「You may simply call me $$アドヴェント$$.\n　Now, let's prepare to depart」",
+      "status": "draft",
+      "source_sha": "9cc09f5e5d",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00017": {
+      "text": "$$アドヴェント$$\n「$$ブルー$$, wait here with her」",
+      "status": "draft",
+      "source_sha": "710e984321",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00018": {
+      "text": "$$セツコ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00019": {
+      "text": "$$ブルー$$\n「...$$セツコ$$, are you sure it's alright\n　with the $$レジスタンス$$?」",
+      "status": "draft",
+      "source_sha": "00ffc3b9ff",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00020": {
+      "text": "$$セツコ$$\n「Ah... yes.\n　Now that $$サイデリアル$$ has taken control of that town,\n　they likely won't pursue us here」",
+      "status": "draft",
+      "source_sha": "a72deb8af4",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00021": {
+      "text": "$$セツコ$$\n「The man named $$ギルター$$ who commands this area\n　is capricious, but he should prioritize the overall strategy first」",
+      "status": "draft",
+      "source_sha": "f237070743",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00022": {
+      "text": "$$ブルー$$\n「What overall strategy?」",
+      "status": "draft",
+      "source_sha": "05c146dd77",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00023": {
+      "text": "$$セツコ$$\n「We believe securing the $$レイライン|lc$$s\n　is their top priority strategy」",
+      "status": "draft",
+      "source_sha": "c276faf131",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00024": {
+      "text": "$$ブルー$$\n「$$レイライン$$s?」",
+      "status": "draft",
+      "source_sha": "6ac03acd3a",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00025": {
+      "text": "$$セツコ$$\n「Now that I think of it, you did say you and the others\n　crossed over the dimensional barrier, $$ブルー$$...」",
+      "status": "draft",
+      "source_sha": "2eb81ff61b",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00026": {
+      "text": "$$セツコ$$\n「A $$レイライン|lc$$ is a road of light, like the one\n　that ran near that town」",
+      "status": "draft",
+      "source_sha": "d812349539",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00027": {
+      "text": "$$ブルー$$\n「We've seen it a few times since we arrived here.\n　What exactly is it?」",
+      "status": "draft",
+      "source_sha": "974a4eaefc",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00028": {
+      "text": "$$セツコ$$\n「We don't know the details, but it seems to be\n　some kind of energy distribution line」",
+      "status": "draft",
+      "source_sha": "e690a3243a",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00029": {
+      "text": "$$セツコ$$\n「We've confirmed that holding a battery up\n　to that light charges it」",
+      "status": "draft",
+      "source_sha": "40336100d6",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00030": {
+      "text": "$$ブルー$$\n「So $$サイデリアル$$'s aim is to spread that\n　across the Earth...」",
+      "status": "draft",
+      "source_sha": "ea05871ad2",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00031": {
+      "text": "$$セツコ$$\n「The $$レイライン|lc$$s are laid out to connect\n　$$サイデリアル$$'s bases to each other」",
+      "status": "draft",
+      "source_sha": "364a0d8473",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00032": {
+      "text": "$$セツコ$$\n「And it seems they're prioritizing wiping out\n　the $$レジスタンス$$ near the $$レイライン|lc$$s」",
+      "status": "draft",
+      "source_sha": "61ee17a32d",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00033": {
+      "text": "$$ブルー$$\n「So if we follow them, we'll reach\n　a $$サイデリアル$$ base」",
+      "status": "draft",
+      "source_sha": "4f3d50e6ad",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00034": {
+      "text": "$$セツコ$$\n「Yes...\n　Though of course, it probably won't be that simple...」",
+      "status": "draft",
+      "source_sha": "eb10b454ef",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00035": {
+      "text": "$$ブルー$$\n「But I think the Captain invited you precisely\n　to accomplish that difficult task.\n　It's good to have you with us, $$セツコ$$」",
+      "status": "draft",
+      "source_sha": "3bb26f536f",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00036": {
+      "text": "$$セツコ$$\n「Likewise, $$ブルー$$」",
+      "status": "draft",
+      "source_sha": "42093de82f",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00037": {
+      "text": "$$ブルー$$\n「No need for honorifics.\n　This name, '$$ブルー$$', is just a codename」",
+      "status": "draft",
+      "source_sha": "336c96a39d",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00038": {
+      "text": "$$セツコ$$\n「Is that so...」",
+      "status": "draft",
+      "source_sha": "e75485f5b9",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00039": {
+      "text": "$$ブルー$$\n「Yes... The members of 《$$クロノ$$》, our organization,\n　come from all walks of life, and we don't\n　pry into each other's backgrounds」",
+      "status": "draft",
+      "source_sha": "877cddfc5f",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": [
+        "Dry-run warning: longest line is 78 characters (provisional guide, not a measured Rengoku limit); kept in full rather than dropping meaning to shorten."
+      ]
+    },
+    "rengoku:STGZ3REN_00015:00040": {
+      "text": "$$セツコ$$\n「Then $$アドヴェント$$, too...」",
+      "status": "draft",
+      "source_sha": "ae7a601d62",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00041": {
+      "text": "$$ブルー$$\n「Even I, his subordinate, haven't been told\n　his real name or history」",
+      "status": "draft",
+      "source_sha": "a4e1e940e4",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00042": {
+      "text": "$$セツコ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00043": {
+      "text": "$$ブルー$$\n「You must have concerns...」",
+      "status": "draft",
+      "source_sha": "f46358e1be",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00044": {
+      "text": "$$セツコ$$\n「No, I'm fine.\n　Yesterday's incident surprised me, but\n　I believe I can trust his word」",
+      "status": "draft",
+      "source_sha": "8545003ea5",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00045": {
+      "text": "$$ブルー$$\n「I see...」",
+      "status": "draft",
+      "source_sha": "7d8cc8f4e2",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00046": {
+      "text": "$$セツコ$$\n「Yes」",
+      "status": "draft",
+      "source_sha": "04872cd660",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00047": {
+      "text": "$$ブルー$$\n「...We've been fighting until today,\n　guided by the Captain's strong will」",
+      "status": "draft",
+      "source_sha": "02486f3e95",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00048": {
+      "text": "$$ブルー$$\n「I'm sure the Captain will eventually explain\n　$$クロノ$$'s fight to you too, $$セツコ$$」",
+      "status": "draft",
+      "source_sha": "0ea3309467",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00049": {
+      "text": "$$セツコ$$\n「Understood.\n　...So, where are we headed?」",
+      "status": "draft",
+      "source_sha": "48bdb6a639",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00050": {
+      "text": "$$ブルー$$\n「It seems the Captain already has a place in mind」",
+      "status": "draft",
+      "source_sha": "a59353fa5b",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00051": {
+      "text": "$$セツコ$$\n（$$アドヴェント$$...）",
+      "status": "draft",
+      "source_sha": "8c5548f742",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00052": {
+      "text": "$$セツコ$$\n（What is this... this feeling of nostalgia...\n　Do I know him...?）",
+      "status": "draft",
+      "source_sha": "22c2f50ee4",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00053": {
+      "text": "Wasteland",
+      "status": "draft",
+      "source_sha": "b77d642b14",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00054": {
+      "text": "Wasteland",
+      "status": "draft",
+      "source_sha": "b77d642b14",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00055": {
+      "text": "Wasteland",
+      "status": "draft",
+      "source_sha": "b77d642b14",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00056": {
+      "text": "　\n　\n　~Resistance Group Camp~",
+      "status": "draft",
+      "source_sha": "83c9f25f12",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": [
+        "Scene banner (pid_MUZIN); preserved 2 blank spacer lines; source's 6-space visual centering on the title line reduced to the required single leading fullwidth space (validator caps continuation lines at one)."
+      ]
+    },
+    "rengoku:STGZ3REN_00015:00057": {
+      "text": "$$レジスタンス$$\n「Damn it!\n　At this rate, our group is finished!」",
+      "status": "draft",
+      "source_sha": "4c909ef4ee",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00058": {
+      "text": "$$レジスタンス$$\n「Our forces were never a match for theirs.\n　The outcome was clear from the start」",
+      "status": "draft",
+      "source_sha": "8c1246598e",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00059": {
+      "text": "$$レジスタンス$$\n「But we'll fight to the end...!\n　If it comes to this, we'll show them\n　what Earthlings are made of!」",
+      "status": "draft",
+      "source_sha": "de1d2cbe47",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00060": {
+      "text": "$$レジスタンス$$\n「Don't be so hasty.\n　Taking a machine this battered and\n　half-repaired out there is a death wish」",
+      "status": "draft",
+      "source_sha": "02f1417ea1",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00061": {
+      "text": "$$レジスタンス$$\n「I know that!\n　But after all the fighting, every one\n　of our mechanics got taken out!」",
+      "status": "draft",
+      "source_sha": "24fa457583",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00062": {
+      "text": "$$レジスタンス$$\n「Don't you worry.\n　I called in a favor and got us help\n　to turn this situation around」",
+      "status": "draft",
+      "source_sha": "80679db92d",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00063": {
+      "text": "$$レジスタンス$$\n「You mean like some hotshot mercenary?」",
+      "status": "draft",
+      "source_sha": "bd1b6e47bc",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00064": {
+      "text": "$$レジスタンス$$\n「Hotshot, sure, but a repairman」",
+      "status": "draft",
+      "source_sha": "bb42fa2a16",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00065": {
+      "text": "$$レジスタンス$$\n「You expect a repairman to come all the way\n　out to the middle of this wasteland!?」",
+      "status": "draft",
+      "source_sha": "bf9c19b91f",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00066": {
+      "text": "$$レジスタンス$$\n「So $$サイデリアル$$ is coming...!」",
+      "status": "draft",
+      "source_sha": "4ac18aec5e",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": [
+        "'サイデリアルが来るか' read as an alarmed rhetorical question at unseen approach, not a statement."
+      ]
+    },
+    "rengoku:STGZ3REN_00015:00067": {
+      "text": "$$レジスタンス$$\n「Looks like the old man's trump card\n　didn't make it in time」",
+      "status": "draft",
+      "source_sha": "c9c3666a29",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00068": {
+      "text": "$$レジスタンス$$\n「Good grief...\n　Even he can't repair a pile of wreckage\n　like that, I bet...」",
+      "status": "draft",
+      "source_sha": "2169d0dfa8",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00069": {
+      "text": "$$レジスタンス$$\n「There's no choice but to fight...!\n　We'll show them Earthlings' last stand of pride!」",
+      "status": "draft",
+      "source_sha": "5fa984ba24",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00070": {
+      "text": "Wilderness",
+      "status": "draft",
+      "source_sha": "9ebd1679ec",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00071": {
+      "text": "Wilderness",
+      "status": "draft",
+      "source_sha": "9ebd1679ec",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00072": {
+      "text": "Wilderness",
+      "status": "draft",
+      "source_sha": "9ebd1679ec",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00073": {
+      "text": "$$ランド$$\n「I see...\n　So you're involved with that $$スフィア$$\n　business too...」",
+      "status": "draft",
+      "source_sha": "4d6ee0e6f5",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00074": {
+      "text": "$$アドヴェント$$\n「I'm sorry, but there's only so much I can tell you」",
+      "status": "draft",
+      "source_sha": "694a7e1602",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00075": {
+      "text": "$$ランド$$\n「That's fine.\n　Everyone's got their reasons」",
+      "status": "draft",
+      "source_sha": "4e2e5f255c",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00076": {
+      "text": "$$アドヴェント$$\n「$$ランド・トラビス$$...\n　Will you join our journey as well...?」",
+      "status": "draft",
+      "source_sha": "5a9afcaf0a",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00077": {
+      "text": "$$ランド$$\n「Sure thing」",
+      "status": "draft",
+      "source_sha": "7c64788620",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00078": {
+      "text": "$$ブルー$$\n「Eh...」",
+      "status": "draft",
+      "source_sha": "8ad9c999ab",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00079": {
+      "text": "$$ランド$$\n「I don't like those $$サイデリアル$$ folks anyway,\n　and fighting them while hunting for the $$リアクター$$ —\n　that's not a bad deal for me either」",
+      "status": "draft",
+      "source_sha": "af177dc229",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00080": {
+      "text": "$$ブルー$$\n「Is it really all right to decide so easily?\n　We haven't even told you who we are...」",
+      "status": "draft",
+      "source_sha": "b5c1e904c1",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00081": {
+      "text": "$$ランド$$\n「I've lived trusting my own gut.\n　And it's telling me to go」",
+      "status": "draft",
+      "source_sha": "8bd578b8b6",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00082": {
+      "text": "$$ランド$$\n「Besides, if $$セツコ$$'s with you,\n　that's reason enough to trust who you are」",
+      "status": "draft",
+      "source_sha": "1ab2dfe785",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00083": {
+      "text": "$$アドヴェント$$\n「And besides, you're looking for the $$ガンレオン$$\n　that carries the $$傷だらけの獅子$$...」",
+      "status": "draft",
+      "source_sha": "0e1266f1a8",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00084": {
+      "text": "$$ランド$$\n「To be exact, I'm looking for $$メール$$,\n　who's probably with the $$ガンレオン$$... but yeah」",
+      "status": "draft",
+      "source_sha": "ff0cb51594",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00085": {
+      "text": "$$セツコ$$\n「So you really were separated from $$メール$$\n　and the $$ガンレオン$$ when you were sent here」",
+      "status": "draft",
+      "source_sha": "e7d5f717ce",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00086": {
+      "text": "$$ランド$$\n「Yeah...\n　Next thing I knew, I was lying alone\n　out in the wilds」",
+      "status": "draft",
+      "source_sha": "3b301d39d8",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00087": {
+      "text": "$$ランド$$\n「For now, I got my hands on a beat-up $$ランボルト$$\n　and I've been working as a repairman\n　while looking for $$メール$$」",
+      "status": "draft",
+      "source_sha": "f25c109a10",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00088": {
+      "text": "$$アドヴェント$$\n「Sounds like you've had it rough」",
+      "status": "draft",
+      "source_sha": "f5bb41dd21",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00089": {
+      "text": "$$ランド$$\n「But with the kind of impossible luck\n　that found me and $$セツコ$$ back to back,\n　I bet you'll find $$メール$$ and the $$ガンレオン$$ too」",
+      "status": "draft",
+      "source_sha": "ad9ba4ce03",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00090": {
+      "text": "$$ブルー$$\n（Wh-what...?\n　He's surprisingly sharp-minded...）",
+      "status": "draft",
+      "source_sha": "055616022c",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00091": {
+      "text": "$$アドヴェント$$\n「$$ブルー$$, I believe I told you\n　not to judge people by appearances alone」",
+      "status": "draft",
+      "source_sha": "4426b36aae",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00092": {
+      "text": "$$ブルー$$\n「Y-yes, sir...!」",
+      "status": "draft",
+      "source_sha": "171c591929",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00093": {
+      "text": "$$ランド$$\n「Don't sweat it.\n　We're travel companions starting today」",
+      "status": "draft",
+      "source_sha": "e6bdba5305",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00094": {
+      "text": "$$ランド$$\n「Good to be with you, $$アドヴェント$$, $$ブルー$$」",
+      "status": "draft",
+      "source_sha": "a824a6c2fd",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00095": {
+      "text": "$$ブルー$$\n（So stifling...!）",
+      "status": "draft",
+      "source_sha": "71194a8b8a",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": [
+        "暑苦しい translated 'stifling' to match story_0005's established rendering (Rand/The Heat pun)."
+      ]
+    },
+    "rengoku:STGZ3REN_00015:00096": {
+      "text": "$$アドヴェント$$\n「Yeah...\n　That impression is exactly right」",
+      "status": "draft",
+      "source_sha": "c91e6289a9",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00097": {
+      "text": "$$アドヴェント$$\n「Well then, $$ランド$$... let's have a toast\n　to the journey ahead. I've got cold beer ready」",
+      "status": "draft",
+      "source_sha": "9750c2a5ed",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00098": {
+      "text": "$$ランド$$\n「!」",
+      "status": "draft",
+      "source_sha": "76d24ca8c3",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00099": {
+      "text": "$$ブルー$$\n「J-just now... didn't that sound like\n　rumbling from the ground...!」",
+      "status": "draft",
+      "source_sha": "59a1f4a464",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00100": {
+      "text": "$$ランド$$\n「Sorry, $$アドヴェント$$.\n　There's something I've got to do first,\n　to make that beer taste even better」",
+      "status": "draft",
+      "source_sha": "cfa2eeea7d",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00101": {
+      "text": "$$アドヴェント$$\n「And that would be...?」",
+      "status": "draft",
+      "source_sha": "593916a8dc",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00102": {
+      "text": "$$ランド$$\n「I've got to repair the $$レジスタンス$$ folks' machines.\n　That's why I was called out here, after all」",
+      "status": "draft",
+      "source_sha": "2cf4d2b49e",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00103": {
+      "text": "$$ランド$$\n「Well then, I'll be off for a bit.\n　A drink after work'll be my reward」",
+      "status": "draft",
+      "source_sha": "eb68092003",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00104": {
+      "text": "$$アドヴェント$$\n「A man who holds back his own desires\n　to see his duty through... You're a nice guy, $$ランド$$」",
+      "status": "draft",
+      "source_sha": "9404378269",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00105": {
+      "text": "$$セツコ$$\n「.........」",
+      "status": "draft",
+      "source_sha": "9314bd01f2",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00106": {
+      "text": "$$セツコ$$\n（$$ランド$$ senses something in $$アドヴェント$$ too...）",
+      "status": "draft",
+      "source_sha": "ed6c4be292",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    },
+    "rengoku:STGZ3REN_00015:00107": {
+      "text": "$$セツコ$$\n（Is he a $$スフィア・リアクター$$ too...?\n　If so, then the purpose of gathering $$リアクター$$s is...）",
+      "status": "draft",
+      "source_sha": "9b227df2f7",
+      "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
+      "notes": []
+    }
+  }
+}
