@@ -77,7 +77,7 @@ def package(build, output, xdelta, version, write):
                   'ps3_hardware_tested': False}
     save(output / 'VALIDATION.json', validation)
     shutil.copyfile(ROOT / 'tools/apply_release.py', output / 'apply_release.py')
-    shutil.copyfile(ROOT / 'docs/INSTALL.md', output / 'INSTALL.md')
+    shutil.copyfile(ROOT / 'docs/INSTALL_FOLDER.md', output / 'INSTALL.md')
     name = 'SRW-Z3-R-PS3-English-%s-file-patches.zip' % version
     archive = output / name
     inputs = [p for p in output.rglob('*') if p.is_file()]

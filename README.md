@@ -3,9 +3,10 @@
 English translation tools and PS3 patches for **Dai-3-Ji Super Robot Taisen Z:
 Rengoku-hen / Purgatory Chapter**, Japanese digital release **NPJB00689**.
 
-**Players:** download the [latest test release](https://github.com/retro-trans/SRW-Z3-R/releases)
-and follow [the installation guide](docs/INSTALL.md). Apply the included xdelta
-patches to your own matching pristine game folder. Each release includes exact
+**Players:** use [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest)
+to apply the [latest release](https://github.com/retro-trans/SRW-Z3-R/releases/latest)
+to your original Japanese **NPJB00689 PKG** and save a new English PKG for RPCS3.
+Follow [the installation guide](docs/INSTALL.md). Each release includes exact
 input/output hashes, download checksums, coverage and compatibility notes.
 
 **Maintainers:** use [the release guide](docs/RELEASING.md) and
@@ -19,8 +20,9 @@ Original Japanese script catalogs and game data remain local.
 
 ## Current release and coverage
 
-The first public English test release, **0.1.0**, packages verified local
-**build 018**. It includes English story dialogue, battle subtitles, pilot,
+**0.1.1** corrects release packaging for Retro Trans Automatic and manual
+xdelta modes. Translation content remains verified local **build 018**, first
+published in the 0.1.0 folder-patch prerelease. It includes English story dialogue, battle subtitles, pilot,
 mech and weapon text, library/glossary entries, mission conditions, menus,
 Spirit/skill descriptions, narration and selected translated artwork.
 
@@ -35,7 +37,7 @@ Spirit/skill descriptions, narration and selected translated artwork.
 Build 018 includes the English title screen, Library buttons, Scenario Chart,
 chapter title screens and Intermission heading. It corrects dialogue and menu
 alignment, terrain labels, stat columns, training tabs, battle captions,
-confirmation choices and Combo popup sizing. See [release notes](docs/releases/0.1.0.md)
+confirmation choices and Combo popup sizing. See [release notes](docs/releases/0.1.1.md)
 and [the build evidence](docs/build_status.md).
 
 Coverage counts do not establish that every screen is translated or fully
@@ -46,26 +48,23 @@ earlier local builds received user gameplay reports.
 
 ## Install
 
-The release ZIP contains **12 per-file xdelta patches**, a Python installer,
-installation instructions and JSON manifests. It creates a new complete game
-folder and verifies its files. You need Python 3.8+,
-[xdelta3](https://github.com/jmacd/xdelta-gpl/releases), and your own pristine
-NPJB00689 extraction. Preview first and then repeat with `--write`:
+In Retro Trans 0.5.1 or later, refresh the catalog, browse to your original
+NPJB00689 PKG, select Automatic and Latest (or 0.1.1), and save to a new `.pkg`.
+The tool downloads and verifies the bare xdelta and checks the whole output.
+You can also download the `.xdelta` release asset and use Apply xdelta offline.
+No Python or separate patch engine is needed for players.
 
-```powershell
-python apply_release.py --source "D:/Games/NPJB00689-original" --out "D:/Games/NPJB00689-English" --xdelta "D:/Tools/xdelta3.exe"
-```
+Install the resulting PKG through RPCS3's **File > Install Packages/Raps/Edats**.
+The original package and saves are preserved. The package has modified content
+and cleared authentication blocks; **it is not a signed retail or console
+installer**. Use your own matching activation/license; no RAP is supplied.
+Keep `dev_hdd0/game/NPJB00689`: for this digital game it holds the game itself,
+not a disposable disc-install cache. See [INSTALL.md](docs/INSTALL.md).
 
-See [INSTALL.md](docs/INSTALL.md) for the complete procedure and license setup.
-This directory patch set is not a whole-ISO patch and does not support Retro
-Trans's Automatic mode. The manifest identifies the supported source files.
-GitHub's **Source code (zip)** contains project sources; use the release patch
-ZIP to translate your game.
-
-RPCS3 and modified PS3 use the same translated assets and fake SELF executable.
-The game requires your own matching activation/license. Physical PS3 execution
-and blanket CFW/HEN compatibility remain unverified. Stock firmware is not
-supported by this test executable. No Vita build is included.
+The historical [0.1.0 folder installer](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.0)
+remains available for users who already have a pristine extracted folder.
+Physical PS3 testing and CFW/HEN compatibility remain unverified. No Vita build
+is included. GitHub's Source code archives contain project sources, not patches.
 
 ## Translation sources
 

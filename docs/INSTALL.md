@@ -1,61 +1,63 @@
 # Installing the Rengoku-hen English patch
 
-Download the patch ZIP from [GitHub Releases](https://github.com/retro-trans/SRW-Z3-R/releases).
-Use your own pristine **PS3 NPJB00689** game folder extracted from the matching
-Japanese Rengoku-hen package. The folder must contain `PARAM.SFO` and `USRDIR`.
-These patches do not accept Jigoku-hen BLJS10256 or an already translated build.
+Release **0.1.1** uses Retro Trans's standard single-file xdelta format.
+Input: your original Japanese **PS3 NPJB00689 PKG**.
+Output: a new English PKG for **RPCS3**, containing build 018's translation.
+No Python or separate xdelta installation is needed when using the Windows app.
 
-## Apply the patch
+## Retro Trans Automatic mode
 
-1. Extract the release ZIP into a separate folder.
-2. Install Python 3.8 or later and [xdelta3](https://github.com/jmacd/xdelta-gpl/releases).
-3. Close RPCS3 and keep your original game folder and saves backed up.
-4. Preview installation from the extracted patch folder:
+1. Download [Retro Trans 0.5.1 or later](https://github.com/retro-trans/retro-trans-tools/releases/latest).
+2. Refresh its patch catalog and browse to your original NPJB00689 `.pkg`.
+3. Choose **Automatic**, then **Latest** or **0.1.1**. Review the route.
+4. Choose a new output name, such as `NPJB00689-English-0.1.1.pkg`, and click Patch.
+5. Close RPCS3 and keep your existing game and saves backed up. In RPCS3, choose
+   **File > Install Packages/Raps/Edats** and install the generated package in
+   your intended RPCS3 profile. The patcher itself does not install games.
 
-```powershell
-python apply_release.py --source "D:/Games/NPJB00689-original" --out "D:/Games/NPJB00689-English" --xdelta "D:/Tools/xdelta3.exe"
-```
+Recognition checks all original bytes; renaming the file is fine. The source
+must be 530,382,896 bytes with SHA-256
+`77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307`.
+Other packages, Jigoku-hen, extracted folders and the old English folder are
+not compatible sources for this route. Use the `.pkg` output format.
 
-5. After all input hashes pass, repeat with `--write`:
+Retro Trans's general PS3 installation-data reminder concerns disc caches.
+**Do not delete `dev_hdd0/game/NPJB00689` as a cache**: this is the installed
+digital game. Keep savedata, licenses and other games. Use a separate RPCS3
+profile if you want to retain the Japanese and English installations separately.
 
-```powershell
-python apply_release.py --source "D:/Games/NPJB00689-original" --out "D:/Games/NPJB00689-English" --xdelta "D:/Tools/xdelta3.exe" --write
-```
+## Retro Trans Apply xdelta mode
 
-The installer creates a new complete game folder, applies the per-file patches,
-and verifies every target game file. Choose a new output folder outside the
-original. If verification fails, check `BUILD-MANIFEST.json` for the exact
-expected file sizes and SHA-256 hashes. Keep checksum verification enabled.
+Download `SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta` from
+[release 0.1.1](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1).
+Choose Apply xdelta, the matching original PKG, that local patch, and a new
+`.pkg` output. This mode works offline but does not provide catalog recognition.
+Compare your source and output against `BUILD-MANIFEST.json` and verify the
+patch download against `SHA256SUMS.txt`.
 
-Download integrity is recorded in `SHA256SUMS.txt`. The ZIP contains xdelta
-patches, the installer, manifest, validation record and this guide. GitHub's
-**Source code (zip)** contains project sources; download the release patch ZIP
-to translate the game. This directory patch set is not compatible with
-Retro Trans's whole-image Automatic mode.
+## Compatibility and license
 
-## RPCS3
+The output is a modified retail-style package with cleared authentication
+blocks, intended for RPCS3. It is **not Sony-signed and is not advertised as a
+PS3/CFW/HEN package installer**. The fake SELF executable and translated assets
+are the same build 018 content as the folder release; package installation
+natively decrypts its stage SDAT. Gameplay and physical-console checks remain
+pending. See the [release notes](releases/0.1.1.md) for validation limits.
 
-Choose **File > Boot Game** and select the new English folder. Keep your own
-matching game activation/license setup. The patch does not contain a RAP.
-The original `DATA01.EDAT` requires your own matching
+Keep your own matching game activation/license setup. No RAP is included.
+The original `DATA01.EDAT` requires your matching
 `JP0700-NPJB00689_00-SRWZ3RENDLGPKG00.rap` in RPCS3's
 `dev_hdd0/home/<active-user>/exdata/`. Error `80029521` indicates a missing
 matching license. Restart the game and load an in-game save when testing;
 emulator save states can retain earlier code or resources.
 
-## Physical PS3
+## Historical folder installer
 
-The output uses a fake SELF executable and requires compatible modified
-firmware and the matching original NPJB00689 installation/activation.
-With the game closed, back up the installation, then copy the twelve files
-listed in the manifest's `patches` array from the English output to the matching
-paths under `/dev_hdd0/game/NPJB00689/`. Keep savedata separate.
-Physical PS3 execution and blanket CFW/HEN compatibility remain unverified.
-Stock firmware is not supported by this test executable.
+[0.1.0](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.0) remains an
+independent folder-patch prerelease with its included `INSTALL.md`, twelve
+patches and `apply_release.py`. It does not support Retro Trans Automatic mode.
+Its Python installer requires a matching pristine extraction and a new output
+folder. Preserve the historical release assets and identities.
 
-## Report a problem
-
-Include the release version, RPCS3 version or console setup, the affected
-screen and a screenshot in a [GitHub issue](https://github.com/retro-trans/SRW-Z3-R/issues).
-Build 018 has passing asset, patch and offline format checks; its new layouts
-still need gameplay confirmation. See each release's notes for coverage.
+Report the release version, RPCS3 version, affected screen and screenshot in a
+[GitHub issue](https://github.com/retro-trans/SRW-Z3-R/issues).

@@ -5,18 +5,16 @@ Built from local build {{BUILD_ID}}. {{TEST_RELEASE_STATUS}}
 
 ## Apply
 
-Download `SRW-Z3-R-PS3-English-{{VERSION}}-file-patches.zip` and extract it.
-Follow the included `INSTALL.md`; the input is your own matching pristine
-NPJB00689 game folder. Preview first, then repeat with `--write`:
+Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest),
+refresh the catalog, browse to your original Japanese NPJB00689 PKG, and choose
+Automatic > Latest (or {{VERSION}}). Save a NEW `.pkg` and install that output
+through RPCS3. Alternatively download
+`SRW-Z3-R-NPJB00689-English-{{VERSION}}-RPCS3.xdelta` and use Apply xdelta.
 
-```powershell
-python apply_release.py --source "D:/Games/NPJB00689-original" --out "D:/Games/NPJB00689-English" --xdelta "D:/Tools/xdelta3.exe"
-```
-
-`BUILD-MANIFEST.json` records every required input and output identity.
-`SHA256SUMS.txt` verifies downloads; `VALIDATION.json` records full local
-patch decode checks. This per-file package is not a whole-ISO patch or a
-Retro Trans Automatic-mode release. Keep input verification enabled.
+`BUILD-MANIFEST.json` is the standard Retro Trans v1 manifest with exact source,
+output and patch identities. `SHA256SUMS.txt` verifies downloads;
+`VALIDATION.json` records the whole-package decode round trip. Keep input and
+output verification enabled. {{INSTALLATION_GUIDE_LINK}}
 
 ## What changed
 
@@ -31,8 +29,10 @@ Retro Trans Automatic-mode release. Keep input verification enabled.
 
 {{ACTUAL_RUNTIME_TEST_RESULTS}}
 The patch requires your own game and matching license. No license data is
-included. Physical PS3 requires a compatible modified setup; distinguish
-offline checks from gameplay and hardware acceptance.
+included. This modified PKG has cleared authentication and is for RPCS3;
+it is not a signed console installer. Keep `dev_hdd0/game/NPJB00689`: for this
+digital game it contains the game itself, not a disposable disc-install cache.
+Distinguish format checks from gameplay and hardware acceptance.
 
 ## Validation
 
@@ -51,6 +51,7 @@ with your own game. No complete game image, original script dump, game file,
 font, license or third-party tool binary is distributed.
 
 <!-- Maintainer checklist: exact version/tag; reviewed source snapshot;
-verified input/output hashes; every xdelta round trip; installer tested;
-ZIP inventory; uploaded asset digests; correct prerelease state; no original
-script catalogs or binary game data; actual public-download verification. -->
+verified input/output hashes; whole-PKG round trip; native package extraction;
+Retro Trans route/apply check; uploaded asset digests; regular numeric release
+for catalog discovery; no original script catalogs or binary game data;
+public-download validation and scoped catalog refresh. -->
