@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-10-09 — Retro Trans compatibility, English 0.1.1
+
+- Replace the default distribution route with a standard Retro Trans v1
+  original-PKG-to-English-PKG xdelta. Public release:
+  https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1.
+  Translation/layout content remains build 018; preserve the 0.1.0 assets.
+- Verify all 77 PKG members, three package tests, complete xdelta decode and
+  Retro Trans's actual recognizer, Latest/Next/specific routes and local
+  apply_plan. All six downloaded public assets match local/server hashes.
+  Scoped shared-catalog refresh succeeds and imports the exact manifest.
+  Final actual apply through the live public catalog and public patch download
+  produces the expected English PKG; the original remains unchanged.
+- Bare patch: 191,578,190 bytes; SHA-256
+  `fdf3d18da6b150548cf918968b5767c4f3fbd0ce258fe38fb3618cb0dd21886b`.
+  English PKG: 721,946,688 bytes; SHA-256
+  `dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a`.
+- Native isolated RPCS3 installation yields all 77 expected files including
+  verified stage SDAT plaintext. Its headless shutdown assertion is recorded
+  separately. The PKG has cleared authentication and targets RPCS3 only;
+  no signed console-package or gameplay acceptance is claimed.
+- Update README, install/release guides and template. Preserve the historical
+  folder guide for its installer. No original package, canonical translation,
+  user's installed game or save changes; previous remaining work is unchanged.
+
 ## 2026-10-09 — Public repository and English 0.1.0 prerelease
 
 - Publish https://github.com/retro-trans/SRW-Z3-R using `binhlt0402`, with
