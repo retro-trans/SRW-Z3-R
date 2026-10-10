@@ -1,13 +1,14 @@
 # Changelog
 
-## 2026-10-10 — 0.1.2 release packaging
+## 2026-10-10 — Published 0.1.2
 
-- Prepare build022 RPCS3 whole-PKG patches from the exact Japanese original
+- Published build022 RPCS3 whole-PKG patches from the exact Japanese original
   and public 0.1.1 output. Both complete decode checks produce SHA256
   2beeb00d12be6df166893da1fa28baf8e9279793288c22da1a24c24dcf82a818.
 - Public target: 725,958,496 bytes. All 77 native RPCS3 installed hashes match,
   including decrypted stage data. Known headless teardown assertion remains.
-- Retain 0.1.1 as the first public release. Use the Z3 release section order
+- All eight public assets and both live Retro Trans apply routes pass. The
+  catalog refresh succeeded; 0.1.1 remains the first public release. Use the Z3 release section order
   and documented Retro Trans, DeltaPatcher and xdelta3 routes.
 - Keep the CFW debug PKG local: both experimental whole-debug-PKG deltas
   encoded the entire 621,868,688-byte target with no reusable source data.

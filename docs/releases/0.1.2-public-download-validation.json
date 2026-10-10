@@ -1,0 +1,115 @@
+{
+  "download": {
+    "version": "0.1.2",
+    "public_release": true,
+    "downloaded_assets": 8,
+    "all_download_hashes_match": true,
+    "protocol_validation_passed": true,
+    "packaging_checksums_passed": true,
+    "assets": [
+      {
+        "name": "BUILD-MANIFEST.json",
+        "bytes": 1517,
+        "sha256": "5a7edc403381fec663486bbc155bd7cdeb3d89b5b178d88ec6cf069849adca79"
+      },
+      {
+        "name": "INSTALL.md",
+        "bytes": 4785,
+        "sha256": "ea2a755db65a79385565e82e214fa7caa70a609461c59dd428b5e4700455f0b3"
+      },
+      {
+        "name": "PACKAGING-SHA256SUMS.txt",
+        "bytes": 171,
+        "sha256": "306eac4f9f5f3359fcdef3b14fb6c10b46ab8a007061430d3192ca38ab169d3d"
+      },
+      {
+        "name": "PACKAGING-VALIDATION.json",
+        "bytes": 2942,
+        "sha256": "5b9601978124a44cc11d17f0702899edabb0a8b5804b71e16a812ec62e9e3ee4"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "bytes": 419,
+        "sha256": "012a3b4469be4f08bb87c8c84625d0094fc0ad4e0f14c562df25352cfb306e42"
+      },
+      {
+        "name": "SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-RPCS3.xdelta",
+        "bytes": 149752593,
+        "sha256": "9faa94b90b08fc5c53b511a80f8248e2f61a0dd6b2b25805fc7722c1db59abce"
+      },
+      {
+        "name": "SRW-Z3-R-NPJB00689-English-0.1.2-RPCS3-from-original.xdelta",
+        "bytes": 195590222,
+        "sha256": "45e7ad2ecaf4f6c3dc09b6e0d9be4962a10b54025533794948a6eeeaacf435e2"
+      },
+      {
+        "name": "VALIDATION.json",
+        "bytes": 559,
+        "sha256": "8ab69ac0113747d5a0eb4b1da933bf5e2a3006cc982068bba3499be732c8c2ec"
+      }
+    ]
+  },
+  "catalog": {
+    "version": "0.1.2",
+    "live_catalog": true,
+    "cases": [
+      {
+        "source_version": "original",
+        "recognized": true,
+        "routes": {
+          "Latest": {
+            "target": "0.1.2",
+            "patches": [
+              "SRW-Z3-R-NPJB00689-English-0.1.2-RPCS3-from-original.xdelta"
+            ]
+          },
+          "Next version only": {
+            "target": "0.1.1",
+            "patches": [
+              "SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta"
+            ]
+          },
+          "0.1.2": {
+            "target": "0.1.2",
+            "patches": [
+              "SRW-Z3-R-NPJB00689-English-0.1.2-RPCS3-from-original.xdelta"
+            ]
+          }
+        },
+        "public_download_and_apply_verified": true,
+        "output_bytes": 725958496,
+        "output_sha256": "2beeb00d12be6df166893da1fa28baf8e9279793288c22da1a24c24dcf82a818"
+      },
+      {
+        "source_version": "0.1.1",
+        "recognized": true,
+        "routes": {
+          "Latest": {
+            "target": "0.1.2",
+            "patches": [
+              "SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-RPCS3.xdelta"
+            ]
+          },
+          "Next version only": {
+            "target": "0.1.2",
+            "patches": [
+              "SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-RPCS3.xdelta"
+            ]
+          },
+          "0.1.2": {
+            "target": "0.1.2",
+            "patches": [
+              "SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-RPCS3.xdelta"
+            ]
+          }
+        },
+        "public_download_and_apply_verified": true,
+        "output_bytes": 725958496,
+        "output_sha256": "2beeb00d12be6df166893da1fa28baf8e9279793288c22da1a24c24dcf82a818"
+      }
+    ],
+    "gameplay_tested": false,
+    "ps3_hardware_tested": false
+  },
+  "catalog_refresh_workflow": "https://github.com/retro-trans/retro-trans-tools/actions/runs/38028076086"
+}
