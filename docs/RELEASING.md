@@ -7,19 +7,20 @@ Never replace published patch bytes or reuse a published version.
 1. Verify a complete local NPJB00689 build and `verification/RESULT.json`.
    Keep original packages and extracted files untouched. Record runtime and
    translation limits separately from binary validation.
-2. Prepare a NEW verified local target package. For CFW use
-   `tools/package_cfw_pkg.py` after its dry-run preview, executable audit and
-   complete overlay checks. Never upload a full PKG. CFW debug authentication
-   is not Sony retail signing; physical-console boot remains a separate test.
-3. Verify native installation using an isolated RPCS3 copy and compare all 77
-   files. Record process teardown issues separately from file identity results.
+2. Preview `tools/repack_runtime_pkg.py` with the original `--pkg`, verified
+   `--build` and a NEW `--out` under `work/`, inspect the offsets, then repeat
+   with `--write`. This preserves unchanged retail ciphertext for safe deltas.
+   It clears invalid authentication and is for RPCS3, not console installation.
+   Keep CFW debug PKGs local: re-encryption destroys source reuse and a
+   whole-package xdelta would contain the complete game.
+3. Preview `tools/verify_runtime_pkg_install.py`, then repeat with `--write`
+   using a NEW isolated RPCS3 directory. Compare all 77 files, accounting for
+   native SDAT decryption. Record teardown issues separately from file identity.
 4. Publish reviewed sources and sanitized English exports first. Supply that
-   full commit to `tools/package_retro_release.py`, with source/target PKGs and
-   package/install validation files. Preview, inspect identities, then use
-   `--write` with a NEW output directory. For an upgrade route supply
-   `--previous` and its published `--previous-manifest`; the helper checks the
-   previous package against that release's exact output identity. A current
-   `retro-trans-tools` checkout builds, fully decodes and validates each xdelta.
+   full commit to `tools/package_retro_release.py` with package/install proofs.
+   Preview identities, then use `--write` in a NEW release directory. For an
+   upgrade supply `--previous` and its published `--previous-manifest`.
+   A current `retro-trans-tools` checkout fully decodes/validates both patches.
 5. Publish exactly one `BUILD-MANIFEST.json`, its bare `.xdelta` assets, `VALIDATION.json`
    and `SHA256SUMS.txt`. Additional installation notes or detailed runtime
    evidence may be separate assets. No game binaries or local configurations.

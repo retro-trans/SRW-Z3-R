@@ -27,6 +27,8 @@ def prepare(args):
     runtime = json.loads(args.runtime_validation.read_text(encoding='utf8'))
     source, target = identity(args.pkg), identity(args.target)
     cfw = proof.get('format') == 'CFW debug PKG (not retail-signed)'
+    if cfw:
+        raise ValueError('Debug PKG encryption prevents source reuse: a whole-PKG xdelta embeds the complete game. Keep CFW packages local; publish RPCS3 deltas.')
     verified_target = proof.get('package') if cfw else proof.get('target')
     installed_target = runtime.get('package') if cfw else runtime.get('pkg')
     if source != proof['original'] or target != verified_target or target != installed_target:
@@ -35,7 +37,8 @@ def prepare(args):
     if cfw:
         package_ok = package_ok and proof.get('full_cipher_roundtrip') and proof.get('debug_authentication_verified')
     install_ok = runtime.get('all_77_game_files_match_cfw_pkg') if cfw else runtime.get(
-        'all_77_game_files_match_build018_with_native_sdat_decryption')
+        'all_77_game_files_match_build_with_native_sdat_decryption', runtime.get(
+        'all_77_game_files_match_build018_with_native_sdat_decryption'))
     if not package_ok or not install_ok:
         raise ValueError('Complete package/RPCS3 installation checks required')
     suffix = 'CFW' if cfw else 'RPCS3'

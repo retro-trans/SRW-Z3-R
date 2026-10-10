@@ -148,4 +148,3 @@ def verify(original,built,font_path):
             q=off+((y+row)*tw+x)*4;restored[q:q+w*4]=original[q:q+w*4]
     assert restored==original,'bytes outside lettering and nine banner rectangles changed'
     print('PASS: Maximum Break nine-piece XY/UV layout and battle action surfaces; all other pixels and animation commands unchanged.')
-

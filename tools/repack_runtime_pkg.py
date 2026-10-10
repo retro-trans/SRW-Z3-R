@@ -101,7 +101,8 @@ def build(pkg, build_dir, output, write=False):
         print('DRY RUN: new PKG, verify all 77 members; original and build remain unchanged.')
         return
     output.mkdir(parents=True)
-    dest = output / 'SRW-Z3-R-NPJB00689-English-build018-RPCS3.pkg'
+    version = build_dir.name.rsplit('_', 1)[1]
+    dest = output / ('SRW-Z3-R-NPJB00689-English-build%s-RPCS3.pkg' % version)
     shutil.copyfile(pkg, dest)
     with pkg.open('rb') as source:
         header = bytearray(source.read(package.offset))

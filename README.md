@@ -7,7 +7,7 @@ Rengoku-hen / Purgatory Chapter**, Japanese digital release **NPJB00689**.
 [the latest release](https://github.com/retro-trans/SRW-Z3-R/releases/latest).
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) in Automatic
 mode with your matching Japanese **NPJB00689 PKG**, or apply the downloaded
-patch with DeltaPatcher or xdelta3. Save a new English PKG for CFW testing or RPCS3.
+patch with DeltaPatcher or xdelta3. Save a new English PKG for RPCS3.
 Each release lists installation steps, required input hashes, translation
 coverage and compatibility notes.
 
@@ -23,7 +23,7 @@ Original Japanese script catalogs and game data remain local.
 ## Current release and coverage
 
 **0.1.2** uses verified local **build 022**, including the corrections reported
-during 0.1.1 testing and a CFW debug PKG candidate. **0.1.1 remains the first
+during 0.1.1 testing in a new RPCS3 package. **0.1.1 remains the first
 public release.** Retro Trans supports both original and exact 0.1.1 PKG inputs.
 DeltaPatcher and xdelta3 can apply the same patches.
 
@@ -33,7 +33,7 @@ DeltaPatcher and xdelta3 can apply the same patches.
 | Battle | 3,575 drafts covering 5,113 stored occurrences; 54 review notes retained |
 | Non-dialogue | 5,295 English entries covering 9,177 occurrences; 97 context/spelling flags retained |
 | Glossary | 1,320 effective terms, including Rengoku overrides |
-| Latest focused checks | 17 regressions, archive readbacks, three offline format checks, package authentication and all 77 installed file hashes passed |
+| Latest focused checks | 17 regressions, archive readbacks, three offline format checks and all 77 installed file hashes passed |
 
 The update fixes skill/Spirit descriptions, SR conditions and rewards, bonus
 popups and selectors, highlighted-word spacing, terminology, ending dialogue
@@ -50,17 +50,19 @@ still need gameplay confirmation.
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) 0.5.1 or later:
 refresh the catalog, select your original Japanese or exact English 0.1.1 PKG,
-choose Automatic and Latest, Next or 0.1.2, then save a new English `.pkg`.
+choose Automatic and Latest or 0.1.2 (Next from 0.1.1), then save a new English `.pkg`.
 Manual [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
 and [xdelta3](https://github.com/jmacd/xdelta/releases/latest) instructions are
 in [INSTALL.md](docs/INSTALL.md), including input/output hashes.
 
-The output is a debug PKG for CFW with fake/debug NPDRM SELF support, and its
-77 files were verified after isolated RPCS3 installation. It is not Sony
-retail-signed; stock firmware is unsupported and CFW boot is untested.
-No general HEN compatibility is claimed. Use your original matching license.
-Back up the installation and saves. Keep `dev_hdd0/game/NPJB00689`, since it
-contains this digital game. No full game, license or Vita build is included.
+The output is RPCS3-only with cleared authentication, not a Sony-signed or
+CFW installer. All 77 installed files were verified. A separately verified
+local CFW debug PKG candidate remains private: its whole-PKG xdelta would embed
+the complete game because encryption prevents source reuse. Public CFW build
+tools require the private inputs described below; physical PS3 boot is untested.
+Use your matching original license. Back up installation/saves and keep
+`dev_hdd0/game/NPJB00689`, since it contains this digital game. No full game,
+license or Vita build is included.
 
 ## Translation sources
 
