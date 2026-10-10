@@ -1,0 +1,73 @@
+{
+  "version": "0.1.2",
+  "build": "022",
+  "source_commit": "3df241c3864ae7c10885f106b052315530cb9e66",
+  "package_format": "Modified retail-style RPCS3-only PKG; authentication cleared",
+  "title_id": "NPJB00689",
+  "content_id": "JP0700-NPJB00689_00-SRWZ3RENDLGPKG00",
+  "original": {
+    "bytes": 530382896,
+    "sha256": "77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307"
+  },
+  "target": {
+    "bytes": 725958496,
+    "sha256": "2beeb00d12be6df166893da1fa28baf8e9279793288c22da1a24c24dcf82a818"
+  },
+  "build_report_sha256": "9efbad9280810e1df1b45b7a9f08a28866f8621f6a41b9df1faa56a05c6918b4",
+  "package_validation_sha256": "a608160267ba98c9f969f73fc04b9579dbeb573c72b09f5432b56f451ae51804",
+  "install_validation_sha256": "559c7c89a0431e0a905836e47eeaa0bea5333f3d4ca4ec9f2a99faa59417796b",
+  "offline_validation_sha256": "00831c37721b6459973c2245d107d4274d2aba093f27dd7ef3c6cd27ca8112af",
+  "all_77_members_verified": true,
+  "signed_retail_package": false,
+  "executable_audit": {
+    "active_native_loads": 2,
+    "rx_rw_separated": true,
+    "entry_tls_process_metadata_preserved": true,
+    "original_bss_zero_filled": true,
+    "unrecorded_program_changes": false,
+    "direct_hook_branches_checked": 99,
+    "self_payload_and_load_mapping_verified": true,
+    "npdrm_application_capability_content_identity_preserved": true
+  },
+  "offline_decryption": [
+    {
+      "case": "original_stage",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "6b2e7324964bd3851bdc0ef06511765912bdd411f726b0ca1fcd7c79b2cf31a9",
+      "output_files": [
+        "STGZ3REN.SDAT.unedat"
+      ]
+    },
+    {
+      "case": "english_stage",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "e6f671ebe28a8251270fcc8591bf023079fcf0532333dcbd2dff3963f56490b0",
+      "output_files": [
+        "STGZ3REN.SDAT.unedat"
+      ]
+    },
+    {
+      "case": "english_executable",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "92d6aea14d2483f1fae20a9572e239ccecdb88c891e667f21896fbe505c71d7a",
+      "output_files": [
+        "EBOOT.elf"
+      ]
+    }
+  ],
+  "installed_files": 77,
+  "all_77_game_files_match_build_with_native_sdat_decryption": true,
+  "installer_exit_code": 3221226505,
+  "clean_installer_shutdown": false,
+  "focused_regressions_passed": 17,
+  "gameplay_tested": false,
+  "ps3_hardware_install_tested": false,
+  "ps3_hardware_boot_tested": false,
+  "licenses_included": false,
+  "provenance": "Local build022 predates its public snapshot commit; source_commit identifies the reviewed translation/tooling export, not a historical build commit.",
+  "cfw_package_distributed": false,
+  "cfw_distribution_note": "Local CFW debug PKG stays private: whole-package xdelta contains the complete encrypted target with no source reuse."
+}
