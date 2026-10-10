@@ -18,11 +18,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00076:00002": {
-      "text": "$$ＦＢ隊員$$\n（If this place falls,\n　the continent's north loses control at once,\n　and the whole continent's fight would slowly turn even, I'd wager）",
+      "text": "$$ＦＢ隊員$$\n（If this place falls, the continent's north loses control\n　at once, and the whole continent's fight would slowly\n　turn even, I'd wager）",
       "status": "draft",
       "source_sha": "1c8725f7d4",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00003": {
       "text": "$$ＦＢ隊員$$\n（Hmph... whether $$サイデリアル$$ wins or loses\n　isn't any concern of mine, but in the name of $$ファイヤバグ$$\n　I'll simply carry out the job）",
@@ -67,18 +69,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00076:00009": {
-      "text": "$$サルディアス$$\n「Since none of his subordinate units are in sight either,\n　it really does seem like he isn't here」",
+      "text": "$$サルディアス$$\n「Since none of his subordinate units are in sight\n　either, it really does seem like he isn't here」",
       "status": "draft",
       "source_sha": "cacbe8bef0",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00010": {
-      "text": "$$メール$$\n「Lucky!\n　As long as he's not here, we should be able to manage!」",
+      "text": "$$メール$$\n「Lucky! As long as he's not here, we should be able\n　to manage!」",
       "status": "draft",
       "source_sha": "01432446ab",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00011": {
       "text": "$$セツコ$$\n「.........」",
@@ -130,11 +136,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00076:00018": {
-      "text": "$$アドヴェント$$\n「Our objective is to wipe out the enemy defense forces\n　and seize this base, the nerve center of $$サイデリアル$$'s\n　presence in the continent's north」",
+      "text": "$$アドヴェント$$\n「Our objective is to wipe out the enemy defense\n　forces and seize this base, the nerve center of\n　$$サイデリアル$$'s presence in the continent's north」",
       "status": "draft",
       "source_sha": "004ff524d0",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00019": {
       "text": "$$アドヴェント$$\n「But this battle won't be the end.\n　$$セツコ$$, $$ランド$$, $$クロウ$$...\n　You are not permitted to die here」",
@@ -312,11 +320,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00076:00044": {
-      "text": "$$ランド$$\n「Yeah!\n　From here on, it's a huge comeback for Earth's side!!」",
+      "text": "$$ランド$$\n「Yeah! From here on, it's a huge comeback for Earth's\n　side!!」",
       "status": "draft",
       "source_sha": "4381485553",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00045": {
       "text": "$$サルディアス$$\n「October 11th, 4:00 PM...」",
@@ -859,11 +869,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00076:00121": {
-      "text": "$$クロウ$$\n「What was that about...?\n　He seemed strangely afraid of losing his machine...」",
+      "text": "$$クロウ$$\n「What was that about...? He seemed strangely afraid\n　of losing his machine...」",
       "status": "draft",
       "source_sha": "e6062b3b3b",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00122": {
       "text": "$$ランド$$\n「Who gives a damn about his business.\n　As long as I never have to see that\n　sneaky bastard's face again, that's fine by me」",
@@ -901,18 +913,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00076:00127": {
-      "text": "$$アドヴェント$$\n「Wicked $$真徒$$ who gorge yourselves on this planet's power!\n　Know your own foolishness!」",
+      "text": "$$アドヴェント$$\n「Wicked $$真徒$$ who gorge yourselves on this\n　planet's power! Know your own foolishness!」",
       "status": "draft",
       "source_sha": "9cf85872ad",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00128": {
-      "text": "$$ブルー$$\n「We're doing this...!\n　We'll bring down this base, to liberate the continent!」",
+      "text": "$$ブルー$$\n「We're doing this...! We'll bring down this base, to\n　liberate the continent!」",
       "status": "draft",
       "source_sha": "1e7dec0ae7",
       "source_member_sha256": "282c1b30300431031b8d421cda418e8803ca6db1fde3aa94f2630a9b0c390b29",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00076:00129": {
       "text": "$$セツコ$$\n「So many people are fighting in search of peace...!」",

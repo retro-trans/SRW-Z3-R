@@ -519,11 +519,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00073": {
-      "text": "$$ランド$$\n「Right in front of me and $$メール$$,\n　the old man got caught in a $$時空震動$$ and vanished...」",
+      "text": "$$ランド$$\n「Right in front of me and $$メール$$, the old man got caught\n　in a $$時空震動$$ and vanished...」",
       "status": "draft",
       "source_sha": "5ba570c69c",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00074": {
       "text": "$$クロウ$$\n「.........」",
@@ -540,11 +542,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00076": {
-      "text": "$$ランド$$\n「Then partway through that trip, the $$大時空震動$$ hit,\n　and after that it's just been days of fighting,\n　tossed all over the place」",
+      "text": "$$ランド$$\n「Then partway through that trip, the\n　$$大時空震動$$ hit, and after that it's just been\n　days of fighting, tossed all over the place」",
       "status": "draft",
       "source_sha": "da040276af",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00077": {
       "text": "$$クロウ$$\n「So that's how it was...」",
@@ -652,11 +656,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00091": {
-      "text": "$$アドヴェント$$\n「The stars are aligning nicely.\n　I'm sure you'll be reunited with the one you long for soon」",
+      "text": "$$アドヴェント$$\n「The stars are aligning nicely. I'm sure you'll be\n　reunited with the one you long for soon」",
       "status": "draft",
       "source_sha": "0ac369e632",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00092": {
       "text": "$$ランド$$\n「...Thanks.\n　I'll go ahead and believe that horoscope of yours」",
@@ -842,18 +848,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00117": {
-      "text": "$$メール$$\n「I... after I got caught in that $$時空震動$$,\n　I ended up thrown into this town together with $$ガンレオン$$...」",
+      "text": "$$メール$$\n「I... after I got caught in that $$時空震動$$, I ended up\n　thrown into this town together with $$ガンレオン$$...」",
       "status": "draft",
       "source_sha": "044306b0e9",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00118": {
-      "text": "$$メール$$\n「Seeing us fall out of the sky,\n　the townspeople made a huge fuss, saying a god had come」",
+      "text": "$$メール$$\n「Seeing us fall out of the sky, the townspeople made\n　a huge fuss, saying a god had come」",
       "status": "draft",
       "source_sha": "392733fb98",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00119": {
       "text": "$$ランド$$\n「Even so, that's way too much of a stretch!」",
@@ -1068,11 +1078,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00149": {
-      "text": "$$サルディアス$$\n「We're beating back the enemy's new model and closing in\n　on their headquarters. On top of that we have two\n　Sphere-equipped units」",
+      "text": "$$サルディアス$$\n「We're beating back the enemy's new model and\n　closing in on their headquarters. On top of that we\n　have two Sphere-equipped units」",
       "status": "draft",
       "source_sha": "ff3a2cf65c",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00150": {
       "text": "$$サルディアス$$\n「If we keep advancing like this, a town this small,\n　with nothing worth taking near the $$レイライン|lc$$,\n　will be ignored」",
@@ -1119,11 +1131,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00156": {
-      "text": "$$メール$$\n「Ah... I'm used to people calling us\n　a beauty and the beast couple, so it doesn't bother me」",
+      "text": "$$メール$$\n「Ah... I'm used to people calling us a beauty and the\n　beast couple, so it doesn't bother me」",
       "status": "draft",
       "source_sha": "6c2cc3ee74",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00157": {
       "text": "$$ランド$$\n「Who're you callin' a beauty!!」",
@@ -1175,11 +1189,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00164": {
-      "text": "$$メール$$\n「Yeah!\n　The way you put your body on the line to protect me...\n　I'll never forget it」",
+      "text": "$$メール$$\n「Yeah! The way you put your body on the line to\n　protect me... I'll never forget it」",
       "status": "draft",
       "source_sha": "26e1944b39",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00165": {
       "text": "$$ランド$$\n「Y-you... that's...」",
@@ -1240,11 +1256,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00063:00173": {
-      "text": "$$アドヴェント$$\n「We depart tomorrow morning.\n　You should finish saying your goodbyes to the townspeople\n　before then」",
+      "text": "$$アドヴェント$$\n「We depart tomorrow morning. You should finish\n　saying your goodbyes to the townspeople before\n　then」",
       "status": "draft",
       "source_sha": "7edb4e9243",
       "source_member_sha256": "b55f9958979c79a8dd8ea272dd84b414b97bd4241dcfb60ed36fade7f0046999",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00063:00174": {
       "text": "$$メール$$\n「.........」",

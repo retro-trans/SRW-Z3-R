@@ -18,12 +18,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00028:00002": {
-      "text": "$$サイデリアル兵$$\n「Their movements have been active lately...\n　Almost like the $$レジスタンス$$ cells everywhere are coordinating」",
+      "text": "$$サイデリアル兵$$\n「Their movements have been active lately... Almost\n　like the $$レジスタンス$$ cells everywhere are\n　coordinating」",
       "status": "draft",
       "source_sha": "b0444b74b2",
       "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
       "notes": [
-        "Line runs 63 chars (dry-run REVIEW warning)."
+        "Line runs 63 chars (dry-run REVIEW warning).",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00028:00003": {
@@ -108,21 +109,23 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00028:00014": {
-      "text": "$$サイデリアル兵$$\n「No need to get involved with them.\n　They're under Commander $$ギルター$$'s direct command anyway,\n　a different chain from ours」",
+      "text": "$$サイデリアル兵$$\n「No need to get involved with them. They're under\n　Commander $$ギルター$$'s direct command anyway, a\n　different chain from ours」",
       "status": "draft",
       "source_sha": "c3256a6d82",
       "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
       "notes": [
-        "Line runs 56 chars (dry-run REVIEW warning)."
+        "Line runs 56 chars (dry-run REVIEW warning).",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00028:00015": {
-      "text": "$$サイデリアル兵$$\n「Rumor has it they're locally conscripted troops, though...」",
+      "text": "$$サイデリアル兵$$\n「Rumor has it they're locally conscripted troops,\n　though...」",
       "status": "draft",
       "source_sha": "ca036cf169",
       "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
       "notes": [
-        "Line runs 60 chars (dry-run REVIEW warning)."
+        "Line runs 60 chars (dry-run REVIEW warning).",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00028:00016": {
@@ -156,12 +159,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00028:00020": {
-      "text": "$$アドヴェント$$\n「Just what you'd expect from the ace of Area 35,\n　the wandering repairman, and the money-grubbing hotshot mercenary team.\n　They agreed to help us out without complaint」",
+      "text": "$$アドヴェント$$\n「As expected of the team with Area 35's ace, the\n　wandering repairman and the money-minded expert\n　mercenary. They gladly agreed to help us」",
       "status": "draft",
       "source_sha": "e11313e35a",
       "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
       "notes": [
-        "Line 2 runs long (72 chars, dry-run REVIEW warning) to avoid cutting the ace/repairman/mercenary list; flagged as an acceptable length warning, not a meaning cut."
+        "Line 2 runs long (72 chars, dry-run REVIEW warning) to avoid cutting the ace/repairman/mercenary list; flagged as an acceptable length warning, not a meaning cut.",
+        "Build019: source-reviewed concise dialogue preserving meaning and terminology."
       ]
     },
     "rengoku:STGZ3REN_00028:00021": {
@@ -200,11 +204,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00028:00026": {
-      "text": "$$ランド$$\n「But that stuck-up bastard doesn't seem to be around」",
+      "text": "$$ランド$$\n「But that stuck-up bastard doesn't seem to be\n　around」",
       "status": "draft",
       "source_sha": "ca02db554f",
       "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00028:00027": {
       "text": "$$アドヴェント$$\n「Knowing how eager he is for glory,\n　he's probably gone to mop up\n　the forces in the area himself」",
@@ -438,11 +444,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00028:00060": {
-      "text": "$$クロウ$$\n「So it's unfinished...!\n　That's why the ones who stayed behind bolted so fast!」",
+      "text": "$$クロウ$$\n「So it's unfinished...! That's why the ones who stayed\n　behind bolted so fast!」",
       "status": "draft",
       "source_sha": "c18a1fe6e7",
       "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00028:00061": {
       "text": "$$アドヴェント$$\n「All units, be careful.\n　It's dangerous to leave that thing running loose」",
@@ -494,11 +502,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00028:00068": {
-      "text": "$$ランド$$\n「Let's go smash the enemy's core, quick.\n　Once we crush the head, the $$レジスタンス$$ everywhere else\n　can push things to at least even odds」",
+      "text": "$$ランド$$\n「Let's go smash the enemy's core, quick. Once we\n　crush the head, the $$レジスタンス$$ everywhere else can\n　push things to at least even odds」",
       "status": "draft",
       "source_sha": "b70cfcdfe3",
       "source_member_sha256": "8f1d9f01b8a059f315dc6fdc82e27c6915a8020df5cc21a478f1b04012a9d14e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00028:00069": {
       "text": "$$アドヴェント$$\n「Let's hope this base becomes part of that strength」",

@@ -1,97 +1,109 @@
 # Installing the Rengoku-hen English patch
 
-The first public release, **0.1.1**, uses Retro Trans's standard single-file xdelta format.
-Input: your original Japanese **PS3 NPJB00689 PKG**.
-Output: a new English PKG for **RPCS3**, containing build 018's translation.
-No Python or separate xdelta installation is needed when using the Windows app.
+Current release **0.1.2** contains build **022** in a CFW debug PKG. Physical
+PS3 boot and the corrected screens still need testing. The first public
+release, 0.1.1, remains available.
+
+Download [release 0.1.2](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.2).
+Choose the patch matching your complete source package:
+
+| Source | Patch |
+| --- | --- |
+| Original Japanese NPJB00689 PKG | `SRW-Z3-R-NPJB00689-English-0.1.2-CFW-from-original.xdelta` |
+| Exact English 0.1.1 PKG | `SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-CFW.xdelta` |
+
+Both routes create the same English 0.1.2 PKG. Use a new output filename.
+Full game packages, licenses and activation tools are not distributed.
 
 ## Retro Trans Automatic mode
 
 1. Download [Retro Trans 0.5.1 or later](https://github.com/retro-trans/retro-trans-tools/releases/latest).
-2. Refresh its patch catalog and browse to your original NPJB00689 `.pkg`.
-3. Choose **Automatic**, then **Latest** or **0.1.1**. Review the route.
-4. Choose a new output name, such as `NPJB00689-English-0.1.1.pkg`, and click Patch.
-5. Close RPCS3 and keep your existing game and saves backed up. In RPCS3, choose
-   **File > Install Packages/Raps/Edats** and install the generated package in
-   your intended RPCS3 profile. The patcher itself does not install games.
+2. Refresh the catalog and browse to your original Japanese or exact English
+   0.1.1 NPJB00689 `.pkg`.
+3. Choose **Automatic**, then **Latest**, **Next** or **0.1.2**. Review the route.
+4. Save to a new filename, such as `NPJB00689-English-0.1.2.pkg`.
+5. Install the output using the CFW or RPCS3 instructions below.
 
-Recognition checks all original bytes; renaming the file is fine. The source
-must be 530,382,896 bytes with SHA-256
-`77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307`.
-Other packages, Jigoku-hen, extracted folders and the old English folder are
-not compatible sources for this route. Use the `.pkg` output format.
-
-Retro Trans's general PS3 installation-data reminder concerns disc caches.
-**Do not delete `dev_hdd0/game/NPJB00689` as a cache**: this is the installed
-digital game. Keep savedata, licenses and other games. Use a separate RPCS3
-profile if you want to retain the Japanese and English installations separately.
+Recognition checks the full size and hash; renaming the source is fine.
+Extracted folders and installed game files are not compatible package sources.
 
 ## Retro Trans Apply xdelta mode
 
-Download `SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta` from
-[release 0.1.1](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1).
-Choose Apply xdelta, the matching original PKG, that local patch, and a new
-`.pkg` output. This mode works offline but does not provide catalog recognition.
-Compare your source and output against `BUILD-MANIFEST.json` and verify the
-patch download against `SHA256SUMS.txt`.
+Download the matching `.xdelta` above. Select **Apply xdelta**, your source
+PKG, that patch and a new `.pkg` output. This works offline. Check downloads
+against `SHA256SUMS.txt` and identities against `BUILD-MANIFEST.json`.
 
 ## Delta Patcher
 
-Download [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
-and the `.xdelta` asset from [release 0.1.1](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1).
-
-1. Under **Original file**, select your matching Japanese NPJB00689 `.pkg`.
-2. Under **XDelta patch**, select
-   `SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta`.
-3. In the patch options, enable **Backup original file** and keep
-   **Checksum validation** enabled, then click **Apply patch**.
-4. With backup enabled, the output is named `<original-name>PATCHED.pkg` in
-   the same folder. Install that English package through RPCS3.
-
-Without Backup original file enabled, Delta Patcher replaces the input file.
-Use a separate copy of your original PKG if you prefer.
+Use [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest).
+Select your source under **Original file** and its matching `.xdelta` under
+**XDelta patch**. Enable **Backup original file** and keep **Checksum
+validation** enabled, then apply. With backup enabled the result is
+`<original-name>PATCHED.pkg` in the same folder. Without it, Delta Patcher
+replaces the input, so retain an untouched original separately.
 
 ## xdelta command line
 
-Download [xdelta3](https://github.com/jmacd/xdelta/releases/latest) and the same
-`.xdelta` asset. Run this in a folder containing the patch and your original
-package; replace `NPJB00689-original.pkg` with your original filename:
+Use [xdelta3](https://github.com/jmacd/xdelta/releases/latest). From original:
 
-```sh
-xdelta3 -d -s "NPJB00689-original.pkg" "SRW-Z3-R-NPJB00689-English-0.1.1-RPCS3.xdelta" "NPJB00689-English-0.1.1.pkg"
+```text
+xdelta3 -d -s "NPJB00689-original.pkg" "SRW-Z3-R-NPJB00689-English-0.1.2-CFW-from-original.xdelta" "NPJB00689-English-0.1.2.pkg"
 ```
 
-`-d` decodes the patch, and `-s` selects the original package. Use a new output
-filename. On Windows PowerShell, use `./xdelta3.exe` instead of `xdelta3` if
-its executable is in the current folder. Install the resulting English PKG
-through RPCS3.
+From exact English 0.1.1:
 
-For either manual method, check the original identity listed above and the
-patch's `SHA256SUMS.txt`. The expected output is **721,946,688 bytes**, SHA-256
-`dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a`.
-You can check it in PowerShell with:
-
-```powershell
-Get-FileHash -Algorithm SHA256 "NPJB00689-English-0.1.1.pkg"
+```text
+xdelta3 -d -s "NPJB00689-English-0.1.1.pkg" "SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-CFW.xdelta" "NPJB00689-English-0.1.2.pkg"
 ```
 
-Use the actual output filename when checking a Delta Patcher result.
+Replace filenames with yours. On PowerShell use `./xdelta3.exe` if it is in
+the current folder. Keep checksum verification enabled.
 
-## Compatibility and license
+| Package | Bytes | SHA-256 |
+| --- | ---: | --- |
+| Original Japanese | 530,382,896 | `77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307` |
+| English 0.1.1 | 721,946,688 | `dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a` |
+| English 0.1.2 | 621,868,688 | `2bcc308add953d165a2b00cb072bc317a19445e2e19786f64cb59ca39f988489` |
 
-The output is a modified retail-style package with cleared authentication
-blocks, intended for RPCS3. It is **not Sony-signed and is not advertised as a
-PS3/CFW/HEN package installer**. The fake SELF executable and translated assets
-use verified local build 018 content; package installation
-natively decrypts its stage SDAT. Gameplay and physical-console checks remain
-pending. See the [release notes](releases/0.1.1.md) for validation limits.
+Check the output with `Get-FileHash -Algorithm SHA256 "NPJB00689-English-0.1.2.pkg"`.
 
-Keep your own matching game activation/license setup. No RAP is included.
-The original `DATA01.EDAT` requires your matching
-`JP0700-NPJB00689_00-SRWZ3RENDLGPKG00.rap` in RPCS3's
+## PS3 with CFW
+
+Requires CFW supporting **debug PKG installation and fake/debug NPDRM SELF
+loading**. This package is not Sony retail-signed. Stock firmware is unsupported;
+no blanket HEN or firmware compatibility is claimed. Console installation and
+boot remain untested.
+
+1. Confirm your activated original NPJB00689 boots. Back up
+   `/dev_hdd0/game/NPJB00689/` and savedata separately. Preserve licenses.
+2. Verify the new PKG. Copy it to a FAT32 USB root or transfer to
+   `/dev_hdd0/packages/` using your existing CFW setup. It is under 4 GiB.
+3. Quit the game. In XMB **Package Manager > Install Package Files**, select
+   the package. Menu wording varies by CFW. It replaces the same NPJB00689
+   installation, rather than creating a second copy.
+4. Launch from XMB with your matching original activation/license. Test a
+   fresh boot and save/load in a separate slot.
+
+Restore your backup or reinstall the original package to return to Japanese.
+Preserve savedata and licenses. Do not delete this game's folder as a cache.
+
+## RPCS3
+
+Close RPCS3 and back up the installation and saves. Install with **File >
+Install Packages/Raps/Edats**. Use your own matching license; no RAP is supplied.
+The retained `DATA01.EDAT` requires your matching
+`JP0700-NPJB00689_00-SRWZ3RENDLGPKG00.rap` in
 `dev_hdd0/home/<active-user>/exdata/`. Error `80029521` indicates a missing
-matching license. Restart the game and load an in-game save when testing;
-emulator save states can retain earlier code or resources.
+matching license.
 
-Report the release version, RPCS3 version, affected screen and screenshot in a
-[GitHub issue](https://github.com/retro-trans/SRW-Z3-R/issues).
+Keep `dev_hdd0/game/NPJB00689`: it contains the digital game, not a disposable
+disc cache. Preserve other games and savedata. A separate profile can retain
+Japanese and English installations. Restart and load an in-game save;
+emulator save states can retain old resources.
+
+All 77 files matched after isolated native RPCS3 installation. The headless
+installer then reported its known teardown assertion; file extraction passed,
+but clean shutdown and gameplay are not claimed. See [validation notes](validation/0.1.2.md).
+
+Report the release, RPCS3 or exact CFW version, affected screen/error code and
+screenshot in a [GitHub issue](https://github.com/retro-trans/SRW-Z3-R/issues).

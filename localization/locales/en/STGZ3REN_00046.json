@@ -41,11 +41,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00005": {
-      "text": "$$ランド$$\n「Still, though...\n　Those $$サイデリアル$$ bastards sure went and\n　built something impressive on someone else's planet」",
+      "text": "$$ランド$$\n「Still, though... Those $$サイデリアル$$ bastards sure went\n　and built something impressive on someone else's\n　planet」",
       "status": "draft",
       "source_sha": "26235f1f95",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00006": {
       "text": "$$セツコ$$\n「An interception unit has appeared!」",
@@ -104,18 +106,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00014": {
-      "text": "$$サルディアス$$\n「Say the name $$ギルター・ベローネ$$, and I doubt there's a single\n　Sidereal on this continent who doesn't know him」",
+      "text": "$$サルディアス$$\n「Say the name $$ギルター・ベローネ$$, and I doubt there's a\n　single Sidereal on this continent who doesn't know\n　him」",
       "status": "draft",
       "source_sha": "ede091918b",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00015": {
-      "text": "$$サルディアス$$\n「Cruel, underhanded, arrogant...\n　Basically the number-one man you'd never want as a boss」",
+      "text": "$$サルディアス$$\n「Cruel, underhanded, arrogant... Basically the\n　number-one man you'd never want as a boss」",
       "status": "draft",
       "source_sha": "22748b302a",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00016": {
       "text": "$$サルディアス$$\n「Worst of all, that man...\n　thinks he's the smartest person alive」",
@@ -146,11 +152,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00020": {
-      "text": "$$クロウ$$\n「An invisible barrage... a $$次元転移砲$$...」",
+      "text": "$$クロウ$$\n「An invisible barrage... a\n　$$次元転移砲$$...」",
       "status": "draft",
       "source_sha": "19459b730b",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00021": {
       "text": "$$ギルター$$\n「So you've gathered a bit of intel, have you」",
@@ -195,11 +203,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00027": {
-      "text": "$$アドヴェント$$\n「This operation's success rests on you two.\n　Pull it off, and I'll make sure there's a generous bonus」",
+      "text": "$$アドヴェント$$\n「This operation's success rests on you two. Pull it off,\n　and I'll make sure there's a generous bonus」",
       "status": "draft",
       "source_sha": "6ab050625d",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00028": {
       "text": "$$クロウ$$\n「Now that's what I call motivation」",
@@ -251,11 +261,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00035": {
-      "text": "$$クロウ$$\n「When you said you'd even play maid for us, the enemy,\n　I figured you were a woman with real nerve...」",
+      "text": "$$クロウ$$\n「When you said you'd even play maid for us, the\n　enemy, I figured you were a woman with real\n　nerve...」",
       "status": "draft",
       "source_sha": "af7e257725",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00036": {
       "text": "$$クラヴィア$$\n「Th-that was for the $$スフィア$$'s sake...」",
@@ -265,18 +277,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00037": {
-      "text": "$$クロウ$$\n「...I've always been surrounded by strong-willed women.\n　A reaction like yours is a bit of a novelty, that's all」",
+      "text": "$$クロウ$$\n「...I've always been surrounded by strong-willed\n　women. A reaction like yours is a bit of a novelty,\n　that's all」",
       "status": "draft",
       "source_sha": "5eda2d18d4",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00038": {
-      "text": "$$クラヴィア$$\n「A-ahaha... I'm honored to be your source of amusement...」",
+      "text": "$$クラヴィア$$\n「A-ahaha... I'm honored to be your source of\n　amusement...」",
       "status": "draft",
       "source_sha": "b4abdcd297",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00039": {
       "text": "$$クロウ$$\n「The target point's over there」",
@@ -489,18 +505,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00069": {
-      "text": "$$ギルター$$\n「Fufufu... the $$次元転移砲$$, and the\n　force I command myself... Truly overwhelming despair!」",
+      "text": "$$ギルター$$\n「Fufufu... the $$次元転移砲$$, and the\n　force I command myself... Truly overwhelming\n　despair!」",
       "status": "draft",
       "source_sha": "6977d0446a",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00070": {
-      "text": "$$ギルター$$\n「From here on, you'll regret ever attacking this base...\n　no, regret ever being born!」",
+      "text": "$$ギルター$$\n「From here on, you'll regret ever attacking this\n　base... no, regret ever being born!」",
       "status": "draft",
       "source_sha": "33e4a101d7",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00071": {
       "text": "$$ギルター$$\n「Gah!」",
@@ -566,11 +586,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00080": {
-      "text": "$$クロウ$$\n「Turns out that $$次元転移砲$$ runs on\n　《$$次元力$$》. So if you adjust it, it can be used\n　not just as a weapon, but for recovery and resupply too」",
+      "text": "$$クロウ$$\n「Turns out the $$次元転移砲$$ runs on\n　《$$次元力$$》. Adjust it, and it can heal\n　and resupply instead of attacking」",
       "status": "draft",
       "source_sha": "db8f4b1a15",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: source-reviewed concise dialogue preserving meaning and terminology."
+      ]
     },
     "rengoku:STGZ3REN_00046:00081": {
       "text": "$$アドヴェント$$\n「As expected.\n　She's proven worthy of what I saw in her」",
@@ -692,12 +714,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00098": {
-      "text": "$$サルディアス$$\n「Ah, a battlefield romance really is a beautiful thing!」",
+      "text": "$$サルディアス$$\n「Ah, a battlefield romance really is a beautiful\n　thing!」",
       "status": "draft",
       "source_sha": "6bd54553e4",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
       "notes": [
-        "Longest line 56 chars; dry-run REVIEW warning, provisional guide only."
+        "Longest line 56 chars; dry-run REVIEW warning, provisional guide only.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00046:00099": {
@@ -752,12 +775,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00106": {
-      "text": "$$セツコ$$\n「The $$次元転移砲$$ doesn't scare us anymore!」",
+      "text": "$$セツコ$$\n「The $$次元転移砲$$ doesn't scare us\n　anymore!」",
       "status": "draft",
       "source_sha": "0e44895703",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
       "notes": [
-        "次元転移砲 kept as plain English 'Dimensional Transfer Cannon' (not a glossary key); matches the weapon referenced in context_before 00080."
+        "次元転移砲 kept as plain English 'Dimensional Transfer Cannon' (not a glossary key); matches the weapon referenced in context_before 00080.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00046:00107": {
@@ -810,12 +834,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00114": {
-      "text": "$$サルディアス$$\n「Heh... If he's got time to spare on a fancy parting shot,\n　he ought to hurry up and retreat instead, I'd say」",
+      "text": "$$サルディアス$$\n「Heh... If he's got time to spare on a fancy parting\n　shot, he ought to hurry up and retreat instead, I'd\n　say」",
       "status": "draft",
       "source_sha": "99a95fe2e1",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
       "notes": [
-        "Longest line 58 chars; dry-run REVIEW warning, provisional guide only."
+        "Longest line 58 chars; dry-run REVIEW warning, provisional guide only.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00046:00115": {
@@ -833,12 +858,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00117": {
-      "text": "$$セツコ$$\n「There's no sign they destroyed the facility on the way out」",
+      "text": "$$セツコ$$\n「There's no sign they destroyed the facility on the\n　way out」",
       "status": "draft",
       "source_sha": "349c2c998d",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
       "notes": [
-        "Longest line 60 chars; dry-run REVIEW warning, provisional guide only."
+        "Longest line 60 chars; dry-run REVIEW warning, provisional guide only.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00046:00118": {
@@ -1221,11 +1247,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00171": {
-      "text": "$$ブルー$$\n「If we defeat the enemy commander, the battle ends...!」",
+      "text": "$$ブルー$$\n「If we defeat the enemy commander, the battle\n　ends...!」",
       "status": "draft",
       "source_sha": "2ce471b15a",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00172": {
       "text": "$$ギルター$$\n「Can you, though」",
@@ -1235,11 +1263,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00173": {
-      "text": "$$ブルー$$\n「I know someone worthy of being called a true commander!\n　Compared to our Captain, you're nothing...!」",
+      "text": "$$ブルー$$\n「I know someone worthy of being called a true\n　commander! Compared to our Captain, you're\n　nothing...!」",
       "status": "draft",
       "source_sha": "8418c8e7e4",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00174": {
       "text": "$$ギルター$$\n「That $$シャウラス$$...!\n　So it's that deserter!」",
@@ -1249,11 +1279,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00046:00175": {
-      "text": "$$サルディアス$$\n「That's right.\n　Though it seems odd to say \"pleased to meet you\" here」",
+      "text": "$$サルディアス$$\n「That's right. Though it seems odd to say \"pleased to\n　meet you\" here」",
       "status": "draft",
       "source_sha": "d2b11253f4",
       "source_member_sha256": "540fc2870ad80f77b11c74f4a270f623f70e216c0c8eb7f5a0bf444e28a38a5b",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00046:00176": {
       "text": "$$ギルター$$\n「What an infuriating man!\n　I'll make you my first target!」",

@@ -41,25 +41,31 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00039:00005": {
-      "text": "$$レジスタンス$$\n「Word just came in.\n　Seems they were taken out by the enemy base's defense weapon」",
+      "text": "$$レジスタンス$$\n「Word just came in. Seems they were taken out by the\n　enemy base's defense weapon」",
       "status": "draft",
       "source_sha": "dadc72d787",
       "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00039:00006": {
-      "text": "$$レジスタンス$$\n「Apparently it's an invisible barrage\n　that hits before you even notice it—impossible to dodge」",
+      "text": "$$レジスタンス$$\n「Apparently it's an invisible barrage that hits before\n　you even notice it—impossible to dodge」",
       "status": "draft",
       "source_sha": "ece24f8344",
       "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00039:00007": {
-      "text": "$$クラヴィア$$\n「That's probably... the $$次元転移砲$$...」",
+      "text": "$$クラヴィア$$\n「That's probably... the\n　$$次元転移砲$$...」",
       "status": "draft",
       "source_sha": "f98e41fcd5",
       "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00039:00008": {
       "text": "$$クロウ$$\n「If you knew something like that existed,\n　why didn't you tell us!?」",
@@ -120,11 +126,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00039:00016": {
-      "text": "$$アドヴェント$$\n「$$クラヴィア$$...\n　If it's that base, we might learn\n　where $$クロウ$$ and the others' units ended up, right?」",
+      "text": "$$アドヴェント$$\n「$$クラヴィア$$... If it's that base, we might learn where\n　$$クロウ$$ and the others' units ended up, right?」",
       "status": "draft",
       "source_sha": "bd0300d53d",
       "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00039:00017": {
       "text": "$$クラヴィア$$\n「Y-yes...!\n　Since data on $$スフィア$$-equipped units\n　has been sent to this base...」",
@@ -246,11 +254,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00039:00034": {
-      "text": "$$アドヴェント$$\n「Let's begin preparations to take the\n　$$ターミナル・ベース$$ right away. From now on, we'll\n　use the enemy transport left here as our mothership」",
+      "text": "$$アドヴェント$$\n「Let's begin preparations to take the $$ターミナル・ベース$$\n　right away. From now on, we'll use the enemy\n　transport left here as our mothership」",
       "status": "draft",
       "source_sha": "df4b4c09e9",
       "source_member_sha256": "036bf846984db3b9ec4fb85fef0dc649ca0f27744f9f0651f44563bb0c2bfbaf",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00039:00035": {
       "text": "$$ランド$$\n「Alright...!\n　Leave the maintenance to me」",

@@ -71,18 +71,18 @@ def apply_fssa(source, built, codec):
     return bytes(out), report
 
 
-def wrap_effect(codec, text, lines):
+def wrap_effect(codec, text, lines, width=EFFECT_WIDTH, quad=EFFECT_QUAD):
     # Reflow prose only: no loss of punctuation, mechanics or conditional
     # clauses. Original translation catalogs remain the full English source.
     result, current = [], ''
     for word in text.split():
         trial = current + ' ' + word if current else word
-        if current and line_width(codec, trial, EFFECT_QUAD) > EFFECT_WIDTH:
+        if current and line_width(codec, trial, quad) > width:
             result.append(current)
             current = word
         else:
             current = trial
-        require(line_width(codec, current, EFFECT_QUAD) <= EFFECT_WIDTH,
+        require(line_width(codec, current, quad) <= width,
                 'Effect word exceeds the panel: ' + word)
     if current:
         result.append(current)
@@ -118,13 +118,15 @@ def effect_hooks(raw, rows, codec):
                     continue
                 row = catalog.get(source['offset'])
                 require(row and row['jp'] == source['jp'], 'Missing source-bound effect English')
-                display = wrap_effect(codec, row['english'], max_lines)
+                width,quad = (760,32) if family=='sk-pri' else (EFFECT_WIDTH,EFFECT_QUAD)
+                display = wrap_effect(codec, row['english'], max_lines,width,quad)
                 key, value = source['jp'].encode('cp932'), codec.encode(display)
                 require(key not in hooks or hooks[key] == value, 'Conflicting shared effect')
                 hooks[key] = value
                 report.append({'family': family, 'record': record, 'column': column,
                                'name': name, 'occurrence': row['id'], 'display': display,
-                               'line_widths': [line_width(codec, s, EFFECT_QUAD)
+                               'width_limit':width, 'glyph_quad':quad,
+                               'line_widths': [line_width(codec, s, quad)
                                                for s in display.split('\n')],
                                'max_lines': max_lines})
     return hooks, {'width_limit': EFFECT_WIDTH, 'glyph_quad': EFFECT_QUAD,

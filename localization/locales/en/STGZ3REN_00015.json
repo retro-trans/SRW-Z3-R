@@ -32,11 +32,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00015:00004": {
-      "text": "$$アドヴェント$$\n「What's wrong, $$ブルー$$?\n　Are you anxious about whether $$セツコ$$ will come with us?」",
+      "text": "$$アドヴェント$$\n「What's wrong, $$ブルー$$? Are you anxious about whether\n　$$セツコ$$ will come with us?」",
       "status": "draft",
       "source_sha": "3f0a8ad80e",
       "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00015:00005": {
       "text": "$$ブルー$$\n「Y-yes...」",
@@ -151,11 +153,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00015:00021": {
-      "text": "$$セツコ$$\n「The man named $$ギルター$$ who commands this area\n　is capricious, but he should prioritize the overall strategy first」",
+      "text": "$$セツコ$$\n「The man named $$ギルター$$ who commands this area is\n　capricious, but he should prioritize the overall\n　strategy first」",
       "status": "draft",
       "source_sha": "f237070743",
       "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00015:00022": {
       "text": "$$ブルー$$\n「What overall strategy?」",
@@ -242,11 +246,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00015:00034": {
-      "text": "$$セツコ$$\n「Yes...\n　Though of course, it probably won't be that simple...」",
+      "text": "$$セツコ$$\n「Yes... Though of course, it probably won't be that\n　simple...」",
       "status": "draft",
       "source_sha": "eb10b454ef",
       "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00015:00035": {
       "text": "$$ブルー$$\n「But I think the Captain invited you precisely\n　to accomplish that difficult task.\n　It's good to have you with us, $$セツコ$$」",

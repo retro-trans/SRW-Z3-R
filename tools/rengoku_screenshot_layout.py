@@ -1,5 +1,6 @@
 """Source-bound layout changes for the supplied NPJB00689 screenshots."""
 import struct
+import re
 from rengoku_runtime import require,cell
 
 TERRAIN={'空':'\ue100','陸':'\ue101','海':'\ue102','水':'\ue102',
@@ -65,13 +66,30 @@ def hooks(codec,messages):
         result[jp.encode('cp932')]=codec.encode(text_for_field(jp,''))
     # UTF-8 stat labels pass through the normal draw lookup after conversion.
     for jp,en in [('格闘','MEL'),('射撃','RNG')]:result[jp.encode('cp932')]=codec.encode(en)
-    for jp in ('底力','援護攻撃','援護防御'):
-        en=plain[jp];require('$$' not in en,'Resolve skill glossary before layout')
+    # Cover the complete level-bearing skill category, including generated
+    # levels and bonuses. The source composites identify additional spellings.
+    level_names={jp:plain[jp] for jp in ('底力','援護攻撃','援護防御','ＳＰアップ',
+        'カウンター','サイズ差補正無視','指揮官','ニュータイプ','強化人間',
+        '超能力','螺旋力','念動力','プレッシャー')}
+    for v in messages.values():
+        if not v.get('text'):continue
+        for jp,en in zip(v['source'].split('\n'),v['text'].split('\n')):
+            a=re.fullmatch(r'(.+?)[ 　]?[ＬL][１-９1-9](?:[＋+][１-９1-9])?',jp)
+            b=re.fullmatch(r'(.+?) L[1-9](?:\+[1-9])?',en)
+            if a and b:level_names[a[1].strip()]=b[1]
+    for jp,en in level_names.items():
+        require('$$' not in en,'Resolve skill glossary before layout')
         for n in range(1,10):
             for separator in ('',' ','　'):
                 for level in ('Ｌ','L'):
                     for digit in (str(n),chr(0xff10+n)):
                         result[(jp+separator+level+digit).encode('cp932')]=codec.encode(en+' L'+str(n))
+        for n in range(1,10):
+            for bonus in range(1,10):
+                for full in (True,False):
+                    digit=lambda x:chr(0xff10+x) if full else str(x)
+                    suffix=('Ｌ' if full else 'L')+digit(n)+('＋' if full else '+')+digit(bonus)
+                    result[(jp+suffix).encode('cp932')]=codec.encode(en+' L%d+%d'%(n,bonus))
     return result
 
 

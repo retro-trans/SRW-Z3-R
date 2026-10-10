@@ -31,6 +31,13 @@ import rengoku_battle_subtitles as battle_subtitles
 import rengoku_result_layout as result_layout
 import rengoku_battle_controls as battle_controls
 import rengoku_intermission_layout as intermission_layout
+import rengoku_category_layout as category_layout
+import rengoku_reward_layout as reward_layout
+import rengoku_report_layout as report_layout
+import rengoku_credits_layout as credits_layout
+import rengoku_upgrade_selector as upgrade_selector
+import rengoku_attack_art as attack_art
+import rengoku_maximum_break_art as maximum_art
 import rengoku_narration as narration
 import rengoku_chapter_art as chapter_art
 import rengoku_title_art as title_art
@@ -218,6 +225,9 @@ class Build:
             self.routes[r['id']]='native UTF-8 title field' if title else 'native UTF-8 system-dialog field'
         self.elf,self.runtime=patch_elf(self.original_elf,self.codec,self.hooks,self.elf_edits)
         self.mutations={};self.asset_reports=[]
+        self.operation_hooks={};self.operation_report=[]
+        self.report_hooks={};self.report_layout_report=[]
+        self.credit_hooks={};self.credit_layout_report={}
 
     def asset(self,key):
         if key not in self.asset_cache:
@@ -286,10 +296,26 @@ class Build:
     def lua(self,raw,asset,member=None):
         text=raw.decode('cp932');offsets=byte_offsets(text);spans={};rows=self.byasset.get(asset,[])
         literals=list(lua_strings(text))
+        operation=category_layout.operation_spans(text)
+        reports=report_layout.spans(text)
         for r in rows:
             matches=[x for x in literals if offsets[x['content_start']]==r['offset']]
             require(len(matches)==1,'Lua occurrence not a literal boundary: '+r['id'])
             x=matches[0];spans[(x['content_start'],x['content_end'])]=(r['english'],x['kind'],r['id'])
+            if any(a <= x['content_start'] < z for a,z in operation):
+                del spans[(x['content_start'],x['content_end'])]
+                display=category_layout.wrap(self.codec,r['english'],950)
+                require(len(display.split('\n'))<=4,'Objective needs more than four lines')
+                self.operation_hooks[r['jp'].encode('cp932')]=self.codec.encode(display)
+                self.operation_report.append({'id':r['id'],'display':display,
+                    'native_source_retained':True,'line_widths':[
+                        screenshot_layout.line_width(self.codec,s,32) for s in display.split('\n')]})
+                self.routes[r['id']]='operation source retained; owned draw-time English'
+            elif any(a <= x['content_start'] < z for a,z in reports):
+                del spans[(x['content_start'],x['content_end'])]
+                pairs,proof=report_layout.hooks(r,self.codec)
+                self.report_hooks.update(pairs);self.report_layout_report.append(proof)
+                self.routes[r['id']]='gift report source retained; owned draw-time English'
         if member:
             src=read(ROOT/'source/story'/ (member+'.json'))
             require(sha(raw)==src['sha256'],'Story member changed: '+member)
@@ -390,15 +416,11 @@ class Build:
         return bytes(out)
 
     def credits(self,raw,rows):
-        fields=dict(nd.credit_fields(raw));out=bytearray(raw)
-        for r in rows:
-            if r['offset'] not in fields:continue
-            require(fields[r['offset']]==r['jp'],'Credit field source')
-            value=self.codec.encode(r['english'])+b'\0'
-            if len(value)>64:continue # Long names use owned draw-time storage.
-            p=r['offset'];out[p:p+64]=value.ljust(64,b'\0')
-            self.routes[r['id']]='fixed credit display field'
-        return bytes(out)
+        out,pairs,proof=credits_layout.apply(raw,rows,self.codec)
+        self.credit_hooks.update(pairs);self.credit_layout_report=proof
+        for r in proof['rows']:
+            self.routes[r['id']]='native credit row retained; measured owned display columns'
+        return out
 
     def fssa(self,raw,rows):
         start,end=struct.unpack_from('>II',raw,0x20)
@@ -442,6 +464,9 @@ class Build:
         out,self.battle_controls_report=battle_controls.apply_fssa(
             raw,out,self.codec,self.asset(battle_controls.STYLE_ASSET))
         out,self.intermission_report=intermission_layout.apply_fssa(raw,out,self.codec)
+        out,self.category_bonus_report=category_layout.apply_fssa(raw,out,self.codec)
+        out,self.reward_report=reward_layout.apply_fssa(raw,out,self.codec)
+        out,self.upgrade_selector_report=upgrade_selector.apply(raw,out,self.codec)
         self.intermission_review=intermission_layout.review(raw)
         return out
 
@@ -490,6 +515,14 @@ class Build:
         require(art_key not in self.mutations,'Intermission atlas insertion collision')
         self.mutations[art_key]=intermission_layout.apply_art(
             self.asset('work/pkg/'+intermission_layout.AID+':1'),self.font)
+        self.mutations[art_key]=attack_art.apply(
+            self.asset('work/pkg/'+intermission_layout.AID+':1'),self.mutations[art_key],
+            self.asset('work/pkg/'+intermission_layout.AID+':0'),self.font)
+        maximum_key=('USRDIR/DATA_REN/BTLC/CMN.CPK',0)
+        require(maximum_key not in self.mutations,'Maximum Break insertion collision')
+        maximum_source=self.asset('work/pkg/'+maximum_key[0]+':0')
+        self.mutations[maximum_key]=maximum_art.apply(maximum_source,self.font)
+        maximum_art.verify(maximum_source,self.mutations[maximum_key],self.font)
         # Resolve homographs after source-specific fields were inserted. The
         # remaining draw-time consumers must all agree before adding a key.
         remaining=defaultdict(set)
@@ -524,6 +557,11 @@ class Build:
         effects,self.effect_layout_report=search_layout.effect_hooks(
             self.asset(search_layout.RPW_ASSET),self.byasset[search_layout.RPW_ASSET],self.codec)
         self.hooks.update(effects)
+        self.hooks.update(self.operation_hooks)
+        self.hooks.update(self.report_hooks)
+        self.hooks.update(self.credit_hooks)
+        bonuses,self.bonus_effect_report=category_layout.bonus_hooks(self.occ.values(),self.codec)
+        self.hooks.update(bonuses)
         self.elf,self.runtime=patch_elf(self.original_elf,self.codec,self.hooks,self.elf_edits)
         return {'title_id':'NPJB00689','targets':['RPCS3','PS3 CFW/HEN'],
                 'story_records':len(self.story),'battle':self.battle_report,
@@ -542,6 +580,15 @@ class Build:
                 'intermission_layout':self.intermission_report,
                 'intermission_review':{k:v for k,v in self.intermission_review.items() if k!='rows'},
                 'effect_layout':self.effect_layout_report,
+                'bonus_layout':self.category_bonus_report,
+                'bonus_effect_layout':self.bonus_effect_report,
+                'operation_layout':self.operation_report,
+                'gift_report_layout':self.report_layout_report,
+                'credits_layout':self.credit_layout_report,
+                'upgrade_selector_layout':self.upgrade_selector_report,
+                'sr_reward_layout':self.reward_report,
+                'attack_artwork':[{'label':label,'rect':[x,y,w,h]} for x,y,w,h,label,_ in attack_art.RECTS],
+                'maximum_break_artwork':{'source_sha256':maximum_art.SOURCE_HASH,'pieces':9,'gtf':maximum_art.GTF},
                 'narration_layout':self.narration_report,
                 'chapter_artwork':self.art_report,
                 'title_artwork':self.title_art_report,
@@ -551,7 +598,7 @@ class Build:
                                 for c,code in self.codec.codes.items()},
                 'archive_members_rebuilt':len(self.mutations),'routes':dict(Counter(self.routes.values())),
                 'pending':pending,'conflicts':self.conflicts,'runtime':self.runtime,
-                'artwork':'English Intermission heading in AID 1; title and five Library labels inserted in EFF 133; chart heading/background in EFF 131/132; 15 chapter title blocks and single/double/final episode animations inserted; other 166 cataloged blocks pending raster insertion',
+                'artwork':'English Center/Wide/Attack and Intermission heading in AID 1; nine-piece Maximum Break and five battle-action banners in CMN 0; title and five Library labels in EFF 133; chart heading/background in EFF 131/132; 15 chapter title blocks and episode headers; remaining raster coverage is partial',
                 'rpcs3_gameplay_tested':False,'ps3_hardware_tested':False}
 
     def write(self,out,report):
@@ -607,6 +654,7 @@ class Build:
         shutil.copyfile(wrapped,tree/'USRDIR/EBOOT.BIN')
         # Store a font proof without claiming it is a runtime screenshot.
         preview=self.font_preview();preview.save(out/'font_preview.png')
+        maximum_art.texture(self.mutations[('USRDIR/DATA_REN/BTLC/CMN.CPK',0)],16).save(out/'maximum_break_preview.png')
         title=self.mutations[(title_art.EFF,title_art.MEMBER)]
         title_art.composition(title).save(out/'title_preview_large.png')
         title_art.composition(title,True).save(out/'title_preview_menu.png')

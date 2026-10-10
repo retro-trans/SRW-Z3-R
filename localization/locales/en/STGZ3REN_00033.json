@@ -60,11 +60,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00008": {
-      "text": "$$アドヴェント$$\n「No need to apologize, $$クラヴィア$$.\n　Just meeting someone like you is something to be glad about」",
+      "text": "$$アドヴェント$$\n「No need to apologize, $$クラヴィア$$. Just meeting someone\n　like you is something to be glad about」",
       "status": "draft",
       "source_sha": "93f14b56a1",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00009": {
       "text": "$$クラヴィア$$\n「Thank you...」",
@@ -102,11 +104,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00014": {
-      "text": "$$クラヴィア$$\n「No matter who you're talking to, you say what needs saying...\n　that strong will of yours... it's wonderful」",
+      "text": "$$クラヴィア$$\n「No matter who you're talking to, you say what needs\n　saying... that strong will of yours... it's wonderful」",
       "status": "draft",
       "source_sha": "0441b467f0",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00015": {
       "text": "$$クロウ$$\n「...You know about my $$スフィア$$?」",
@@ -165,11 +169,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00023": {
-      "text": "$$クラヴィア$$\n「I'm... just an afterthought, even on the research team...\n　So even if I hadn't been on the escape shuttle...\n　surely... no one... would have noticed...」",
+      "text": "$$クラヴィア$$\n「I'm... just an afterthought, even on the research\n　team... So even if I hadn't been on the escape\n　shuttle... surely... no one... would have noticed...」",
       "status": "draft",
       "source_sha": "e06cb72f5d",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00024": {
       "text": "$$クロウ$$\n「You...」",
@@ -200,11 +206,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00028": {
-      "text": "$$クラヴィア$$\n「I've already decided!\n　Even if you say you don't want me, I'm coming along!」",
+      "text": "$$クラヴィア$$\n「I've already decided! Even if you say you don't want\n　me, I'm coming along!」",
       "status": "draft",
       "source_sha": "1bbc481c4d",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00029": {
       "text": "$$ランド$$\n「Hey... listen, miss...\n　being this devoted to research is fine, but...」",
@@ -246,11 +254,13 @@
       ]
     },
     "rengoku:STGZ3REN_00033:00034": {
-      "text": "$$クラヴィア$$\n「By this planet's calendar, I was abducted\n　about a year ago and folded into the Sphere research team」",
+      "text": "$$クラヴィア$$\n「By this planet's calendar, I was abducted about a\n　year ago and folded into the Sphere research team」",
       "status": "draft",
       "source_sha": "93710348f0",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00035": {
       "text": "$$セツコ$$\n「I see...」",
@@ -295,11 +305,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00041": {
-      "text": "$$クロウ$$\n「...I'll pass.\n　I know from experience nothing good comes\n　of getting mixed up with a woman this obsessed with research」",
+      "text": "$$クロウ$$\n「...I'll pass. I know from experience nothing good\n　comes of getting mixed up with a woman this\n　obsessed with research」",
       "status": "draft",
       "source_sha": "e9c11626e0",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00042": {
       "text": "$$クラヴィア$$\n「Please don't say something so cold...\n　If all of you abandoned me, I'd...」",
@@ -316,11 +328,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00044": {
-      "text": "$$クラヴィア$$\n「If you'll keep me by your side, I'll help with anything!\n　Cooking, laundry, even polishing the mechs!」",
+      "text": "$$クラヴィア$$\n「If you'll keep me by your side, I'll help with\n　anything! Cooking, laundry, even polishing the\n　mechs!」",
       "status": "draft",
       "source_sha": "bb122f1030",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00045": {
       "text": "$$クラヴィア$$\n「If you ask for it,\n　I'll even kiss your boots!」",
@@ -337,11 +351,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00047": {
-      "text": "$$クロウ$$\n（I have to hand it to her for that single-mindedness...）",
+      "text": "$$クロウ$$\n（I have to hand it to her for that\n　single-mindedness...）",
       "status": "draft",
       "source_sha": "711d85754e",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00048": {
       "text": "$$アドヴェント$$\n「There's no need for that, $$クラヴィア$$.\n　All I ask is that you help me unravel\n　the mystery of the $$スフィア$$」",
@@ -400,12 +416,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00056": {
-      "text": "$$クラヴィア$$\n「Looking forward to it, $$クロウ$$.\n　Let's show each other every last corner of ourselves」",
+      "text": "$$クラヴィア$$\n「Looking forward to it, $$クロウ$$. Let's show each other\n　every last corner of ourselves」",
       "status": "draft",
       "source_sha": "5e407ecceb",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
       "notes": [
-        "隅から隅まで見せ合いましょう kept intentionally suggestive/ambiguous (mutual scrutiny vs. flirtation), matching Clavier's teasing tone toward Crowe."
+        "隅から隅まで見せ合いましょう kept intentionally suggestive/ambiguous (mutual scrutiny vs. flirtation), matching Clavier's teasing tone toward Crowe.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00033:00057": {
@@ -653,13 +670,14 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00091": {
-      "text": "$$ランド$$\n「Old man Sal...!\n　You're saying you were just some grunt for $$サイデリアル$$!?」",
+      "text": "$$ランド$$\n「Old man Sal...! You're saying you were just some\n　grunt for $$サイデリアル$$!?」",
       "status": "draft",
       "source_sha": "b4715d5cb3",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
       "notes": [
         "サルのおっさん rendered as 'Old Monkey' (サル=monkey pun on サルディアス + おっさん=old man/geezer); consistent with later scene (STGZ3REN_00033:00106-00108, context_after) where Saldias objects specifically to the 'monkey' part and Rand switches to plain 'old man'.",
-        "Orchestrator: サルのおっさん unified as \"old man Sal\" across slices 11-12 (monkey pun not carried; Saldias objects to \"Sal\" at 00034:00017)."
+        "Orchestrator: サルのおっさん unified as \"old man Sal\" across slices 11-12 (monkey pun not carried; Saldias objects to \"Sal\" at 00034:00017).",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00033:00092": {
@@ -670,11 +688,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00093": {
-      "text": "$$クロウ$$\n「But you were piloting an officer's machine, weren't you?」",
+      "text": "$$クロウ$$\n「But you were piloting an officer's machine, weren't\n　you?」",
       "status": "draft",
       "source_sha": "a15da63ec4",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00094": {
       "text": "$$サルディアス$$\n「Ah, you mean the $$シャウラス$$」",
@@ -698,11 +718,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00097": {
-      "text": "$$アドヴェント$$\n「Even if you yourself were only a rank-and-file soldier,\n　the data recorded in that machine\n　has its own value」",
+      "text": "$$アドヴェント$$\n「Even if you yourself were only a rank-and-file\n　soldier, the data recorded in that machine has its\n　own value」",
       "status": "draft",
       "source_sha": "e46f7028bc",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00098": {
       "text": "$$サルディアス$$\n「Then you'll take me in!?」",
@@ -719,11 +741,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00100": {
-      "text": "$$サルディアス$$\n「Absolutely!\n　Those people worked us to the bone for peanuts...!」",
+      "text": "$$サルディアス$$\n「Absolutely! Those people worked us to the bone for\n　peanuts...!」",
       "status": "draft",
       "source_sha": "0fca5e6462",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00101": {
       "text": "$$サルディアス$$\n「I'm from the second planet of the E3 system,\n　and I never imagined I'd be dragged along\n　on a deployment to a place like this」",
@@ -765,19 +789,22 @@
       ]
     },
     "rengoku:STGZ3REN_00033:00106": {
-      "text": "$$サルディアス$$\n「About that...\n　I have a perfectly good name my parents gave me: $$サルディアス$$」",
+      "text": "$$サルディアス$$\n「About that... I have a perfectly good name my\n　parents gave me: $$サルディアス$$」",
       "status": "draft",
       "source_sha": "a19832b354",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00107": {
-      "text": "$$サルディアス$$\n「Being called \"old man\" is just a fact, so I don't mind that,\n　but I absolutely refuse any weird abbreviation of my name」",
+      "text": "$$サルディアス$$\n「Being called \"old man\" is just a fact, so I don't mind\n　that, but I absolutely refuse any weird abbreviation\n　of my name」",
       "status": "draft",
       "source_sha": "2f6955f98f",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
       "notes": [
-        "\"ヘンな略称\" (weird abbreviation) ties to the サル/monkey pun; translated as refusing an abbreviated nickname, monkey pun not carried over."
+        "\"ヘンな略称\" (weird abbreviation) ties to the サル/monkey pun; translated as refusing an abbreviated nickname, monkey pun not carried over.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00033:00108": {
@@ -830,11 +857,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00033:00115": {
-      "text": "$$アドヴェント$$\n「I've asked her to compile everything she knows about the $$スフィア$$,\n　while also looking into something else」",
+      "text": "$$アドヴェント$$\n「I've asked her to compile everything she knows\n　about the $$スフィア$$, while also looking into something\n　else」",
       "status": "draft",
       "source_sha": "c1f0476cf3",
       "source_member_sha256": "e938a437234fd752564816510f605466b4ed7ac74192d093e57d2485dd0d4680",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00033:00116": {
       "text": "$$ランド$$\n「An investigation?」",

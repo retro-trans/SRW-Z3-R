@@ -42,7 +42,10 @@ Patch download: **{{PATCH_DOWNLOAD_SIZE}}**.
 
 ### PS3 and RPCS3 compatibility
 
-Install the output PKG through RPCS3's **File > Install Packages/Raps/Edats**.
+For CFW, install the output PKG with XMB **Package Manager > Install Package
+Files** after backing up the installed game and saves. State required debug
+PKG/fake NPDRM SELF support and distinguish a hardware candidate from tested boot.
+For RPCS3, use **File > Install Packages/Raps/Edats**.
 Close RPCS3 and back up your installation first. Use your own matching license;
 no RAP is supplied. Preserve savedata and other games. Keep
 `dev_hdd0/game/NPJB00689`: this digital game's files are installed there.

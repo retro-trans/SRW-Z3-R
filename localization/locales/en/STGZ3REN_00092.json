@@ -53,11 +53,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00092:00007": {
-      "text": "$$ガドライト$$\n「Hold on.\n　From the looks of it, you lot came from the other Earth, right?」",
+      "text": "$$ガドライト$$\n「Hold on. From the looks of it, you lot came from the\n　other Earth, right?」",
       "status": "draft",
       "source_sha": "0d6f0b065e",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00092:00008": {
       "text": "$$ガドライト$$\n「If so, getting angry over what happens to this Earth\n　doesn't make sense」",
@@ -74,11 +76,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00092:00010": {
-      "text": "$$クロウ$$\n「There are people on this Earth who looked out for us.\n　And more than that, I just don't like guys\n　who mess with someone else's planet for their own sake」",
+      "text": "$$クロウ$$\n「People on this Earth have looked out for us.\n　Above all, I can't stand guys who mess with someone\n　else's planet just to suit themselves」",
       "status": "draft",
       "source_sha": "c3863454a6",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
-      "notes": []
+      "notes": [
+        "Build019: source-reviewed concise dialogue preserving meaning and terminology."
+      ]
     },
     "rengoku:STGZ3REN_00092:00011": {
       "text": "$$セツコ$$\n「If defeating you saves this Earth,\n　then we'll fight you too」",
@@ -193,11 +197,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00092:00027": {
-      "text": "$$ガドライト$$\n「My $$いがみ合う双子$$ $$スフィア$$\n　and your three $$スフィア$$s...\n　If we bring them together, we might just pull it off...」",
+      "text": "$$ガドライト$$\n「My $$いがみ合う双子$$ $$スフィア$$ and your three\n　$$スフィア$$s... If we bring them together, we might just\n　pull it off...」",
       "status": "draft",
       "source_sha": "583b2daf8f",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00092:00028": {
       "text": "$$ガドライト$$\n「Though in your case,\n　nothing's going to work\n　unless you raise your Stage」",
@@ -237,11 +243,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00092:00033": {
-      "text": "$$ガドライト$$\n「And eventually, you lot too will have to face them...」",
+      "text": "$$ガドライト$$\n「And eventually, you lot too will have to face\n　them...」",
       "status": "draft",
       "source_sha": "a42561d8a5",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00092:00034": {
       "text": "$$ガドライト$$\n「...!」",
@@ -482,11 +490,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00092:00068": {
-      "text": "$$クロウ$$\n「Damn it!\n　Same as with《$$アイム$$》!」",
+      "text": "$$クロウ$$\n「Damn it!\n　Same as with 《$$アイム$$》!」",
       "status": "draft",
       "source_sha": "df6ee4e104",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
-      "notes": []
+      "notes": [
+        "Build022: independently reviewed subject correction or keyword word spacing; source identity and wrappers preserved."
+      ]
     },
     "rengoku:STGZ3REN_00092:00069": {
       "text": "$$ガドライト$$\n「If you get it,\n　hurry up and raise the white flag...」",
@@ -531,11 +541,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00092:00075": {
-      "text": "$$クロウ$$\n「Damn it!\n　Same as with《$$アイム$$》!」",
+      "text": "$$クロウ$$\n「Damn it!\n　Same as with 《$$アイム$$》!」",
       "status": "draft",
       "source_sha": "df6ee4e104",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
-      "notes": []
+      "notes": [
+        "Build022: independently reviewed subject correction or keyword word spacing; source identity and wrappers preserved."
+      ]
     },
     "rengoku:STGZ3REN_00092:00076": {
       "text": "$$ガドライト$$\n「If you get it,\n　hurry up and raise the white flag...」",
@@ -792,11 +804,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00092:00112": {
-      "text": "$$ランド$$\n「I'm $$ザ・ヒート$$!\n　My heat will burn that smug attitude of yours to ash!」",
+      "text": "$$ランド$$\n「I'm $$ザ・ヒート$$! My heat will burn that smug attitude of\n　yours to ash!」",
       "status": "draft",
       "source_sha": "911c811555",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00092:00113": {
       "text": "$$ガドライト$$\n「Hot stuff, big guy!\n　But your heat's no match for my rage!」",
@@ -892,12 +906,13 @@
       ]
     },
     "rengoku:STGZ3REN_00092:00126": {
-      "text": "$$ガドライト$$\n「Then give 'em a message from me!\n　Tell 'em not to think I'll let 'em do as they please forever!」",
+      "text": "$$ガドライト$$\n「Then give 'em a message from me! Tell 'em not to\n　think I'll let 'em do as they please forever!」",
       "status": "draft",
       "source_sha": "c02cd44f55",
       "source_member_sha256": "cb825e64f0775103a4cf3af73d8213a3d5f528304b43d15b442baf80f114cd7f",
       "notes": [
-        "あいつ kept gender-neutral ('them/em') referring to the Chief"
+        "あいつ kept gender-neutral ('them/em') referring to the Chief",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00092:00127": {

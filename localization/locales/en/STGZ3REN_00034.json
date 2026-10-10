@@ -125,11 +125,13 @@
       ]
     },
     "rengoku:STGZ3REN_00034:00017": {
-      "text": "$$サルディアス$$\n「It's $$サルディアス$$.\n　Whatever else you do, please don't just call me \"Sal\"」",
+      "text": "$$サルディアス$$\n「It's $$サルディアス$$. Whatever else you do, please don't just\n　call me \"Sal\"」",
       "status": "draft",
       "source_sha": "bf38e94237",
       "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00034:00018": {
       "text": "$$ランド$$\n「Alright, alright.\n　We'll talk about that later」",
@@ -260,11 +262,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00034:00036": {
-      "text": "$$アドヴェント$$\n「When he learned enemy reinforcements were closing in on you,\n　he offered to sortie as well」",
+      "text": "$$アドヴェント$$\n「When he learned enemy reinforcements were closing\n　in on you, he offered to sortie as well」",
       "status": "draft",
       "source_sha": "f1f663aadd",
       "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00034:00037": {
       "text": "$$セツコ$$\n「Can you... fight?」",
@@ -449,11 +453,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00034:00063": {
-      "text": "$$サルディアス$$\n「As a comrade who'll be fighting alongside you from now on,\n　I'd love to be granted a name too, but unfortunately\n　I'm rather fond of this name, $$サルディアス$$...」",
+      "text": "$$サルディアス$$\n「As your new comrade-in-arms, I'd like a name too.\n　Unfortunately, I'm rather fond of the name\n　$$サルディアス$$...」",
       "status": "draft",
       "source_sha": "ee7b1c044f",
       "source_member_sha256": "685decbc941e9ae4cabf8a7835fba35f5d7e85f1baa4faa3f9b5d26a097b7eb5",
-      "notes": []
+      "notes": [
+        "Build019: source-reviewed concise dialogue preserving meaning and terminology."
+      ]
     },
     "rengoku:STGZ3REN_00034:00064": {
       "text": "$$ランド$$\n「Wait a second, old man Sal.\n　You planning on coming with us?」",

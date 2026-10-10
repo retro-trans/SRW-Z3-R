@@ -97,11 +97,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00009:00013": {
-      "text": "$$レジスタンス$$\n「An alien force whose size we can't even guess...\n　We know nothing of who they are or what they want...」",
+      "text": "$$レジスタンス$$\n「An alien force whose size we can't even guess... We\n　know nothing of who they are or what they want...」",
       "status": "draft",
       "source_sha": "6548511928",
       "source_member_sha256": "c7b50b76e7dc592796e092b59dc33231035984dad66c63eed41ec1afbf55f263",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00009:00014": {
       "text": "$$レジスタンス$$\n「We were thrown together by a $$時空震動$$,\n　with no real organization or fighting force...\n　It would take a miracle for us to win」",

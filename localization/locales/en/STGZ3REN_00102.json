@@ -74,11 +74,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00102:00010": {
-      "text": "$$アドヴェント$$\n「But be careful.\n　The $$怨嗟の魔蠍$$ is likely waiting behind them」",
+      "text": "$$アドヴェント$$\n「But be careful. The $$怨嗟の魔蠍$$ is likely\n　waiting behind them」",
       "status": "draft",
       "source_sha": "4611aa70dc",
       "source_member_sha256": "d577a6bb57b847f8a5df94d6434e75383aad959723c4faba09b9223b30885166",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00102:00011": {
       "text": "$$クロウ$$\n（$$クラヴィア$$...）",
@@ -214,12 +216,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00102:00030": {
-      "text": "$$セツコ$$\n「Defeating someone you hate might clear away the hatred...\n　but doing that won't heal the sorrow」",
+      "text": "$$セツコ$$\n「Defeating someone you hate might clear away the\n　hatred... but doing that won't heal the sorrow」",
       "status": "draft",
       "source_sha": "5bad0d835f",
       "source_member_sha256": "d577a6bb57b847f8a5df94d6434e75383aad959723c4faba09b9223b30885166",
       "notes": [
-        "Longest line is 58 characters (dry-run REVIEW warning); kept in full per brief - meaning not compressed to fit the provisional guide."
+        "Longest line is 58 characters (dry-run REVIEW warning); kept in full per brief - meaning not compressed to fit the provisional guide.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00102:00031": {
@@ -1210,12 +1213,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00102:00170": {
-      "text": "$$ランド$$\n「Here I come!\n　I'll show you your beloved $$スフィア$$ power,\n　more of what $$ガンレオン$$ and I can do than you'll ever want to see!!」",
+      "text": "$$ランド$$\n「Here I come! I'll show you your beloved $$スフィア$$\n　power, more of what $$ガンレオン$$ and I can do than\n　you'll ever want to see!!」",
       "status": "draft",
       "source_sha": "c2f84548ab",
       "source_member_sha256": "d577a6bb57b847f8a5df94d6434e75383aad959723c4faba09b9223b30885166",
       "notes": [
-        "Longest line 66 chars (dry-run warning); kept in full rather than cutting meaning."
+        "Longest line 66 chars (dry-run warning); kept in full rather than cutting meaning.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00102:00171": {

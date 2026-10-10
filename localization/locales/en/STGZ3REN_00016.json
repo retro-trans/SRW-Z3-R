@@ -601,11 +601,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00016:00085": {
-      "text": "$$アドヴェント$$\n「$$ブルー$$, you mustn't judge people by appearances alone」",
+      "text": "$$アドヴェント$$\n「$$ブルー$$, you mustn't judge people by appearances\n　alone」",
       "status": "draft",
       "source_sha": "fc1ec286f4",
       "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00016:00086": {
       "text": "$$ブルー$$\n「Y-yes, sir...!」",
@@ -650,20 +652,23 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00016:00092": {
-      "text": "$$ランド$$\n（Just wait, $$メール$$.\n　Until I come get you and the boss back, there's no way I'm dying!）",
+      "text": "$$ランド$$\n（Just wait, $$メール$$. Until I come get you and the boss\n　back, there's no way I'm dying!）",
       "status": "draft",
       "source_sha": "c43214d9dc",
       "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
       "notes": [
-        "'親方' (boss/mentor figure Rand is thinking of) is not a named, glossaried character in this slice; translated as gender-neutral 'the boss'."
+        "'親方' (boss/mentor figure Rand is thinking of) is not a named, glossaried character in this slice; translated as gender-neutral 'the boss'.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00016:00093": {
-      "text": "$$ギルター$$\n「Before I make a bloody example of you $$レジスタンス$$ scum,\n　first you, who dared defy me...」",
+      "text": "$$ギルター$$\n「Before I make a bloody example of you $$レジスタンス$$\n　scum, first you, who dared defy me...」",
       "status": "draft",
       "source_sha": "2abd399cee",
       "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00016:00094": {
       "text": "$$ランド$$\n「Alright!\n　Take the boss's head and the fight's over!\n　Let's go!」",
@@ -689,11 +694,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00016:00097": {
-      "text": "$$ギルター$$\n「Heh heh heh, I'm delighted, $$セツコ$$.\n　I figured we'd meet again eventually if I kept hunting $$レジスタンス$$,\n　but I didn't expect it to be this soon」",
+      "text": "$$ギルター$$\n「Heh heh heh, I'm delighted, $$セツコ$$. I figured we'd\n　meet again eventually if I kept hunting $$レジスタンス$$,\n　but I didn't expect it to be this soon」",
       "status": "draft",
       "source_sha": "82562386f1",
       "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00016:00098": {
       "text": "$$セツコ$$\n「.........」",
@@ -703,11 +710,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00016:00099": {
-      "text": "$$ギルター$$\n「Struck speechless by rage?\n　That resolute face of yours is what drives me to fight」",
+      "text": "$$ギルター$$\n「Struck speechless by rage? That resolute face of\n　yours is what drives me to fight」",
       "status": "draft",
       "source_sha": "baed70b63f",
       "source_member_sha256": "d12781b3910404f6b6187c19ad25ea2ea20b00cffd5ee0cc2cf7706c70f234f3",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00016:00100": {
       "text": "$$セツコ$$\n「I despise a contemptible person like you...!」",

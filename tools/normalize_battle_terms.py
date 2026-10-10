@@ -13,7 +13,7 @@ VARIANTS=[
  (('いがみ合う双子','いがみあう双子'),'The Feuding Twins','Quarreling Twins'),
  (('いがみ合う双子','いがみあう双子'),'Feuding Twins','Quarreling Twins'),
  (('いがみ合う双子','いがみあう双子'),'Quarrelling Twins','Quarreling Twins'),
- (('アサキム',),'Asakim Dowin','Asakim Dowen'),
+ (('アサキム',),'Asakim Dowen','Asakim Dowin'),
  (('ブンマー・スパナ',),'Boomer Spanner','Bunmar Spanner'),
  (('ライアット・ジャレンチ',),'Riot Jarench','Riot Gia-Wrench'),
  (('ジャレンチ',),'Jarench','Gia-Wrench'),

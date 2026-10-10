@@ -545,12 +545,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00070:00077": {
-      "text": "$$クロウ$$\n「I might not look it, but I'm used to getting shot down!\n　If I eject before it explodes...」",
+      "text": "$$クロウ$$\n「I might not look it, but I'm used to getting shot\n　down! If I eject before it explodes...」",
       "status": "draft",
       "source_sha": "c3310f6b74",
       "source_member_sha256": "5e81eb37447034ae2342839fbd4fd5ce6e01f9790773a52849157609d1a3172c",
       "notes": [
-        "Dry-run REVIEW: longest line 56 characters, exceeds the provisional drafting guide (not a measured Rengoku limit). Kept in full per BASE_RULES; not shortened."
+        "Dry-run REVIEW: longest line 56 characters, exceeds the provisional drafting guide (not a measured Rengoku limit). Kept in full per BASE_RULES; not shortened.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00070:00078": {

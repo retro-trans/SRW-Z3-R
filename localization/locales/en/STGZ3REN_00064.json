@@ -207,11 +207,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00064:00029": {
-      "text": "$$クロウ$$\n「Keep your logic to yourself.\n　Standing by and watching that happen ain't my style」",
+      "text": "$$クロウ$$\n「Keep your logic to yourself. Standing by and\n　watching that happen ain't my style」",
       "status": "draft",
       "source_sha": "347212f24f",
       "source_member_sha256": "70445d72c16cb99af7a558ed775ab88ec45157c6389f00f9682885c1b5273f9f",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00064:00030": {
       "text": "$$アドヴェント$$\n「You won't listen to my orders?」",

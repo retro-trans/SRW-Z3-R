@@ -1,28 +1,26 @@
 # Preparing a public release
 
 Current releases use [Retro Trans's standard](https://github.com/retro-trans/retro-trans-tools/blob/main/docs/RELEASE_STANDARD.md)
-manifest **v1** and a bare whole-PKG xdelta. **0.1.1 is the first public release.**
+manifest **v1** and bare whole-PKG xdeltas. **0.1.1 is the first public release.**
 Never replace published patch bytes or reuse a published version.
 
 1. Verify a complete local NPJB00689 build and `verification/RESULT.json`.
    Keep original packages and extracted files untouched. Record runtime and
    translation limits separately from binary validation.
-2. Preview `tools/repack_runtime_pkg.py` with `--pkg`, `--build` and a NEW
-   `--out` directory under `work/`. Inspect the exact changed paths/offsets,
-   then repeat with `--write`. This builds a local RPCS3-only modified package,
-   clears invalid authentication, and compares all 77 members with the build.
-   Never upload the complete PKG. This is not a signed console installer.
-3. Verify installation with an isolated RPCS3 copy, preserving the user's
-   installation. Compare every installed member; the stage SDAT is natively
-   decrypted and must match the independently verified plaintext stage.
-   Record process exit/shutdown issues independently from file identity checks.
-4. Publish reviewed packaging/tool sources and unchanged English exports first.
-   Supply their full Git commit to `tools/package_retro_release.py` together
-   with the original/target PKGs, package validation and RPCS3 validation files.
-   Preview, inspect hashes, then repeat with `--write` in a NEW output directory.
-   The helper uses a current `retro-trans-tools` checkout via `--retro-tools`,
-   or an installed package, to encode, fully decode and validate the release.
-5. Publish exactly one `BUILD-MANIFEST.json`, its bare `.xdelta`, `VALIDATION.json`
+2. Prepare a NEW verified local target package. For CFW use
+   `tools/package_cfw_pkg.py` after its dry-run preview, executable audit and
+   complete overlay checks. Never upload a full PKG. CFW debug authentication
+   is not Sony retail signing; physical-console boot remains a separate test.
+3. Verify native installation using an isolated RPCS3 copy and compare all 77
+   files. Record process teardown issues separately from file identity results.
+4. Publish reviewed sources and sanitized English exports first. Supply that
+   full commit to `tools/package_retro_release.py`, with source/target PKGs and
+   package/install validation files. Preview, inspect identities, then use
+   `--write` with a NEW output directory. For an upgrade route supply
+   `--previous` and its published `--previous-manifest`; the helper checks the
+   previous package against that release's exact output identity. A current
+   `retro-trans-tools` checkout builds, fully decodes and validates each xdelta.
+5. Publish exactly one `BUILD-MANIFEST.json`, its bare `.xdelta` assets, `VALIDATION.json`
    and `SHA256SUMS.txt`. Additional installation notes or detailed runtime
    evidence may be separate assets. No game binaries or local configurations.
 6. Test Retro Trans recognition, route selection and actual output against the

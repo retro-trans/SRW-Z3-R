@@ -251,11 +251,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00069:00035": {
-      "text": "$$クロウ$$\n「That explanation of $$クロノ$$ wasn't\n　enough either. Call yourselves $$改革派$$\n　and there must be $$保守派$$—what do they protect?」",
+      "text": "$$クロウ$$\n「That explanation of $$クロノ$$ wasn't enough either.\n　Call yourselves $$改革派$$ and there must be\n　$$保守派$$—what do they protect?」",
       "status": "draft",
       "source_sha": "106857a5fc",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00069:00036": {
       "text": "$$クロウ$$\n「What is \"humanity's evolution\"?\n　What does it mean to watch over it?」",
@@ -377,12 +379,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00069:00053": {
-      "text": "$$アドヴェント$$\n「That's... not just me.\n　It's something that will eventually become possible for you too」",
+      "text": "$$アドヴェント$$\n「That's... not just me. It's something that will\n　eventually become possible for you too」",
       "status": "draft",
       "source_sha": "22a27d91f6",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
       "notes": [
-        "Dry-run warning: longest line 65 chars, over the provisional guide; kept in full rather than dropping meaning"
+        "Dry-run warning: longest line 65 chars, over the provisional guide; kept in full rather than dropping meaning",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00069:00054": {
@@ -435,12 +438,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00069:00061": {
-      "text": "$$アドヴェント$$\n「It's likely him, the one who called himself $$尸空$$ the other day」",
+      "text": "$$アドヴェント$$\n「It's likely him, the one who called himself $$尸空$$ the\n　other day」",
       "status": "draft",
       "source_sha": "65c274c823",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
       "notes": [
-        "Dry-run warning: longest line 66 chars, over the provisional guide; kept in full rather than dropping meaning"
+        "Dry-run warning: longest line 66 chars, over the provisional guide; kept in full rather than dropping meaning",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00069:00062": {
@@ -721,11 +725,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00069:00101": {
-      "text": "$$クロウ$$\n「I have no intention of getting involved with women!」",
+      "text": "$$クロウ$$\n「I have no intention of getting involved with\n　women!」",
       "status": "draft",
       "source_sha": "05d28f1767",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00069:00102": {
       "text": "$$クラヴィア$$\n「...Understood, for now」",
@@ -784,12 +790,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00069:00110": {
-      "text": "$$アドヴェント$$\n「That's how it is.\n　Fate is something that changes through the power of will」",
+      "text": "$$アドヴェント$$\n「That's how it is. Fate is something that changes\n　through the power of will」",
       "status": "draft",
       "source_sha": "269210c7b8",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
       "notes": [
-        "Dry-run warning: longest line 58 chars, over the provisional guide; kept in full rather than dropping meaning"
+        "Dry-run warning: longest line 58 chars, over the provisional guide; kept in full rather than dropping meaning",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00069:00111": {
@@ -800,12 +807,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00069:00112": {
-      "text": "$$アドヴェント$$\n「That's fine.\n　Our paths will ultimately converge into one, after all」",
+      "text": "$$アドヴェント$$\n「That's fine. Our paths will ultimately converge into\n　one, after all」",
       "status": "draft",
       "source_sha": "c0b6d589ad",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
       "notes": [
-        "Dry-run warning: longest line 56 chars, over the provisional guide; kept in full rather than dropping meaning"
+        "Dry-run warning: longest line 56 chars, over the provisional guide; kept in full rather than dropping meaning",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00069:00113": {
@@ -832,11 +840,13 @@
       ]
     },
     "rengoku:STGZ3REN_00069:00116": {
-      "text": "$$クロウ$$\n「If we take that down, at least\n　$$サイデリアル$$'s control over the northern continent should collapse」",
+      "text": "$$クロウ$$\n「If we take that down, at least $$サイデリアル$$'s control over\n　the northern continent should collapse」",
       "status": "draft",
       "source_sha": "8173705f40",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00069:00117": {
       "text": "$$セツコ$$\n「After that, if we can defeat them one by one...」",
@@ -853,18 +863,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00069:00119": {
-      "text": "$$アドヴェント$$\n「But because of that, even greater hardships than before\n　probably await us」",
+      "text": "$$アドヴェント$$\n「But because of that, even greater hardships than\n　before probably await us」",
       "status": "draft",
       "source_sha": "88c5d8885c",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00069:00120": {
-      "text": "$$クロウ$$\n「Just thinking that an enemy stronger than that $$尸空$$ might show up\n　makes me sick...」",
+      "text": "$$クロウ$$\n「Just thinking that an enemy stronger than that\n　$$尸空$$ might show up makes me sick...」",
       "status": "draft",
       "source_sha": "643e11d55b",
       "source_member_sha256": "1b23ffbcb6df1549a98644283b56ac8bbaf5481635cee989340316ba975ad9f0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00069:00121": {
       "text": "$$アドヴェント$$\n「But we're gathering $$リアクター$$s of our own」",

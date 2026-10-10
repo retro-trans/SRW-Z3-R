@@ -80,11 +80,12 @@ class Layout007(unittest.TestCase):
             self.assertEqual(row['display'].split(), source['english'].split())
             self.assertLessEqual(len(row['display'].splitlines()), 2 if row['family'] == 'spirit' else 3)
             for line in row['display'].splitlines():
-                self.assertLessEqual(line_width(self.build.codec, line, 28), 1000)
+                self.assertLessEqual(line_width(self.build.codec, line, row['glyph_quad']), row['width_limit'])
         self.assertEqual(families, {'spirit': 42, 'sk-pri': 162})
         self.assertNotIn('精神耐性'.encode('cp932'), self.hooks)  # name remains a name
-        expected = ('Blocks stat-halving, action-stop, Focus-down and SP-down effects.\n'
-                    'Negates Daunt when Focus is 100 or less. No effect for sub-pilots.')
+        expected = ('Blocks stat-halving, action-stop, Focus-down\n'
+                    'and SP-down effects. Negates Daunt when\n'
+                    'Focus is 100 or less. No effect for sub-pilots.')
         mind = [r for r in self.proof['rows'] if r['name'] == '精神耐性']
         self.assertEqual(len(mind), 2)
         for row in mind:
@@ -97,7 +98,7 @@ class Layout007(unittest.TestCase):
                 m.run(method, jp)
                 actual = m.cstr(m.r[31 if method == 'converted' else 3])
                 self.assertEqual(actual, self.build.codec.encode(expected))
-                self.assertEqual(actual.count(b'\n'), 1)
+                self.assertEqual(actual.count(b'\n'), 2)
 
     def test_source_guards_and_oversize_descriptions_fail_closed(self):
         bad = bytearray(self.rpw)

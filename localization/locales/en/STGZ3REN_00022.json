@@ -791,12 +791,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00022:00111": {
-      "text": "$$クロウ$$\n「...A journey of a thousand miles begins with a single step...」",
+      "text": "$$クロウ$$\n「...A journey of a thousand miles begins with a single\n　step...」",
       "status": "draft",
       "source_sha": "4f54b652fd",
       "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
       "notes": [
-        "Line runs 63 chars (dry-run REVIEW warning); kept the full proverb rather than truncating."
+        "Line runs 63 chars (dry-run REVIEW warning); kept the full proverb rather than truncating.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00022:00112": {
@@ -823,12 +824,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00022:00115": {
-      "text": "$$セツコ$$\n「Even among Earthlings, there are those who've sided with $$サイデリアル$$...」",
+      "text": "$$セツコ$$\n「Even among Earthlings, there are those who've sided\n　with $$サイデリアル$$...」",
       "status": "draft",
       "source_sha": "79ee221c45",
       "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
       "notes": [
-        "Line runs 70 chars (dry-run REVIEW warning); kept full clause naming Earthlings who sided with Sidereal."
+        "Line runs 70 chars (dry-run REVIEW warning); kept full clause naming Earthlings who sided with Sidereal.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00022:00116": {
@@ -853,12 +855,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00022:00119": {
-      "text": "$$アドヴェント$$\n「$$サイデリアル$$...\n　So this is how you bend this planet's people to your will...」",
+      "text": "$$アドヴェント$$\n「$$サイデリアル$$... So this is how you bend this planet's\n　people to your will...」",
       "status": "draft",
       "source_sha": "3eb8fd1ac5",
       "source_member_sha256": "99702ed16da6aac6d5cc5b2c2778cc823aa36ecb9c85fcdf704fa3bc2ae2b15f",
       "notes": [
-        "Line runs 62 chars (dry-run REVIEW warning)."
+        "Line runs 62 chars (dry-run REVIEW warning).",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00022:00120": {

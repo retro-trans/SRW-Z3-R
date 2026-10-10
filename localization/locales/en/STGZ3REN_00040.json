@@ -11,11 +11,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00040:00001": {
-      "text": "$$レジスタンス$$\n「A point where $$レイライン|lc$$s from many regions converge...」",
+      "text": "$$レジスタンス$$\n「A point where $$レイライン|lc$$s from many regions\n　converge...」",
       "status": "draft",
       "source_sha": "4c7910e0ab",
       "source_member_sha256": "29606295352961794f5bbaa940d9812729624b69473506294875daf411f47585",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00040:00002": {
       "text": "$$レジスタンス$$\n「Not using an Earth facility,\n　but built brand new...\n　Just looking at it makes my blood boil」",

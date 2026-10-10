@@ -71,12 +71,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00009": {
-      "text": "$$クラヴィア$$\n「$$次元力$$, which governs every phenomenon...\n　And the $$スフィア$$ is the organ that draws it out...」",
+      "text": "$$クラヴィア$$\n「$$次元力$$, which governs every\n　phenomenon... And the $$スフィア$$ is the organ that\n　draws it out...」",
       "status": "draft",
       "source_sha": "36ffd070fe",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
       "notes": [
-        "次元力 and レイライン used per established prior-slice convention (proposed glossary status, used as-is; レイライン rendered lowercase |lc as in story_0013/0014)."
+        "次元力 and レイライン used per established prior-slice convention (proposed glossary status, used as-is; レイライン rendered lowercase |lc as in story_0013/0014).",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00051:00010": {
@@ -87,18 +88,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00011": {
-      "text": "$$サルディアス$$\n「Ho-ho...\n　So then, the reason $$サイデリアル$$ draws out\n　this Earth's $$次元力$$ through the $$レイライン|lc$$ is also...」",
+      "text": "$$サルディアス$$\n「Ho-ho... So then, the reason $$サイデリアル$$ draws out this\n　Earth's $$次元力$$ through the $$レイライン|lc$$ is\n　also...」",
       "status": "draft",
       "source_sha": "c101ceb5cd",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00012": {
-      "text": "$$クラヴィア$$\n「I think that boundless energy isn't just\n　used for weapons like the $$次元転移砲$$ -\n　ultimately, the goal is to control phenomena itself」",
+      "text": "$$クラヴィア$$\n「I think that boundless energy isn't just used for\n　weapons like the $$次元転移砲$$ -\n　ultimately, the goal is to control phenomena itself」",
       "status": "draft",
       "source_sha": "55cd6ccd3c",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00013": {
       "text": "$$クラヴィア$$\n「After all, this planet sits in just the right\n　position for drawing out $$次元力$$ -\n　energy that a star itself holds」",
@@ -129,11 +134,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00017": {
-      "text": "$$クロウ$$\n「What's this \"struggle for hegemony at the galactic core\" thing?」",
+      "text": "$$クロウ$$\n「What's this \"struggle for hegemony at the galactic\n　core\" thing?」",
       "status": "draft",
       "source_sha": "087fbd6327",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00018": {
       "text": "$$サルディアス$$\n「Oh my, you don't know?\n　Well, I suppose that's only natural\n　for folks living out on the frontier」",
@@ -304,11 +311,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00042": {
-      "text": "$$クロウ$$\n「$$クラヴィア$$!\n　You're from a planet other than Earth too, aren't you!」",
+      "text": "$$クロウ$$\n「$$クラヴィア$$! You're from a planet other than Earth too,\n　aren't you!」",
       "status": "draft",
       "source_sha": "737e184364",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00043": {
       "text": "$$クラヴィア$$\n「Y-yes...」",
@@ -409,11 +418,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00057": {
-      "text": "$$クラヴィア$$\n「Earlier, $$サルディアス$$ said that using\n　Earth's $$次元力$$ for the galaxy's hegemony\n　struggle was inefficient, but...」",
+      "text": "$$クラヴィア$$\n「Earlier, $$サルディアス$$ said that using Earth's\n　$$次元力$$ for the galaxy's hegemony\n　struggle was inefficient, but...」",
       "status": "draft",
       "source_sha": "4ea71d1420",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00058": {
       "text": "$$クラヴィア$$\n「If it's a $$スフィア$$ that can draw out\n　$$次元力$$ regardless of location,\n　that problem would be solved too」",
@@ -569,11 +580,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00079": {
-      "text": "$$クロウ$$\n「Of course, they've probably got at least one of the real things too」",
+      "text": "$$クロウ$$\n「Of course, they've probably got at least one of the\n　real things too」",
       "status": "draft",
       "source_sha": "91cf75da46",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00080": {
       "text": "$$セツコ$$\n「What do you think, $$クラヴィア$$?」",
@@ -646,11 +659,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00090": {
-      "text": "$$サルディアス$$\n「Oh no, looks like they've come to take the base back already」",
+      "text": "$$サルディアス$$\n「Oh no, looks like they've come to take the base back\n　already」",
       "status": "draft",
       "source_sha": "dfb841304d",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00091": {
       "text": "$$クラヴィア$$\n「But I checked our radar too, and it\n　looks like there's only one enemy unit」",
@@ -923,11 +938,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00051:00129": {
-      "text": "$$オリオン$$\n「Breaking through a protection that flimsy is nothing」",
+      "text": "$$オリオン$$\n「Breaking through a protection that flimsy is\n　nothing」",
       "status": "draft",
       "source_sha": "7047156d25",
       "source_member_sha256": "0f796f3514bdfcd9b3754aed8491f9ba2efb1823535cdbc83f88d9d6e1bf482a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00051:00130": {
       "text": "$$クラヴィア$$\n「Huh...」",

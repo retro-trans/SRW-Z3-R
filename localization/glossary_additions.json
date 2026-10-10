@@ -1,1555 +1,1555 @@
 {
- "schema": 1,
- "verified_on": "2026-09-25",
- "note": "Rengoku additions and explicit overrides. Base English remains in locales/en/glossary.json. A researched label is not a claim of official English localization.",
- "terms": [
-  {
-   "id": "rengoku_glossary:blue",
-   "jp": "ブルー",
-   "en": "Blue",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
-   "note": "Short form of Code: Blue; character profile in analysis/characters.json."
-  },
-  {
-   "id": "rengoku_glossary:code_blue",
-   "jp": "コード：ブルー",
-   "en": "Code: Blue",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "The same wiki lists Code:Blue under Rengoku and Code: Blue under Tengoku. Space after colon is our house style; same character."
-  },
-  {
-   "id": "rengoku_glossary:sidereal",
-   "jp": "サイデリアル",
-   "en": "Sidereal",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
-   "note": "Also attested in base Z3 English; interstellar organization."
-  },
-  {
-   "id": "rengoku_glossary:green_earth",
-   "jp": "翠の地球",
-   "en": "Green Earth",
-   "kind": "location",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary"
-  },
-  {
-   "id": "rengoku_glossary:blue_earth",
-   "jp": "蒼の地球",
-   "en": "Blue Earth",
-   "kind": "location",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary"
-  },
-  {
-   "id": "rengoku_glossary:prison_of_time",
-   "jp": "時の牢獄",
-   "en": "Prison of Time",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://superrobotwars.fandom.com/wiki/Sidereal",
-   "note": "Preserves base Z3 wording, also attested on this wiki. Akurasu story prose instead uses Time's Prison; recorded variant, not a new official name."
-  },
-  {
-   "id": "rengoku_glossary:chrono",
-   "jp": "クロノ",
-   "en": "Chrono",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
-   "note": "Preserves Z3 English spelling."
-  },
-  {
-   "id": "rengoku_glossary:conservatives",
-   "jp": "保守派",
-   "en": "Conservatives",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://srw.wiki.cre.jp/wiki/クロノ",
-   "note": "Chrono faction. English label follows base Z3 corpus; capitalization is project style."
-  },
-  {
-   "id": "rengoku_glossary:reformists",
-   "jp": "改革派",
-   "en": "Reformists",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://srw.wiki.cre.jp/wiki/クロノ",
-   "note": "Chrono faction. English label follows base Z3 corpus."
-  },
-  {
-   "id": "glossary:r_c9543ba6001f06fb",
-   "jp": "エルガン・ローディック",
-   "en": "Elgan Rhodic",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "override_from": "Elgan Roddick",
-   "note": "Explicit Rengoku-only override under BASE_RULES wiki-precedence rule. Akurasu character list currently says Elgan Rhodic; its Rengoku story summary says Elgan Laudic. Prefer dedicated character list over incidental story prose; spelling variant remains recorded. Sibling project untouched."
-  },
-  {
-   "id": "rengoku_glossary:elgan",
-   "jp": "エルガン",
-   "en": "Elgan",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Split name alias needed because opening source links only the given name."
-  },
-  {
-   "id": "rengoku_glossary:rhodic",
-   "jp": "ローディック",
-   "en": "Rhodic",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Surname alias paired with linked Elgan; see full-name spelling decision."
-  },
-  {
-   "id": "rengoku_glossary:resistance",
-   "jp": "レジスタンス",
-   "en": "Resistance",
-   "kind": "keyword",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
-   "note": "Generic speaker label; do not infer identities or gender from the shared name."
-  },
-  {
-   "id": "rengoku_glossary:true_disciple",
-   "jp": "真徒",
-   "en": "True Disciple",
-   "kind": "keyword",
-   "status": "proposed",
-   "source": "オリジナル",
-   "src": "https://srw.wiki.cre.jp/wiki/真徒",
-   "note": "Meaning verified as devotees of the Mitsukai. English term is a provisional translation, not a verified published spelling. Flag uses for terminology review; do not silently replace with ordinary soldiers or reveal their masters in dialogue."
-  },
-  {
-   "id": "glossary:r_47ca0c51f435e8f8",
-   "jp": "メール",
-   "en": "Mel",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json.",
-   "override_from": "Mail"
-  },
-  {
-   "id": "rengoku_glossary:7d56106eed7076fb",
-   "jp": "メール・ビーター",
-   "en": "Mel Beater",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "glossary:r_5c8b382b2a3266ba",
-   "jp": "シエロ",
-   "en": "Ciero",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json.",
-   "override_from": "Cielo"
-  },
-  {
-   "id": "glossary:r_02906423874bcf79",
-   "jp": "シエロ・ビーター",
-   "en": "Ciero Beater",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json.",
-   "override_from": "Cielo Beater"
-  },
-  {
-   "id": "rengoku_glossary:a90b0e557d90d9b6",
-   "jp": "セツコ・オハラ",
-   "en": "Setsuko Ohara",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:f849df175db52f6c",
-   "jp": "セツコ",
-   "en": "Setsuko",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:f5ad935b4be6ae94",
-   "jp": "ランド・トラビス",
-   "en": "Rand Travis",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:d4d48dc6e671748f",
-   "jp": "ランド",
-   "en": "Rand",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:98a564a687d3ee70",
-   "jp": "クロウ・ブルースト",
-   "en": "Crowe Broost",
-   "kind": "pilot",
-   "status": "inherited",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:96feb9fa101443fb",
-   "jp": "クロウ",
-   "en": "Crowe",
-   "kind": "pilot",
-   "status": "inherited",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:2a708a1656dcfeb4",
-   "jp": "クラヴィア・アーゴ",
-   "en": "Clavier Argo",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:5b95b83e37d3b7ec",
-   "jp": "クラヴィア",
-   "en": "Clavier",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:e60279aea324df2d",
-   "jp": "サルディアス・アクス",
-   "en": "Saldias Ax",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:96a4579be579173e",
-   "jp": "サルディアス",
-   "en": "Saldias",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:31c0430c353784d3",
-   "jp": "ギルター・ベローネ",
-   "en": "Gilter Belone",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:b93286fed0665a5b",
-   "jp": "ギルター",
-   "en": "Gilter",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:ee31e1aafd0d4a1a",
-   "jp": "コード：ホワイト",
-   "en": "Code: White",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:25c035af95bd7755",
-   "jp": "コード：ブラック",
-   "en": "Code: Black",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:55f6926b269a1240",
-   "jp": "コード：レッド",
-   "en": "Code: Red",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:6621808cb01377af",
-   "jp": "アンブローン",
-   "en": "Ambrone",
-   "kind": "pilot",
-   "status": "inherited",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:69ee7ce6332a5440",
-   "jp": "リ・ブラスタＴ",
-   "en": "Li Brasta T",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:8a7c5dc2953dbccf",
-   "jp": "バルゴラ・グローリーＳ",
-   "en": "Virgola Glory S",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:05da0c811e3560da",
-   "jp": "ガンレオン・マグナ",
-   "en": "Gunleon Magna",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:c6f8681218c0d3d8",
-   "jp": "量産型アスクレプス",
-   "en": "Mass-Produced Asclepus",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:89e49cfc9afa3c66",
-   "jp": "エイクロス",
-   "en": "Across",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:06cccc419d649c0d",
-   "jp": "エイクロス・カスタム",
-   "en": "Across Custom",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:e2593b03215a803b",
-   "jp": "ランボルト・レオン",
-   "en": "Ranbolt Leon",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:05de66349a9c2b40",
-   "jp": "アクシオ・スコートＳＰ",
-   "en": "Axio Scott SP",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:752d3d8c2b44ffbf",
-   "jp": "シャウラス",
-   "en": "Schauras",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:59854312244859cb",
-   "jp": "シャウラス・リーダー",
-   "en": "Schauras Leader",
-   "kind": "unit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:f2bc2dc66663316f",
-   "jp": "オリオン",
-   "en": "Orion",
-   "kind": "pilot",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:9a69b99ab789a150",
-   "jp": "尸悠",
-   "en": "Shiyuu",
-   "kind": "pilot",
-   "status": "proposed",
-   "source": "オリジナル",
-   "src": "source/non_dialogue.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:f30a1225a3f0cdd0",
-   "jp": "キャンサス",
-   "en": "Cansus",
-   "kind": "pilot",
-   "status": "proposed",
-   "source": "オリジナル",
-   "src": "source/non_dialogue.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:359222c341242c8c",
-   "jp": "幸運",
-   "en": "Luck",
-   "kind": "spirit",
-   "status": "inherited",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:63a73845c4bc82b9",
-   "jp": "精神耐性",
-   "en": "Mind Resist",
-   "kind": "skill",
-   "status": "inherited",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:9ce29eba0c270853",
-   "jp": "ていさつ",
-   "en": "Scan",
-   "kind": "spirit",
-   "status": "inherited",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:3225ce4b5e673145",
-   "jp": "再攻撃",
-   "en": "Re-Attack",
-   "kind": "skill",
-   "status": "inherited",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:e16dbadf047f407e",
-   "jp": "分身",
-   "en": "Afterimage",
-   "kind": "ability",
-   "status": "project_style",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:512e17c9380cc578",
-   "jp": "Ｚチップ",
-   "en": "Z Chips",
-   "kind": "keyword",
-   "status": "project_style",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:e3e3c6e6ee60603e",
-   "jp": "Ｚクリスタル",
-   "en": "Z Crystal",
-   "kind": "keyword",
-   "status": "project_style",
-   "source": "オリジナル",
-   "src": "analysis/base_provenance.json",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "id": "rengoku_glossary:193aeb8e8f59ea02",
-   "jp": "オケアノス",
-   "en": "Okeanos",
-   "kind": "credit",
-   "status": "researched",
-   "source": "オリジナル",
-   "src": "https://www.crunchyroll.com/ko/news/latest/2015/4/6/gargantia-ova-2nd-part-opening-box-office-is-24-higher-than-1st",
-   "note": "Decision and variants: analysis/rengoku_terms.json."
-  },
-  {
-   "jp": "バーグラー",
-   "en": "Burglar",
-   "kind": "unit",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Short battle call for the inherited Axio Burglar; not the common noun burglary.",
-   "id": "battle_glossary:82dd25b6bf55850f",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "アクシオ",
-   "en": "Axio",
-   "kind": "unit",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "id": "battle_glossary:73be21563ed298cb",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "タリビア",
-   "en": "Taribia",
-   "kind": "location",
-   "status": "researched",
-   "src": "https://gundam00.fandom.com/wiki/Republic_of_Taribia",
-   "note": "Japanese identity corroborated by https://www.gundam.info/news/video-music/news_video-music_20190812_15.html .",
-   "id": "battle_glossary:b17371531997549f",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "アン・アーレス",
-   "en": "An-Arles",
-   "kind": "unit",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "id": "battle_glossary:647faabcef99c1c0",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "怨嗟の魔蠍",
-   "en": "Resentful Scorpion",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Named Sphere in An-Arles's description; agrees with existing non-dialogue heading.",
-   "id": "battle_glossary:3f61543236eee1c6",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "沈黙の巨蟹",
-   "en": "Taciturn Crab",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.2/Mech_Abilities",
-   "note": "Dedicated ability table and Z glossary agree. Replaces earlier draft variants Silent Giant Crab/Silent Crab under wiki-precedence rule; global script runs after meaning review.",
-   "id": "battle_glossary:981d6195ea97e744",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "グローリー・スター",
-   "en": "Glory Star",
-   "kind": "organization",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "id": "battle_glossary:e0950f20c9eaa8f3",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "栄光の星",
-   "en": "Glory Star",
-   "kind": "organization",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Japanese calque used as the team's epithet in Setsuko's battle call.",
-   "id": "battle_glossary:7fce9896390d7f4f",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "バルゴラ",
-   "en": "Virgola",
-   "kind": "unit",
-   "status": "project_style",
-   "src": "analysis/rengoku_terms.json",
-   "note": "Short form of the established Virgola Glory S; wiki spelling Virgora is retained as a documented variant, not mixed with the existing base spelling.",
-   "id": "battle_glossary:7c9087ca6a290375",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ガナリー・カーバー",
-   "en": "Gunnery Carver",
-   "kind": "weapon",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "id": "battle_glossary:4996b5ffc12ac2ad",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ＧＳコンバット・アクション",
-   "en": "GS Combat Action",
-   "kind": "attack",
-   "status": "researched",
-   "src": "https://superrobotwars.fandom.com/wiki/Denzel_Hammer",
-   "note": "Agrees with existing exact Rengoku weapon label.",
-   "id": "battle_glossary:32bd20e2690386be",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "リ・ブラスタ",
-   "en": "Li Brasta",
-   "kind": "unit",
-   "status": "project_style",
-   "src": "analysis/rengoku_terms.json",
-   "note": "Established Li Brasta T punctuation retained in short form; wiki variant Li-Brasta.",
-   "id": "battle_glossary:0c5e7fdfc3a53e58",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "グリンアース",
-   "en": "Green Earth",
-   "kind": "unit",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
-   "note": "Ship name; distinct Japanese key from the planet 翠の地球.",
-   "id": "battle_glossary:bfc4f02e2cc3f359",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ガンレオン",
-   "en": "Gunleon",
-   "kind": "unit",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Short form of the established Gunleon Magna.",
-   "id": "battle_glossary:048e7771f2bfdbd5",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "バルビエル",
-   "en": "Barbiel",
-   "kind": "pilot",
-   "status": "inherited",
-   "src": "analysis/base_provenance.json",
-   "note": "Short form of inherited Barbiel the Needle.",
-   "id": "battle_glossary:e4ce5f30ede5acb9",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "リアクター",
-   "en": "Reactor",
-   "kind": "keyword",
-   "status": "inherited",
-   "src": "analysis/base_provenance.json",
-   "note": "Short form of Sphere Reactor in these battle calls.",
-   "id": "battle_glossary:2f6228177fb19f66",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "アサルトコンバットパターン・ファイズ",
-   "en": "Assault Combat Pattern Faiz",
-   "kind": "attack",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Expanded form of ACP Faiz in Brasta weapon descriptions.",
-   "id": "battle_glossary:4856c07f2721e79f",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "カーバー",
-   "en": "Carver",
-   "kind": "weapon",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Short form of Gunnery/Nautilus Carver; do not expand to one particular form without context.",
-   "id": "battle_glossary:3285530211c9270a",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ナウティラス・カーバー",
-   "en": "Nautilus Carver",
-   "kind": "weapon",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "id": "battle_glossary:37248d637d16e193",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ザ・グローリー・スター",
-   "en": "The Glory Star",
-   "kind": "attack",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "note": "Transliterated named attack, distinct from the organization Glory Star.",
-   "id": "battle_glossary:4df86a49c2915818",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "悲しみの乙女",
-   "en": "Sorrowful Maiden",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Glossary",
-   "note": "Sphere epithet used by Setsuko.",
-   "id": "battle_glossary:6577d796b95ce80a",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "スクランブル・エッジ",
-   "en": "Scramble Edge",
-   "kind": "weapon",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:f8f51d7718c98b0f",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "フォールディング・スマッシャー",
-   "en": "Folding Smasher",
-   "kind": "weapon",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:c4d3bf800f1398ab",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "リベレーター",
-   "en": "Liberator",
-   "kind": "weapon",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "note": "Short form of G-Dimension Liberator.",
-   "id": "battle_glossary:ed29d7161abf16d5",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "Ｇディメンション",
-   "en": "G Dimension",
-   "kind": "keyword",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:1106fb5b2bfe9076",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "アストラル・シュート",
-   "en": "Astral Shoot",
-   "kind": "attack",
-   "status": "transliteration",
-   "src": "source/battle_lines.json",
-   "note": "Transparent English katakana attack call; no independently established English label found.",
-   "id": "battle_glossary:c8282d6951ceea52",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "リベレーター・ディスチャージ",
-   "en": "Liberator Discharge",
-   "kind": "attack",
-   "status": "transliteration",
-   "src": "source/battle_lines.json",
-   "note": "Transparent English katakana attack call.",
-   "id": "battle_glossary:3122bed8472df854",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "アンタレス",
-   "en": "Antares",
-   "kind": "organization",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:205e56a281d13e92",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "スコートＳＰ",
-   "en": "Scott SP",
-   "kind": "unit",
-   "status": "inherited",
-   "src": "analysis/base_provenance.json",
-   "note": "Shortened Axio Scott SP call.",
-   "id": "battle_glossary:cc118e63163c5b3c",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ブラスタ",
-   "en": "Brasta",
-   "kind": "unit",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "id": "battle_glossary:6e95a4acb666fa39",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "マリリン",
-   "en": "Marilyn",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-   "note": "Short name of Marilyn Catto, Firebug commander. Identity corroborated by https://srw.wiki.cre.jp/wiki/マリリン・キャット .",
-   "id": "battle_glossary:987f2e2e4e166d4d",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "尸刻",
-   "en": "Shikoku",
-   "kind": "pilot",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:c8625c4b526202a6",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "スパイカー",
-   "en": "Spiker",
-   "kind": "weapon",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "note": "Shortened Bayonet Spiker call.",
-   "id": "battle_glossary:df4f6f13e44954a1",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ビーター・サービス",
-   "en": "Beater Service",
-   "kind": "organization",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:fd96f8adde7a4293",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ザ・ヒート",
-   "en": "The Heat",
-   "kind": "nickname",
-   "status": "project_style",
-   "src": "analysis/characters.json",
-   "note": "Rand's preferred epithet.",
-   "id": "battle_glossary:620b325d2d8b1a2a",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ザ・クラッシャー",
-   "en": "The Crusher",
-   "kind": "nickname",
-   "status": "project_style",
-   "src": "analysis/characters.json",
-   "note": "Rand's unwanted epithet.",
-   "id": "battle_glossary:4065e6f29a1c4fb1",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "デッカー・スパナ",
-   "en": "Decker Spanner",
-   "kind": "weapon",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:fc441db33ce7fe34",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ブンマー・スパナ",
-   "en": "Bunmar Spanner",
-   "kind": "weapon",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z/Unit_Database",
-   "note": "Dedicated weapon table spelling supersedes earlier Boomer draft. Keep Mel's ブンブン・スパナ joke distinct: Boom-Boom Spanner.",
-   "id": "battle_glossary:071d5e6cfc1ed27a",
-   "source": "Battle terminology research",
-   "previous_local_spelling": "Boomer Spanner"
-  },
-  {
-   "jp": "マグナモード",
-   "en": "Magna Mode",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Do not normalize the distinct ガンガンモード joke to this name.",
-   "id": "battle_glossary:2a90f19b5e871c3e",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ジャレンチ",
-   "en": "Gia-Wrench",
-   "kind": "weapon",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Short form. Dedicated Z unit weapon table corroborates GiaWrench; hyphen follows the description page. Supersedes the earlier phonetic Jarench draft.",
-   "id": "battle_glossary:5318fe1c50c73441",
-   "source": "Battle terminology research",
-   "previous_local_spelling": "Jarench"
-  },
-  {
-   "jp": "ライアット・ジャレンチ",
-   "en": "Riot Gia-Wrench",
-   "kind": "weapon",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
-   "note": "Dedicated Z unit weapon table corroborates Riot GiaWrench; hyphen follows this description page.",
-   "id": "battle_glossary:01d2b3b47df14d48",
-   "source": "Battle terminology research",
-   "previous_local_spelling": "Riot Jarench"
-  },
-  {
-   "jp": "ペイン・シャウター",
-   "en": "Pain Shouter",
-   "kind": "weapon",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:45b0265cad6ec23f",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ビーター殺法",
-   "en": "Beater Killing Arts",
-   "kind": "attack",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:9cac6237d5baf0d2",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ランボルト",
-   "en": "Ranbolt",
-   "kind": "unit",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:1d88b78423c4f695",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "新地球皇国",
-   "en": "New Earth Empire",
-   "kind": "organization",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:a1d937c0663d4446",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ジェミナイド",
-   "en": "Geminaid",
-   "kind": "people",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "note": "Plural Geminaids where English grammar requires it; distinct from Geminis military organization.",
-   "id": "battle_glossary:917f54b308ab9cbc",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ジェミニス・アーツ",
-   "en": "Geminis Arts",
-   "kind": "attack",
-   "status": "transliteration",
-   "src": "source/battle_lines.json",
-   "id": "battle_glossary:76461d05329615d2",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ガンダム",
-   "en": "Gundam",
-   "kind": "unit",
-   "status": "inherited",
-   "src": "analysis/base_provenance.json",
-   "id": "battle_glossary:00b7d7205e9ac429",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ラース・バビロン",
-   "en": "Rath Babylon",
-   "kind": "location",
-   "status": "provisional",
-   "src": "https://srw.wiki.cre.jp/wiki/ラース・バビロン",
-   "note": "Identity verified as Sidereal's imperial capital. Latin spelling provisional; Japanese wiki does not establish it.",
-   "id": "battle_glossary:8cfe49a9c8035ef2",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "エスム",
-   "en": "Esum",
-   "kind": "creature",
-   "status": "provisional",
-   "src": "source/battle_lines.json",
-   "note": "Animal in Geminaid proverb; exact Latin spelling unverified.",
-   "id": "battle_glossary:e5b89ea91075e717",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "サルダ",
-   "en": "Sarda",
-   "kind": "creature",
-   "status": "provisional",
-   "src": "source/battle_lines.json",
-   "note": "Animal in Geminaid proverb; exact Latin spelling unverified.",
-   "id": "battle_glossary:886d53c2734e52a5",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "鬼宿",
-   "en": "Kishuku",
-   "kind": "organization",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:9dd6fd1e4f7a1b34",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "鬼光衝",
-   "en": "Kikoushou",
-   "kind": "attack",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:f3d16ef0330ecaab",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "傷だらけの獅子",
-   "en": "Wounded Lion",
-   "kind": "keyword",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:cb18a773c789aca2",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "揺れる天秤",
-   "en": "Swaying Scales",
-   "kind": "keyword",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "id": "battle_glossary:3381ae116ab57b6a",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "いがみ合う双子",
-   "en": "Quarreling Twins",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.2/Mech_Abilities",
-   "note": "Dedicated ability table and general glossary agree. Supersedes earlier Feuding Twins draft; normalize all included catalogs after meaning proof.",
-   "id": "battle_glossary:e299e4afd0e3666b",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "フォルメニア",
-   "en": "Formenia",
-   "kind": "weapon",
-   "status": "project_style",
-   "src": "localization/locales/en/non_dialogue.json",
-   "note": "Short form of Formenia Light Blade.",
-   "id": "battle_glossary:d27a6a1b4d14ced4",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "光粒子ブラスト",
-   "en": "Light Particle Blast",
-   "kind": "attack",
-   "status": "translation",
-   "src": "source/battle_lines.json",
-   "id": "battle_glossary:9e68926ba0f83b4a",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "光粒子フル・バースト",
-   "en": "Light Particle Full Burst",
-   "kind": "attack",
-   "status": "translation",
-   "src": "source/battle_lines.json",
-   "id": "battle_glossary:8fe506fa614db093",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "尸冥爪",
-   "en": "Shimeisou",
-   "kind": "unit",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/尸冥爪",
-   "note": "Explicit reading しめいそう. Kishuku's piloted biological unit, not an attack.",
-   "id": "battle_glossary:3621112f533a1f21",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "葬爪",
-   "en": "Sousou",
-   "kind": "attack",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/尸冥爪",
-   "note": "Explicit reading そうそう. Activated with the chant 冥・闇・燐.",
-   "id": "battle_glossary:70259bfab2303db8",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "積尸気",
-   "en": "Sekishiki",
-   "kind": "keyword",
-   "status": "provisional",
-   "src": "source/battle_lines.json",
-   "note": "Traditional Cancer-region asterism/death-energy term; reading inferred, voice cue not verified.",
-   "id": "battle_glossary:e81e9c0d6ef87038",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "尸魂",
-   "en": "souls of the dead",
-   "kind": "keyword",
-   "status": "translation",
-   "src": "source/battle_lines.json",
-   "note": "Literal invocation in Kishuku battle speech; no invented character named Shikon.",
-   "id": "battle_glossary:3edcc522162970c3",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "屍魂",
-   "en": "souls of the dead",
-   "kind": "keyword",
-   "status": "translation",
-   "src": "source/battle_lines.json",
-   "note": "Source variant of 尸魂; preserve original spelling in source.",
-   "id": "battle_glossary:784d3928f6db0498",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "尸獄門",
-   "en": "Shigokumon",
-   "kind": "attack",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/尸逝天",
-   "note": "Explicit reading しごくもん.",
-   "id": "battle_glossary:f8308af20e5c6e40",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "冥逝孔",
-   "en": "Meiseikou",
-   "kind": "attack",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/尸逝天",
-   "note": "Explicit reading めいせいこう.",
-   "id": "battle_glossary:d81db8225aef44f5",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "クロス・コンバット",
-   "en": "Cross Combat",
-   "kind": "attack",
-   "status": "transliteration",
-   "src": "source/battle_lines.json",
-   "id": "battle_glossary:38337c68ffb4c1b2",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "コマンド・アーツ",
-   "en": "Command Arts",
-   "kind": "attack",
-   "status": "transliteration",
-   "src": "source/battle_lines.json",
-   "id": "battle_glossary:05786b7dfcf1b56d",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "ジェミニス・コマンド・アーツ",
-   "en": "Geminis Command Arts",
-   "kind": "attack",
-   "status": "transliteration",
-   "src": "source/battle_lines.json",
-   "id": "battle_glossary:3bf1e2f1f8eb6372",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "アサキム・ドーウィン",
-   "en": "Asakim Dowen",
-   "override_from": "Asakim Dowin",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/アサキム・ドーウィン",
-   "note": "The wiki explicitly supplies ASAKIM DOWEN. Local override leaves imported base untouched; bare Asakim is unchanged.",
-   "id": "glossary:r_a7233cc2e8ef9996",
-   "source": "Battle terminology research"
-  },
-  {
-   "jp": "トビー",
-   "en": "Toby",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/トビー・ワトソン",
-   "note": "Toby Watson, Glory Star; wiki gender male. Matches non_dialogue interface:bdc0fa70d5142ff2.",
-   "id": "story_glossary:bdc0fa70d5142ff2",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "チーフ",
-   "en": "Chief",
-   "kind": "title",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:3be5bad61c3c3952",
-   "note": "In-game name piece/keyword \"Chief\". Used as a title by different speakers (Setsuko for her Glory Star leader; Crowe for Dr. Traia Scott). Do not resolve identity from the word alone.",
-   "id": "story_glossary:3be5bad61c3c3952",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "レイライン",
-   "en": "Ley Line",
-   "kind": "place",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#map_terrain:59ce5adbaa0f3d6d",
-   "note": "Map terrain name Ley Line; used for the story location/facility.",
-   "id": "story_glossary:59ce5adbaa0f3d6d",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "偽りの黒羊",
-   "en": "Lying Black Sheep",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Glossary",
-   "note": "Aries Sphere; akurasu 'Sphere of the Lying Black Sheep'. Same pattern as Sorrowful Maiden / Wounded Lion.",
-   "id": "story_glossary:adc97df762be0262",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ＦＢ隊員",
-   "en": "Firebug Trooper",
-   "kind": "title",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:f4925d8599a162ac",
-   "note": "Speaker name piece; matches the in-game interface label.",
-   "id": "story_glossary:f4925d8599a162ac",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "姫",
-   "en": "Princess",
-   "kind": "title",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:63ed5db6c5ad7304",
-   "note": "Matches in-game name piece/keyword label. Firebug troops' title for Marilyn per analysis/characters.json; not a royal rank.",
-   "id": "story_glossary:63ed5db6c5ad7304",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "サイデリアル兵",
-   "en": "Sidereal Soldier",
-   "kind": "title",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:fcfd419cc8cb7d20",
-   "note": "Matches in-game name piece/keyword label.",
-   "id": "story_glossary:fcfd419cc8cb7d20",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "特殊部隊兵",
-   "en": "Special Forces Soldier",
-   "kind": "title",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:a28143eafaccdb99",
-   "note": "Matches in-game name piece/keyword label.",
-   "id": "story_glossary:a28143eafaccdb99",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "エスコール",
-   "en": "Escole",
-   "kind": "place",
-   "status": "provisional",
-   "src": "https://srw.wiki.cre.jp/wiki/クラヴィア・アーゴ ; https://dic.pixiv.net/a/クラヴィア・アーゴ",
-   "note": "Clavier's home planet. No official Latin spelling found; Japanese sources derive it from Escorpio (Scorpius). Provisional.",
-   "id": "story_glossary:394bf7b065e4b73d",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "インセクト",
-   "en": "Insect",
-   "kind": "title",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:bbacdf337d1d10fd",
-   "note": "Matches in-game name piece label.",
-   "id": "story_glossary:bbacdf337d1d10fd",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ターミナル・ベース",
-   "en": "Terminal Base",
-   "kind": "place",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:4d0d6000db7da31e",
-   "note": "Matches existing in-game English.",
-   "id": "story_glossary:66d21d60e2b82eeb",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "次元転移砲",
-   "en": "Dimensional Transfer Cannon",
-   "kind": "weapon",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json (library summary)",
-   "note": "Matches existing in-game English.",
-   "id": "story_glossary:7b218ed17f57b5dd",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "レッド",
-   "en": "Red",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "glossary コード：レッド = Code: Red",
-   "note": "Short speaker form of Code: Red, mirroring ブルー/Blue.",
-   "id": "story_glossary:34f67a62520fa14d",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "前の戦い",
-   "en": "The Previous War",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#library:40d8d2cc814c1046",
-   "note": "Library keyword; used as a 《》 link label in dialogue.",
-   "id": "story_glossary:40d8d2cc814c1046",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "デンゼル",
-   "en": "Denzel",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#library:decf724cc995dde4",
-   "note": "Denzel Hammer, Glory Star leader; wiki gender male.",
-   "id": "story_glossary:decf724cc995dde4",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "尽きぬ水瓶",
-   "en": "Bottomless Gourd",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Glossary",
-   "note": "Aquarius Sphere; akurasu 'Sphere of the Bottomless Gourd'.",
-   "id": "story_glossary:d11118ee34c24d81",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ハマリエル",
-   "en": "Hamaliel",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
-   "note": "Codename (Virgo's patron angel) for the Sphere-equipped unit.",
-   "id": "story_glossary:e9e35d76099e1105",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ライアード",
-   "en": "Liard",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "glossary アイム note: Aim Liard",
-   "note": "Aim's surname.",
-   "id": "story_glossary:c44fee4acf7fccbe",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "サード・ステージ",
-   "en": "Third Stage",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/スフィア",
-   "note": "Sphere awakening stage.",
-   "id": "story_glossary:b998346c5c5bc1a6",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ジ・アンブレイカブル",
-   "en": "The Unbreakable",
-   "kind": "keyword",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/クロウ・ブルースト",
-   "note": "Crowe's epithet; parallels The Heat.",
-   "id": "story_glossary:1c3b3e017439ecdf",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "マルファンクション・ショック",
-   "en": "Malfunction Shock",
-   "kind": "attack",
-   "status": "transliteration",
-   "src": "story source",
-   "note": "Gilter's attack; direct loanword rendering.",
-   "id": "story_glossary:0ba06dd420eb734c",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "バルゴラ・グローリー",
-   "en": "Virgola Glory",
-   "kind": "unit",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:cf22a049ac97baa2",
-   "note": "Unit name without S suffix.",
-   "id": "story_glossary:cf22a049ac97baa2",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "市民",
-   "en": "Citizen",
-   "kind": "title",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#interface:58a3651d5dd1dbc0",
-   "note": "Matches in-game name piece label.",
-   "id": "story_glossary:58a3651d5dd1dbc0",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "獅子神",
-   "en": "Lion God",
-   "kind": "keyword",
-   "status": "provisional",
-   "src": "story source STGZ3REN_00064",
-   "note": "Townspeople's epithet for Gunleon; literal rendering, no official English found.",
-   "id": "story_glossary:79dc8ae5824ceeec",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "セントラル・ベース",
-   "en": "Central Base",
-   "kind": "place",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#scenario:aea8620e742e176c",
-   "note": "Matches existing in-game English.",
-   "id": "story_glossary:56f4067a4b13b57f",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ヒートスマイル",
-   "en": "Heat Smile",
-   "kind": "keyword",
-   "status": "provisional",
-   "src": "story source STGZ3REN_00070",
-   "note": "Mel's name for Rand's grin (pun on The Heat). No official English found.",
-   "id": "story_glossary:9a3a4f5331f84017",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "サブ・ユニバース",
-   "en": "Sub-Universe",
-   "kind": "keyword",
-   "status": "provisional",
-   "src": "story source STGZ3REN_00070",
-   "note": "Literal loanword rendering.",
-   "id": "story_glossary:0b3c4acac74e4fab",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ブラック",
-   "en": "Black",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "glossary Code: Black",
-   "note": "Short speaker form of Code: Black, mirroring ブルー/レッド.",
-   "id": "story_glossary:2bd0ec0d9940a9f4",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "ホワイト",
-   "en": "White",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "glossary Code: White",
-   "note": "Short speaker form of Code: White, mirroring ブルー/レッド.",
-   "id": "story_glossary:354650ea8528c47a",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "シュロウガ",
-   "en": "Shurouga",
-   "kind": "robot",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json; analysis/characters.json (Asakim: Shurouga pilot)",
-   "note": "Asakim's machine.",
-   "id": "story_glossary:24d4e98611cce7ee",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "中央大陸",
-   "en": "Central Continent",
-   "kind": "place",
-   "status": "researched",
-   "src": "localization/locales/en/non_dialogue.json#library:93e18006c122f53c",
-   "note": "Matches existing in-game English.",
-   "id": "story_glossary:d1994e6111906394",
-   "source": "Story slice research 2026-09-25"
-  },
-  {
-   "jp": "バルビエル・ザ・ニードル",
-   "en": "Barbiel the Needle",
-   "kind": "pilot",
-   "status": "researched",
-   "src": "https://srw.wiki.cre.jp/wiki/バルビエル・ザ・ニードル",
-   "note": "Full name; matches analysis/characters.json.",
-   "id": "story_glossary:d5f9c42130b568e3",
-   "source": "Story slice research 2026-09-25"
-  }
- ]
+  "schema": 1,
+  "verified_on": "2026-09-25",
+  "note": "Rengoku additions and explicit overrides. Base English remains in locales/en/glossary.json. A researched label is not a claim of official English localization.",
+  "terms": [
+    {
+      "id": "rengoku_glossary:blue",
+      "jp": "ブルー",
+      "en": "Blue",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
+      "note": "Short form of Code: Blue; character profile in analysis/characters.json."
+    },
+    {
+      "id": "rengoku_glossary:code_blue",
+      "jp": "コード：ブルー",
+      "en": "Code: Blue",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "The same wiki lists Code:Blue under Rengoku and Code: Blue under Tengoku. Space after colon is our house style; same character."
+    },
+    {
+      "id": "rengoku_glossary:sidereal",
+      "jp": "サイデリアル",
+      "en": "Sidereal",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
+      "note": "Also attested in base Z3 English; interstellar organization."
+    },
+    {
+      "id": "rengoku_glossary:green_earth",
+      "jp": "翠の地球",
+      "en": "Green Earth",
+      "kind": "location",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary"
+    },
+    {
+      "id": "rengoku_glossary:blue_earth",
+      "jp": "蒼の地球",
+      "en": "Blue Earth",
+      "kind": "location",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary"
+    },
+    {
+      "id": "rengoku_glossary:prison_of_time",
+      "jp": "時の牢獄",
+      "en": "Prison of Time",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://superrobotwars.fandom.com/wiki/Sidereal",
+      "note": "Preserves base Z3 wording, also attested on this wiki. Akurasu story prose instead uses Time's Prison; recorded variant, not a new official name."
+    },
+    {
+      "id": "rengoku_glossary:chrono",
+      "jp": "クロノ",
+      "en": "Chrono",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
+      "note": "Preserves Z3 English spelling."
+    },
+    {
+      "id": "rengoku_glossary:conservatives",
+      "jp": "保守派",
+      "en": "Conservatives",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://srw.wiki.cre.jp/wiki/クロノ",
+      "note": "Chrono faction. English label follows base Z3 corpus; capitalization is project style."
+    },
+    {
+      "id": "rengoku_glossary:reformists",
+      "jp": "改革派",
+      "en": "Reformists",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://srw.wiki.cre.jp/wiki/クロノ",
+      "note": "Chrono faction. English label follows base Z3 corpus."
+    },
+    {
+      "id": "glossary:r_c9543ba6001f06fb",
+      "jp": "エルガン・ローディック",
+      "en": "Elgan Rhodic",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "override_from": "Elgan Roddick",
+      "note": "Explicit Rengoku-only override under BASE_RULES wiki-precedence rule. Akurasu character list currently says Elgan Rhodic; its Rengoku story summary says Elgan Laudic. Prefer dedicated character list over incidental story prose; spelling variant remains recorded. Sibling project untouched."
+    },
+    {
+      "id": "rengoku_glossary:elgan",
+      "jp": "エルガン",
+      "en": "Elgan",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Split name alias needed because opening source links only the given name."
+    },
+    {
+      "id": "rengoku_glossary:rhodic",
+      "jp": "ローディック",
+      "en": "Rhodic",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Surname alias paired with linked Elgan; see full-name spelling decision."
+    },
+    {
+      "id": "rengoku_glossary:resistance",
+      "jp": "レジスタンス",
+      "en": "Resistance",
+      "kind": "keyword",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
+      "note": "Generic speaker label; do not infer identities or gender from the shared name."
+    },
+    {
+      "id": "rengoku_glossary:true_disciple",
+      "jp": "真徒",
+      "en": "True Disciple",
+      "kind": "keyword",
+      "status": "proposed",
+      "source": "オリジナル",
+      "src": "https://srw.wiki.cre.jp/wiki/真徒",
+      "note": "Meaning verified as devotees of the Mitsukai. English term is a provisional translation, not a verified published spelling. Flag uses for terminology review; do not silently replace with ordinary soldiers or reveal their masters in dialogue."
+    },
+    {
+      "id": "glossary:r_47ca0c51f435e8f8",
+      "jp": "メール",
+      "en": "Mel",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json.",
+      "override_from": "Mail"
+    },
+    {
+      "id": "rengoku_glossary:7d56106eed7076fb",
+      "jp": "メール・ビーター",
+      "en": "Mel Beater",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "glossary:r_5c8b382b2a3266ba",
+      "jp": "シエロ",
+      "en": "Ciero",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json.",
+      "override_from": "Cielo"
+    },
+    {
+      "id": "glossary:r_02906423874bcf79",
+      "jp": "シエロ・ビーター",
+      "en": "Ciero Beater",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json.",
+      "override_from": "Cielo Beater"
+    },
+    {
+      "id": "rengoku_glossary:a90b0e557d90d9b6",
+      "jp": "セツコ・オハラ",
+      "en": "Setsuko Ohara",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:f849df175db52f6c",
+      "jp": "セツコ",
+      "en": "Setsuko",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:f5ad935b4be6ae94",
+      "jp": "ランド・トラビス",
+      "en": "Rand Travis",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:d4d48dc6e671748f",
+      "jp": "ランド",
+      "en": "Rand",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Character_List/Banpresto_Originals",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:98a564a687d3ee70",
+      "jp": "クロウ・ブルースト",
+      "en": "Crowe Broost",
+      "kind": "pilot",
+      "status": "inherited",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:96feb9fa101443fb",
+      "jp": "クロウ",
+      "en": "Crowe",
+      "kind": "pilot",
+      "status": "inherited",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:2a708a1656dcfeb4",
+      "jp": "クラヴィア・アーゴ",
+      "en": "Clavier Argo",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:5b95b83e37d3b7ec",
+      "jp": "クラヴィア",
+      "en": "Clavier",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:e60279aea324df2d",
+      "jp": "サルディアス・アクス",
+      "en": "Saldias Ax",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:96a4579be579173e",
+      "jp": "サルディアス",
+      "en": "Saldias",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:31c0430c353784d3",
+      "jp": "ギルター・ベローネ",
+      "en": "Gilter Belone",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:b93286fed0665a5b",
+      "jp": "ギルター",
+      "en": "Gilter",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:ee31e1aafd0d4a1a",
+      "jp": "コード：ホワイト",
+      "en": "Code: White",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:25c035af95bd7755",
+      "jp": "コード：ブラック",
+      "en": "Code: Black",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:55f6926b269a1240",
+      "jp": "コード：レッド",
+      "en": "Code: Red",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:6621808cb01377af",
+      "jp": "アンブローン",
+      "en": "Ambrone",
+      "kind": "pilot",
+      "status": "inherited",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:69ee7ce6332a5440",
+      "jp": "リ・ブラスタＴ",
+      "en": "Li Brasta T",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:8a7c5dc2953dbccf",
+      "jp": "バルゴラ・グローリーＳ",
+      "en": "Virgola Glory S",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:05da0c811e3560da",
+      "jp": "ガンレオン・マグナ",
+      "en": "Gunleon Magna",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:c6f8681218c0d3d8",
+      "jp": "量産型アスクレプス",
+      "en": "Mass-Produced Asclepus",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:89e49cfc9afa3c66",
+      "jp": "エイクロス",
+      "en": "Across",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:06cccc419d649c0d",
+      "jp": "エイクロス・カスタム",
+      "en": "Across Custom",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:e2593b03215a803b",
+      "jp": "ランボルト・レオン",
+      "en": "Ranbolt Leon",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:05de66349a9c2b40",
+      "jp": "アクシオ・スコートＳＰ",
+      "en": "Axio Scott SP",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:752d3d8c2b44ffbf",
+      "jp": "シャウラス",
+      "en": "Schauras",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:59854312244859cb",
+      "jp": "シャウラス・リーダー",
+      "en": "Schauras Leader",
+      "kind": "unit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:f2bc2dc66663316f",
+      "jp": "オリオン",
+      "en": "Orion",
+      "kind": "pilot",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:9a69b99ab789a150",
+      "jp": "尸悠",
+      "en": "Shiyuu",
+      "kind": "pilot",
+      "status": "proposed",
+      "source": "オリジナル",
+      "src": "source/non_dialogue.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:f30a1225a3f0cdd0",
+      "jp": "キャンサス",
+      "en": "Cansus",
+      "kind": "pilot",
+      "status": "proposed",
+      "source": "オリジナル",
+      "src": "source/non_dialogue.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:359222c341242c8c",
+      "jp": "幸運",
+      "en": "Luck",
+      "kind": "spirit",
+      "status": "inherited",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:63a73845c4bc82b9",
+      "jp": "精神耐性",
+      "en": "Mind Resist",
+      "kind": "skill",
+      "status": "inherited",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:9ce29eba0c270853",
+      "jp": "ていさつ",
+      "en": "Scan",
+      "kind": "spirit",
+      "status": "inherited",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:3225ce4b5e673145",
+      "jp": "再攻撃",
+      "en": "Re-Attack",
+      "kind": "skill",
+      "status": "inherited",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:e16dbadf047f407e",
+      "jp": "分身",
+      "en": "Afterimage",
+      "kind": "ability",
+      "status": "project_style",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:512e17c9380cc578",
+      "jp": "Ｚチップ",
+      "en": "Z Chips",
+      "kind": "keyword",
+      "status": "project_style",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:e3e3c6e6ee60603e",
+      "jp": "Ｚクリスタル",
+      "en": "Z Crystal",
+      "kind": "keyword",
+      "status": "project_style",
+      "source": "オリジナル",
+      "src": "analysis/base_provenance.json",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "id": "rengoku_glossary:193aeb8e8f59ea02",
+      "jp": "オケアノス",
+      "en": "Okeanos",
+      "kind": "credit",
+      "status": "researched",
+      "source": "オリジナル",
+      "src": "https://www.crunchyroll.com/ko/news/latest/2015/4/6/gargantia-ova-2nd-part-opening-box-office-is-24-higher-than-1st",
+      "note": "Decision and variants: analysis/rengoku_terms.json."
+    },
+    {
+      "jp": "バーグラー",
+      "en": "Burglar",
+      "kind": "unit",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Short battle call for the inherited Axio Burglar; not the common noun burglary.",
+      "id": "battle_glossary:82dd25b6bf55850f",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "アクシオ",
+      "en": "Axio",
+      "kind": "unit",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "id": "battle_glossary:73be21563ed298cb",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "タリビア",
+      "en": "Taribia",
+      "kind": "location",
+      "status": "researched",
+      "src": "https://gundam00.fandom.com/wiki/Republic_of_Taribia",
+      "note": "Japanese identity corroborated by https://www.gundam.info/news/video-music/news_video-music_20190812_15.html .",
+      "id": "battle_glossary:b17371531997549f",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "アン・アーレス",
+      "en": "An-Arles",
+      "kind": "unit",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "id": "battle_glossary:647faabcef99c1c0",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "怨嗟の魔蠍",
+      "en": "Resentful Scorpion",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Named Sphere in An-Arles's description; agrees with existing non-dialogue heading.",
+      "id": "battle_glossary:3f61543236eee1c6",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "沈黙の巨蟹",
+      "en": "Taciturn Crab",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.2/Mech_Abilities",
+      "note": "Dedicated ability table and Z glossary agree. Replaces earlier draft variants Silent Giant Crab/Silent Crab under wiki-precedence rule; global script runs after meaning review.",
+      "id": "battle_glossary:981d6195ea97e744",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "グローリー・スター",
+      "en": "Glory Star",
+      "kind": "organization",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "id": "battle_glossary:e0950f20c9eaa8f3",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "栄光の星",
+      "en": "Glory Star",
+      "kind": "organization",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Japanese calque used as the team's epithet in Setsuko's battle call.",
+      "id": "battle_glossary:7fce9896390d7f4f",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "バルゴラ",
+      "en": "Virgola",
+      "kind": "unit",
+      "status": "project_style",
+      "src": "analysis/rengoku_terms.json",
+      "note": "Short form of the established Virgola Glory S; wiki spelling Virgora is retained as a documented variant, not mixed with the existing base spelling.",
+      "id": "battle_glossary:7c9087ca6a290375",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ガナリー・カーバー",
+      "en": "Gunnery Carver",
+      "kind": "weapon",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "id": "battle_glossary:4996b5ffc12ac2ad",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ＧＳコンバット・アクション",
+      "en": "GS Combat Action",
+      "kind": "attack",
+      "status": "researched",
+      "src": "https://superrobotwars.fandom.com/wiki/Denzel_Hammer",
+      "note": "Agrees with existing exact Rengoku weapon label.",
+      "id": "battle_glossary:32bd20e2690386be",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "リ・ブラスタ",
+      "en": "Li Brasta",
+      "kind": "unit",
+      "status": "project_style",
+      "src": "analysis/rengoku_terms.json",
+      "note": "Established Li Brasta T punctuation retained in short form; wiki variant Li-Brasta.",
+      "id": "battle_glossary:0c5e7fdfc3a53e58",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "グリンアース",
+      "en": "Green Earth",
+      "kind": "unit",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Flow_Chart",
+      "note": "Ship name; distinct Japanese key from the planet 翠の地球.",
+      "id": "battle_glossary:bfc4f02e2cc3f359",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ガンレオン",
+      "en": "Gunleon",
+      "kind": "unit",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Short form of the established Gunleon Magna.",
+      "id": "battle_glossary:048e7771f2bfdbd5",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "バルビエル",
+      "en": "Barbiel",
+      "kind": "pilot",
+      "status": "inherited",
+      "src": "analysis/base_provenance.json",
+      "note": "Short form of inherited Barbiel the Needle.",
+      "id": "battle_glossary:e4ce5f30ede5acb9",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "リアクター",
+      "en": "Reactor",
+      "kind": "keyword",
+      "status": "inherited",
+      "src": "analysis/base_provenance.json",
+      "note": "Short form of Sphere Reactor in these battle calls.",
+      "id": "battle_glossary:2f6228177fb19f66",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "アサルトコンバットパターン・ファイズ",
+      "en": "Assault Combat Pattern Faiz",
+      "kind": "attack",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Expanded form of ACP Faiz in Brasta weapon descriptions.",
+      "id": "battle_glossary:4856c07f2721e79f",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "カーバー",
+      "en": "Carver",
+      "kind": "weapon",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Short form of Gunnery/Nautilus Carver; do not expand to one particular form without context.",
+      "id": "battle_glossary:3285530211c9270a",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ナウティラス・カーバー",
+      "en": "Nautilus Carver",
+      "kind": "weapon",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "id": "battle_glossary:37248d637d16e193",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ザ・グローリー・スター",
+      "en": "The Glory Star",
+      "kind": "attack",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "note": "Transliterated named attack, distinct from the organization Glory Star.",
+      "id": "battle_glossary:4df86a49c2915818",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "悲しみの乙女",
+      "en": "Sorrowful Maiden",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Glossary",
+      "note": "Sphere epithet used by Setsuko.",
+      "id": "battle_glossary:6577d796b95ce80a",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "スクランブル・エッジ",
+      "en": "Scramble Edge",
+      "kind": "weapon",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:f8f51d7718c98b0f",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "フォールディング・スマッシャー",
+      "en": "Folding Smasher",
+      "kind": "weapon",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:c4d3bf800f1398ab",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "リベレーター",
+      "en": "Liberator",
+      "kind": "weapon",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "note": "Short form of G-Dimension Liberator.",
+      "id": "battle_glossary:ed29d7161abf16d5",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "Ｇディメンション",
+      "en": "G Dimension",
+      "kind": "keyword",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:1106fb5b2bfe9076",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "アストラル・シュート",
+      "en": "Astral Shoot",
+      "kind": "attack",
+      "status": "transliteration",
+      "src": "source/battle_lines.json",
+      "note": "Transparent English katakana attack call; no independently established English label found.",
+      "id": "battle_glossary:c8282d6951ceea52",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "リベレーター・ディスチャージ",
+      "en": "Liberator Discharge",
+      "kind": "attack",
+      "status": "transliteration",
+      "src": "source/battle_lines.json",
+      "note": "Transparent English katakana attack call.",
+      "id": "battle_glossary:3122bed8472df854",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "アンタレス",
+      "en": "Antares",
+      "kind": "organization",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:205e56a281d13e92",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "スコートＳＰ",
+      "en": "Scott SP",
+      "kind": "unit",
+      "status": "inherited",
+      "src": "analysis/base_provenance.json",
+      "note": "Shortened Axio Scott SP call.",
+      "id": "battle_glossary:cc118e63163c5b3c",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ブラスタ",
+      "en": "Brasta",
+      "kind": "unit",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "id": "battle_glossary:6e95a4acb666fa39",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "マリリン",
+      "en": "Marilyn",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
+      "note": "Short name of Marilyn Catto, Firebug commander. Identity corroborated by https://srw.wiki.cre.jp/wiki/マリリン・キャット .",
+      "id": "battle_glossary:987f2e2e4e166d4d",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "尸刻",
+      "en": "Shikoku",
+      "kind": "pilot",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:c8625c4b526202a6",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "スパイカー",
+      "en": "Spiker",
+      "kind": "weapon",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "note": "Shortened Bayonet Spiker call.",
+      "id": "battle_glossary:df4f6f13e44954a1",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ビーター・サービス",
+      "en": "Beater Service",
+      "kind": "organization",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:fd96f8adde7a4293",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ザ・ヒート",
+      "en": "The Heat",
+      "kind": "nickname",
+      "status": "project_style",
+      "src": "analysis/characters.json",
+      "note": "Rand's preferred epithet.",
+      "id": "battle_glossary:620b325d2d8b1a2a",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ザ・クラッシャー",
+      "en": "The Crusher",
+      "kind": "nickname",
+      "status": "project_style",
+      "src": "analysis/characters.json",
+      "note": "Rand's unwanted epithet.",
+      "id": "battle_glossary:4065e6f29a1c4fb1",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "デッカー・スパナ",
+      "en": "Decker Spanner",
+      "kind": "weapon",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:fc441db33ce7fe34",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ブンマー・スパナ",
+      "en": "Bunmar Spanner",
+      "kind": "weapon",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z/Unit_Database",
+      "note": "Dedicated weapon table spelling supersedes earlier Boomer draft. Keep Mel's ブンブン・スパナ joke distinct: Boom-Boom Spanner.",
+      "id": "battle_glossary:071d5e6cfc1ed27a",
+      "source": "Battle terminology research",
+      "previous_local_spelling": "Boomer Spanner"
+    },
+    {
+      "jp": "マグナモード",
+      "en": "Magna Mode",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Do not normalize the distinct ガンガンモード joke to this name.",
+      "id": "battle_glossary:2a90f19b5e871c3e",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ジャレンチ",
+      "en": "Gia-Wrench",
+      "kind": "weapon",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Short form. Dedicated Z unit weapon table corroborates GiaWrench; hyphen follows the description page. Supersedes the earlier phonetic Jarench draft.",
+      "id": "battle_glossary:5318fe1c50c73441",
+      "source": "Battle terminology research",
+      "previous_local_spelling": "Jarench"
+    },
+    {
+      "jp": "ライアット・ジャレンチ",
+      "en": "Riot Gia-Wrench",
+      "kind": "weapon",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Units_List/Banpresto_Originals/Unit_Descriptions",
+      "note": "Dedicated Z unit weapon table corroborates Riot GiaWrench; hyphen follows this description page.",
+      "id": "battle_glossary:01d2b3b47df14d48",
+      "source": "Battle terminology research",
+      "previous_local_spelling": "Riot Jarench"
+    },
+    {
+      "jp": "ペイン・シャウター",
+      "en": "Pain Shouter",
+      "kind": "weapon",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:45b0265cad6ec23f",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ビーター殺法",
+      "en": "Beater Killing Arts",
+      "kind": "attack",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:9cac6237d5baf0d2",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ランボルト",
+      "en": "Ranbolt",
+      "kind": "unit",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:1d88b78423c4f695",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "新地球皇国",
+      "en": "New Earth Empire",
+      "kind": "organization",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:a1d937c0663d4446",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ジェミナイド",
+      "en": "Geminaid",
+      "kind": "people",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "note": "Plural Geminaids where English grammar requires it; distinct from Geminis military organization.",
+      "id": "battle_glossary:917f54b308ab9cbc",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ジェミニス・アーツ",
+      "en": "Geminis Arts",
+      "kind": "attack",
+      "status": "transliteration",
+      "src": "source/battle_lines.json",
+      "id": "battle_glossary:76461d05329615d2",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ガンダム",
+      "en": "Gundam",
+      "kind": "unit",
+      "status": "inherited",
+      "src": "analysis/base_provenance.json",
+      "id": "battle_glossary:00b7d7205e9ac429",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ラース・バビロン",
+      "en": "Rath Babylon",
+      "kind": "location",
+      "status": "provisional",
+      "src": "https://srw.wiki.cre.jp/wiki/ラース・バビロン",
+      "note": "Identity verified as Sidereal's imperial capital. Latin spelling provisional; Japanese wiki does not establish it.",
+      "id": "battle_glossary:8cfe49a9c8035ef2",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "エスム",
+      "en": "Esum",
+      "kind": "creature",
+      "status": "provisional",
+      "src": "source/battle_lines.json",
+      "note": "Animal in Geminaid proverb; exact Latin spelling unverified.",
+      "id": "battle_glossary:e5b89ea91075e717",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "サルダ",
+      "en": "Sarda",
+      "kind": "creature",
+      "status": "provisional",
+      "src": "source/battle_lines.json",
+      "note": "Animal in Geminaid proverb; exact Latin spelling unverified.",
+      "id": "battle_glossary:886d53c2734e52a5",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "鬼宿",
+      "en": "Kishuku",
+      "kind": "organization",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:9dd6fd1e4f7a1b34",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "鬼光衝",
+      "en": "Kikoushou",
+      "kind": "attack",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:f3d16ef0330ecaab",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "傷だらけの獅子",
+      "en": "Wounded Lion",
+      "kind": "keyword",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:cb18a773c789aca2",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "揺れる天秤",
+      "en": "Swaying Scales",
+      "kind": "keyword",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "id": "battle_glossary:3381ae116ab57b6a",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "いがみ合う双子",
+      "en": "Quarreling Twins",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.2/Mech_Abilities",
+      "note": "Dedicated ability table and general glossary agree. Supersedes earlier Feuding Twins draft; normalize all included catalogs after meaning proof.",
+      "id": "battle_glossary:e299e4afd0e3666b",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "フォルメニア",
+      "en": "Formenia",
+      "kind": "weapon",
+      "status": "project_style",
+      "src": "localization/locales/en/non_dialogue.json",
+      "note": "Short form of Formenia Light Blade.",
+      "id": "battle_glossary:d27a6a1b4d14ced4",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "光粒子ブラスト",
+      "en": "Light Particle Blast",
+      "kind": "attack",
+      "status": "translation",
+      "src": "source/battle_lines.json",
+      "id": "battle_glossary:9e68926ba0f83b4a",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "光粒子フル・バースト",
+      "en": "Light Particle Full Burst",
+      "kind": "attack",
+      "status": "translation",
+      "src": "source/battle_lines.json",
+      "id": "battle_glossary:8fe506fa614db093",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "尸冥爪",
+      "en": "Shimeisou",
+      "kind": "unit",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/尸冥爪",
+      "note": "Explicit reading しめいそう. Kishuku's piloted biological unit, not an attack.",
+      "id": "battle_glossary:3621112f533a1f21",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "葬爪",
+      "en": "Sousou",
+      "kind": "attack",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/尸冥爪",
+      "note": "Explicit reading そうそう. Activated with the chant 冥・闇・燐.",
+      "id": "battle_glossary:70259bfab2303db8",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "積尸気",
+      "en": "Sekishiki",
+      "kind": "keyword",
+      "status": "provisional",
+      "src": "source/battle_lines.json",
+      "note": "Traditional Cancer-region asterism/death-energy term; reading inferred, voice cue not verified.",
+      "id": "battle_glossary:e81e9c0d6ef87038",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "尸魂",
+      "en": "souls of the dead",
+      "kind": "keyword",
+      "status": "translation",
+      "src": "source/battle_lines.json",
+      "note": "Literal invocation in Kishuku battle speech; no invented character named Shikon.",
+      "id": "battle_glossary:3edcc522162970c3",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "屍魂",
+      "en": "souls of the dead",
+      "kind": "keyword",
+      "status": "translation",
+      "src": "source/battle_lines.json",
+      "note": "Source variant of 尸魂; preserve original spelling in source.",
+      "id": "battle_glossary:784d3928f6db0498",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "尸獄門",
+      "en": "Shigokumon",
+      "kind": "attack",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/尸逝天",
+      "note": "Explicit reading しごくもん.",
+      "id": "battle_glossary:f8308af20e5c6e40",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "冥逝孔",
+      "en": "Meiseikou",
+      "kind": "attack",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/尸逝天",
+      "note": "Explicit reading めいせいこう.",
+      "id": "battle_glossary:d81db8225aef44f5",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "クロス・コンバット",
+      "en": "Cross Combat",
+      "kind": "attack",
+      "status": "transliteration",
+      "src": "source/battle_lines.json",
+      "id": "battle_glossary:38337c68ffb4c1b2",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "コマンド・アーツ",
+      "en": "Command Arts",
+      "kind": "attack",
+      "status": "transliteration",
+      "src": "source/battle_lines.json",
+      "id": "battle_glossary:05786b7dfcf1b56d",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "ジェミニス・コマンド・アーツ",
+      "en": "Geminis Command Arts",
+      "kind": "attack",
+      "status": "transliteration",
+      "src": "source/battle_lines.json",
+      "id": "battle_glossary:3bf1e2f1f8eb6372",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "アサキム・ドーウィン",
+      "en": "Asakim Dowin",
+      "override_from": "Asakim Dowin",
+      "kind": "pilot",
+      "status": "project_style",
+      "src": "https://srw.wiki.cre.jp/wiki/アサキム・ドーウィン",
+      "note": "Build021: user explicitly requests Asakim Dowin; overrides the earlier wiki spelling. Bare Asakim and Japanese keyword links remain unchanged.",
+      "id": "glossary:r_a7233cc2e8ef9996",
+      "source": "Battle terminology research"
+    },
+    {
+      "jp": "トビー",
+      "en": "Toby",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/トビー・ワトソン",
+      "note": "Toby Watson, Glory Star; wiki gender male. Matches non_dialogue interface:bdc0fa70d5142ff2.",
+      "id": "story_glossary:bdc0fa70d5142ff2",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "チーフ",
+      "en": "Chief",
+      "kind": "title",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:3be5bad61c3c3952",
+      "note": "In-game name piece/keyword \"Chief\". Used as a title by different speakers (Setsuko for her Glory Star leader; Crowe for Dr. Traia Scott). Do not resolve identity from the word alone.",
+      "id": "story_glossary:3be5bad61c3c3952",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "レイライン",
+      "en": "Ley Line",
+      "kind": "place",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#map_terrain:59ce5adbaa0f3d6d",
+      "note": "Map terrain name Ley Line; used for the story location/facility.",
+      "id": "story_glossary:59ce5adbaa0f3d6d",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "偽りの黒羊",
+      "en": "Lying Black Sheep",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Glossary",
+      "note": "Aries Sphere; akurasu 'Sphere of the Lying Black Sheep'. Same pattern as Sorrowful Maiden / Wounded Lion.",
+      "id": "story_glossary:adc97df762be0262",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ＦＢ隊員",
+      "en": "Firebug Trooper",
+      "kind": "title",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:f4925d8599a162ac",
+      "note": "Speaker name piece; matches the in-game interface label.",
+      "id": "story_glossary:f4925d8599a162ac",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "姫",
+      "en": "Princess",
+      "kind": "title",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:63ed5db6c5ad7304",
+      "note": "Matches in-game name piece/keyword label. Firebug troops' title for Marilyn per analysis/characters.json; not a royal rank.",
+      "id": "story_glossary:63ed5db6c5ad7304",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "サイデリアル兵",
+      "en": "Sidereal Soldier",
+      "kind": "title",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:fcfd419cc8cb7d20",
+      "note": "Matches in-game name piece/keyword label.",
+      "id": "story_glossary:fcfd419cc8cb7d20",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "特殊部隊兵",
+      "en": "Special Forces Soldier",
+      "kind": "title",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:a28143eafaccdb99",
+      "note": "Matches in-game name piece/keyword label.",
+      "id": "story_glossary:a28143eafaccdb99",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "エスコール",
+      "en": "Escole",
+      "kind": "place",
+      "status": "provisional",
+      "src": "https://srw.wiki.cre.jp/wiki/クラヴィア・アーゴ ; https://dic.pixiv.net/a/クラヴィア・アーゴ",
+      "note": "Clavier's home planet. No official Latin spelling found; Japanese sources derive it from Escorpio (Scorpius). Provisional.",
+      "id": "story_glossary:394bf7b065e4b73d",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "インセクト",
+      "en": "Insect",
+      "kind": "title",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:bbacdf337d1d10fd",
+      "note": "Matches in-game name piece label.",
+      "id": "story_glossary:bbacdf337d1d10fd",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ターミナル・ベース",
+      "en": "Terminal Base",
+      "kind": "place",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:4d0d6000db7da31e",
+      "note": "Matches existing in-game English.",
+      "id": "story_glossary:66d21d60e2b82eeb",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "次元転移砲",
+      "en": "Dimensional Transfer Cannon",
+      "kind": "weapon",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json (library summary)",
+      "note": "Matches existing in-game English.",
+      "id": "story_glossary:7b218ed17f57b5dd",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "レッド",
+      "en": "Red",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "glossary コード：レッド = Code: Red",
+      "note": "Short speaker form of Code: Red, mirroring ブルー/Blue.",
+      "id": "story_glossary:34f67a62520fa14d",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "前の戦い",
+      "en": "The Previous War",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#library:40d8d2cc814c1046",
+      "note": "Library keyword; used as a 《》 link label in dialogue.",
+      "id": "story_glossary:40d8d2cc814c1046",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "デンゼル",
+      "en": "Denzel",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#library:decf724cc995dde4",
+      "note": "Denzel Hammer, Glory Star leader; wiki gender male.",
+      "id": "story_glossary:decf724cc995dde4",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "尽きぬ水瓶",
+      "en": "Bottomless Gourd",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Glossary",
+      "note": "Aquarius Sphere; akurasu 'Sphere of the Bottomless Gourd'.",
+      "id": "story_glossary:d11118ee34c24d81",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ハマリエル",
+      "en": "Hamaliel",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://akurasu.net/wiki/Super_Robot_Wars/Z3.R/Story_Summary",
+      "note": "Codename (Virgo's patron angel) for the Sphere-equipped unit.",
+      "id": "story_glossary:e9e35d76099e1105",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ライアード",
+      "en": "Liard",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "glossary アイム note: Aim Liard",
+      "note": "Aim's surname.",
+      "id": "story_glossary:c44fee4acf7fccbe",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "サード・ステージ",
+      "en": "Third Stage",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/スフィア",
+      "note": "Sphere awakening stage.",
+      "id": "story_glossary:b998346c5c5bc1a6",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ジ・アンブレイカブル",
+      "en": "The Unbreakable",
+      "kind": "keyword",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/クロウ・ブルースト",
+      "note": "Crowe's epithet; parallels The Heat.",
+      "id": "story_glossary:1c3b3e017439ecdf",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "マルファンクション・ショック",
+      "en": "Malfunction Shock",
+      "kind": "attack",
+      "status": "transliteration",
+      "src": "story source",
+      "note": "Gilter's attack; direct loanword rendering.",
+      "id": "story_glossary:0ba06dd420eb734c",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "バルゴラ・グローリー",
+      "en": "Virgola Glory",
+      "kind": "unit",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:cf22a049ac97baa2",
+      "note": "Unit name without S suffix.",
+      "id": "story_glossary:cf22a049ac97baa2",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "市民",
+      "en": "Citizen",
+      "kind": "title",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#interface:58a3651d5dd1dbc0",
+      "note": "Matches in-game name piece label.",
+      "id": "story_glossary:58a3651d5dd1dbc0",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "獅子神",
+      "en": "Lion God",
+      "kind": "keyword",
+      "status": "provisional",
+      "src": "story source STGZ3REN_00064",
+      "note": "Townspeople's epithet for Gunleon; literal rendering, no official English found.",
+      "id": "story_glossary:79dc8ae5824ceeec",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "セントラル・ベース",
+      "en": "Central Base",
+      "kind": "place",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#scenario:aea8620e742e176c",
+      "note": "Matches existing in-game English.",
+      "id": "story_glossary:56f4067a4b13b57f",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ヒートスマイル",
+      "en": "Heat Smile",
+      "kind": "keyword",
+      "status": "provisional",
+      "src": "story source STGZ3REN_00070",
+      "note": "Mel's name for Rand's grin (pun on The Heat). No official English found.",
+      "id": "story_glossary:9a3a4f5331f84017",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "サブ・ユニバース",
+      "en": "Sub-Universe",
+      "kind": "keyword",
+      "status": "provisional",
+      "src": "story source STGZ3REN_00070",
+      "note": "Literal loanword rendering.",
+      "id": "story_glossary:0b3c4acac74e4fab",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ブラック",
+      "en": "Black",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "glossary Code: Black",
+      "note": "Short speaker form of Code: Black, mirroring ブルー/レッド.",
+      "id": "story_glossary:2bd0ec0d9940a9f4",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "ホワイト",
+      "en": "White",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "glossary Code: White",
+      "note": "Short speaker form of Code: White, mirroring ブルー/レッド.",
+      "id": "story_glossary:354650ea8528c47a",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "シュロウガ",
+      "en": "Shurouga",
+      "kind": "robot",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json; analysis/characters.json (Asakim: Shurouga pilot)",
+      "note": "Asakim's machine.",
+      "id": "story_glossary:24d4e98611cce7ee",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "中央大陸",
+      "en": "Central Continent",
+      "kind": "place",
+      "status": "researched",
+      "src": "localization/locales/en/non_dialogue.json#library:93e18006c122f53c",
+      "note": "Matches existing in-game English.",
+      "id": "story_glossary:d1994e6111906394",
+      "source": "Story slice research 2026-09-25"
+    },
+    {
+      "jp": "バルビエル・ザ・ニードル",
+      "en": "Barbiel the Needle",
+      "kind": "pilot",
+      "status": "researched",
+      "src": "https://srw.wiki.cre.jp/wiki/バルビエル・ザ・ニードル",
+      "note": "Full name; matches analysis/characters.json.",
+      "id": "story_glossary:d5f9c42130b568e3",
+      "source": "Story slice research 2026-09-25"
+    }
+  ]
 }

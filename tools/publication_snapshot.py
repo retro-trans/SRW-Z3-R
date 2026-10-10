@@ -7,7 +7,7 @@ import shutil
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def snapshot(output, write):
+def snapshot(output, write, version='0.1.2', build='022'):
     output = output.resolve()
     if output.exists():
         raise ValueError('Refusing to overwrite public snapshot')
@@ -16,7 +16,8 @@ def snapshot(output, write):
     files += sorted((ROOT / 'tools').glob('*.py'))
     files += sorted((ROOT / 'tests').glob('*.py'))
     files += [p for p in sorted((ROOT / 'docs').glob('*.md')) if p.name not in ('opening_draft.md',)]
-    files += sorted((ROOT / 'docs/releases').glob('*.md'))
+    files += [p for p in sorted((ROOT / 'docs/releases').glob('*.md')) if p.stem != '0.1.0']
+    files += sorted((ROOT / 'docs/validation').glob('*.md'))
     files += sorted((ROOT / '.github').glob('*.md'))
     files += [ROOT / 'localization/glossary_additions.json', ROOT / 'localization/title_screen.json']
     locales = sorted((ROOT / 'localization/locales/en').glob('*.json'))
@@ -60,7 +61,8 @@ def snapshot(output, write):
         'English locales are publication exports without original script fields;\n'
         'source-dependent checks/builds require matching private local inputs.\n'
         'Preserve IDs, fingerprints, glossary references and runtime wrappers.\n'
-        'See docs/releases/0.1.1.md for coverage and gameplay/hardware limits.\n', encoding='utf8')
+        'Current release %s corresponds to local build %s.\n'
+        'See docs/releases/%s.md for coverage and gameplay/hardware limits.\n' % (version, build, version), encoding='utf8')
     print('Wrote public snapshot; original source catalogs and build inputs remain intact.')
 
 
@@ -68,5 +70,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--out', type=Path, required=True)
     parser.add_argument('--write', action='store_true')
+    parser.add_argument('--version', default='0.1.2')
+    parser.add_argument('--build', default='022')
     args = parser.parse_args()
-    snapshot(args.out, args.write)
+    snapshot(args.out, args.write, args.version, args.build)

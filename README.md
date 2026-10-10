@@ -7,7 +7,7 @@ Rengoku-hen / Purgatory Chapter**, Japanese digital release **NPJB00689**.
 [the latest release](https://github.com/retro-trans/SRW-Z3-R/releases/latest).
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) in Automatic
 mode with your matching Japanese **NPJB00689 PKG**, or apply the downloaded
-patch with DeltaPatcher or xdelta3. Save a new English PKG for RPCS3.
+patch with DeltaPatcher or xdelta3. Save a new English PKG for CFW testing or RPCS3.
 Each release lists installation steps, required input hashes, translation
 coverage and compatibility notes.
 
@@ -22,55 +22,45 @@ Original Japanese script catalogs and game data remain local.
 
 ## Current release and coverage
 
-**0.1.1 is the first public release**, supporting Retro Trans Automatic and
-manual xdelta modes. It uses verified local **build 018** and includes English
-story dialogue, battle subtitles, pilot/mech/weapon text, library/glossary
-entries, mission conditions, menus,
-Spirit/skill descriptions, narration and selected translated artwork.
+**0.1.2** uses verified local **build 022**, including the corrections reported
+during 0.1.1 testing and a CFW debug PKG candidate. **0.1.1 remains the first
+public release.** Retro Trans supports both original and exact 0.1.1 PKG inputs.
+DeltaPatcher and xdelta3 can apply the same patches.
 
 | Area | Recorded coverage |
 | --- | --- |
-| Story | 3,334 records with English; independent meaning review pending |
-| Battle text | 3,575 drafts covering 5,113 stored occurrences; independent meaning review complete, 54 review notes retained |
+| Story | 3,334 English records; independent meaning review remains in progress |
+| Battle | 3,575 drafts covering 5,113 stored occurrences; 54 review notes retained |
 | Non-dialogue | 5,295 English entries covering 9,177 occurrences; 97 context/spelling flags retained |
-| Glossary | 1,320 effective terms, including Rengoku additions and spelling overrides |
-| Build checks | 118 tests, 173 rebuilt archive-member readbacks and three offline RPCS3 format checks passed |
+| Glossary | 1,320 effective terms, including Rengoku overrides |
+| Latest focused checks | 17 regressions, archive readbacks, three offline format checks, package authentication and all 77 installed file hashes passed |
 
-Build 018 includes the English title screen, Library buttons, Scenario Chart,
-chapter title screens and Intermission heading. It corrects dialogue and menu
-alignment, terrain labels, stat columns, training tabs, battle captions,
-confirmation choices and Combo popup sizing. See [release notes](docs/releases/0.1.1.md)
-and [the build evidence](docs/build_status.md).
+The update fixes skill/Spirit descriptions, SR conditions and rewards, bonus
+popups and selectors, highlighted-word spacing, terminology, ending dialogue
+and credits. It adds Center/Wide Attack and Maximum Break artwork. Earlier
+title, Library, Scenario Chart, Intermission and menu corrections remain.
+See [release notes](docs/releases/0.1.2.md) and [validation notes](docs/validation/0.1.2.md).
 
-Coverage counts do not establish that every screen is translated or fully
-proofread. **45 longer battle subtitle entries and 166 artwork/manual blocks
-still need insertion/layout work.** Four story entries retain review flags.
-Build 018's new appearance and real-console execution remain unverified;
-earlier local builds received user gameplay reports.
+Coverage does not establish every screen is translated or fully proofread.
+Four story flags, 45 longer battle subtitles and 166 artwork/manual blocks
+remain for review or insertion/layout work. New fixes and physical PS3 boot
+still need gameplay confirmation.
 
 ## Install
 
-In Retro Trans 0.5.1 or later, refresh the catalog, browse to your original
-NPJB00689 PKG, select Automatic and Latest (or 0.1.1), and save to a new `.pkg`.
-The tool downloads and verifies the bare xdelta and checks the whole output.
-You can also download the `.xdelta` release asset and use Apply xdelta offline.
-No Python or separate patch engine is needed when using Retro Trans.
+Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) 0.5.1 or later:
+refresh the catalog, select your original Japanese or exact English 0.1.1 PKG,
+choose Automatic and Latest, Next or 0.1.2, then save a new English `.pkg`.
+Manual [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
+and [xdelta3](https://github.com/jmacd/xdelta/releases/latest) instructions are
+in [INSTALL.md](docs/INSTALL.md), including input/output hashes.
 
-You can also apply the same `.xdelta` with
-[Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest)
-or [xdelta3 on the command line](https://github.com/jmacd/xdelta/releases/latest).
-See [manual patching instructions](docs/INSTALL.md#delta-patcher) for the
-backup setting, command example and output hash verification.
-
-Install the resulting PKG through RPCS3's **File > Install Packages/Raps/Edats**.
-The original package and saves are preserved. The package has modified content
-and cleared authentication blocks; **it is not a signed retail or console
-installer**. Use your own matching activation/license; no RAP is supplied.
-Keep `dev_hdd0/game/NPJB00689`: for this digital game it holds the game itself,
-not a disposable disc-install cache. See [INSTALL.md](docs/INSTALL.md).
-
-Physical PS3 testing and CFW/HEN compatibility remain unverified. No Vita build
-is included. GitHub's Source code archives contain project sources, not patches.
+The output is a debug PKG for CFW with fake/debug NPDRM SELF support, and its
+77 files were verified after isolated RPCS3 installation. It is not Sony
+retail-signed; stock firmware is unsupported and CFW boot is untested.
+No general HEN compatibility is claimed. Use your original matching license.
+Back up the installation and saves. Keep `dev_hdd0/game/NPJB00689`, since it
+contains this digital game. No full game, license or Vita build is included.
 
 ## Translation sources
 

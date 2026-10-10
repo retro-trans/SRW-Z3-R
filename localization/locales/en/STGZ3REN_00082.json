@@ -167,11 +167,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00082:00023": {
-      "text": "$$サルディアス$$\n「Yes.\n　If you hadn't taken in a deserter like me,\n　I was prepared to send in another kind of infiltrator」",
+      "text": "$$サルディアス$$\n「Yes. If you hadn't taken in a deserter like me, I was\n　prepared to send in another kind of infiltrator」",
       "status": "draft",
       "source_sha": "1e3a18a40f",
       "source_member_sha256": "5c3ce09ab4f89591f48b7113c1433e15f662741224a8dbcba850341855b44916",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00082:00024": {
       "text": "$$クロウ$$\n「A commander playing spy himself.\n　Sounds like $$アンタレス$$ is short on people」",
@@ -230,11 +232,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00082:00032": {
-      "text": "$$アドヴェント$$\n「All units, cover each other's blind spots!\n　Protect the $$リアクター$$ and strike the enemy commander!」",
+      "text": "$$アドヴェント$$\n「All units, cover each other's blind spots! Protect the\n　$$リアクター$$ and strike the enemy commander!」",
       "status": "draft",
       "source_sha": "e568bf49db",
       "source_member_sha256": "5c3ce09ab4f89591f48b7113c1433e15f662741224a8dbcba850341855b44916",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00082:00033": {
       "text": "$$サルディアス$$\n「Now then... how long can you hold out, I wonder?」",
@@ -293,11 +297,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00082:00041": {
-      "text": "$$ランド$$\n「Damn it!\n　Being praised by you doesn't make me happy one bit!」",
+      "text": "$$ランド$$\n「Damn it! Being praised by you doesn't make me\n　happy one bit!」",
       "status": "draft",
       "source_sha": "6467ca1065",
       "source_member_sha256": "5c3ce09ab4f89591f48b7113c1433e15f662741224a8dbcba850341855b44916",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00082:00042": {
       "text": "$$サルディアス$$\n「I figured.\n　That was what you'd call killing with kindness」",
@@ -654,11 +660,13 @@
       ]
     },
     "rengoku:STGZ3REN_00082:00092": {
-      "text": "$$アドヴェント$$\n「Tell your master this:\n　such cowardly tactics will never be enough to defeat me」",
+      "text": "$$アドヴェント$$\n「Tell your master this: such cowardly tactics will\n　never be enough to defeat me」",
       "status": "draft",
       "source_sha": "0db48fd278",
       "source_member_sha256": "5c3ce09ab4f89591f48b7113c1433e15f662741224a8dbcba850341855b44916",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00082:00093": {
       "text": "$$アドヴェント$$\n「And let me say this, $$サルディアス$$.\n　I have no intention of forgiving betrayal」",

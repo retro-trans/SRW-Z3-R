@@ -1,5 +1,126 @@
 # Changelog
 
+## 2026-10-10 — Build 022 selector, ending and credits category fixes
+
+- Shortened the Full Upgrade Bonus selector captions beside preserved live
+  rank/slot/halved values; all source styles and selection rows remain intact.
+- Scanned all 3,334 story records and corrected both missing gaps before Aim.
+  Independently corrected one ending-dialogue subject: travel between Earths
+  becomes possible. Meaning proof covered 320 in-slice / 350 distinct records.
+- Measured all 333 credit text rows, realigned both columns and retained every
+  name/word. Native fields and all 439 scroll/command records remain intact;
+  English uses owned display storage and 32px width/advance with 42px pitch.
+- Carry forward the 72 complete operation conditions and add an Episode 13
+  regression. Seventeen focused checks and source/locale validation pass;
+  the build has zero pending insertion. Archive readbacks, three offline
+  decryptions, package authentication/cipher roundtrip and all 77 independent
+  extracted-file hashes pass. Installer teardown still asserts; corrected-screen
+  gameplay and physical PS3 boot remain untested.
+
+## 2026-10-10 — Build 021 report preservation and name corrections
+
+- Reviewed all 72 operation-condition occurrences / 37 unique sources and the
+  complete quoted GIFT report category (one refund notification). English
+  meanings were already complete; preserve the native GIFT tuple until the
+  full English is supplied from owned display storage, including line hooks.
+- Corrected Tiamat's Demon reference to Daimon and seven canonical records
+  to user-requested Asakim Dowin. Updated the glossary override, active name
+  decisions and normalizer; source IDs, links and fingerprints remain intact.
+- Carry forward build019 fixes for both Custom Bonus popup variants and all
+  17 bonus effects. Public v0.1.1 contains build018, before those fixes.
+- Independent meaning proof: 160 in-slice records, 180 row views with adjacent
+  context, 170 distinct records. Thirteen focused regressions and locale/source
+  validation pass. Build021 has zero pending insertion. Archive readbacks,
+  three offline decryption checks, package authentication/cipher roundtrip
+  and independent extraction of all 77 files pass. Installer teardown still
+  asserts; gameplay and physical PS3 boot remain pending.
+
+## 2026-10-10 — Build 020 attack artwork, spacing and SR rewards
+
+- Translated the shared Center/Wide/Attack sprites and reused the requested
+  Z3 Maximum Break lettering with independently guarded Rengoku geometry.
+  Compatible Combination Attack/Counter/Re-Attack/Support banners included.
+- Added the missing ZONE word gap and reflowed that one dialogue record.
+  Checked the full story corpus for the same missing-link-space pattern.
+- Removed both duplicate SR Point placeholders and separated the bonus-funds
+  caption from the preserved native fullwidth amount field by 18px.
+- Ten measured category regressions and locale validation pass. Build020
+  archive readbacks and three offline stage/executable checks pass. Its CFW
+  test PKG verifies all 77 files, authentication and cipher roundtrip; isolated
+  native extraction matches every file. Installer teardown still asserts;
+  physical PS3 and corrected-screen gameplay verification remain pending.
+
+## 2026-10-10 — Build 019 category-wide layout corrections
+
+- Addressed the five supplied Skill Learn, generated skill-name, bonus-popup,
+  story-dialogue and Episode 7 SR Point examples. Measured all 204 skill/Spirit
+  description bindings, 17 selectable/custom bonus effects and all spoken
+  story records. Updated 162 dialogue records and 13 skill/bonus messages.
+- Expanded generated level-name lookups; joined both Custom Bonus headers,
+  removed overlapping static popup placeholders and fit Full Upgrade Bonus.
+  Skill descriptions now fit the narrower Skill Learn panel as well as Effect.
+- Kept all 72 operation-table strings unchanged during native processing;
+  full English now comes from owned draw-time lookup storage. The screenshot's
+  damaged SR Point ending is absent from canonical English. Exact live cause
+  and corrected screen appearance remain pending gameplay verification.
+- Six new focused checks, five existing Effect regressions and three package
+  format checks pass. New build 019 archive readbacks and offline stage/SELF
+  acceptance pass. Original package/extracted assets and build 018 preserved.
+- Read-only agent meaning reviews and lossless script reflow were previewed
+  before canonical writes. Slice counts, terminology and remaining editorial
+  findings are recorded in docs/BUILD019_LAYOUT.md and local work reports.
+- CFW packaging helpers now derive the output name from the verified numbered
+  Rengoku build, retaining all executable/source/license checks. Public release
+  0.1.1 has not been changed; no game, package or license uploaded.
+- Complete build019 CFW test PKG: 618,486,032 bytes, SHA256
+  45df9ac98129fa34ccce31e1e6f7bb611057b2020edc3f62ffeadf589fdef033.
+  Full roundtrip/authentication and 77 member hashes pass. Independent native
+  installation yields all 77 expected files; known teardown assertion remains.
+  Physical console and corrected-screen gameplay tests are still pending.
+
+## 2026-10-09 — CFW debug PKG test 1, build 018
+
+- User corrected the requested ISO format to PKG for this PSN title. Prepared
+  a complete local 77-file CFW debug package, NPJB00689/content ID unchanged,
+  with the audited NPDRM fake SELF and original encrypted DATA01.EDAT retained.
+  Matching original activation/license is required; no licenses are included.
+- New tools/package_cfw_pkg.py previews before writing a new output. Uses
+  fresh debug authentication/QA and local native SHA-1 encryption, removes
+  obsolete retail metadata QA, retains other original metadata and packages
+  verified installed stage plaintext as a raw entry to avoid double decryption.
+  No original package/extracted tree/build/translation files were modified.
+- Three focused tests, full cipher round trip, independent Python SHA-1
+  samples and 77 member hashes pass. Synthetic authentication is byte-identical
+  to PSL1GHT upstream f649a08fd536a9e27c08c7db2d93a2d7ee4c3bbe.
+- New tools/verify_cfw_pkg_install.py installs only into a new private RPCS3
+  copy. Native installer logged success; all 77 installed files match exactly.
+  Headless shutdown assertion 3221226505 remains a process-exit limitation.
+  Physical CFW installation, boot and gameplay are still untested.
+- Local package: 618,357,232 bytes, SHA-256
+  e4117d547eae1cc5172040a6343ebe6abab3d02d404aca9dc35ea28477ae91e5.
+  Output work/builds/rengoku_en_018_cfw_pkg_test1/ includes install guide,
+  checksums and validation evidence. Public 0.1.1 remains unchanged.
+
+## 2026-10-09 — CFW hardware test 1, build 018
+
+- At user request and confirmed CFW target, prepare a new local file overlay
+  under work/builds/rengoku_en_018_cfw_hardware_test1. Original installed
+  NPJB00689 activation is required; no licenses or full game are included.
+- Twelve target files match verified build-018 native package installation.
+  The stage SDAT filename carries the independently verified post-install
+  plaintext CPK, rather than the encrypted package-distribution form.
+- Audit the original Rengoku executable: retain two native RX/RW LOADs,
+  entry/TLS/process metadata and zero-filled BSS; verify 99 direct hook
+  branches, SELF payload/load mappings and NPDRM application/content metadata.
+  Five focused audit rejection tests, overlay/ZIP readbacks and original/build
+  preservation checks pass. CFW boot/gameplay remain untested on hardware.
+- ZIP: 74,783,290 bytes, SHA-256
+  2473c4c7e822db33655eeffacfae80f9fff1c754fd44abc699d888a729ace9e0.
+  tools/package_cfw_overlay.py defaults to preview and refuses existing outputs;
+  docs/CFW_HARDWARE_TEST.md supplies backup, transfer, test and restore steps.
+- Local hardware test only. Public release 0.1.1 remains the RPCS3 PKG route;
+  its binary assets/tag and previous translation/review work are unchanged.
+
 ## 2026-10-09 — Match SRW-Z3 release presentation
 
 - Compare actual SRW-Z3 v0.6.25 and v0.6.24 release bodies, then align 0.1.1
@@ -21,12 +142,22 @@
   matches the expected 721,946,688-byte PKG and SHA-256; original unchanged.
   Documentation links and whitespace checks pass. Release assets are unchanged.
 
-## 2026-10-09 — First public release, English 0.1.1
+## 2026-10-09 — First public release designation
 
-- Publish the first public release with a standard Retro Trans v1
+- At user request, delete the public 0.1.0 release and remote tag. Keep private
+  local artifacts and factual earlier preparation records for recovery.
+- Present 0.1.1 as the first and latest public release; update GitHub title/body,
+  README, current guides, public changelog/handoff and export helper references.
+  Remove obsolete 0.1.0 metadata from the current public repository tree.
+- Verify only v0.1.1 remains public and tagged; public text/JSON audit and
+  canonical English identity checks pass. Verified 0.1.1 patch assets are unchanged.
+
+## 2026-10-09 — Retro Trans compatibility, English 0.1.1
+
+- Replace the default distribution route with a standard Retro Trans v1
   original-PKG-to-English-PKG xdelta. Public release:
   https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.1.
-  Translation/layout content uses verified local build 018.
+  Translation/layout content remains build 018; preserve the 0.1.0 assets.
 - Verify all 77 PKG members, three package tests, complete xdelta decode and
   Retro Trans's actual recognizer, Latest/Next/specific routes and local
   apply_plan. All six downloaded public assets match local/server hashes.
@@ -41,9 +172,29 @@
   verified stage SDAT plaintext. Its headless shutdown assertion is recorded
   separately. The PKG has cleared authentication and targets RPCS3 only;
   no signed console-package or gameplay acceptance is claimed.
-- Publish README, install/release guides and a reusable release template.
-  Retain the extracted-folder workflow for local maintainer builds. No original package, canonical translation,
+- Update README, install/release guides and template. Preserve the historical
+  folder guide for its installer. No original package, canonical translation,
   user's installed game or save changes; previous remaining work is unchanged.
+
+## 2026-10-09 — Public repository and English 0.1.0 prerelease
+
+- Publish https://github.com/retro-trans/SRW-Z3-R using `binhlt0402`, with
+  README, installation/releasing guides and a reusable release template
+  following SRW-Z3's structure. Public exports omit original script fields
+  while preserving English, IDs, fingerprints and runtime conventions.
+- Publish https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.0
+  from local build 018: twelve per-file xdelta patches, an installer,
+  manifest, validation metadata and checksums. No full game files, original
+  scripts, license files or third-party executables are distributed.
+- ZIP: 19,993,337 bytes; SHA-256
+  `19dee91cee92be760aaed3f5b8bbc2345031e76d71125910dfe192c3cb7e6c54`.
+  All twelve round trips, three installer tests and reconstruction of all
+  77 game files pass. All four public assets match uploaded SHA-256 values
+  and downloaded bytes; downloaded installer preview passes.
+- Canonical catalogs, original inputs, installed games and saves remain
+  unchanged. This is a public test release; gameplay and real PS3 checks
+  remain pending. Retro Trans Automatic mode is unsupported for this
+  directory patch format. Previous translation and artwork work remains.
 
 ## 2026-09-26 — Intermission and pilot layouts, test build 018
 

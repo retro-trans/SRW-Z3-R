@@ -130,12 +130,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00057:00018": {
-      "text": "$$オリオン$$\n「A $$スフィア$$ draws out $$次元力$$ through human\n　emotion and heart, but if it keeps drawing strong\n　power, various backlashes apparently occur」",
+      "text": "$$オリオン$$\n「A $$スフィア$$ draws out $$次元力$$ through\n　human emotion and heart, but if it keeps drawing\n　strong power, various backlashes apparently occur」",
       "status": "draft",
       "source_sha": "94b2643af9",
       "source_member_sha256": "3441cbfa089685dae70f2a8edae63824bfa66b84b91168bad3a0d52e88a2670f",
       "notes": [
-        "Compressed to fit 4-line guide; kept the core claim (Sphere draws Dimensional Power from feeling, strain causes backlash) without the exact clause order of the source."
+        "Compressed to fit 4-line guide; kept the core claim (Sphere draws Dimensional Power from feeling, strain causes backlash) without the exact clause order of the source.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00057:00019": {

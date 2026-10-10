@@ -884,11 +884,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00058:00124": {
-      "text": "$$ランド$$\n「Now that we've taken one of the $$スフィア$$s,\n　$$サイデリアル$$ will probably get serious about crushing us」",
+      "text": "$$ランド$$\n「Now that we've taken one of the $$スフィア$$s, $$サイデリアル$$\n　will probably get serious about crushing us」",
       "status": "draft",
       "source_sha": "c339b4fb67",
       "source_member_sha256": "24649f7edb24fc23299cc4fceada5c1f2156a40330c07204e4ef5fc48dc90909",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00058:00125": {
       "text": "$$アドヴェント$$\n「But for now, let the $$悲しみの乙女$$\n　have a moment's rest...」",

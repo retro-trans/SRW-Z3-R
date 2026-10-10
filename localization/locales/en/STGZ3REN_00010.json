@@ -118,11 +118,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00010:00016": {
-      "text": "$$レジスタンス$$\n「Mobile unit, move out ahead and guide the evacuees!\n　Listen! We're saving everyone!」",
+      "text": "$$レジスタンス$$\n「Mobile unit, move out ahead and guide the\n　evacuees! Listen! We're saving everyone!」",
       "status": "draft",
       "source_sha": "fa56e53570",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00017": {
       "text": "$$セツコ$$\n「...I'll make it happen」",
@@ -202,11 +204,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00010:00028": {
-      "text": "$$ギルター$$\n「I've only just arrived, but I recommend you surrender」",
+      "text": "$$ギルター$$\n「I've only just arrived, but I recommend you\n　surrender」",
       "status": "draft",
       "source_sha": "e4a3b9d3e0",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00029": {
       "text": "$$セツコ$$\n「Do you think I'd accept that?」",
@@ -265,11 +269,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00010:00037": {
-      "text": "$$レジスタンス$$\n「That is filthy!\n　Taking hostages... is that something a person does!!」",
+      "text": "$$レジスタンス$$\n「That is filthy! Taking hostages... is that something a\n　person does!!」",
       "status": "draft",
       "source_sha": "f31fe48dd8",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00038": {
       "text": "$$レジスタンス$$\n「Not again...!\n　Their cowardly tricks have got us again...」",
@@ -496,11 +502,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00010:00070": {
-      "text": "$$アドヴェント$$\n「Then let's fall back too, before the second wave arrives」",
+      "text": "$$アドヴェント$$\n「Then let's fall back too, before the second wave\n　arrives」",
       "status": "draft",
       "source_sha": "bc91c6d61b",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00071": {
       "text": "$$セツコ$$\n「...Please wait」",
@@ -524,11 +532,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00010:00074": {
-      "text": "$$アドヴェント$$\n「You want to say something about me shooting the enemy\n　while the hostage boy was there, is that it?」",
+      "text": "$$アドヴェント$$\n「You want to say something about me shooting the\n　enemy while the hostage boy was there, is that it?」",
       "status": "draft",
       "source_sha": "4b34333d26",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00075": {
       "text": "$$セツコ$$\n「Yes...」",
@@ -538,11 +548,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00010:00076": {
-      "text": "$$アドヴェント$$\n「I understand how you feel.\n　But I acted the way I did because I was absolutely certain\n　I wouldn't harm the boy」",
+      "text": "$$アドヴェント$$\n「I understand how you feel. But I acted the way I did\n　because I was absolutely certain I wouldn't harm the\n　boy」",
       "status": "draft",
       "source_sha": "39e2e22c78",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00077": {
       "text": "$$アドヴェント$$\n「In fact, he wasn't hurt at all,\n　and it gave you the chance to get out of danger」",
@@ -604,11 +616,13 @@
       ]
     },
     "rengoku:STGZ3REN_00010:00085": {
-      "text": "$$セツコ$$\n（I'll fight too...!\n　Even without the $$バルゴラ$$, as long as I carry the pride of\n　《$$グローリー・スター$$》 in my heart...!）",
+      "text": "$$セツコ$$\n（I'll fight too...! Even without the $$バルゴラ$$, as long as I\n　carry the pride of 《$$グローリー・スター$$》 in my heart...!）",
       "status": "draft",
       "source_sha": "fc7a5911d0",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00086": {
       "text": "$$セツコ$$\n（What is it...\n　This unpleasant feeling coming off this $$アンゲロイ$$...）",
@@ -625,18 +639,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00010:00088": {
-      "text": "$$ブルー$$\n（Even on this planet, there are people who keep resisting $$サイデリアル$$...!）",
+      "text": "$$ブルー$$\n（Even on this planet, there are people who keep\n　resisting $$サイデリアル$$...!）",
       "status": "draft",
       "source_sha": "38820be8a4",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00089": {
-      "text": "$$ブルー$$\n（Our fight isn't a lonely one...!\n　If we combine our strength, we should be able to keep fighting!）",
+      "text": "$$ブルー$$\n（Our fight isn't a lonely one...! If we combine our\n　strength, we should be able to keep fighting!）",
       "status": "draft",
       "source_sha": "4c08dd8df8",
       "source_member_sha256": "6dc5a61f37c9323bb39bea0ececd512f1757c53267f6dafd30359dd5ec362063",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00010:00090": {
       "text": "$$アドヴェント$$\n「Ah!」",

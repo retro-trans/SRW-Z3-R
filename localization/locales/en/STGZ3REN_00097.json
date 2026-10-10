@@ -32,11 +32,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00097:00004": {
-      "text": "$$アドヴェント$$\n「There's something we must do here, on this $$翠の地球$$」",
+      "text": "$$アドヴェント$$\n「There's something we must do here, on this\n　$$翠の地球$$」",
       "status": "draft",
       "source_sha": "bfb1e162a8",
       "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00097:00005": {
       "text": "$$セツコ$$\n「Liberating the $$中央大陸$$, right?」",
@@ -48,11 +50,13 @@
       ]
     },
     "rengoku:STGZ3REN_00097:00006": {
-      "text": "$$アドヴェント$$\n「That's right.\n　Fortunately, getting caught in the $$時空震動$$ means\n　$$サイデリアル$$ has lost track of us」",
+      "text": "$$アドヴェント$$\n「That's right. Fortunately, getting caught in the\n　$$時空震動$$ means $$サイデリアル$$ has lost track of us」",
       "status": "draft",
       "source_sha": "a0d242eb10",
       "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00097:00007": {
       "text": "$$クロウ$$\n「Caught in it...?\n　Wasn't that something you did?」",
@@ -62,11 +66,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00097:00008": {
-      "text": "$$アドヴェント$$\n「I'm sorry...\n　Even I don't fully understand what happened then...」",
+      "text": "$$アドヴェント$$\n「I'm sorry... Even I don't fully understand what\n　happened then...」",
       "status": "draft",
       "source_sha": "b4d179a8d1",
       "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00097:00009": {
       "text": "$$クロウ$$\n「...Forget it.\n　Now's not the time to talk about that」",
@@ -90,11 +96,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00097:00012": {
-      "text": "$$アドヴェント$$\n「Let's go...\n　We'll defeat the $$怨嗟の魔蠍$$ and free this continent\n　from $$サイデリアル$$'s grip」",
+      "text": "$$アドヴェント$$\n「Let's go... We'll defeat the $$怨嗟の魔蠍$$ and\n　free this continent from $$サイデリアル$$'s grip」",
       "status": "draft",
       "source_sha": "7ea4570df0",
       "source_member_sha256": "002ace1291378378962461fe4eedee40a0bda5356e8958996ade4fabf13fcbbe",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     }
   }
 }

@@ -95,12 +95,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00107:00013": {
-      "text": "$$アドヴェント$$\n「With $$蒼の地球$$ sealed off by the dimensional cage now,\n　he should still be on $$翠の地球$$」",
+      "text": "$$アドヴェント$$\n「With $$蒼の地球$$ sealed off by the dimensional cage\n　now, he should still be on $$翠の地球$$」",
       "status": "draft",
       "source_sha": "eafe3908dd",
       "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
       "notes": [
-        "Longest line 56 chars (dry-run warning); kept in full."
+        "Longest line 56 chars (dry-run warning); kept in full.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00107:00014": {
@@ -272,12 +273,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00107:00038": {
-      "text": "$$クロウ$$\n「That's a different guy from that $$ガドライト$$ one, right...?」",
+      "text": "$$クロウ$$\n「That's a different guy from that $$ガドライト$$ one,\n　right...?」",
       "status": "draft",
       "source_sha": "08e22366c2",
       "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
       "notes": [
-        "Longest line 58 chars (dry-run warning); kept in full."
+        "Longest line 58 chars (dry-run warning); kept in full.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00107:00039": {
@@ -323,12 +325,14 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00107:00045": {
-      "text": "$$クロウ$$\n「It's fine.\n　If Advent and the others do their part,\n　this Earth and that one should be able to travel between each other」",
+      "text": "$$クロウ$$\n「It's fine. If Advent and the others do their part,\n　travel between this Earth and the other one\n　should become possible」",
       "status": "draft",
       "source_sha": "a24b653dae",
       "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
       "notes": [
-        "Longest line 69 chars (dry-run warning); kept in full rather than cutting meaning."
+        "Longest line 69 chars (dry-run warning); kept in full rather than cutting meaning.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved.",
+        "Build022: independently reviewed subject correction or keyword word spacing; source identity and wrappers preserved."
       ]
     },
     "rengoku:STGZ3REN_00107:00046": {
@@ -346,19 +350,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00107:00048": {
-      "text": "$$セツコ$$\n「To that end, let's split up,\n　go after $$バルビエル$$,\n　and gather as much information on the enemy as we can」",
+      "text": "$$セツコ$$\n「To that end, let's split up, go after $$バルビエル$$, and\n　gather as much information on the enemy as we\n　can」",
       "status": "draft",
       "source_sha": "63f47f02ab",
       "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00107:00049": {
-      "text": "$$ランド$$\n「With $$セントラル・ベース$$ here,\n　the north of the central continent should be safe for now」",
+      "text": "$$ランド$$\n「With $$セントラル・ベース$$ here, the north of the central\n　continent should be safe for now」",
       "status": "draft",
       "source_sha": "a72e0dc4f3",
       "source_member_sha256": "b249fbdfb46a12c2740e8b0ffe0b3b95402f66d2b0770b2659e44561323d5d91",
       "notes": [
-        "Longest line 59 chars (dry-run warning); kept in full."
+        "Longest line 59 chars (dry-run warning); kept in full.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00107:00050": {

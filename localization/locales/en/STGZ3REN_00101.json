@@ -95,11 +95,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00101:00013": {
-      "text": "$$ランド$$\n「It's got nothing to do with woman or man.\n　I know you're not the kind of man who shoots a former\n　comrade without hesitating」",
+      "text": "$$ランド$$\n「It's got nothing to do with woman or man. I know\n　you're not the kind of man who shoots a former\n　comrade without hesitating」",
       "status": "draft",
       "source_sha": "cab5d52c37",
       "source_member_sha256": "bd74acb8ff6439ef84d0bb94416165888fdf61f757cf2a41c6b0f497dfecb5c0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00101:00014": {
       "text": "$$メール$$\n「That's right!\n　Because you're that kind of person, $$エスター$$,\n　Dr. $$トライア$$, and $$マルグリット$$...」",
@@ -244,11 +246,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00101:00034": {
-      "text": "$$ランド$$\n「There are plenty of people out there who don't resent\n　others and try to make things work through\n　their own strength」",
+      "text": "$$ランド$$\n「There are plenty of people out there who don't\n　resent others and try to make things work through\n　their own strength」",
       "status": "draft",
       "source_sha": "9f491fa967",
       "source_member_sha256": "bd74acb8ff6439ef84d0bb94416165888fdf61f757cf2a41c6b0f497dfecb5c0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00101:00035": {
       "text": "$$オリオン$$\n「I'm just stating facts.\n　After all, she's mastered that $$スフィア$$\n　they call the $$怨嗟の魔蠍$$」",
@@ -328,11 +332,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00101:00046": {
-      "text": "$$クロウ$$\n「In the end, she never opened her heart to us, did she」",
+      "text": "$$クロウ$$\n「In the end, she never opened her heart to us, did\n　she」",
       "status": "draft",
       "source_sha": "fb0af1ab8f",
       "source_member_sha256": "bd74acb8ff6439ef84d0bb94416165888fdf61f757cf2a41c6b0f497dfecb5c0",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00101:00047": {
       "text": "$$ランド$$\n「I don't think that's entirely true」",

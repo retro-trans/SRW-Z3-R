@@ -81,11 +81,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00011": {
-      "text": "$$ランド$$\n「And while we're at it, how'd you get transported here?\n　Think it's about time you told us that too」",
+      "text": "$$ランド$$\n「And while we're at it, how'd you get transported\n　here? Think it's about time you told us that too」",
       "status": "draft",
       "source_sha": "21b0760641",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00012": {
       "text": "$$アドヴェント$$\n「...I suppose I can't stay silent forever...」",
@@ -102,11 +104,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00014": {
-      "text": "$$セツコ$$\n「But as comrades who'll be fighting together from now on,\n　I'd like to know at least the bare minimum」",
+      "text": "$$セツコ$$\n「But as comrades who'll be fighting together from\n　now on, I'd like to know at least the bare minimum」",
       "status": "draft",
       "source_sha": "be6591f1ee",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00015": {
       "text": "$$アドヴェント$$\n「Comrades... huh...\n　That's a welcome thing to hear」",
@@ -144,11 +148,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00020": {
-      "text": "$$アドヴェント$$\n「$$ブルー$$ and I came from an Earth different from this one...」",
+      "text": "$$アドヴェント$$\n「$$ブルー$$ and I came from an Earth different from this\n　one...」",
       "status": "draft",
       "source_sha": "92e90f2d50",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00021": {
       "text": "$$アドヴェント$$\n「It's located physically close to this Earth」",
@@ -186,11 +192,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00026": {
-      "text": "$$アドヴェント$$\n「Our Earth... let me call it the $$蒼の地球$$,\n　exists—under normal circumstances—in the same world\n　as this one, the so-called $$翠の地球$$」",
+      "text": "$$アドヴェント$$\n「Our Earth... let me call it the $$蒼の地球$$,\n　exists—under normal circumstances—in the same\n　world as this one, the so-called $$翠の地球$$」",
       "status": "draft",
       "source_sha": "ee5855cb74",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00027": {
       "text": "$$ランド$$\n「Two Earths in one world...!?」",
@@ -207,18 +215,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00029": {
-      "text": "$$アドヴェント$$\n「That's right.\n　That spacequake—we call it the 《$$新世時空震動$$》...」",
+      "text": "$$アドヴェント$$\n「That's right. That spacequake—we call it the\n　《$$新世時空震動$$》...」",
       "status": "draft",
       "source_sha": "f1564296ae",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00030": {
-      "text": "$$アドヴェント$$\n「Because of it, the $$蒼の地球$$ is trapped in a dimensional cage...\n　that is, sealed away in an isolated dimension」",
+      "text": "$$アドヴェント$$\n「Because of it, the $$蒼の地球$$ is trapped in a\n　dimensional cage... that is, sealed away in an\n　isolated dimension」",
       "status": "draft",
       "source_sha": "4853de0231",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00031": {
       "text": "$$アドヴェント$$\n「And the one who caused that $$新世時空震動$$...\n　that is $$サイデリアル$$」",
@@ -249,18 +261,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00035": {
-      "text": "$$アドヴェント$$\n「My goal is to defeat $$サイデリアル$$, the root cause of it all,\n　in order to save the $$蒼の地球$$ trapped in the dimensional cage」",
+      "text": "$$アドヴェント$$\n「My goal is to defeat $$サイデリアル$$, the root cause of it all,\n　in order to save the $$蒼の地球$$ trapped in the\n　dimensional cage」",
       "status": "draft",
       "source_sha": "7a85a81e7b",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00036": {
-      "text": "$$セツコ$$\n「Wait, $$アドヴェント$$.\n　Just how did you learn this $$翠の地球$$ even existed?」",
+      "text": "$$セツコ$$\n「Wait, $$アドヴェント$$. Just how did you learn this $$翠の地球$$\n　even existed?」",
       "status": "draft",
       "source_sha": "9d8786ebfb",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00037": {
       "text": "$$ランド$$\n「And how'd you get out here from an Earth\n　inside the dimensional cage?」",
@@ -291,18 +307,22 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00041": {
-      "text": "$$アドヴェント$$\n「To save the $$蒼の地球$$, I broke through the dimensional cage\n　several times and investigated the surrounding area」",
+      "text": "$$アドヴェント$$\n「To save the $$蒼の地球$$, I broke through the\n　dimensional cage several times and investigated the\n　surrounding area」",
       "status": "draft",
       "source_sha": "0f0e0f8634",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00042": {
-      "text": "$$セツコ$$\n「A machine that breaks through the dimensional wall alone...」",
+      "text": "$$セツコ$$\n「A machine that breaks through the dimensional wall\n　alone...」",
       "status": "draft",
       "source_sha": "4c45ae7a8e",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00043": {
       "text": "$$ランド$$\n「And piloting it, are you a $$スフィア・リアクター$$ after all?」",
@@ -461,11 +481,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00065": {
-      "text": "$$アドヴェント$$\n「On the $$蒼の地球$$, we exchanged information\n　several times to break through the dimensional cage」",
+      "text": "$$アドヴェント$$\n「On the $$蒼の地球$$, we exchanged information several\n　times to break through the dimensional cage」",
       "status": "draft",
       "source_sha": "804faf29f4",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00021:00066": {
       "text": "$$ブルー$$\n（Just as expected of the captain...\n　to have made contact even with Dr. $$トライア$$,\n　an authority in hyperspacetime physics...）",

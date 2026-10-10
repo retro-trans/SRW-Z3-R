@@ -55,11 +55,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00007": {
-      "text": "$$クロウ$$\n「Hurry up!\n　If we run $$アドヴェント$$'s custom virus program,\n　we can knock the $$次元転移砲$$ out of action!」",
+      "text": "$$クロウ$$\n「Hurry up! If we run $$アドヴェント$$'s custom virus program,\n　we can knock the $$次元転移砲$$ out\n　of action!」",
       "status": "draft",
       "source_sha": "38c6dbac03",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00008": {
       "text": "$$クラヴィア$$\n「If he can make something that amazing,\n　you'd think $$アドヴェント$$ could just hack it\n　himself...」",
@@ -97,11 +99,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00013": {
-      "text": "$$クラヴィア$$\n「It's always... always been like this...\n　Whenever someone expects something of me... I let them down...\n　I'm...」",
+      "text": "$$クラヴィア$$\n「It's always... always been like this... Whenever\n　someone expects something of me... I let them\n　down... I'm...」",
       "status": "draft",
       "source_sha": "1d19627197",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00014": {
       "text": "$$クラヴィア$$\n「So even if this is left to someone like me...」",
@@ -125,11 +129,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00017": {
-      "text": "$$クロウ$$\n「I don't give a damn about who you were before you met us」",
+      "text": "$$クロウ$$\n「I don't give a damn about who you were before you\n　met us」",
       "status": "draft",
       "source_sha": "17247fb0e5",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00018": {
       "text": "$$クロウ$$\n「The $$クラヴィア・アーゴ$$ I know\n　is a little scatterbrained, but when it counts,\n　she's a woman who sticks to her own will」",
@@ -139,11 +145,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00019": {
-      "text": "$$クロウ$$\n「A person like that pulls off something big when it matters most...\n　That's why me and everyone else bet on you」",
+      "text": "$$クロウ$$\n「A person like that pulls off something big when it\n　matters most... That's why me and everyone else bet\n　on you」",
       "status": "draft",
       "source_sha": "7da51eb9ee",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00020": {
       "text": "$$クラヴィア$$\n「$$クロウ$$...」",
@@ -258,25 +266,31 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00036": {
-      "text": "$$ランド$$\n「Come on...\n　You barely ever talk, and that's the line you go with!?」",
+      "text": "$$ランド$$\n「Come on... You barely ever talk, and that's the line\n　you go with!?」",
       "status": "draft",
       "source_sha": "9a5d21e4d3",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00037": {
-      "text": "$$クロウ$$\n「Yeah, well.\n　I was born under a star that doesn't get along with women,\n　but hating each other is where I draw the line」",
+      "text": "$$クロウ$$\n「Yeah, well. I was born under a star that doesn't get\n　along with women, but hating each other is where I\n　draw the line」",
       "status": "draft",
       "source_sha": "498017246d",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00038": {
-      "text": "$$ブルー$$\n「The $$レジスタンス$$ members who were running diversions\n　nearby are gathering at this base one after another」",
+      "text": "$$ブルー$$\n「The $$レジスタンス$$ members who were running\n　diversions nearby are gathering at this base one\n　after another」",
       "status": "draft",
       "source_sha": "5b4a91c740",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00039": {
       "text": "$$セツコ$$\n「So this will be our base of operations from now on」",
@@ -300,11 +314,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00042": {
-      "text": "$$アドヴェント$$\n「Have you found where the $$スフィア$$-equipped unit went?」",
+      "text": "$$アドヴェント$$\n「Have you found where the $$スフィア$$-equipped unit\n　went?」",
       "status": "draft",
       "source_sha": "6199f3a9ad",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00043": {
       "text": "$$クラヴィア$$\n「No... not yet on that,\n　but as for what that $$レイライン|lc$$ does...」",
@@ -321,12 +337,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00045": {
-      "text": "$$クラヴィア$$\n「That's... it's laid out along the earth's veins,\n　and it draws out this planet's own $$次元力$$」",
+      "text": "$$クラヴィア$$\n「That's... it's laid out along the earth's veins, and it\n　draws out this planet's own $$次元力$$」",
       "status": "draft",
       "source_sha": "c223446376",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
       "notes": [
-        "地脈 (earth veins/ley veins) translated as plain 'earth's veins', kept distinct from the glossary term レイライン (Ley Line) to avoid conflating two different Japanese words."
+        "地脈 (earth veins/ley veins) translated as plain 'earth's veins', kept distinct from the glossary term レイライン (Ley Line) to avoid conflating two different Japanese words.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00045:00046": {
@@ -365,18 +382,24 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00045:00051": {
-      "text": "$$クロウ$$\n「Just like that $$レイライン|lc$$,\n　it has the function of drawing out the Earth's $$次元力$$」",
+      "text": "$$クロウ$$\n「Just like that $$レイライン|lc$$, it has the function of drawing\n　out the Earth's $$次元力$$」",
       "status": "draft",
       "source_sha": "9f58ecacf3",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00052": {
-      "text": "$$クロウ$$\n「And then, 《$$ＺＯＮＥ$$》ran out of control\n　and turned the Earth where $$インサラウム$$ was into a dead planet...」",
+      "text": "$$クロウ$$\n「And then, 《$$ＺＯＮＥ$$》 ran out of control and turned\n　the Earth where $$インサラウム$$ was into a dead planet...」",
       "status": "draft",
       "source_sha": "50477103fb",
       "source_member_sha256": "6f1b6e9dbd54b647f3510f74e0b9fb079d7191eac2cb43e5f8136c3d5c71bc0e",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved.",
+        "Build020: separate linked keyword from following English word; link order and identity preserved.",
+        "Build020: separate linked keyword from following English word; link order and identity preserved."
+      ]
     },
     "rengoku:STGZ3REN_00045:00053": {
       "text": "$$クラヴィア$$\n「Huh...!?」",

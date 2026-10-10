@@ -624,7 +624,7 @@
       "source_sha256": "dd38174d7151a8cad1aa966b901447d183105bb64deb4b43f560a5453dc28407"
     },
     "library:666be53bd234d499": {
-      "text": "His full name is Aim Liard.\nThe bearer of the Lying Black Sheep Sphere, he pilots the mobile weapon Arietis.\nDuring the Destruction Incident, he summoned Gaiou, King of Destruction, to plunge the world into chaos and operated behind the scenes as the strategist of the New Empire Imperium.\nHe was believed to have died in the battle in Antarctica near the end of the incident, but his death was a deception created through the Sphere's power.\nPursuing his own aims, he supplied dimensional science to Ambrone Zius of Insaraum. Much of his intent remains unknown, but his linking of two worlds through the Abyss near the end of the Regeneration War appears to have served a purpose beyond hunting other Sphere bearers.\nThe Lying Black Sheep Sphere governs human lies, and its bearer likewise fills his words and actions with falsehoods, making his true intentions difficult to discern. Partly consumed by the Sphere, he becomes unable to say anything true, or indeed meaningful, when his emotions rise.\nAim Liard is an alias. His real name is Hamal Argo. Originally a researcher of the Lying Black Sheep Sphere, he was drawn into it because of his aptitude.\nNear the end of the Regeneration War, Asakim Dowen rendered him powerless using the Inquisitive Goat Sphere, the natural enemy of the Lying Black Sheep. He was then slain by Uther Insaraum, ruler of the Holy Kingdom he had manipulated.",
+      "text": "His full name is Aim Liard.\nThe bearer of the Lying Black Sheep Sphere, he pilots the mobile weapon Arietis.\nDuring the Destruction Incident, he summoned Gaiou, King of Destruction, to plunge the world into chaos and operated behind the scenes as the strategist of the New Empire Imperium.\nHe was believed to have died in the battle in Antarctica near the end of the incident, but his death was a deception created through the Sphere's power.\nPursuing his own aims, he supplied dimensional science to Ambrone Zius of Insaraum. Much of his intent remains unknown, but his linking of two worlds through the Abyss near the end of the Regeneration War appears to have served a purpose beyond hunting other Sphere bearers.\nThe Lying Black Sheep Sphere governs human lies, and its bearer likewise fills his words and actions with falsehoods, making his true intentions difficult to discern. Partly consumed by the Sphere, he becomes unable to say anything true, or indeed meaningful, when his emotions rise.\nAim Liard is an alias. His real name is Hamal Argo. Originally a researcher of the Lying Black Sheep Sphere, he was drawn into it because of his aptitude.\nNear the end of the Regeneration War, Asakim Dowin rendered him powerless using the Inquisitive Goat Sphere, the natural enemy of the Lying Black Sheep. He was then slain by Uther Insaraum, ruler of the Holy Kingdom he had manipulated.",
       "status": "draft",
       "occurrences": [
         "nd:d49c70834ce2e0fcc96f",
@@ -765,7 +765,7 @@
       "source_sha256": "c2810db52aa2f7c536f3c36f4e789593c531096fe5699bb3cecd71a8cbb6fe6e"
     },
     "library:2809c2614f8515b6": {
-      "text": "His full name is Asakim Dowen.\nA young man who committed a terrible sin in the past, he is forbidden even to die and wanders through countless spacetimes with Shurouga.\nTo escape this fate, he seeks the power of Taiji and has joined the battle among the bearers of Spheres, fragments of Taiji's will.\nHe was sealed inside the ZONE on Mars near the end of the Regeneration War.",
+      "text": "His full name is Asakim Dowin.\nA young man who committed a terrible sin in the past, he is forbidden even to die and wanders through countless spacetimes with Shurouga.\nTo escape this fate, he seeks the power of Taiji and has joined the battle among the bearers of Spheres, fragments of Taiji's will.\nHe was sealed inside the ZONE on Mars near the end of the Regeneration War.",
       "status": "draft",
       "occurrences": [
         "nd:68824e0ea6891958d872",
@@ -858,7 +858,7 @@
       "source_sha256": "24d4e98611cce7ee0b987fd11a7dc2f12a2bb35ee3b0a19e1a83b3fb42a7d61a"
     },
     "library:8581931f0b5ea6b9": {
-      "text": "The jet-black humanoid mobile weapon piloted by Asakim Dowen.\nIt boasts extraordinary mobility, using its speed to bewilder its enemies. Its primary weapon is the demon king's sword, Discalibur.\nIt can also transform into a high-speed cruising form. A perpetual-motion engine serves as its main power source, and it demonstrates various extraordinary abilities, but its technology and development history remain shrouded in mystery.",
+      "text": "The jet-black humanoid mobile weapon piloted by Asakim Dowin.\nIt boasts extraordinary mobility, using its speed to bewilder its enemies. Its primary weapon is the demon king's sword, Discalibur.\nIt can also transform into a high-speed cruising form. A perpetual-motion engine serves as its main power source, and it demonstrates various extraordinary abilities, but its technology and development history remain shrouded in mystery.",
       "status": "draft",
       "occurrences": [
         "nd:a1a162f22e2c12ad67f6",
@@ -1954,7 +1954,7 @@
       "source_sha256": "182011c53fac67b67892f5284f51e765459f9108d2742a8f868300fa35565a74"
     },
     "library:c8377552fa4cdf23": {
-      "text": "Sidereal's latest mass-produced mobile weapon.\nIt is generally unmanned and controlled by AI.\nCompared with the Demon, which follows the same design concept, its firepower and durability are greatly improved. Its overall combat power rivals that of a standard-issue Angeloi.",
+      "text": "Sidereal's latest mass-produced mobile weapon.\nIt is generally unmanned and controlled by AI.\nCompared with the Daimon, which follows the same design concept, its firepower and durability are greatly improved. Its overall combat power rivals that of a standard-issue Angeloi.",
       "status": "draft",
       "occurrences": [
         "nd:b4218b5cd445d57ecb2c",
@@ -2624,7 +2624,7 @@
       "notes": "The Japanese specifies per turn, not per phase."
     },
     "gameplay:ca8836083e2835c1": {
-      "text": "Allows the Material Transfer command once per map. Material Transfer lets this unit use a Repair Kit, Propellant Tank, or Cartridge on itself.",
+      "text": "Once per map, Material Transfer lets this unit use a Repair Kit, Propellant Tank or Cartridge on itself.",
       "status": "draft",
       "occurrences": [
         "nd:df8071c2d9d8fe28589a"
@@ -2632,10 +2632,13 @@
       "source_sha256": "ca8836083e2835c1597377c2104ed46e0ee0f42a5946955b1e37a53c0e99f41c",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_01.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:30cad9684251c5d9": {
-      "text": "Allows the Material Transfer command once per map. Material Transfer lets this unit use a Repair Kit, Propellant Tank, or Cartridge on itself.",
+      "text": "Once per map, Material Transfer lets this unit use a Repair Kit, Propellant Tank or Cartridge on itself.",
       "status": "draft",
       "occurrences": [
         "nd:7a58ccec83f0553a87b5"
@@ -2643,6 +2646,9 @@
       "source_sha256": "30cad9684251c5d967893bbf974e67e5483b05ecbbfacc3b45d2f8dca1970329",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_01.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:714db751ae03435b": {
@@ -13748,7 +13754,7 @@
       ]
     },
     "gameplay:515dc6f0f7ab972a": {
-      "text": "Ending the player phase without acting grants Zeal and Accel, and restores 5 SP to every main pilot on the team. In a tag team, this skill has no effect if held by the sub-unit.",
+      "text": "End your phase without acting: Zeal + Accel.\nAll main pilots on your team regain 5 SP.\nNo effect when held by the sub-unit.",
       "status": "draft",
       "occurrences": [
         "nd:773359a9b2952eaca293"
@@ -13756,10 +13762,13 @@
       "source_sha256": "515dc6f0f7ab972a9fc31eafbcf455b706a3c7a3551ffcd0a855e6f8f0e352b0",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_05.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:e185759240aba50f": {
-      "text": "Ending the player phase without acting grants Zeal and Accel, and restores 5 SP to the team's main pilots. Has no effect in the sub-unit.",
+      "text": "End your phase without acting: Zeal + Accel.\nAll main pilots on your team regain 5 SP.\nNo effect when held by the sub-unit.",
       "status": "draft",
       "occurrences": [
         "nd:8ec2c57b38325f35aff9"
@@ -13767,6 +13776,9 @@
       "source_sha256": "e185759240aba50fa9008c54911ca7cd9824d432d618907a6089a3b9ad6dc58a",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_05.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:f35ce52686a23a5f": {
@@ -14020,7 +14032,7 @@
       ]
     },
     "gameplay:f211f0da6ea5f917": {
-      "text": "Increases damage dealt to opponents with lower Skill and reduces damage received from them. Higher levels improve the effect. Affects opponents within skill level x 2 squares.",
+      "text": "Deal more and take less damage vs. lower Skill. Effect grows with skill level. Range: skill level x 2 squares.",
       "status": "draft",
       "occurrences": [
         "nd:485af6071a66b6435750"
@@ -14028,10 +14040,13 @@
       "source_sha256": "f211f0da6ea5f91745ceb75aa5d54977583dd232d6f50acfb37a420d2e3a1ac4",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_05.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:d7255b632dc408d6": {
-      "text": "Increases damage dealt to opponents with lower Skill and reduces damage received from them. Higher levels improve the effect. Affects opponents within skill level x 2 squares.",
+      "text": "Deal more and take less damage vs. lower Skill. Effect grows with skill level. Range: skill level x 2 squares.",
       "status": "draft",
       "occurrences": [
         "nd:6cb95f8c6dc04d6e30b5"
@@ -14039,6 +14054,9 @@
       "source_sha256": "d7255b632dc408d69fd78f45266955c9765dc277f61a3a197db5c764848db5af",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_05.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:f90876b26f93c56f": {
@@ -15392,7 +15410,7 @@
       ]
     },
     "gameplay:41a875cb12545f83": {
-      "text": "Lowers the opponent's Focus by 3 after battle. If this pilot is on the map when your forces' repair costs are calculated, all repair costs are waived.",
+      "text": "After battle, the foe's Focus -3. No repair costs if this pilot is deployed when those costs are calculated.",
       "status": "reviewed",
       "occurrences": [
         "nd:3b2f4e8cf5efa380d683"
@@ -15405,10 +15423,10 @@
         "match": "exact Japanese source; requires context review"
       },
       "review": "work\\non_dialogue_reviews\\gameplay.json",
-      "notes": "Restore battle as the trigger, not a successful hit. Preserve the stated repair-bill timing without adding a stage-end-only restriction."
+      "notes": "Restore battle as the trigger, not a successful hit. Preserve the stated repair-bill timing without adding a stage-end-only restriction. Build019: source-reviewed wording for measured panel bounds."
     },
     "gameplay:70c264d2aee00932": {
-      "text": "Lowers the opponent's Focus by 3 after battle. If this pilot is on the map when your forces' repair costs are calculated, all repair costs are waived.",
+      "text": "After battle, the foe's Focus -3. No repair costs if this pilot is deployed when those costs are calculated.",
       "status": "reviewed",
       "occurrences": [
         "nd:35db8eb567f390c96c38"
@@ -15421,7 +15439,7 @@
         "match": "exact Japanese source; requires context review"
       },
       "review": "work\\non_dialogue_reviews\\gameplay.json",
-      "notes": "Restore battle as the trigger, not a successful hit. Preserve the stated repair-bill timing without adding a stage-end-only restriction."
+      "notes": "Restore battle as the trigger, not a successful hit. Preserve the stated repair-bill timing without adding a stage-end-only restriction. Build019: source-reviewed wording for measured panel bounds."
     },
     "gameplay:67930dda0fe9d3f6": {
       "text": "Combat Prog",
@@ -17114,7 +17132,7 @@
       ]
     },
     "gameplay:b9c1b629cb7aa99a": {
-      "text": "May attack before the enemy when counterattacking.\nChance depends on skill level and Skill stat\ndifference. No effect as a team's sub-unit.",
+      "text": "May counter first; chance depends on skill level and the Skill stat difference. No effect when held by the team's sub-unit.",
       "status": "reference_draft",
       "occurrences": [
         "nd:74eea4d829cabf4be085"
@@ -17128,10 +17146,13 @@
       },
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:2cb70508ed11fddb": {
-      "text": "May attack before the enemy when counterattacking.\nChance depends on skill level and Skill stat\ndifference. No effect as a team's sub-unit.",
+      "text": "May counter first; chance depends on skill level and the Skill stat difference. No effect when held by the team's sub-unit.",
       "status": "reference_draft",
       "occurrences": [
         "nd:80d3d2024bd6215b011b"
@@ -17145,6 +17166,9 @@
       },
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "gameplay:16102f4a80a7e011": {
@@ -20544,7 +20568,7 @@
       ]
     },
     "interface:e9f6530cad498ede": {
-      "text": "All weapon ranges +1, excluding MAP weapons and weapons with a range of 1.",
+      "text": "Weapon range +1, except MAP and range-1 weapons.",
       "status": "draft",
       "occurrences": [
         "nd:83d39a05c2237fc582f1"
@@ -20552,6 +20576,9 @@
       "source_sha256": "e9f6530cad498ede86becbac452fbd559d2ab413944cf3bb5aa1d1f400a0443f",
       "reviews": [
         "work\\non_dialogue_reviews\\interface_01.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "interface:178f84f8da396f7d": {
@@ -20566,7 +20593,7 @@
       ]
     },
     "interface:46fa24306e542f69": {
-      "text": "All song ranges +1, excluding MAP songs and songs with a range of 1.",
+      "text": "Song range +1, except MAP songs and range-1 songs.",
       "status": "draft",
       "occurrences": [
         "nd:2cc6468d71f3cd14cf93"
@@ -20574,6 +20601,9 @@
       "source_sha256": "46fa24306e542f696d09348df0912b0d1c8575fa8c01bfdcd38ad48d14d6428d",
       "reviews": [
         "work\\non_dialogue_reviews\\interface_01.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "interface:1fee34f7d99a2f77": {
@@ -36013,7 +36043,7 @@
       ]
     },
     "interface:f446f2b2a924528c": {
-      "text": "All weapon ranges +1, excluding MAP weapons and weapons with a range of 1.",
+      "text": "Weapon range +1, except MAP and range-1 weapons.",
       "status": "draft",
       "occurrences": [
         "nd:5e8b3e0778fc95e1e763"
@@ -36021,6 +36051,9 @@
       "source_sha256": "f446f2b2a924528ce001f9c4bd30fcb6e819e414f2bfc6c923d81d59864ef657",
       "reviews": [
         "work\\non_dialogue_reviews\\interface_08.json"
+      ],
+      "notes": [
+        "Build019: source-reviewed wording for measured panel bounds."
       ]
     },
     "interface:884ba2e19b506d5f": {
@@ -65469,7 +65502,7 @@
       "terminology_review": "analysis/non_dialogue_terminology_applied.json"
     },
     "interface:666be53bd234d499": {
-      "text": "His full name is Aim Liard.\nThe bearer of the Lying Black Sheep Sphere, he pilots the mobile weapon Arietis.\nDuring the Destruction Incident, he summoned Gaiou, King of Destruction, to plunge the world into chaos and operated behind the scenes as the strategist of the New Empire Imperium.\nHe was believed to have died in the battle in Antarctica near the end of the incident, but his death was a deception created through the Sphere's power.\nPursuing his own aims, he supplied dimensional science to Ambrone Zius of Insaraum. Much of his intent remains unknown, but his linking of two worlds through the Abyss near the end of the Regeneration War appears to have served a purpose beyond hunting other Sphere bearers.\nThe Lying Black Sheep Sphere governs human lies, and its bearer likewise fills his words and actions with falsehoods, making his true intentions difficult to discern. Partly consumed by the Sphere, he becomes unable to say anything true, or indeed meaningful, when his emotions rise.\nAim Liard is an alias. His real name is Hamal Argo. Originally a researcher of the Lying Black Sheep Sphere, he was drawn into it because of his aptitude.\nNear the end of the Regeneration War, Asakim Dowen rendered him powerless using the Inquisitive Goat Sphere, the natural enemy of the Lying Black Sheep. He was then slain by Uther Insaraum, ruler of the Holy Kingdom he had manipulated.",
+      "text": "His full name is Aim Liard.\nThe bearer of the Lying Black Sheep Sphere, he pilots the mobile weapon Arietis.\nDuring the Destruction Incident, he summoned Gaiou, King of Destruction, to plunge the world into chaos and operated behind the scenes as the strategist of the New Empire Imperium.\nHe was believed to have died in the battle in Antarctica near the end of the incident, but his death was a deception created through the Sphere's power.\nPursuing his own aims, he supplied dimensional science to Ambrone Zius of Insaraum. Much of his intent remains unknown, but his linking of two worlds through the Abyss near the end of the Regeneration War appears to have served a purpose beyond hunting other Sphere bearers.\nThe Lying Black Sheep Sphere governs human lies, and its bearer likewise fills his words and actions with falsehoods, making his true intentions difficult to discern. Partly consumed by the Sphere, he becomes unable to say anything true, or indeed meaningful, when his emotions rise.\nAim Liard is an alias. His real name is Hamal Argo. Originally a researcher of the Lying Black Sheep Sphere, he was drawn into it because of his aptitude.\nNear the end of the Regeneration War, Asakim Dowin rendered him powerless using the Inquisitive Goat Sphere, the natural enemy of the Lying Black Sheep. He was then slain by Uther Insaraum, ruler of the Holy Kingdom he had manipulated.",
       "status": "local_exact_draft",
       "occurrences": [
         "nd:88f15bc29264ea3839e7"
@@ -65500,7 +65533,7 @@
       ]
     },
     "interface:2809c2614f8515b6": {
-      "text": "His full name is Asakim Dowen.\nA young man who committed a terrible sin in the past, he is forbidden even to die and wanders through countless spacetimes with Shurouga.\nTo escape this fate, he seeks the power of Taiji and has joined the battle among the bearers of Spheres, fragments of Taiji's will.\nHe was sealed inside the ZONE on Mars near the end of the Regeneration War.",
+      "text": "His full name is Asakim Dowin.\nA young man who committed a terrible sin in the past, he is forbidden even to die and wanders through countless spacetimes with Shurouga.\nTo escape this fate, he seeks the power of Taiji and has joined the battle among the bearers of Spheres, fragments of Taiji's will.\nHe was sealed inside the ZONE on Mars near the end of the Regeneration War.",
       "status": "local_exact_draft",
       "occurrences": [
         "nd:3aa498d1f20164a4e24f"
@@ -65866,7 +65899,7 @@
       ]
     },
     "interface:8581931f0b5ea6b9": {
-      "text": "The jet-black humanoid mobile weapon piloted by Asakim Dowen.\nIt boasts extraordinary mobility, using its speed to bewilder its enemies. Its primary weapon is the demon king's sword, Discalibur.\nIt can also transform into a high-speed cruising form. A perpetual-motion engine serves as its main power source, and it demonstrates various extraordinary abilities, but its technology and development history remain shrouded in mystery.",
+      "text": "The jet-black humanoid mobile weapon piloted by Asakim Dowin.\nIt boasts extraordinary mobility, using its speed to bewilder its enemies. Its primary weapon is the demon king's sword, Discalibur.\nIt can also transform into a high-speed cruising form. A perpetual-motion engine serves as its main power source, and it demonstrates various extraordinary abilities, but its technology and development history remain shrouded in mystery.",
       "status": "local_exact_draft",
       "occurrences": [
         "nd:34fc9faded3ba57c8be2"

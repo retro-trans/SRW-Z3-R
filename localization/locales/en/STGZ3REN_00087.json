@@ -11,11 +11,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00087:00001": {
-      "text": "$$クロウ$$\n「We... got thrown here by that $$時空震動$$ just now...?」",
+      "text": "$$クロウ$$\n「We... got thrown here by that $$時空震動$$ just\n　now...?」",
       "status": "draft",
       "source_sha": "0ed2876f7f",
       "source_member_sha256": "0ef29ccca386ff282f7d71dfeaa3e31ee4f520f353ce5630e679c28eef965444",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00087:00002": {
       "text": "$$メール$$\n「Look, darling!\n　The sea is blue!」",

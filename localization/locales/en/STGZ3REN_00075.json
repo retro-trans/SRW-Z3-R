@@ -144,11 +144,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00075:00020": {
-      "text": "$$メール$$\n「Won't you join some $$レジスタンス$$ group somewhere?」",
+      "text": "$$メール$$\n「Won't you join some $$レジスタンス$$ group\n　somewhere?」",
       "status": "draft",
       "source_sha": "60cbee9996",
       "source_member_sha256": "f4d5f371bd89a0a7455142fa0e0aa7b3c518616f6a4c73472ad97129e3609e1a",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00075:00021": {
       "text": "$$サルディアス$$\n「I may not look it, but I'm shy around strangers.\n　And, just between us...」",
@@ -393,7 +395,7 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00075:00055": {
-      "text": "$$クロウ$$\n「...《$$アサキム$$》 Dowen and 《$$シュロウガ$$》...」",
+      "text": "$$クロウ$$\n「...《$$アサキム$$》 Dowin and 《$$シュロウガ$$》...」",
       "status": "draft",
       "source_sha": "aef4a07eb6",
       "source_member_sha256": "f4d5f371bd89a0a7455142fa0e0aa7b3c518616f6a4c73472ad97129e3609e1a",

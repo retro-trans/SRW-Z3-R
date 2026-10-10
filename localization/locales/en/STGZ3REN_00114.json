@@ -118,11 +118,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00114:00016": {
-      "text": "$$メール$$\n「...That was a bad example.\n　Please take good care of your game consoles, everyone」",
+      "text": "$$メール$$\n「...That was a bad example. Please take good care of\n　your game consoles, everyone」",
       "status": "draft",
       "source_sha": "0216fecb12",
       "source_member_sha256": "24f6994e8fb1f46c94ab69b597a85c32ef849c18da2088efb1c5b03aaa922b3c",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00114:00017": {
       "text": "$$ランド$$\n「Well then, see you around!」",
@@ -223,11 +225,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00114:00031": {
-      "text": "$$セツコ$$\n「Did you know? Chocolate actually goes well with beer」",
+      "text": "$$セツコ$$\n「Did you know? Chocolate actually goes well with\n　beer」",
       "status": "draft",
       "source_sha": "4eff052559",
       "source_member_sha256": "24f6994e8fb1f46c94ab69b597a85c32ef849c18da2088efb1c5b03aaa922b3c",
-      "notes": []
+      "notes": [
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
+      ]
     },
     "rengoku:STGZ3REN_00114:00032": {
       "text": "$$セツコ$$\n「I'll be careful not to drink too much\n　and end up with regrets.\n　Well then, everyone... let's meet again」",
@@ -279,12 +283,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00114:00039": {
-      "text": "$$アドヴェント$$\n「Link the clear data from this 『Rengoku-hen』\n　to 『Tengoku-hen』, and something good will happen」",
+      "text": "$$アドヴェント$$\n「Link the clear data from this 『Rengoku-hen』 to\n　『Tengoku-hen』, and something good will happen」",
       "status": "draft",
       "source_sha": "0face1a8d6",
       "source_member_sha256": "24f6994e8fb1f46c94ab69b597a85c32ef849c18da2088efb1c5b03aaa922b3c",
       "notes": [
-        "『連獄篇』/『天獄篇』 rendered as the established romanized titles Rengoku-hen/Tengoku-hen (per AGENTS.md, this is NPJB00689 Rengoku-hen; Tengoku-hen is the paired Z3 volume), kept in 『』 per convention rather than as $$...$$ glossary keys."
+        "『連獄篇』/『天獄篇』 rendered as the established romanized titles Rengoku-hen/Tengoku-hen (per AGENTS.md, this is NPJB00689 Rengoku-hen; Tengoku-hen is the paired Z3 volume), kept in 『』 per convention rather than as $$...$$ glossary keys.",
+        "Build019: measured dialogue reflow; speaker, wrappers, links and word order preserved."
       ]
     },
     "rengoku:STGZ3REN_00114:00040": {
