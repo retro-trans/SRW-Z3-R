@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-10-15 — 0.1.5 release preparation
+## 2026-10-15 — Published 0.1.5
 
 - Complete build026/title footer v0.1.5 includes the post-0.1.2 name fixes,
   numbered condition display and Spirit alignment. All 23 focused checks
@@ -12,8 +12,10 @@
   Installer teardown assertion 3221226505 remains separate from extraction.
   Package: 725,958,400 bytes, SHA256
   a9e00cbf97a2839cf34d8150b13989db4087bc6b7d9b4243c97823324591c570.
-- Prepare standard original/0.1.2 whole-PKG delta routes and updated Z3-format
-  notes. Previous releases remain unchanged; gameplay/hardware are untested.
+- Published original/0.1.2 whole-PKG deltas with Z3-format notes. All eight
+  public downloads and both actual live Retro Trans apply routes pass; catalog
+  refresh succeeded. Previous releases remain unchanged; gameplay/hardware
+  are untested.
 
 ## 2026-10-15 — Spirit Command names aligned with Z3
 
