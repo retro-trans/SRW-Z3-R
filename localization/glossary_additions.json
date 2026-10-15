@@ -94,13 +94,13 @@
     {
       "id": "glossary:r_c9543ba6001f06fb",
       "jp": "エルガン・ローディック",
-      "en": "Elgan Rhodic",
+      "en": "Elgan Roddick",
       "kind": "keyword",
-      "status": "researched",
+      "status": "project_style",
       "source": "オリジナル",
       "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
       "override_from": "Elgan Roddick",
-      "note": "Explicit Rengoku-only override under BASE_RULES wiki-precedence rule. Akurasu character list currently says Elgan Rhodic; its Rengoku story summary says Elgan Laudic. Prefer dedicated character list over incidental story prose; spelling variant remains recorded. Sibling project untouched."
+      "note": "User spelling correction, 2026-10-10: Crowe Bluest and Elgan Roddick, including surname aliases. Overrides earlier inherited/wiki choices; Japanese identities and keyword links remain unchanged."
     },
     {
       "id": "rengoku_glossary:elgan",
@@ -115,12 +115,12 @@
     {
       "id": "rengoku_glossary:rhodic",
       "jp": "ローディック",
-      "en": "Rhodic",
+      "en": "Roddick",
       "kind": "keyword",
-      "status": "researched",
+      "status": "project_style",
       "source": "オリジナル",
       "src": "https://akurasu.net/wiki/Super_Robot_Wars/Characters/Banpresto_Original_Characters_List",
-      "note": "Surname alias paired with linked Elgan; see full-name spelling decision."
+      "note": "User spelling correction, 2026-10-10: Crowe Bluest and Elgan Roddick, including surname aliases. Overrides earlier inherited/wiki choices; Japanese identities and keyword links remain unchanged."
     },
     {
       "id": "rengoku_glossary:resistance",
@@ -228,12 +228,12 @@
     {
       "id": "rengoku_glossary:98a564a687d3ee70",
       "jp": "クロウ・ブルースト",
-      "en": "Crowe Broost",
+      "en": "Crowe Bluest",
       "kind": "pilot",
-      "status": "inherited",
+      "status": "project_style",
       "source": "オリジナル",
       "src": "analysis/base_provenance.json",
-      "note": "Decision and variants: analysis/rengoku_terms.json."
+      "note": "User spelling correction, 2026-10-10: Crowe Bluest and Elgan Roddick, including surname aliases. Overrides earlier inherited/wiki choices; Japanese identities and keyword links remain unchanged."
     },
     {
       "id": "rengoku_glossary:96feb9fa101443fb",
@@ -1550,6 +1550,16 @@
       "note": "Full name; matches analysis/characters.json.",
       "id": "story_glossary:d5f9c42130b568e3",
       "source": "Story slice research 2026-09-25"
+    },
+    {
+      "id": "rengoku_glossary:863e1d631a0db5af",
+      "jp": "ブルースト",
+      "kind": "pilot",
+      "source": "オリジナル",
+      "src": "analysis/rengoku_terms.json",
+      "en": "Bluest",
+      "status": "project_style",
+      "note": "User spelling correction, 2026-10-10: Crowe Bluest and Elgan Roddick, including surname aliases. Overrides earlier inherited/wiki choices; Japanese identities and keyword links remain unchanged."
     }
   ]
 }

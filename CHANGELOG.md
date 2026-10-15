@@ -1,5 +1,95 @@
 # Changelog
 
+## 2026-10-15 — 0.1.5 release preparation
+
+- Complete build026/title footer v0.1.5 includes the post-0.1.2 name fixes,
+  numbered condition display and Spirit alignment. All 23 focused checks
+  and three package-layout tests pass. All 296 compiled condition lookups,
+  42 compiled Spirit lookups, five packed status strips and the exact Blue
+  dialogue with Elgan Roddick pass readback.
+- Archive/folder/overlay/ZIP checks and all three native offline decryptions
+  pass. New RPCS3 package and isolated native installation match all 77 files.
+  Installer teardown assertion 3221226505 remains separate from extraction.
+  Package: 725,958,400 bytes, SHA256
+  a9e00cbf97a2839cf34d8150b13989db4087bc6b7d9b4243c97823324591c570.
+- Prepare standard original/0.1.2 whole-PKG delta routes and updated Z3-format
+  notes. Previous releases remain unchanged; gameplay/hardware are untested.
+
+## 2026-10-15 — Spirit Command names aligned with Z3
+
+- Compared all 42 shared Japanese command identities (87 name entries) and
+  37 matching-source effects with the read-only sibling. Corrected 直撃 to
+  Break and 闘志 to Fury across 10 text entries; native status cells use Br/Fu.
+- Bravery, deployment bonuses and command/status lists use the same names.
+  Effects, costs, durations and the unrelated Fighting Sp pilot skill remain
+  unchanged. Four new terminology checks and nine existing layout checks pass;
+  non-dialogue/source and story/glossary validation pass. Generated reading
+  copies refreshed. See docs/SPIRIT_ALIGNMENT.md.
+- Source changes only: no new build/package/public release. Local build025
+  and public v0.1.2 retain their old Spirit names until rebuilt.
+
+## 2026-10-15 — Numbered victory and defeat conditions
+
+- Confirmed Elgan Roddick is active in the glossary and resolved story text,
+  carried forward from local build023 and build024.
+- Fixed exact lookup keys for native 1/2/3 prefixes and continuation padding
+  across all 72 operation occurrences / 37 distinct conditions. The displayed
+  Episode 1 rows resolve to Defeat all enemies / Any allied unit is defeated.
+  Native bounded buffers and operation tables remain intact; generated
+  English forms include prefix widths and stay inside 950px.
+- Four new focused tests and six existing category/layout checks pass.
+  Fresh build025/v0.1.4 has zero pending insertion and passes all archive/
+  folder/overlay/ZIP checks. All 296 compiled formatted lookup checks pass;
+  compiled STG00004 contains Roddick and no Rhodic. Five diagnostic-only metric
+  rows were refreshed against compiled glyph widths, preserving the initial
+  report and all game bytes. All three native offline decrypt checks pass
+  (exit0, byte-identical) in a fresh isolated runtime after the old runtime
+  stalled. Initial failed evidence is preserved. Local CFW PKG cipher/
+  authentication and all 77 members pass: 621,868,688 bytes, SHA256
+  52caaa873f3e2c3322f9d2e216ce1013965a903433fa4548bd53a587ff2b184a.
+  Independent native installation also matches all 77 hashes; known teardown
+  assertion 3221226505 remains separate from successful extraction.
+  Physical PS3 testing remains pending; no release published.
+  Details: docs/BUILD025_OBJECTIVES.md.
+
+## 2026-10-10 — Automatic title version and Retro Trans credit
+
+- Added the sibling's lower-right v<version> / github.com/retro-trans treatment
+  to Rengoku's own title background. Only the footer rectangle changes after
+  composing the existing English title and Library patches.
+- Complete builds now automatically increment a semantic version and stamp
+  a matching manifest. Preview/failed builds leave the counter unchanged;
+  packed-footer verification gates CFW/RPCS3 packaging, and release versions
+  must match the package footer. The first such build is local build024/v0.1.3.
+- Saved the permanent rule in MEMORY.md, AGENTS.md and BASE_RULES.md.
+  Fourteen focused checks pass. Fresh build024/v0.1.3 is complete, with zero
+  pending insertion and folder/archive/overlay/ZIP/packed-footer checks passed.
+  All three offline format checks pass. Local CFW PKG: 621,868,688 bytes,
+  SHA256 5823621a5403d61f646e27eb78a20c0e30ddfbc59b92cdf88d9818a7ea3e344f.
+  Footer/package metadata agree; cipher/authentication and all 77 members pass.
+  Native installation also matches all 77 hashes; known teardown assertion
+  3221226505 remains separate from the successful file checks.
+  Physical PS3 testing is pending; public v0.1.2 assets are unchanged.
+  See docs/BUILD024_TITLE_FOOTER.md.
+
+## 2026-10-10 — Crowe Bluest and Elgan Roddick spelling corrections
+
+- Applied the user's spellings to full names and surnames, character metadata,
+  encyclopedia entries and credits. Shared glossary references propagate the
+  correction to 13 story records and three battle references.
+- Scanned 12,905 locale records; source-binding checks pass and all affected
+  story lines fit the measured 870px width. Active normalization and both
+  do-not-touch collections prevent reversion. Generated reading copies updated.
+- Fresh build023 readbacks and all three offline format checks pass; the
+  original-stage check needed one retry, with the first attempt retained.
+  Local CFW test PKG: 621,868,688 bytes, SHA256
+  1418fe0e1bd9add142bcfbbbfefca8e08f0d66c0d8a6f0d0e9f74aff9b0e3149.
+  Package authentication, full cipher roundtrip and all 77 member hashes pass.
+  Isolated native installation also matches all 77 hashes; the known installer
+  teardown assertion remains (3221226505), without starting gameplay.
+  Published 0.1.2 assets remain unchanged. Physical PS3 boot and corrected
+  gameplay screens remain untested. Details: docs/BUILD023_NAMES.md.
+
 ## 2026-10-10 — Published 0.1.2
 
 - Published build022 RPCS3 whole-PKG patches from the exact Japanese original

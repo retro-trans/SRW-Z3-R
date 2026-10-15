@@ -12,7 +12,8 @@ def snapshot(output, write, version='0.1.2', build='022'):
     if output.exists():
         raise ValueError('Refusing to overwrite public snapshot')
     files = [ROOT / 'README.md', ROOT / '.gitignore', ROOT / '.gitattributes', ROOT / 'requirements.txt',
-             ROOT / 'AGENTS.md', ROOT / 'BASE_RULES.md', ROOT / 'CHANGELOG.md']
+             ROOT / 'AGENTS.md', ROOT / 'BASE_RULES.md', ROOT / 'CHANGELOG.md',
+             ROOT / 'MEMORY.md', ROOT / 'build_version.json']
     files += sorted((ROOT / 'tools').glob('*.py'))
     files += sorted((ROOT / 'tests').glob('*.py'))
     files += [p for p in sorted((ROOT / 'docs').glob('*.md')) if p.name not in ('opening_draft.md',)]

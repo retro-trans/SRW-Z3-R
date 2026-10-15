@@ -11,6 +11,7 @@ Format reference: RPCS3 rpcs3/Crypto/unpkg.{cpp,h}.
 import argparse
 import hashlib
 import json
+import rengoku_title_footer as title_footer
 from pathlib import Path
 import shutil
 import struct
@@ -71,6 +72,8 @@ def build(pkg, build_dir, output, write=False):
     if output.exists() or output == pkg or output in pkg.parents:
         raise ValueError('Output must be a NEW directory under work')
     report = json.loads((build_dir / 'BUILD_REPORT.json').read_text(encoding='utf8'))
+    if 'title_footer_version' in report:
+        title_footer.check_packed(build_dir, report)
     validation = json.loads((build_dir / 'verification/RESULT.json').read_text(encoding='utf8'))
     if report['title_id'] != 'NPJB00689' or not validation['all_passed']:
         raise ValueError('Wrong title or failed build validation')
@@ -147,6 +150,8 @@ def build(pkg, build_dir, output, write=False):
     if actual != expected:
         raise ValueError('Repacked package members differ from complete build')
     evidence = dict(title_id='NPJB00689', content_id=package.content_id,
+                    version=report.get('version'), title_footer_version=report.get('title_footer_version'),
+                    title_footer_credit=report.get('title_footer',{}).get('credit'),
                     original=identity(pkg), target=identity(dest),
                     build_report_sha256=identity(build_dir / 'BUILD_REPORT.json')['sha256'],
                     files=actual, all_77_members_verified=True,

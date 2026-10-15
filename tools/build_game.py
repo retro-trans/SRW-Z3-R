@@ -32,6 +32,7 @@ import rengoku_result_layout as result_layout
 import rengoku_battle_controls as battle_controls
 import rengoku_intermission_layout as intermission_layout
 import rengoku_category_layout as category_layout
+import rengoku_operation_layout as operation_layout
 import rengoku_reward_layout as reward_layout
 import rengoku_report_layout as report_layout
 import rengoku_credits_layout as credits_layout
@@ -41,6 +42,8 @@ import rengoku_maximum_break_art as maximum_art
 import rengoku_narration as narration
 import rengoku_chapter_art as chapter_art
 import rengoku_title_art as title_art
+import rengoku_title_footer as title_footer
+import build_version
 import rengoku_library_chart as library_chart
 from cpk import CPK
 from source_text import lua_strings, byte_offsets, library_fields
@@ -139,8 +142,10 @@ def patch_sfo(raw,rows):
 
 
 class Build:
-    def __init__(self, font):
+    def __init__(self, font, requested_version=None):
         self.font=font
+        self.requested_version=requested_version
+        self.version=build_version.next_version(requested_version=requested_version)
         self.glossary=localization.terms()
         self.source=read(ROOT/'source/non_dialogue.json')
         self.locale=read(nd.LOCALE)
@@ -226,6 +231,12 @@ class Build:
         self.elf,self.runtime=patch_elf(self.original_elf,self.codec,self.hooks,self.elf_edits)
         self.mutations={};self.asset_reports=[]
         self.operation_hooks={};self.operation_report=[]
+        operation_layout.guard(self.original_elf)
+        fragments=defaultdict(set)
+        for r in self.occ.values():
+            if r['asset'].startswith('work/story/') and '\n' not in r['jp']:
+                fragments[r['jp']].add(r['english'])
+        self.operation_fragments={jp:next(iter(values)) for jp,values in fragments.items() if len(values)==1}
         self.report_hooks={};self.report_layout_report=[]
         self.credit_hooks={};self.credit_layout_report={}
 
@@ -304,12 +315,9 @@ class Build:
             x=matches[0];spans[(x['content_start'],x['content_end'])]=(r['english'],x['kind'],r['id'])
             if any(a <= x['content_start'] < z for a,z in operation):
                 del spans[(x['content_start'],x['content_end'])]
-                display=category_layout.wrap(self.codec,r['english'],950)
-                require(len(display.split('\n'))<=4,'Objective needs more than four lines')
-                self.operation_hooks[r['jp'].encode('cp932')]=self.codec.encode(display)
-                self.operation_report.append({'id':r['id'],'display':display,
-                    'native_source_retained':True,'line_widths':[
-                        screenshot_layout.line_width(self.codec,s,32) for s in display.split('\n')]})
+                pairs,proof=operation_layout.hooks(r,self.codec,self.operation_fragments)
+                operation_layout.merge(self.operation_hooks,pairs)
+                self.operation_report.append(proof)
                 self.routes[r['id']]='operation source retained; owned draw-time English'
             elif any(a <= x['content_start'] < z for a,z in reports):
                 del spans[(x['content_start'],x['content_end'])]
@@ -511,6 +519,11 @@ class Build:
         library,self.library_chart_report=library_chart.prepare(self.asset,title[(title_art.EFF,title_art.MEMBER)],self.font)
         require(set(library).intersection(self.mutations)=={(title_art.EFF,title_art.MEMBER)},'Unexpected Library/chart insertion collision')
         self.mutations.update(library)
+        title_key=(title_art.EFF,title_art.MEMBER)
+        original_title=self.asset('work/pkg/'+title_art.EFF+':'+str(title_art.MEMBER))
+        self.mutations[title_key]=title_footer.apply(original_title,self.mutations[title_key],self.font,self.version)
+        self.title_footer_report=title_footer.verify(original_title,self.mutations[title_key],self.font,self.version)
+        self.library_chart_report['members'][str(title_art.MEMBER)]=sha(self.mutations[title_key])
         art_key=(intermission_layout.AID,1)
         require(art_key not in self.mutations,'Intermission atlas insertion collision')
         self.mutations[art_key]=intermission_layout.apply_art(
@@ -564,6 +577,7 @@ class Build:
         self.hooks.update(bonuses)
         self.elf,self.runtime=patch_elf(self.original_elf,self.codec,self.hooks,self.elf_edits)
         return {'title_id':'NPJB00689','targets':['RPCS3','PS3 CFW/HEN'],
+                'version':self.version,'title_footer_version':self.version,'title_footer':self.title_footer_report,
                 'story_records':len(self.story),'battle':self.battle_report,
                 'font_glyphs':len(self.codec.codes),'hook_pairs':len(self.hooks),
                 'font_sources':self.codec.font_sources,
@@ -658,6 +672,8 @@ class Build:
         title=self.mutations[(title_art.EFF,title_art.MEMBER)]
         title_art.composition(title).save(out/'title_preview_large.png')
         title_art.composition(title,True).save(out/'title_preview_menu.png')
+        title_footer.background(title).save(out/'title_background_footer.png')
+        title_footer.background(title).crop((880,616,1280,720)).save(out/'title_footer_corner.png')
         library_chart.atlas(title,title_art.GTF,5).save(out/'library_buttons_preview.png')
         chart=self.mutations[(library_chart.EFF,131)]
         library_chart.chart_proof(chart,self.codec).save(out/'chart_preview.png')
@@ -682,6 +698,7 @@ class Build:
         report['archive_readback_verified']=True;report['sdat_roundtrip_verified']=True
         instructions=(
             '# SRW Z3 Rengoku-hen English test build '+version+'\n\n'
+            'In-game version: v'+self.version+'; title credit: github.com/retro-trans.\n\n'
             'Target: PS3 NPJB00689. This is a test build, not a verified release.\n\n'
             '## RPCS3\n\n'
             'Use File > Boot Game and select RPCS3/NPJB00689. The complete game\n'
@@ -727,6 +744,7 @@ class Build:
         (out/'INTERMISSION_REVIEW.json').write_text(document(self.intermission_review),encoding='utf-8')
         intermission_layout.header_tile(self.font).save(out/'intermission_heading_preview.png')
         (out/'SHA256SUMS.txt').write_text('\n'.join(final[p]['sha256']+'  NPJB00689/'+p for p in differences)+'\n'+report['patch_zip']['sha256']+'  '+archive.name+'\n',encoding='utf-8')
+        build_version.stamp(out,report,self.version,requested_version=self.requested_version)
         print('Built and verified:',out,flush=True)
 
     def font_preview(self):
@@ -744,10 +762,11 @@ def main():
     ap=argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--out',type=Path,default=ROOT/'work/builds/rengoku_en_001')
     ap.add_argument('--font',type=Path,default=DEFAULT_FONT)
+    ap.add_argument('--version',help='Optional newer semantic version; default increments the last complete build')
     ap.add_argument('--write',action='store_true')
     args=ap.parse_args();out=checked_output(args.out)
     print('Checking canonical English and Rengoku source bindings...',flush=True)
-    build=Build(args.font);report=build.prepare()
+    build=Build(args.font,args.version);report=build.prepare()
     print(document({k:v for k,v in report.items() if k not in ('runtime','conflicts','pending','font_mapping')}))
     print('Pending consumer-specific insertion:',len(report['pending']))
     for p in report['pending']:print(p['id'],p['asset'],repr(p['source'][:50]),'->',repr(p['english'][:65]))

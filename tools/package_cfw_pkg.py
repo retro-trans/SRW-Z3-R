@@ -274,6 +274,8 @@ def build(pkg, build_dir, output, compiler, crypto, write=False):
             and file_inventory(tree) == report['game_files'] and identity(pkg) == original_id,
             'Read-only game inputs changed')
     evidence = dict(format='CFW debug PKG (not retail-signed)', title_id='NPJB00689',
+                    version=report.get('version'), title_footer_version=report.get('title_footer_version'),
+                    title_footer_credit=report.get('title_footer',{}).get('credit'),
                     content_id=CONTENT, original=original_id, package=identity(dest),package_name=name,
                     files=files, entries=rows, all_77_members_verified=True,
                     full_cipher_roundtrip=True, independent_sha1_samples_passed=True,
@@ -283,8 +285,10 @@ def build(pkg, build_dir, output, compiler, crypto, write=False):
                     cfw_install_tested=False, cfw_boot_tested=False, gameplay_tested=False,
                     compiler=identity(compiler), openssl=identity(crypto), cipher=identity(tool))
     (output / 'PKG-VALIDATION.json').write_text(json.dumps(evidence, indent=2) + '\n', encoding='utf8')
-    (output / 'INSTALL.md').write_text((ROOT / 'docs/CFW_PKG_TEST.md').read_text(
-        encoding='utf8').replace('018',version),encoding='utf8')
+    instructions=(ROOT / 'docs/CFW_PKG_TEST.md').read_text(encoding='utf8').replace('018',version)
+    if report.get('version'):
+        instructions+='\n## In-game build identification\n\nv%s / github.com/retro-trans on the title screen.\n'%report['version']
+    (output / 'INSTALL.md').write_text(instructions,encoding='utf8')
     (output / 'SHA256SUMS.txt').write_text(''.join('%s  %s\n' % (identity(output / n)['sha256'], n)
         for n in (name, 'PKG-VALIDATION.json', 'INSTALL.md')), encoding='utf8')
     print('Prepared CFW test PKG:', identity(dest), flush=True)

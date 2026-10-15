@@ -34,6 +34,8 @@ __pycache__/
 *.pyc
 .env
 .env.*
+/build_version.lock
+/build_version.json.tmp
 /localization/messages/
 # Public source snapshots are made by publication_snapshot.py.
 /analysis/*

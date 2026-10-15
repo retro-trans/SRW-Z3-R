@@ -10,6 +10,7 @@ from pathlib import Path
 import shutil
 import subprocess
 import zipfile
+import rengoku_title_footer as title_footer
 
 from build_game import ROOT, PKG, document, file_inventory
 from rengoku_runtime import require, sha
@@ -19,10 +20,17 @@ def main():
     ap=argparse.ArgumentParser(description=__doc__)
     ap.add_argument('build',type=Path)
     ap.add_argument('--write',action='store_true')
+    ap.add_argument('--runtime',type=Path,default=ROOT/'work/offline_rpcs3',
+                    help='Isolated RPCS3 runtime under work/ (use a fresh copy if an old runtime stalls)')
     args=ap.parse_args();root=args.build.resolve()
+    runtime=args.runtime.resolve()
+    require((ROOT/'work').resolve() in runtime.parents,'Offline checker must use an isolated runtime under work/')
     require((ROOT/'work/builds').resolve() in root.parents,'Build must be under work/builds')
     report=json.loads((root/'BUILD_REPORT.json').read_text(encoding='utf-8'))
     require(report['title_id']=='NPJB00689','Wrong title')
+    if 'title_footer_version' in report:
+        title_footer.check_packed(root,report)
+        print('Packed title footer matches build v'+report['version']+' / '+title_footer.CREDIT,flush=True)
     require(file_inventory(root/'RPCS3/NPJB00689')==report['game_files'],'Complete game folder hash mismatch')
     require(file_inventory(PKG)==report['source_files'],'Original extracted assets changed')
     require(file_inventory(ROOT/'localization')==report['locale_inputs'],'Canonical localization changed since build')
@@ -51,7 +59,6 @@ def main():
     for name,source,expected in cases:
         dest=verification/name;dest.mkdir();target=dest/source.name;shutil.copyfile(source,target)
         print('Checking with RPCS3:',name,flush=True)
-        runtime=ROOT/'work/offline_rpcs3'
         try:
             process=subprocess.run([str(runtime/'rpcs3.exe'),'--headless','--decrypt',str(target)],cwd=runtime,
                  input=b'\n',capture_output=True,timeout=45,creationflags=subprocess.CREATE_NO_WINDOW)

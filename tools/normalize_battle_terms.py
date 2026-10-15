@@ -14,6 +14,9 @@ VARIANTS=[
  (('いがみ合う双子','いがみあう双子'),'Feuding Twins','Quarreling Twins'),
  (('いがみ合う双子','いがみあう双子'),'Quarrelling Twins','Quarreling Twins'),
  (('アサキム',),'Asakim Dowen','Asakim Dowin'),
+ (('ブルースト',),'Broost','Bluest'),
+ (('ローディック',),'Rhodic','Roddick'),
+ (('ローディック',),'Laudic','Roddick'),
  (('ブンマー・スパナ',),'Boomer Spanner','Bunmar Spanner'),
  (('ライアット・ジャレンチ',),'Riot Jarench','Riot Gia-Wrench'),
  (('ジャレンチ',),'Jarench','Gia-Wrench'),
@@ -29,6 +32,9 @@ def main():
     glossary=localization.terms()
     terms=json.loads((ROOT/'analysis/battle_terms.json').read_bytes())['terms']
     decisions={t['jp']:t['en'] for t in terms}
+    for t in glossary:
+        if t['jp'] in ('クロウ・ブルースト', 'ブルースト', 'エルガン・ローディック', 'ローディック'):
+            decisions[t['jp']]=t['en']
     for t in glossary:
         if t['jp'] in decisions and decisions[t['jp']]!=t['en']:raise ValueError('Glossary conflict')
     proof=json.loads((ROOT/'analysis/battle_review_index.json').read_bytes())

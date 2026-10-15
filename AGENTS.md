@@ -1,6 +1,7 @@
 # Project instructions
 
 Read `BASE_RULES.md` and `HANDOFF.md` before translation work.
+Read `MEMORY.md` before building or packaging.
 
 - This is PS3 Rengoku-hen, NPJB00689. The sibling `../SRW Z3` is a
   read-only glossary/tooling reference, not this game's build target.
@@ -20,6 +21,15 @@ Read `BASE_RULES.md` and `HANDOFF.md` before translation work.
   data or an existing extracted source tree.
 - Run focused validation after changes. Record progress and remaining work
   in `CHANGELOG.md` and `HANDOFF.md`.
+- Spirit names follow the sibling by Japanese identity: 直撃 is Break (Br),
+  闘志 is Fury (Fu). Keep the unrelated 戦意高揚 pilot skill Fighting Sp.
+  Preserve Rengoku effects/costs/durations. See `analysis/spirit_alignment.json`
+  and the dry-run-first `tools/align_spirit_terms.py` audit.
+- Every complete build must show its own incremented semantic version and
+  `github.com/retro-trans` in the title screen's lower-right corner, using
+  Rengoku's own background resource. Keep footer, build manifest, package and
+  release version consistent. Verify the packed footer before packaging.
+  Dry runs and failed builds must not consume a version number.
 - Drafting checks are not runtime validation. Rengoku's font, text bounds,
   executable offsets and insertion path must be verified independently.
   Do not transplant Z3 executable addresses or describe drafts as playable.

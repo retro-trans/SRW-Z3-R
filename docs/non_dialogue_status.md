@@ -9,7 +9,7 @@ This is translation source, not a playable patch. Story dialogue and battle spee
 | Category | English entries | Source occurrences | Longest English entry / line |
 |---|---:|---:|---:|
 | [Library](non_dialogue/library.md) | 201 | 526 | 1392 / 423 characters |
-| [Gameplay](non_dialogue/gameplay.md) | 1169 | 1169 | 177 / 177 characters |
+| [Gameplay](non_dialogue/gameplay.md) | 1169 | 1169 | 158 / 158 characters |
 | [Scenario](non_dialogue/scenario.md) | 112 | 782 | 414 / 73 characters |
 | [Interface](non_dialogue/interface.md) | 1627 | 2493 | 1392 / 410 characters |
 | [Menu Resource](non_dialogue/menu_resource.md) | 1821 | 3412 | 751 / 125 characters |
@@ -26,7 +26,7 @@ Also read [the manual](manual_en.md) and [artwork labels](artwork_en.md).
 
 The broad discovery pass examined 78 package assets and 26 non-code ELF sections. Its 6764 candidates are classified in `analysis/non_dialogue_coverage.json`; this is a byte-scan inventory, not a claim that every raster image was inspected.
 
-The inherited glossary has 1,168 entries; the effective glossary now has 1320 entries. Rengoku names, title spellings and explicit alternatives are recorded in `analysis/rengoku_terms.json` and `localization/glossary_additions.json`.
+The inherited glossary has 1,168 entries; the effective glossary now has 1321 entries. Rengoku names, title spellings and explicit alternatives are recorded in `analysis/rengoku_terms.json` and `localization/glossary_additions.json`.
 
 ## Remaining work
 

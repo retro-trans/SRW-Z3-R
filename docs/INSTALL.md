@@ -1,100 +1,77 @@
 # Installing the Rengoku-hen English patch
 
-Current release **0.1.2** contains build **022** in a new RPCS3 PKG. The
-corrected screens still need gameplay testing. The first public
-release, 0.1.1, remains available.
+Current release **0.1.5** contains **build026**. The public output is RPCS3-only;
+corrected screens still need gameplay testing. First public release 0.1.1
+remains available.
 
-Download [release 0.1.2](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.2).
-Choose the patch matching your complete source package:
+Download [release 0.1.5](https://github.com/retro-trans/SRW-Z3-R/releases/tag/v0.1.5).
 
-| Source | Patch |
+| Your source package | Patch |
 | --- | --- |
-| Original Japanese NPJB00689 PKG | `SRW-Z3-R-NPJB00689-English-0.1.2-RPCS3-from-original.xdelta` |
-| Exact English 0.1.1 PKG | `SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-RPCS3.xdelta` |
+| Original Japanese NPJB00689 PKG | `SRW-Z3-R-NPJB00689-English-0.1.5-RPCS3-from-original.xdelta` |
+| Exact English public 0.1.2 PKG | `SRW-Z3-R-NPJB00689-English-0.1.2-to-0.1.5-RPCS3.xdelta` |
 
-Both routes create the same English 0.1.2 PKG. Use a new output filename.
-Full game packages, licenses and activation tools are not distributed.
+Both routes create the same English 0.1.5 PKG. Keep your source and save a new
+output. Extracted folders and installed files are not whole-PKG patch inputs.
 
-## Retro Trans Automatic mode
+## Retro Trans
 
-1. Download [Retro Trans 0.5.1 or later](https://github.com/retro-trans/retro-trans-tools/releases/latest).
-2. Refresh the catalog and browse to your original Japanese or exact English
-   0.1.1 NPJB00689 `.pkg`.
-3. Choose **Automatic**, then **Latest** or **0.1.2**. Review the route.
-   From 0.1.1, **Next** also selects 0.1.2.
-4. Save to a new filename, such as `NPJB00689-English-0.1.2.pkg`.
-5. Install the output using the RPCS3 instructions below.
+Use [Retro Trans 0.5.1 or later](https://github.com/retro-trans/retro-trans-tools/releases/latest).
+Refresh the catalog, select your original Japanese or exact English 0.1.2 PKG,
+open **Automatic**, then choose **Latest** or **0.1.5**. From 0.1.2, **Next** also
+selects 0.1.5 after refresh. Version 0.1.1 can upgrade through 0.1.2.
+Recognition uses the complete file size and SHA-256; renaming files is fine.
 
-Recognition checks the full size and hash; renaming the source is fine.
-Extracted folders and installed game files are not compatible package sources.
+For offline use, select **Apply xdelta**, your source PKG, the matching patch
+and a new `.pkg` output. Verify downloads against `SHA256SUMS.txt` and inputs
+against `BUILD-MANIFEST.json`.
 
-## Retro Trans Apply xdelta mode
+## DeltaPatcher
 
-Download the matching `.xdelta` above. Select **Apply xdelta**, your source
-PKG, that patch and a new `.pkg` output. This works offline. Check downloads
-against `SHA256SUMS.txt` and identities against `BUILD-MANIFEST.json`.
-
-## Delta Patcher
-
-Use [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest).
-Select your source under **Original file** and its matching `.xdelta` under
-**XDelta patch**. Enable **Backup original file** and keep **Checksum
-validation** enabled, then apply. With backup enabled the result is
-`<original-name>PATCHED.pkg` in the same folder. Without it, Delta Patcher
-replaces the input, so retain an untouched original separately.
+Use [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher/releases/latest).
+Select your package under **Original file** and its matching **XDelta patch**.
+Enable **Backup original file** and keep **Checksum validation** enabled.
+Retain an untouched source package separately.
 
 ## xdelta command line
 
-Use [xdelta3](https://github.com/jmacd/xdelta/releases/latest). From original:
+From the original Japanese package:
 
 ```text
-xdelta3 -d -s "NPJB00689-original.pkg" "SRW-Z3-R-NPJB00689-English-0.1.2-RPCS3-from-original.xdelta" "NPJB00689-English-0.1.2.pkg"
+xdelta3 -d -s "NPJB00689-original.pkg" "SRW-Z3-R-NPJB00689-English-0.1.5-RPCS3-from-original.xdelta" "NPJB00689-English-0.1.5.pkg"
 ```
 
-From exact English 0.1.1:
+From exact public English 0.1.2:
 
 ```text
-xdelta3 -d -s "NPJB00689-English-0.1.1.pkg" "SRW-Z3-R-NPJB00689-English-0.1.1-to-0.1.2-RPCS3.xdelta" "NPJB00689-English-0.1.2.pkg"
+xdelta3 -d -s "NPJB00689-English-0.1.2.pkg" "SRW-Z3-R-NPJB00689-English-0.1.2-to-0.1.5-RPCS3.xdelta" "NPJB00689-English-0.1.5.pkg"
 ```
 
-Replace filenames with yours. On PowerShell use `./xdelta3.exe` if it is in
-the current folder. Keep checksum verification enabled.
+Replace filenames with yours. In PowerShell use `./xdelta3.exe` for an executable
+in the current folder. Keep checksum verification enabled.
 
-| Package | Bytes | SHA-256 |
-| --- | ---: | --- |
-| Original Japanese | 530,382,896 | `77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307` |
-| English 0.1.1 | 721,946,688 | `dc570db31edda1928885ed5647e6a962f88e847eb309bcd2119978202ef39f3a` |
-| English 0.1.2 | 725,958,496 | `2beeb00d12be6df166893da1fa28baf8e9279793288c22da1a24c24dcf82a818` |
+- Original: **530,382,896 bytes**, SHA-256 `77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307`.
+- Public English 0.1.2: **725,958,496 bytes**, SHA-256 `2beeb00d12be6df166893da1fa28baf8e9279793288c22da1a24c24dcf82a818`.
+- English 0.1.5 output: **725,958,400 bytes**, SHA-256 `a9e00cbf97a2839cf34d8150b13989db4087bc6b7d9b4243c97823324591c570`.
 
-Check the output with `Get-FileHash -Algorithm SHA256 "NPJB00689-English-0.1.2.pkg"`.
+## RPCS3 installation
 
-## PS3 hardware
+Close RPCS3 and back up your installation and saves. Install the output with
+**File > Install Packages/Raps/Edats**. Use your own matching original license;
+no RAP is supplied. The retained DATA01.EDAT needs your matching activation.
+Error 80029521 indicates a missing matching license.
 
-This public patch produces an RPCS3-only package with cleared authentication;
-it is not a Sony-signed or CFW package installer. Local build022 has a separately
-verified CFW debug PKG candidate, but it is not distributed. Debug PKG encryption
-prevents reuse of original package bytes, so its whole-PKG xdelta would embed
-the complete game. Full games and licenses remain private. The local CFW build
-tools and [test guide](CFW_PKG_TEST.md) are provided for maintainers with the
-required private build inputs; physical-console boot is still untested.
+Keep `dev_hdd0/game/NPJB00689`: it contains the digital game. Preserve savedata
+and other games. Restart and load an in-game save; emulator save states can
+retain older text/code. The title screen should show **v0.1.5** above
+**github.com/retro-trans** in its lower-right corner.
 
-## RPCS3
+## PS3 hardware and validation
 
-Close RPCS3 and back up the installation and saves. Install with **File >
-Install Packages/Raps/Edats**. Use your own matching license; no RAP is supplied.
-The retained `DATA01.EDAT` requires your matching
-`JP0700-NPJB00689_00-SRWZ3RENDLGPKG00.rap` in
-`dev_hdd0/home/<active-user>/exdata/`. Error `80029521` indicates a missing
-matching license.
+This public package has cleared authentication and is for RPCS3. It is not a
+Sony-signed or CFW/HEN installer. CFW packaging tools require private inputs;
+full game packages and debug-PKG deltas are not distributed. Hardware boot and
+gameplay remain untested. See [validation notes](validation/0.1.5.md).
 
-Keep `dev_hdd0/game/NPJB00689`: it contains the digital game, not a disposable
-disc cache. Preserve other games and savedata. A separate profile can retain
-Japanese and English installations. Restart and load an in-game save;
-emulator save states can retain old resources.
-
-All 77 files matched after isolated native RPCS3 installation. The headless
-installer then reported its known teardown assertion; file extraction passed,
-but clean shutdown and gameplay are not claimed. See [validation notes](validation/0.1.2.md).
-
-Report the release, RPCS3 or exact CFW version, affected screen/error code and
-screenshot in a [GitHub issue](https://github.com/retro-trans/SRW-Z3-R/issues).
+All 77 files matched after isolated native installation. The known headless
+teardown assertion is not a clean shutdown or game boot result.

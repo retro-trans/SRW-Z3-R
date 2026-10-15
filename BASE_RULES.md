@@ -30,3 +30,7 @@ When proofreading:
 
 About scripts:
 - Dry-run every script and read the sample output before it touches the data. Check what it would change, not just how many rows.
+
+Build memory (user request, 2026-10-10):
+- Read MEMORY.md before building or packaging. Every completed build must update the title screen's version and github.com/retro-trans credit, matching the sibling's lower-right two-line treatment while using Rengoku's own resources.
+- Use the automatic build_version.json counter and matching title/build/package/release stamps. Dry runs and failed builds do not advance it; verify the packed footer before packaging. Never hand-label a package or release with a version different from the in-game footer.

@@ -6,6 +6,7 @@ since copying files does not execute a PKG installer's SDAT decryption.
 No full game, licenses, console installation or hardware pass is produced.
 """
 import argparse
+import rengoku_title_footer as title_footer
 import hashlib
 import json
 import re
@@ -121,6 +122,8 @@ def prepare(build, output, write=False):
     build = Path(build).resolve()
     require((ROOT / 'work/builds').resolve() in build.parents, 'Build must be local')
     report = json.loads((build / 'BUILD_REPORT.json').read_text(encoding='utf8'))
+    if 'title_footer_version' in report:
+        title_footer.check_packed(build, report)
     proof = json.loads((build / 'verification/RESULT.json').read_text(encoding='utf8'))
     match=re.fullmatch(r'rengoku_en_(\d{3})',build.name)
     require(match is not None,'Expected numbered Rengoku build')
@@ -152,6 +155,7 @@ def prepare(build, output, write=False):
     require(sources[STAGE]['sha256'] == original_stage_proof['expected_sha256']
             and original_stage_proof['accepted_and_byte_identical'], 'Original installed stage mismatch')
     manifest = {'title_id': 'NPJB00689', 'content_id': CONTENT, 'local_build': build.name,
+                'version': report.get('version'), 'title_footer_version': report.get('title_footer_version'),
                 'target': 'PS3 CFW hardware-test file overlay', 'package_format': 'overlay ZIP, not PKG',
                 'build_report_sha256': identity(build / 'BUILD_REPORT.json')['sha256'],
                 'source_files': sources, 'target_files': targets, 'executable_audit': audit,

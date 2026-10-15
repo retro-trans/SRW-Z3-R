@@ -234,7 +234,7 @@
       ]
     },
     "library:0eab0fa83e0079ae": {
-      "text": "An independent force that fought through the Destruction Incident and Regeneration War in ADW.\nIt was formed during the Destruction Incident by Elgan Rhodic, chairman of the United Nations Peacekeeping Council. Its name is an abbreviation of Z EXtra International Savers, meaning a special international rescue force.\nAfter the spacequake known as Calamity Birth, members of ZEUTH who had been transported from UCW also joined it.\nThe force disbanded after the Destruction Incident, but was later reformed. As an independent external unit, it was given the right to act autonomously, along with inspection and enforcement authority over other Earth Federation units.\nBy defeating the leaders of various hostile organizations, it brought both interdimensional wars, the Destruction Incident and Regeneration War, to an end.",
+      "text": "An independent force that fought through the Destruction Incident and Regeneration War in ADW.\nIt was formed during the Destruction Incident by Elgan Roddick, chairman of the United Nations Peacekeeping Council. Its name is an abbreviation of Z EXtra International Savers, meaning a special international rescue force.\nAfter the spacequake known as Calamity Birth, members of ZEUTH who had been transported from UCW also joined it.\nThe force disbanded after the Destruction Incident, but was later reformed. As an independent external unit, it was given the right to act autonomously, along with inspection and enforcement authority over other Earth Federation units.\nBy defeating the leaders of various hostile organizations, it brought both interdimensional wars, the Destruction Incident and Regeneration War, to an end.",
       "status": "draft",
       "occurrences": [
         "nd:ba6b1009d2efd16aef06",
@@ -1072,7 +1072,7 @@
       "terminology_review": "analysis/non_dialogue_terminology_applied.json"
     },
     "library:98a564a687d3ee70": {
-      "text": "Crowe Broost",
+      "text": "Crowe Bluest",
       "status": "draft",
       "occurrences": [
         "nd:048f86b44d26b46f6dfc"
@@ -2364,7 +2364,7 @@
       ]
     },
     "gameplay:25dd712b0d0ac76e": {
-      "text": "Applies Accel, Strike, Wall, Valor, Spirit,\nand Fury all at once.",
+      "text": "Applies Accel, Strike, Wall, Valor, Spirit,\nand Break all at once.",
       "status": "reference_draft",
       "occurrences": [
         "nd:2b9a35461137def3be54"
@@ -2378,7 +2378,8 @@
       },
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "gameplay:53accbc9ba112bf0": {
       "text": "Applies Strike and Alert at the same time.",
@@ -7001,7 +7002,7 @@
       ]
     },
     "gameplay:863e1d631a0db5af": {
-      "text": "Broost",
+      "text": "Bluest",
       "status": "draft",
       "occurrences": [
         "nd:78a15e14712624dad884"
@@ -16146,7 +16147,7 @@
       ]
     },
     "gameplay:687627144bb34cd9": {
-      "text": "Fury",
+      "text": "Break",
       "status": "draft",
       "occurrences": [
         "nd:cb217b9b8ba1ff276eeb"
@@ -16154,7 +16155,8 @@
       "source_sha256": "687627144bb34cd948a744d48d56e4fb8098fe8dca72b08eff3bb1c0e225d5b1",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_06.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "gameplay:5de6547f9a238164": {
       "text": "Intuition",
@@ -16174,7 +16176,7 @@
       ]
     },
     "gameplay:dc5e6a50185bc21f": {
-      "text": "Fury",
+      "text": "Break",
       "status": "reference_draft",
       "occurrences": [
         "nd:6a6bcc1aa78658df2abe"
@@ -16188,7 +16190,8 @@
       },
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "gameplay:b2d66e32ff129d15": {
       "text": "Scan",
@@ -16834,7 +16837,7 @@
       ]
     },
     "gameplay:1e9e0e3380813136": {
-      "text": "Fighting Spirit",
+      "text": "Fury",
       "status": "draft",
       "occurrences": [
         "nd:f3cc7f6b460b153ec205"
@@ -16842,10 +16845,11 @@
       "source_sha256": "1e9e0e3380813136ae0be52e86c158e755f72ee94e6e5a44878ce4edc1a8b0e5",
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay_06.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "gameplay:51a80cd6e60b9a72": {
-      "text": "Fighting Spirit",
+      "text": "Fury",
       "status": "reference_draft",
       "occurrences": [
         "nd:61d00ec9ba49d855671c"
@@ -16859,7 +16863,8 @@
       },
       "reviews": [
         "work\\non_dialogue_reviews\\gameplay.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "gameplay:e8b285993d1954e7": {
       "text": "Instinct",
@@ -35395,7 +35400,7 @@
       ]
     },
     "interface:dc5e6a50185bc21f": {
-      "text": "Fury",
+      "text": "Break",
       "status": "reference_draft",
       "occurrences": [
         "nd:ac852f4d4d67f2f3b11f"
@@ -35409,7 +35414,8 @@
       },
       "reviews": [
         "work\\non_dialogue_reviews\\interface.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "interface:c28606d2069d79bc": {
       "text": "Assail",
@@ -55205,7 +55211,7 @@
       ]
     },
     "menu_resource:692976a81313f2dc": {
-      "text": "Valor, Soul, Fighting Spirit, Alert, Wall, Guard, Focus, Strike, Accel, Zeal, Mercy, Snipe, Assail, Fury, Luck, Gain, Disrupt",
+      "text": "Valor, Soul, Fury, Alert, Wall, Guard, Focus, Strike, Accel, Zeal, Mercy, Snipe, Assail, Break, Luck, Gain, Disrupt",
       "status": "reviewed",
       "occurrences": [
         "nd:198478abf574f98bc0c9",
@@ -55223,10 +55229,11 @@
         "work\\non_dialogue_reviews\\menu.json"
       ],
       "review": "work\\non_dialogue_reviews\\menu_pua.json",
-      "notes": "Replace English-only inherited font aliases with full established English Spirit names in identical source order. Preserve the original ／ separator where present. 分 is 分析/Analyze; 不 is 不屈/Wall and 鉄 is 鉄壁/Guard. This is a readable catalog draft; the indexed status strip still needs a Rengoku-specific rendering implementation before insertion."
+      "notes": "Replace English-only inherited font aliases with full established English Spirit names in identical source order. Preserve the original ／ separator where present. 分 is 分析/Analyze; 不 is 不屈/Wall and 鉄 is 鉄壁/Guard. This is a readable catalog draft; the indexed status strip still needs a Rengoku-specific rendering implementation before insertion.",
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "menu_resource:6e85c60d99f01cc0": {
-      "text": "Valor, Soul, Fighting Spirit, Alert, Wall, Guard, Focus, Strike, Accel, Zeal, Mercy, Snipe, Assail, Fury ／ Disrupt, Analyze",
+      "text": "Valor, Soul, Fury, Alert, Wall, Guard, Focus, Strike, Accel, Zeal, Mercy, Snipe, Assail, Break ／ Disrupt, Analyze",
       "status": "reviewed",
       "occurrences": [
         "nd:2a292305a28b6863d091",
@@ -55243,7 +55250,8 @@
         "work\\non_dialogue_reviews\\menu.json"
       ],
       "review": "work\\non_dialogue_reviews\\menu_pua.json",
-      "notes": "Replace English-only inherited font aliases with full established English Spirit names in identical source order. Preserve the original ／ separator where present. 分 is 分析/Analyze; 不 is 不屈/Wall and 鉄 is 鉄壁/Guard. This is a readable catalog draft; the indexed status strip still needs a Rengoku-specific rendering implementation before insertion."
+      "notes": "Replace English-only inherited font aliases with full established English Spirit names in identical source order. Preserve the original ／ separator where present. 分 is 分析/Analyze; 不 is 不屈/Wall and 鉄 is 鉄壁/Guard. This is a readable catalog draft; the indexed status strip still needs a Rengoku-specific rendering implementation before insertion.",
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "menu_resource:55725e8fdc9e3384": {
       "text": "Ammo Remaining",
@@ -65976,7 +65984,7 @@
       ]
     },
     "interface:0eab0fa83e0079ae": {
-      "text": "An independent force that fought through the Destruction Incident and Regeneration War in ADW.\nIt was formed during the Destruction Incident by Elgan Rhodic, chairman of the United Nations Peacekeeping Council. Its name is an abbreviation of Z EXtra International Savers, meaning a special international rescue force.\nAfter the spacequake known as Calamity Birth, members of ZEUTH who had been transported from UCW also joined it.\nThe force disbanded after the Destruction Incident, but was later reformed. As an independent external unit, it was given the right to act autonomously, along with inspection and enforcement authority over other Earth Federation units.\nBy defeating the leaders of various hostile organizations, it brought both interdimensional wars, the Destruction Incident and Regeneration War, to an end.",
+      "text": "An independent force that fought through the Destruction Incident and Regeneration War in ADW.\nIt was formed during the Destruction Incident by Elgan Roddick, chairman of the United Nations Peacekeeping Council. Its name is an abbreviation of Z EXtra International Savers, meaning a special international rescue force.\nAfter the spacequake known as Calamity Birth, members of ZEUTH who had been transported from UCW also joined it.\nThe force disbanded after the Destruction Incident, but was later reformed. As an independent external unit, it was given the right to act autonomously, along with inspection and enforcement authority over other Earth Federation units.\nBy defeating the leaders of various hostile organizations, it brought both interdimensional wars, the Destruction Incident and Regeneration War, to an end.",
       "status": "local_exact_draft",
       "occurrences": [
         "nd:7e540578259b8d613a29"
@@ -68440,7 +68448,7 @@
       ]
     },
     "menu_resource:d8a9fc66933d022f": {
-      "text": "Accel\nValor\n　\nSnipe\nFury\nAssail\nZeal",
+      "text": "Accel\nValor\n　\nSnipe\nBreak\nAssail\nZeal",
       "status": "draft",
       "occurrences": [
         "nd:1138c6dd92ea380ed2bc",
@@ -68449,7 +68457,8 @@
       "source_sha256": "d8a9fc66933d022fac52300e73abeda641d688f9397ed6823dd1c19ce15ff209",
       "reviews": [
         "work\\non_dialogue_reviews\\menu_14.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "menu_resource:45800be4c2522ad5": {
       "text": "Luck\nGain\nMercy\n　\nBravery\nSpirit\nDrive",
@@ -68660,7 +68669,7 @@
       ]
     },
     "credits:f680363a1c803738": {
-      "text": "　Crowe Broost　　　　　　　　　　　Yuji Ueda",
+      "text": "　Crowe Bluest　　　　　　　　　　　Yuji Ueda",
       "status": "draft",
       "occurrences": [
         "nd:5fd18d84e6b8c92bbe7e"
@@ -74033,7 +74042,7 @@
       ]
     },
     "interface:381a9435a3dad092": {
-      "text": "Gains Alert, Fighting Spirit, and Assail on deployment.",
+      "text": "Gains Alert, Fury, and Assail on deployment.",
       "status": "reference_draft",
       "occurrences": [
         "nd:f865d95d57c5dcf937af"
@@ -74047,7 +74056,8 @@
       },
       "reviews": [
         "work\\non_dialogue_reviews\\secondary_imports.json"
-      ]
+      ],
+      "spirit_terminology_review": "analysis/spirit_alignment.json"
     },
     "interface:3cb97a69120212e6": {
       "text": "All allied units' hit rate gets\n+ (allied units on map / 5)%, stacks.",

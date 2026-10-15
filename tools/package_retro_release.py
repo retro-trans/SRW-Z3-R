@@ -25,6 +25,9 @@ def prepare(args):
         raise ValueError('Supply a numeric release version')
     proof = json.loads(args.target_validation.read_text(encoding='utf8'))
     runtime = json.loads(args.runtime_validation.read_text(encoding='utf8'))
+    if proof.get('version'):
+        if proof['version'] != args.version or proof.get('title_footer_version') != args.version:
+            raise ValueError('Release version must match the package and in-game title footer')
     source, target = identity(args.pkg), identity(args.target)
     cfw = proof.get('format') == 'CFW debug PKG (not retail-signed)'
     if cfw:

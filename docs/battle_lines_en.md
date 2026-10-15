@@ -4558,7 +4558,7 @@ Review flag: Independent proof: 暑苦しい carries Rand's excessive hot-bloode
 ## battle:e5ccba2d7182d1fa
 
 「Your composure ends here,
-Crowe Broost!」
+Crowe Bluest!」
 
 ## battle:c41629860dd6dc36
 
@@ -4858,7 +4858,7 @@ to be called The Crusher!」
 ## battle:3240ca0831980328
 
 「Shut that insolent mouth,
-Crowe Broost!」
+Crowe Bluest!」
 
 ## battle:d096568e9549add1
 
@@ -14675,7 +14675,7 @@ Review flag: Independent proof: Sekishiki keeps root's provisional reading and s
 
 ## battle:8b3871fa583ec1be
 
-「Vanish, Crowe Broost.」
+「Vanish, Crowe Bluest.」
 
 ## battle:20779fe8d4cbd731
 

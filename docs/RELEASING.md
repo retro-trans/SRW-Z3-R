@@ -5,6 +5,9 @@ manifest **v1** and bare whole-PKG xdeltas. **0.1.1 is the first public release.
 Never replace published patch bytes or reuse a published version.
 
 1. Verify a complete local NPJB00689 build and `verification/RESULT.json`.
+   Read MEMORY.md. New builds must have a matching in-game version/Retro Trans
+   footer and build_manifest.json stamp. Use the build's semantic version for
+   its package/release; never relabel old bytes with a newer version.
    Keep original packages and extracted files untouched. Record runtime and
    translation limits separately from binary validation.
 2. Preview `tools/repack_runtime_pkg.py` with the original `--pkg`, verified

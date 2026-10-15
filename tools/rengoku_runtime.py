@@ -31,8 +31,8 @@ DEFAULT_FONT = Path('E:/RPCS3/dev_flash/data/font/SCE-PS3-RD-B-LATIN.TTF')
 COMPACT_LABELS = {'\ue100':'Air','\ue101':'Grd','\ue102':'Wtr','\ue103':'Spc',
                   '\ue104':'Und','\ue105':'Only'}
 SPIRIT_LABELS = dict(zip((chr(0xe110 + i) for i in range(18)),
-                        ('Va','So','Fs','Al','Wa','Gu','Fo','St','Ac','Ze',
-                         'Me','Sn','As','Fu','Lu','Ga','Di','An')))
+                        ('Va','So','Fu','Al','Wa','Gu','Fo','St','Ac','Ze',
+                         'Me','Sn','As','Br','Lu','Ga','Di','An')))
 CHOICE_PAD = '\ue160'
 
 
