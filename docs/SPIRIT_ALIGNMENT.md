@@ -36,7 +36,10 @@ native strip slots and highlight order. Canonical non-dialogue/source bindings
 and story/glossary validation pass. Generated reading copies are refreshed.
 AGENTS.md retains the distinction for future edits.
 
-No complete build, package or release was created. Local build025/v0.1.4 and
-public v0.1.2 still contain the prior Spirit names. These source corrections
-require a new versioned build and in-game verification before being described
-as working on the supplied screen. The sibling and original assets are intact.
+The initial audit changed sources only. The subsequent release build026/v0.1.5
+includes these corrections: all 42 command lookups and five packed status
+strips pass compiled-data readback, and all 77 package/installed file hashes
+match. See [0.1.5 validation](validation/0.1.5.md). Public v0.1.2 retains its
+prior names. In-game verification is still pending; source/binary checks are
+not proof of the supplied screen's corrected appearance. The sibling and
+original assets are intact.
