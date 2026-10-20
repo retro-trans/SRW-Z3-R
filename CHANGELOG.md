@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-10-20 — 0.9.0 release preparation
+## 2026-10-20 — Published 0.9.0
 
 - Use the explicitly requested 0.9.0 version for new build028, its bottom-left
   title footer and subsequent package/release metadata. The previous local
@@ -14,8 +14,10 @@
   c51b9cb15e37633630830d5f90756921930fe5bb31aeff8add049cffcef2fce8.
 - All 77 isolated installed files match, including native SDAT decryption.
   The known installer teardown assertion is not a game boot result.
-- Prepare original/0.1.5 RPCS3 delta routes with the bottom-left credit and
-  reviewed Crowe pronoun correction. Gameplay/hardware remain untested.
+- Published original/0.1.5 RPCS3 delta routes with the bottom-left credit and
+  reviewed Crowe pronoun correction. All eight public downloads and both
+  actual live Retro Trans apply routes pass; catalog refresh succeeded.
+  Gameplay/hardware remain untested.
 
 ## 2026-10-20 — Bottom-left title version and credit
 

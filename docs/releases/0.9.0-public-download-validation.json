@@ -1,0 +1,84 @@
+{
+  "download": {
+    "version": "0.9.0",
+    "public_release": true,
+    "downloaded_assets": 8,
+    "all_download_hashes_match": true,
+    "protocol_validation_passed": true,
+    "packaging_checksums_passed": true,
+    "assets": [
+      {
+        "name": "BUILD-MANIFEST.json",
+        "bytes": 1515,
+        "sha256": "5371f5c9249566223213796a3f871250e406c64bfd2d1ad8a2cfd284296750aa"
+      },
+      {
+        "name": "INSTALL.md",
+        "bytes": 3683,
+        "sha256": "1903207727a6513e01612dc32fe642ec5867bbb5c177889dd379b0b6a323e48f"
+      },
+      {
+        "name": "PACKAGING-SHA256SUMS.txt",
+        "bytes": 171,
+        "sha256": "90ee439e8fa3e58711456b9b19d0c71d0385599cf45613f93d87ecf003c6a0bc"
+      },
+      {
+        "name": "PACKAGING-VALIDATION.json",
+        "bytes": 2386,
+        "sha256": "02d1603e7f470cbb1a1b56888c428250d775a7c79a27644d51d53b4ebf315c8b"
+      },
+      {
+        "name": "SHA256SUMS.txt",
+        "bytes": 419,
+        "sha256": "3973988944f9c49501516cba861da650185d1ada684d9670978bf2c9e3a070a8"
+      },
+      {
+        "name": "SRW-Z3-R-NPJB00689-English-0.1.5-to-0.9.0-RPCS3.xdelta",
+        "bytes": 1284661,
+        "sha256": "64eb59f28b54f1bcf677ecbdf498cfdbc40030d553c48ee2229b23f39b3184c9"
+      },
+      {
+        "name": "SRW-Z3-R-NPJB00689-English-0.9.0-RPCS3-from-original.xdelta",
+        "bytes": 195590090,
+        "sha256": "9a63f899ebf7a73a823aa1855d4c13236738a11421ceaea07f7063e67567b022"
+      },
+      {
+        "name": "VALIDATION.json",
+        "bytes": 559,
+        "sha256": "214febc83af3e98c77a5f55cb2f4c37b44599cff7de345e24528f0fca1762733"
+      }
+    ]
+  },
+  "catalog": {
+    "version": "0.9.0",
+    "live_catalog_manifest_matches_public_release": true,
+    "original_and_015_recognized": true,
+    "latest_specific_routes_passed": true,
+    "next_from_015_passed": true,
+    "older_011_latest_route": "0.1.1 \u2192 0.1.2 \u2192 0.1.5 \u2192 0.9.0",
+    "actual_public_apply_routes": [
+      {
+        "source_version": "original",
+        "route": "original \u2192 0.9.0",
+        "output": {
+          "bytes": 725958400,
+          "sha256": "c51b9cb15e37633630830d5f90756921930fe5bb31aeff8add049cffcef2fce8"
+        },
+        "passed": true
+      },
+      {
+        "source_version": "0.1.5",
+        "route": "0.1.5 \u2192 0.9.0",
+        "output": {
+          "bytes": 725958400,
+          "sha256": "c51b9cb15e37633630830d5f90756921930fe5bb31aeff8add049cffcef2fce8"
+        },
+        "passed": true
+      }
+    ],
+    "all_passed": true
+  },
+  "catalog_refresh_workflow": "https://github.com/retro-trans/retro-trans-tools/actions/runs/39460695465",
+  "release_tag_commit": "a7902db70e5627cffec91901aafdc05a27d362c0",
+  "source_commit": "e943d5d4bdff05def3e93c4aac888802f63a0cca"
+}
