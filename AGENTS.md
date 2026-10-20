@@ -26,7 +26,7 @@ Read `MEMORY.md` before building or packaging.
   Preserve Rengoku effects/costs/durations. See `analysis/spirit_alignment.json`
   and the dry-run-first `tools/align_spirit_terms.py` audit.
 - Every complete build must show its own incremented semantic version and
-  `github.com/retro-trans` in the title screen's lower-right corner, using
+  `github.com/retro-trans` in the title screen's bottom-left corner, using
   Rengoku's own background resource. Keep footer, build manifest, package and
   release version consistent. Verify the packed footer before packaging.
   Dry runs and failed builds must not consume a version number.

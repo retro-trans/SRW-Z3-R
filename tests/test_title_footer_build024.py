@@ -43,6 +43,27 @@ class Footer024(unittest.TestCase):
         with self.assertRaises(ValueError):
             F.apply(self.raw,self.built,DEFAULT_FONT,'0.1.4')
 
+    def test_bottom_left_alignment_and_unmodified_right_corner(self):
+        self.assertEqual(F.BOX, (28,640,368,696))
+        tile=F.overlay(DEFAULT_FONT,'0.1.6')
+        for band in ((0,0,340,29),(0,29,340,56)):
+            ink=tile.crop(band).getbbox()
+            self.assertIsNotNone(ink)
+            self.assertLessEqual(ink[0],2)
+            self.assertLess(ink[2],300)
+        self.assertEqual(F.background(self.built).crop(F.LEGACY_BOX).tobytes(),
+                         F.background(self.base).crop(F.LEGACY_BOX).tobytes())
+
+    def test_legacy_packed_placement_remains_verifiable(self):
+        old=F.apply(self.raw,self.base,DEFAULT_FONT,'0.1.3',F.LEGACY_BOX)
+        self.assertTrue(F.verify(self.raw,old,DEFAULT_FONT,'0.1.3',F.LEGACY_BOX)['verified'])
+        with self.assertRaises(ValueError):
+            F.verify(self.raw,old,DEFAULT_FONT,'0.1.3')
+        old_build=ROOT/'work/builds/rengoku_en_026'
+        if (old_build/'BUILD_REPORT.json').exists():
+            report=json.loads((old_build/'BUILD_REPORT.json').read_text(encoding='utf8'))
+            self.assertTrue(F.check_packed(old_build,report)['verified'])
+
     def test_source_drift_or_changes_outside_footer_are_rejected(self):
         bad=bytearray(self.built);bad[100]^=1
         with self.assertRaises(ValueError):
@@ -79,6 +100,16 @@ class Version024(unittest.TestCase):
         self.assertEqual(m['version'],m['title_footer_version'])
         self.assertEqual(m['title_footer_credit'],F.CREDIT)
         self.assertFalse((self.root/'build_version.lock').exists())
+
+    def test_explicit_minor_version_stamps_matching_footer_and_next_patch(self):
+        self.assertEqual(V.next_version(self.root,'0.9.0'),'0.9.0')
+        report=copy.deepcopy(self.report)
+        report['version']=report['title_footer_version']='0.9.0'
+        V.stamp(self.out,report,'0.9.0',self.root,requested_version='0.9.0')
+        manifest=json.loads((self.out/'build_manifest.json').read_text())
+        self.assertEqual(manifest['version'],'0.9.0')
+        self.assertEqual(manifest['title_footer_version'],'0.9.0')
+        self.assertEqual(V.next_version(self.root),'0.9.1')
 
     def test_stale_version_mismatched_footer_and_concurrent_build_are_rejected(self):
         with self.assertRaises(ValueError):V.next_version(self.root,'0.1.2')

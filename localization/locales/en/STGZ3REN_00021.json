@@ -446,11 +446,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00021:00060": {
-      "text": "$$ランド$$\n「Cut her some slack, $$セツコ$$.\n　Everyone's got someone they can't stand up to」",
+      "text": "$$ランド$$\n「Cut him some slack, $$セツコ$$.\n　Everyone's got someone they can't stand up to」",
       "status": "draft",
       "source_sha": "18ff3f2117",
       "source_member_sha256": "916a96c40b998824acf1f68870bd51d3d6be8040cb182c4a7c4fd5ed87426a27",
-      "notes": []
+      "notes": [
+        "2026-10-20 CDS/context review: Rand asks Setsuko to ease up on Crowe, whose reply is in row59. Corrected her to him."
+      ]
     },
     "rengoku:STGZ3REN_00021:00061": {
       "text": "$$セツコ$$\n「That's true.\n　Even $$ランド$$ goes quiet\n　whenever $$メール$$ gets angry」",

@@ -6,7 +6,8 @@ Never replace published patch bytes or reuse a published version.
 
 1. Verify a complete local NPJB00689 build and `verification/RESULT.json`.
    Read MEMORY.md. New builds must have a matching in-game version/Retro Trans
-   footer and build_manifest.json stamp. Use the build's semantic version for
+   footer at the bottom-left (new builds from 2026-10-20) and a matching
+   build_manifest.json stamp. Use the build's semantic version for
    its package/release; never relabel old bytes with a newer version.
    Keep original packages and extracted files untouched. Record runtime and
    translation limits separately from binary validation.

@@ -673,7 +673,7 @@ class Build:
         title_art.composition(title).save(out/'title_preview_large.png')
         title_art.composition(title,True).save(out/'title_preview_menu.png')
         title_footer.background(title).save(out/'title_background_footer.png')
-        title_footer.background(title).crop((880,616,1280,720)).save(out/'title_footer_corner.png')
+        title_footer.corner_image(title).save(out/'title_footer_corner.png')
         library_chart.atlas(title,title_art.GTF,5).save(out/'library_buttons_preview.png')
         chart=self.mutations[(library_chart.EFF,131)]
         library_chart.chart_proof(chart,self.codec).save(out/'chart_preview.png')

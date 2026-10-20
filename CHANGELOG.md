@@ -1,5 +1,52 @@
 # Changelog
 
+## 2026-10-20 — 0.9.0 release preparation
+
+- Use the explicitly requested 0.9.0 version for new build028, its bottom-left
+  title footer and subsequent package/release metadata. The previous local
+  build027 remains 0.1.6; no existing release is relabeled.
+- Nine footer/version checks pass, including a newer minor-version override,
+  matching build/footer stamp and automatic continuation to the next patch.
+- Complete build028/0.9.0 passes packed-footer, archive/folder/overlay/ZIP and
+  all three native decrypt checks. Compiled 296 condition / 42 Spirit lookups,
+  five status strips and exact Elgan Roddick dialogue pass. All 77 RPCS3 package
+  members match; target 725,958,400 bytes, SHA256
+  c51b9cb15e37633630830d5f90756921930fe5bb31aeff8add049cffcef2fce8.
+- All 77 isolated installed files match, including native SDAT decryption.
+  The known installer teardown assertion is not a game boot result.
+- Prepare original/0.1.5 RPCS3 delta routes with the bottom-left credit and
+  reviewed Crowe pronoun correction. Gameplay/hardware remain untested.
+
+## 2026-10-20 — Bottom-left title version and credit
+
+- Move newly built title footers to the requested bottom-left: left-aligned
+  version above github.com/retro-trans, 28px left / 24px bottom margin, with
+  the existing small white outlined text and Rengoku's own background.
+- Retain recorded right-side layouts when verifying previous builds; all
+  eight footer/version checks pass. Preview crop and persistent build rules
+  follow the new location. Native animation and other textures are preserved.
+- Complete local build027/v0.1.6 passes archive/folder/overlay/ZIP and packed
+  footer checks, all three native decryptions, 296 compiled condition lookups
+  and the prior Crowe pronoun correction. RPCS3 package and isolated install
+  match all 77 files: 725,958,400 bytes, SHA256
+  3983fc18a520ca852a00b1d037b2b5d5d8e59e6b8a52efbbcec8fc4aa81045dd.
+  Native teardown assertion 3221226505 is not a boot result. Local package:
+  work/runtime_pkg_016. Public v0.1.5 remains unchanged; corrected title-screen
+  appearance still needs runtime testing.
+
+## 2026-10-20 — Crowe debt/CDS translation review
+
+- Retained both supplied passages: the dialogue accurately conveys growing
+  debt, and the CDS explanation correctly states real coin-drop sound and
+  1 G per activation. Inline keyword wording and its heading preserve the
+  same Japanese identity. No unresolved requested meaning choices.
+- Reviewed 80 story records plus 10 adjacent records and six related
+  library/interface entries (14 source occurrences). Corrected one nearby
+  pronoun: STG00021:00060, Rand addressing Setsuko about Crowe, her -> him.
+- Canonical source/glossary/link validation passes; repeated fixer preview
+  has zero changes. Generated story reading copy refreshed. No new build or
+  release; public v0.1.5 retains the prior pronoun until a future update.
+
 ## 2026-10-15 — Published 0.1.5
 
 - Complete build026/title footer v0.1.5 includes the post-0.1.2 name fixes,

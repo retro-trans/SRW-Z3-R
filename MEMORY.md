@@ -1,14 +1,21 @@
 # Persistent project memory
 
-- User request, 2026-10-10: credit Retro Trans and show the version on the
-  lower-right of the press-any-button title screen, just like `../SRW Z3`:
-  `v<version>` above `github.com/retro-trans`.
+- User request, updated 2026-10-20: credit Retro Trans and show the version at
+  the bottom-left of the title screen: `v<version>` above
+  `github.com/retro-trans`. Keep the sibling-style small outlined two-line
+  treatment, left-aligned at x28 with a 24px bottom margin. This replaces the
+  previous lower-right placement. Existing builds retain their recorded
+  placement for verification; newly completed builds use the bottom-left.
 - Update this text for **every complete build**, including local test builds.
   `tools/build_game.py` automatically chooses the next semantic version from
   `build_version.json`, renders the footer in Rengoku's own title background,
   verifies it, and stamps `build_manifest.json` after complete readbacks pass.
   Preview/failed builds leave the counter unchanged. Optional `--version`
   must be newer than every successful issued build.
+- User request, 2026-10-20: publish the next release as **0.9.0**. Use the
+  explicit newer-version override when building; the in-game footer, build
+  stamp, package proof and release must all say 0.9.0. After successful
+  completion, automatic patch numbering continues with 0.9.1.
 - Never package or release a newer version with an older footer. Check the
   packed member and stamp, not just a preview; package/release metadata must
   agree. Preserve previous builds and release assets. A new local build does

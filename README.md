@@ -22,9 +22,9 @@ Original Japanese script catalogs and game data remain local.
 
 ## Current release and coverage
 
-**0.1.5** contains **build026**: Spirit names aligned with Z3, Crowe Bluest and
-Elgan Roddick, numbered victory/defeat conditions, and the version/Retro Trans
-title footer. **0.1.1 remains the first public release.**
+**0.9.0** contains **build028**, with a matching bottom-left version/Retro
+Trans title footer and the reviewed Crowe dialogue correction. Earlier Spirit
+names, character spellings and numbered-condition fixes are retained. **0.1.1 remains the first public release.**
 
 English covers 3,334 story records, 3,575 battle drafts and 5,295 non-dialogue
 entries, with selected translated artwork. Four story flags, 54 battle notes,
@@ -32,17 +32,17 @@ entries, with selected translated artwork. Four story flags, 54 battle notes,
 artwork/manual blocks remain for review or insertion. Coverage does not establish
 that every screen is translated or fully proofread.
 
-The effective glossary contains 1,321 entries. Twenty-three focused checks,
+The effective glossary contains 1,321 entries. Nine focused footer/version checks,
 archive readbacks, three offline decryptions and all 77 installed file hashes
 pass. Gameplay and physical PS3 boot remain untested.
-See [release notes](docs/releases/0.1.5.md) and [validation notes](docs/validation/0.1.5.md).
+See [release notes](docs/releases/0.9.0.md) and [validation notes](docs/validation/0.9.0.md).
 
 ## Install
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) 0.5.1 or later.
-Refresh the catalog and choose **Latest** or **0.1.5**, starting from the original
-Japanese NPJB00689 PKG or exact English public 0.1.2. From 0.1.2, **Next** also
-selects this release. Older 0.1.1 can upgrade through 0.1.2.
+Refresh the catalog and choose **Latest** or **0.9.0**, starting from the original
+Japanese NPJB00689 PKG or exact English public 0.1.5. From 0.1.5, **Next** also
+selects this release. Older public packages can upgrade through the existing release routes.
 [DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) and
 [xdelta3](https://github.com/jmacd/xdelta) can apply the same patches;
 see [INSTALL.md](docs/INSTALL.md) for commands and exact package hashes.
