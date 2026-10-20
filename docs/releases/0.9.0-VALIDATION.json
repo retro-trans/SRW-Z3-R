@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "5371f5c9249566223213796a3f871250e406c64bfd2d1ad8a2cfd284296750aa",
+  "patches": [
+    {
+      "patch": "SRW-Z3-R-NPJB00689-English-0.9.0-RPCS3-from-original.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "c51b9cb15e37633630830d5f90756921930fe5bb31aeff8add049cffcef2fce8"
+    },
+    {
+      "patch": "SRW-Z3-R-NPJB00689-English-0.1.5-to-0.9.0-RPCS3.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "c51b9cb15e37633630830d5f90756921930fe5bb31aeff8add049cffcef2fce8"
+    }
+  ]
+}

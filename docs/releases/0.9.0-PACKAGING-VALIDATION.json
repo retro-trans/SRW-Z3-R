@@ -1,0 +1,63 @@
+{
+  "version": "0.9.0",
+  "local_build": "028",
+  "source_commit": "e943d5d4bdff05def3e93c4aac888802f63a0cca",
+  "title_footer_version": "0.9.0",
+  "title_footer_credit": "github.com/retro-trans",
+  "package_format": "Modified RPCS3-only PKG; authentication cleared",
+  "original": {
+    "bytes": 530382896,
+    "sha256": "77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307"
+  },
+  "target": {
+    "bytes": 725958400,
+    "sha256": "c51b9cb15e37633630830d5f90756921930fe5bb31aeff8add049cffcef2fce8"
+  },
+  "build_report_sha256": "9326fdb694b5a87aac2c2c4ff4d39c0f7fa42d80cfc05b77d37a7f7d02b742ae",
+  "package_validation_sha256": "b1e62d66a04c667b30d82ae37d54141480fb0dcecf327f97c9733b83df315500",
+  "install_validation_sha256": "1cae7cde844855f2df5980297aa848f84e2de44c9fff174f537fb35e014dc81a",
+  "offline_decryption": [
+    {
+      "case": "original_stage",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "6b2e7324964bd3851bdc0ef06511765912bdd411f726b0ca1fcd7c79b2cf31a9",
+      "output_files": [
+        "STGZ3REN.SDAT.unedat"
+      ]
+    },
+    {
+      "case": "english_stage",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "67098423c91be68ef4c0c0709abae9069894f0ccbdda70e6e6a3eda0b90e94e4",
+      "output_files": [
+        "STGZ3REN.SDAT.unedat"
+      ]
+    },
+    {
+      "case": "english_executable",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "f58242397136235d7c7dfda59b79e6856773b70757d112e2c8a2b828d7cc226b",
+      "output_files": [
+        "EBOOT.elf"
+      ]
+    }
+  ],
+  "all_77_members_verified": true,
+  "installed_files": 77,
+  "all_77_game_files_match_build_with_native_sdat_decryption": true,
+  "installer_exit_code": 3221226505,
+  "clean_installer_shutdown": false,
+  "focused_footer_version_checks_passed": 9,
+  "compiled_condition_lookups": 296,
+  "footer_position": "bottom-left",
+  "compiled_exact_Blue_dialogue_has_Elgan_Roddick": true,
+  "gameplay_tested": false,
+  "ps3_hardware_tested": false,
+  "signed_retail_package": false,
+  "cfw_package_distributed": false,
+  "licenses_included": false,
+  "provenance": "source_commit identifies reviewed sanitized translation/tooling snapshot; build_report_sha256 identifies the completed local build028."
+}
