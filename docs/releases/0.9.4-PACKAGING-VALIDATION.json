@@ -1,0 +1,67 @@
+{
+  "version": "0.9.4",
+  "local_build": "032",
+  "source_commit": "b202d45bb1e349adac0db9ec05ce542d8df8063a",
+  "title_footer_version": "0.9.4",
+  "title_footer_credit": "github.com/retro-trans",
+  "package_format": "Modified RPCS3-only PKG; authentication cleared",
+  "original": {
+    "bytes": 530382896,
+    "sha256": "77431599e49115ee14070d11df910ea48d5f3c812883870d9770755d15400307"
+  },
+  "target": {
+    "bytes": 725651696,
+    "sha256": "4bbe6b10aeee8cfc84069e8e5d25501352fdac98cb2f94ab5eec7863195ffdab"
+  },
+  "build_report_sha256": "47a9a7175f7b2d6b1182349a1ac5b346ae1c9768b4ac6c86ec9ea76c09f903c9",
+  "package_validation_sha256": "0c193c3a95041377d46530579681c4bade04b31da74badfd7a6b7bd794e052a5",
+  "install_validation_sha256": "422dff1e2f0292d03d4daf17e0ad54d2d195fd2dd76449b0008d84bde3054925",
+  "offline_decryption": [
+    {
+      "case": "original_stage",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "6b2e7324964bd3851bdc0ef06511765912bdd411f726b0ca1fcd7c79b2cf31a9",
+      "output_files": [
+        "STGZ3REN.SDAT.unedat"
+      ]
+    },
+    {
+      "case": "english_stage",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "0dd00789764771982fd3e6ac84f65e8345e6e2f32ca5c93da91f1f6aec3b1f50",
+      "output_files": [
+        "STGZ3REN.SDAT.unedat"
+      ]
+    },
+    {
+      "case": "english_executable",
+      "exit_code": 0,
+      "accepted_and_byte_identical": true,
+      "expected_sha256": "b8b130b7343c95c42f8ce6ee836b5c556c788d555bf75c3d1701aac51e591116",
+      "output_files": [
+        "EBOOT.elf"
+      ]
+    }
+  ],
+  "all_77_members_verified": true,
+  "installed_files": 77,
+  "all_77_game_files_match_build_with_native_sdat_decryption": true,
+  "installer_exit_code": 3221226505,
+  "clean_installer_shutdown": false,
+  "focused_footer_version_checks_passed": 9,
+  "compiled_condition_lookups": 296,
+  "compiled_skill_bonus_forms": 7290,
+  "skill_families": 15,
+  "compiled_battle_captions": 5077,
+  "carryover_records": 17,
+  "footer_position": "bottom-right",
+  "compiled_exact_Blue_dialogue_has_Elgan_Roddick": true,
+  "gameplay_tested": false,
+  "ps3_hardware_tested": false,
+  "signed_retail_package": false,
+  "cfw_package_distributed": false,
+  "licenses_included": false,
+  "provenance": "source_commit identifies reviewed sanitized translation/tooling snapshot; build_report_sha256 identifies the completed local build032."
+}
