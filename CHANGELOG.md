@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-11-24 — Bottom-right title credit and release preparation
+## 2026-11-24 — Published 0.9.4
 
 - Move version above github.com/retro-trans to the requested bottom-right,
   right-aligned with 28px right / 24px bottom margins. New builds use this
@@ -9,8 +9,9 @@
   footer checks, all archive/overlay/ZIP readbacks and three native decryptions.
   All 77 package and isolated installed files match: 725,651,696 bytes,
   SHA256 4bbe6b10aeee8cfc84069e8e5d25501352fdac98cb2f94ab5eec7863195ffdab.
-  Public release preparation includes all fixes since v0.9.0. Original and
-  v0.9.0 delta routes are being prepared; gameplay remains unverified.
+  Published original/v0.9.0 delta routes; all eight public downloads and
+  both actual live apply routes pass. Catalog refreshed successfully.
+  Gameplay remains unverified.
 
 ## 2026-11-24 — Generated bonuses, rewards and carryover
 

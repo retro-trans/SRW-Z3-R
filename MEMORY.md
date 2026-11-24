@@ -8,17 +8,17 @@
   recorded placement for verification; new builds use the bottom-right.
   Build032/v0.9.4 is the first new build after this placement change. Its
   packed footer, native decryption and 77 package/installed-file checks pass.
-  The user explicitly requested publication of this release.
+  Public v0.9.4 is published; all eight downloads and both actual Retro Trans
+  apply routes pass, with the catalog refreshed. Next complete build is v0.9.5.
 - Update this text for **every complete build**, including local test builds.
   `tools/build_game.py` automatically chooses the next semantic version from
   `build_version.json`, renders the footer in Rengoku's own title background,
   verifies it, and stamps `build_manifest.json` after complete readbacks pass.
   Preview/failed builds leave the counter unchanged. Optional `--version`
   must be newer than every successful issued build.
-- User request, 2026-10-20: publish the next release as **0.9.0**. Use the
-  explicit newer-version override when building; the in-game footer, build
-  stamp, package proof and release must all say 0.9.0. After successful
-  completion, automatic patch numbering continues with 0.9.1.
+- Historical request, 2026-10-20: publication as **0.9.0** was fulfilled with
+  matching footer/build/package/release stamps. Later complete builds use
+  the automatic counter; do not reuse or relabel an issued version.
 - Never package or release a newer version with an older footer. Check the
   packed member and stamp, not just a preview; package/release metadata must
   agree. Preserve previous builds and release assets. A new local build does
