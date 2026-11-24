@@ -56,7 +56,7 @@ def draw_entry(at,lookup,joined):
     return a.code()
 
 
-def lookup_stub(table):
+def lookup_stub(table,gold_table=None):
     a=Asm();regs=(0,4,5,6,8,9,10,11,12)
     a.emit(dform(0xf8000001,1,1,-0x90))
     for i,r in enumerate(regs):a.emit(std(r,1,0x20+i*8))
@@ -64,14 +64,18 @@ def lookup_stub(table):
     a.emit(mr(8,3));a.emit(lbz(0,8,0));a.emit(cmpwi(0,0));a.br('beq','done')
     a.emit(lbz(9,8,1));a.emit(dform(0x1c000000,0,0,256));a.emit(add(0,0,9))
     a.emit(dform(0x1c000000,0,0,4));address(a,11,table);a.emit(lwzx(11,11,0))
-    a.emit(cmpwi(11,0));a.br('beq','done')
-    a.label('entry');a.emit(lwz(12,11,0));a.emit(cmpwi(12,0));a.br('beq','done')
+    miss='gold' if gold_table is not None else 'done'
+    a.emit(cmpwi(11,0));a.br('beq',miss)
+    a.label('entry');a.emit(lwz(12,11,0));a.emit(cmpwi(12,0));a.br('beq',miss)
     a.emit(mr(5,8));a.emit(mr(6,12))
     a.label('compare');a.emit(lbz(9,5,0));a.emit(lbz(4,6,0));a.emit(cmplw(9,4));a.br('bne','next')
     a.emit(cmpwi(9,0));a.br('beq','found')
     a.emit(addi(5,5,1));a.emit(addi(6,6,1));a.br('b','compare')
     a.label('next');a.emit(addi(11,11,8));a.br('b','entry')
-    a.label('found');a.emit(lwz(3,11,4))
+    a.label('found');a.emit(lwz(3,11,4));a.br('b','done')
+    if gold_table is not None:
+        import rengoku_bonus_runtime as bonus
+        a.label('gold');bonus.emit(a,gold_table)
     a.label('done');a.emit(ld(0,1,0x68));a.emit(0x7c0ff120)
     for i,r in enumerate(regs):a.emit(ld(r,1,0x20+i*8))
     a.emit(addi(1,1,0x90));a.emit(0x4e800020)

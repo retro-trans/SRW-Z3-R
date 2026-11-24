@@ -30,7 +30,16 @@ def guard(elf):
 
 
 def hooks(row, codec, fragments=None):
-    jp = row['jp'].replace('\r\n', '\n')
+    raw_jp = row['jp'].replace('\r\n', '\n')
+    jp = raw_jp
+    # The sole quoted source literal with an unknown escape realizes イ
+    # without the backslash. Preserve original Lua and bind the draw key to
+    # the string observed in the final-stage screenshot, not its raw spelling.
+    if '\\' in jp:
+        require(row['id']=='nd:da8328e7048d8ea083dc' and row.get('literal_kind')=='quoted'
+                and jp=='このシナリオにはＳＲポ\\イントはありません。',
+                'Unreviewed operation escape')
+        jp=jp.replace('\\イ','イ')
     native = jp.split('\n')
     display = wrap(codec, row['english'], WIDTH, 32)
     english = row['english'].replace('\r\n', '\n').split('\n')
@@ -40,7 +49,7 @@ def hooks(row, codec, fragments=None):
     fragments = fragments or {}
     if len(native)>1:
         english=[fragments.get(source,target) for source,target in zip(native,english)]
-    pairs = {jp.encode('cp932'): codec.encode(display)}
+    pairs = {jp.encode('cp932'): codec.encode(display),raw_jp.encode('cp932'):codec.encode(display)}
     formatted = []
     for prefix in ('', *NUMBERS):
         if len(native) == 1:
@@ -64,6 +73,7 @@ def hooks(row, codec, fragments=None):
         require(max(widths) <= WIDTH, 'Numbered objective exceeds panel width')
         row_display['line_widths'] = widths
     return pairs, dict(id=row['id'], display=display, native_source_retained=True,
+                      runtime_source=jp,raw_source_escape_alias=jp!=raw_jp,
                       native_lines=len(native), display_lines=len(display.split('\n')),
                       line_widths=[line_width(codec, line, 32) for line in display.split('\n')],
                       formatted=formatted, numbered_variants=3)

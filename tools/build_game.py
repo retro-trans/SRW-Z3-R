@@ -24,10 +24,13 @@ import battle_lines as battle
 import rengoku_screenshot_layout as screenshot_layout
 import rengoku_search_layout as search_layout
 import rengoku_roster_settings_layout as roster_settings_layout
+import rengoku_audio_settings_layout as audio_settings_layout
+import rengoku_carryover_layout as carryover_layout
 import rengoku_command_layout as command_layout
 import rengoku_map_panel_layout as map_panel_layout
 import rengoku_battle_preview_layout as battle_preview_layout
 import rengoku_battle_subtitles as battle_subtitles
+import rengoku_battle_caption_runtime as battle_caption_runtime
 import rengoku_result_layout as result_layout
 import rengoku_battle_controls as battle_controls
 import rengoku_intermission_layout as intermission_layout
@@ -267,42 +270,24 @@ class Build:
         require(at==self.bsource['table_offset'] and table==self.bsource['table'],'Battle bank table changed')
         edits={r['offset']:r for r in self.bocc.values() if isinstance(r.get('bank'),int)}
         display,self.subtitle_report=battle_subtitles.layout(self.codec,list(self.bocc.values()))
-        output=bytearray();newtable=[0];count=0
-        for b in blocks:
-            header=bytearray(original[b['base']:b['pool']]);pool=bytearray();where={}
-            indexed={b['pool']+struct.unpack_from('<I',original,b['index']+i*4)[0] for i in range(b['count'])}
-            pos=b['pool']
-            while pos<b['end']:
-                stop=original.index(b'\0',pos,b['end'])
-                old=original[pos:stop]
-                if old or pos in indexed:
-                    where[pos]=len(pool)
-                    if pos in edits:
-                        row=edits[pos];require(old.decode('cp932')==row['jp'],'Battle binding changed')
-                        pool+=self.codec.encode(display[pos])+b'\0';count+=1
-                        self.routes[row['id']]='rebuilt SRVC bank/index'
-                    else:pool+=old+b'\0'
-                pos=stop+1
-            for i in range(b['count']):
-                old=b['pool']+struct.unpack_from('<I',original,b['index']+i*4)[0]
-                require(old in where,'Lost battle cue')
-                struct.pack_into('<I',header,b['index']-b['base']+i*4,where[old])
-            output+=header+pool;output+=bytes(align(len(output))-len(output));newtable.append(len(output))
-        old=struct.pack('>%dI'%len(table),*table);new=struct.pack('>%dI'%len(newtable),*newtable)
-        # Verify every cue independently through the reconstructed bank table.
-        for b,base,end in zip(blocks,newtable,newtable[1:]):
-            po=base+b['pool']-b['base'];idx=base+b['index']-b['base']
-            require(output[base:idx]==original[b['base']:b['index']],'Battle cue metadata changed')
-            for i in range(b['count']):
-                oldoff=b['pool']+struct.unpack_from('<I',original,b['index']+i*4)[0]
-                newoff=po+struct.unpack_from('<I',output,idx+i*4)[0]
-                require(po<=newoff<end,'New battle pointer out of bounds')
-                want=self.codec.encode(display[oldoff]) if oldoff in edits else original[oldoff:original.index(b'\0',oldoff)]
-                require(output[newoff:output.index(0,newoff,end)]==want,'Battle cue text mismatch')
+        for row in edits.values():
+            pos=row['offset']
+            require(original[pos:original.index(b'\0',pos)]==row['jp'].encode('cp932'),
+                    'Native battle cue binding changed')
+        battle_caption_runtime.guard(self.original_elf)
+        hooks,self.caption_runtime_report=battle_caption_runtime.draw_hooks(
+            self.codec,list(self.bocc.values()),display)
+        # Lookup runs after native escape conversion and every 0x86-byte copy.
+        # No translated atlas bytes enter the fields followed by portrait state.
+        self.hooks.update(hooks)
+        for row in edits.values():self.routes[row['id']]='original SRVC cue; owned draw-time English'
+        old=struct.pack('>%dI'%len(table),*table)
         summary={k:v for k,v in self.subtitle_report.items() if k not in ('changed','pending')}
         summary['pending_messages']=len(self.subtitle_report['pending'])
-        summary['examples']=self.subtitle_report['changed'][:3]+[r for r in self.subtitle_report['changed'] if r['message']=='battle:bb4a3ab0560dceda']
-        return bytes(output),(at,old,new,'Rengoku SRVC bank offsets'),{'banks':len(blocks),'translated_occurrences':count,'indexed_cues':sum(b['count'] for b in blocks),'source_bytes':len(original),'output_bytes':len(output),'subtitle_layout':summary}
+        return original,(at,old,old,'Rengoku SRVC offsets preserved'),dict(
+            banks=len(blocks),translated_occurrences=len(edits),indexed_cues=sum(b['count'] for b in blocks),
+            source_bytes=len(original),output_bytes=len(original),subtitle_layout=summary,
+            caption_runtime=self.caption_runtime_report)
 
     def lua(self,raw,asset,member=None):
         text=raw.decode('cp932');offsets=byte_offsets(text);spans={};rows=self.byasset.get(asset,[])
@@ -373,12 +358,14 @@ class Build:
             if i in lookup:
                 r=lookup[i];require(value.decode(r['encoding'])==r['jp'],'Indexed source changed')
                 target=screenshot_layout.text_for_field(r['jp'],r['english'])
+                target=carryover_layout.indexed_text(r['jp'],target)
                 value=self.codec.encode(target,utf8=r['encoding']=='utf-8');self.routes[r['id']]='rebuilt indexed text'
             struct.pack_into('>I',out,32+i*4,len(body));body+=value+b'\0'
         struct.pack_into('>I',out,tdxt+8,len(body));out+=body
         for i,r in lookup.items():
             off=base+struct.unpack_from('>I',out,32+i*4)[0]
             target=screenshot_layout.text_for_field(r['jp'],r['english'])
+            target=carryover_layout.indexed_text(r['jp'],target)
             require(out[off:out.index(0,off)]==self.codec.encode(target,utf8=r['encoding']=='utf-8'),'Indexed readback')
         return bytes(out)
 
@@ -475,6 +462,9 @@ class Build:
         out,self.category_bonus_report=category_layout.apply_fssa(raw,out,self.codec)
         out,self.reward_report=reward_layout.apply_fssa(raw,out,self.codec)
         out,self.upgrade_selector_report=upgrade_selector.apply(raw,out,self.codec)
+        out,self.audio_settings_report=audio_settings_layout.apply_fssa(
+            raw,out,self.codec,{r['jp']:r['english'] for r in rows})
+        out,self.carryover_report=carryover_layout.apply_fssa(raw,out,self.codec)
         self.intermission_review=intermission_layout.review(raw)
         return out
 
@@ -585,6 +575,8 @@ class Build:
                 'screenshot_layout':self.layout_report,
                 'search_layout':self.search_layout_report,
                 'roster_settings_layout':self.roster_settings_report,
+                'audio_settings_layout':self.audio_settings_report,
+                'carryover_layout':self.carryover_report,
                 'command_layout':self.command_layout_report,
                 'map_panel_layout':self.map_panel_report,
                 'battle_preview_layout':self.battle_preview_report,
@@ -682,7 +674,9 @@ class Build:
         final=file_inventory(tree)
         require(set(final)==set(inputs),'Game file inventory changed')
         differences=[p for p in final if final[p]!=inputs[p]]
-        expected=set(groups)|{'USRDIR/DATA_REN/BTLC/SRVC.BIN','USRDIR/EBOOT.BIN','PARAM.SFO'}
+        expected=set(groups)|{'USRDIR/EBOOT.BIN','PARAM.SFO'}
+        if self.srvc!=(PKG/'USRDIR/DATA_REN/BTLC/SRVC.BIN').read_bytes():
+            expected.add('USRDIR/DATA_REN/BTLC/SRVC.BIN')
         require(set(differences)==expected,'Unexpected output files changed')
         overlay=out/'PS3/NPJB00689'
         for relative in differences:
@@ -717,8 +711,9 @@ class Build:
             '## What is verified\n\n'
             'All changed CPK members were read back, untouched archive members\n'
             'match their originals, the stage SDAT decrypts back to the rebuilt\n'
-            'archive, and all 6,356 battle cue pointers resolve to their expected\n'
-            'strings. Executable code edits are guarded against the Rengoku ELF.\n'
+            'archive. All 6,356 battle cues retain their original Japanese strings\n'
+            'and metadata; English is supplied from owned draw-time storage.\n'
+            'Executable code edits are guarded against the Rengoku ELF.\n'
             'Both targets use the same assets and wrapped executable.\n\n'
             '## What still needs testing\n\n'
             'Gameplay, real console loading, screen fit, typewriter timing and\n'

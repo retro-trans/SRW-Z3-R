@@ -1,9 +1,9 @@
 """Word-preserving layout for Rengoku's battle-animation subtitle panel.
 
 This is a display transform, never a translation-catalog edit. Native SRVC
-escapes are converted by NPJB00689 routine 0x12c3b4 before drawing. Keep at
-most two rows and never enlarge a subtitle past the native 0x86-byte buffer.
-Longer pre-existing translations are reported separately, not truncated.
+escapes are converted by NPJB00689 routine 0x12c3b4 before drawing. Japanese
+stays in the native 0x86-byte buffers; English is supplied in owned draw
+storage. Keep at most two rows; report lines needing meaning-preserving edits.
 """
 import re
 
@@ -30,8 +30,6 @@ def fit(codec, text):
     widths = [line_width(codec, row, QUAD) for row in rows]
     if max(widths) <= WIDTH:
         return text, None
-    if len(native_bytes(codec, text)) > BUFFER_BYTES:
-        return text, 'Existing English exceeds native intermediate buffer; relocation required'
     # Moving an existing visual break is allowed only in generated display
     # text. Words, punctuation, wrappers, glossary spelling and cue order stay.
     words = text.replace(BREAK, ' ').split()
@@ -45,8 +43,7 @@ def fit(codec, text):
         clause = bool(re.search(r'[,;:!?\.]$', words[k - 1]))
         score = (not clause, abs(widths[0] - widths[1]))
         candidate = BREAK.join(pair)
-        if len(native_bytes(codec, candidate)) <= BUFFER_BYTES:
-            choices.append((score, candidate))
+        choices.append((score, candidate))
     if not choices:
         return text, 'Needs more than two rows at the current font size'
     result = min(choices)[1]
@@ -82,5 +79,6 @@ def layout(codec, occurrences):
                   for r in occurrences if isinstance(r.get('bank'), int)),
               'width_px': WIDTH, 'conservative_quad_px': QUAD,
               'max_rows': 2, 'native_buffer_bytes': BUFFER_BYTES,
+              'english_storage': 'owned draw lookup, outside native object buffers',
               'changed': changed, 'pending': pending}
     return display, report

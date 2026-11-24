@@ -111,11 +111,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00015:00015": {
-      "text": "$$セツコ$$\n「I'll be coming along with you.\n　Thank you for having me, $$アドヴェント$$,\n　$$ブルー$$」",
+      "text": "$$セツコ$$\n「I'll be coming along with you.\n　Thank you for having me, Mr. $$アドヴェント$$,\n　Mr. $$ブルー$$」",
       "status": "draft",
       "source_sha": "9a3bc821fd",
       "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
-      "notes": []
+      "notes": [
+        "2026-11-24 context review: retain Mr. until Advent/Blue explicitly permits bare-name address."
+      ]
     },
     "rengoku:STGZ3REN_00015:00016": {
       "text": "$$アドヴェント$$\n「You may simply call me $$アドヴェント$$.\n　Now, let's prepare to depart」",
@@ -183,11 +185,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00015:00025": {
-      "text": "$$セツコ$$\n「Now that I think of it, you did say you and the others\n　crossed over the dimensional barrier, $$ブルー$$...」",
+      "text": "$$セツコ$$\n「Now that I think of it, you did say you and the others\n　crossed over the dimensional barrier, Mr. $$ブルー$$...」",
       "status": "draft",
       "source_sha": "2eb81ff61b",
       "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
-      "notes": []
+      "notes": [
+        "2026-11-24 context review: retain Mr. until Advent/Blue explicitly permits bare-name address."
+      ]
     },
     "rengoku:STGZ3REN_00015:00026": {
       "text": "$$セツコ$$\n「A $$レイライン|lc$$ is a road of light, like the one\n　that ran near that town」",
@@ -262,11 +266,13 @@
       "notes": []
     },
     "rengoku:STGZ3REN_00015:00036": {
-      "text": "$$セツコ$$\n「Likewise, $$ブルー$$」",
+      "text": "$$セツコ$$\n「Likewise, Mr. $$ブルー$$」",
       "status": "draft",
       "source_sha": "42093de82f",
       "source_member_sha256": "010672656cad8046e1336df15248e9f430c0437d85f816110716c9ae7072522f",
-      "notes": []
+      "notes": [
+        "2026-11-24 context review: retain Mr. until Advent/Blue explicitly permits bare-name address."
+      ]
     },
     "rengoku:STGZ3REN_00015:00037": {
       "text": "$$ブルー$$\n「No need for honorifics.\n　This name, '$$ブルー$$', is just a codename」",

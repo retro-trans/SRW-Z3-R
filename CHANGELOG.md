@@ -1,5 +1,72 @@
 # Changelog
 
+## 2026-11-24 — Bottom-right title credit and release preparation
+
+- Move version above github.com/retro-trans to the requested bottom-right,
+  right-aligned with 28px right / 24px bottom margins. New builds use this
+  layout; existing builds retain their recorded placement for verification.
+- Complete build032/v0.9.4 passes nine footer/version tests, packed text and
+  footer checks, all archive/overlay/ZIP readbacks and three native decryptions.
+  All 77 package and isolated installed files match: 725,651,696 bytes,
+  SHA256 4bbe6b10aeee8cfc84069e8e5d25501352fdac98cb2f94ab5eec7863195ffdab.
+  Public release preparation includes all fixes since v0.9.0. Original and
+  v0.9.0 delta routes are being prepared; gameplay remains unverified.
+
+## 2026-11-24 — Generated bonuses, rewards and carryover
+
+- Cover bare +1 through +9 for the complete level-bearing pilot skill
+  category, generated Gold Bar reward amounts, and the final SR condition's
+  runtime Lua-escape spelling, including numbered variants.
+- Fit both carryover variants with compact complete prose and separate live
+  percentage columns; preserve all quantities, upgrade limits and exclusions.
+- Meaning/context review: 49 distinct rows; structural/context scan: 336.
+  All 37 focused/regression checks pass, along with 7,290 packed bonus forms
+  across 15 skill families and the prior caption/condition/settings checks.
+- Complete local build031/v0.9.3 passes archive/overlay/ZIP readbacks,
+  matching packed version/credit and three native offline decryptions. The
+  RPCS3 package and isolated install match all 77 files: 725,651,696 bytes,
+  SHA256 77506f9f26f1c8f42754df5181c1ad72e98e426496d8af198de16a16b859f2b2.
+  Known installer teardown assertion is not a game boot result. Public
+  releases are unchanged; in-game appearance remains unverified.
+  See docs/CATEGORY031.md.
+
+## 2026-11-24 — Honorific context and battle-caption memory safety
+
+- Restore Mr. Advent/Mr. Blue in three Setsuko lines before explicit
+  permission to drop honorifics; later bare names remain unchanged.
+- Keep original SRVC captions and cues in native bounded fields, substituting
+  complete English only at drawing time. The reported captions overflowed
+  the 134-byte buffer into portrait state; offline execution reproduces the
+  defect and verifies preservation with the new path.
+- Reflow the complete battle-caption category without a native English byte
+  budget. Source/context review makes 17 remaining over-wide entries concise
+  enough for two rows, preserving meaning and controls. All 20 focused tests
+  and all 5,077 compiled caption / three honorific checks pass. Original
+  source audit passes with explicit PS3 package selection beside the Vita PKG.
+- Complete local build030/v0.9.2 passes archive/overlay/ZIP, packed footer,
+  prior settings/operation checks and three native decryptions. RPCS3 package
+  and isolated installation match all 77 files: 725,584,976 bytes, SHA256
+  6cc0f9825744b1d4960f798dbb2be7bb7a327367bddb1a8a3a02e8c827f85cc4.
+  Known installer teardown assertion is not a game boot result. No public
+  release changed; runtime appearance and physical PS3 checks remain pending.
+
+## 2026-11-22 — Audio/settings menu overlaps
+
+- Fit Voice/Play and remembered-sort captions across all four audio variants;
+  join three split BGM titles and shorten their Target/Replace captions.
+  Compact six music Confirm hints, system-config Change and two split
+  Maximum Break/BGM labels without moving controls or changing values.
+- Audit 36 caption records and three 80-record slices plus 12 adjacent
+  records. Five new and four existing settings tests pass; canonical
+  translation sources remain unchanged.
+- Complete local build029/v0.9.1 passes packed captions, 296 operation
+  lookups, archive/overlay/ZIP checks, matching title footer and three native
+  offline decryptions. RPCS3 package and isolated installation match all 77
+  files: 725,959,632 bytes, SHA256
+  ac525e8355edbee47cbe9ac3cab58514738eb24b01777fd4d7644e130601d849.
+  Known installer teardown assertion is not a boot result. Runtime appearance
+  still needs confirmation. Public v0.9.0 is unchanged.
+
 ## 2026-10-20 — Published 0.9.0
 
 - Use the explicitly requested 0.9.0 version for new build028, its bottom-left

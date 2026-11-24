@@ -50,6 +50,7 @@ def prepare(args):
     edition = 'Japanese digital NPJB00689 (RPCS3 package)'
     config = dict(game_id='srw-z3-rengoku-ps3',
                   game_name='Super Robot Taisen Z3: Rengoku-hen', platform='PS3',
+                  package_ids=[dict(platform='PS3',kind='project',id='srw-z3-rengoku-ps3')],
                   version=args.version, source_commit=args.source_commit,
                   patches=[dict(patch='SRW-Z3-R-NPJB00689-English-%s-%s-from-original.xdelta' % (args.version, suffix),
                                 edition=edition,
@@ -75,6 +76,7 @@ def prepare(args):
             source=str(args.previous.resolve()), target=str(args.target.resolve())))
         print('Upgrade from published', previous_version, ':', previous, flush=True)
     print('Standard manifest v1; verified inputs -> new %s PKG.' % suffix, flush=True)
+    print('Registered package IDs:',config['package_ids'],flush=True)
     print('Source/packaging commit:', args.source_commit, flush=True)
     print('Output:', output, flush=True)
     if not args.write:

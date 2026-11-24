@@ -22,35 +22,32 @@ Original Japanese script catalogs and game data remain local.
 
 ## Current release and coverage
 
-**0.9.0** contains **build028**, with a matching bottom-left version/Retro
-Trans title footer and the reviewed Crowe dialogue correction. Earlier Spirit
-names, character spellings and numbered-condition fixes are retained. **0.1.1 remains the first public release.**
+**0.9.4** contains **build032**: corrected battle captions and portraits,
+honorific context, settings/BGM layouts, generated skill/reward text,
+carryover panels and a bottom-right version/Retro Trans footer.
+**0.1.1 remains the first public release.**
 
-English covers 3,334 story records, 3,575 battle drafts and 5,295 non-dialogue
-entries, with selected translated artwork. Four story flags, 54 battle notes,
-97 non-dialogue context/spelling flags, 45 longer battle subtitles and 166
-artwork/manual blocks remain for review or insertion. Coverage does not establish
-that every screen is translated or fully proofread.
+English sources cover 3,334 story records, 3,575 battle entries and 5,295
+non-dialogue entries, with selected translated artwork. Review flags, further
+artwork/manual work and in-game confirmation remain. Coverage does not mean
+every screen is translated or fully proofread.
 
-The effective glossary contains 1,321 entries. Nine focused footer/version checks,
-archive readbacks, three offline decryptions and all 77 installed file hashes
-pass. Gameplay and physical PS3 boot remain untested.
-See [release notes](docs/releases/0.9.0.md) and [validation notes](docs/validation/0.9.0.md).
+The packed footer, archive readbacks, three native offline decryptions and
+all 77 package/installed files pass. Gameplay and physical PS3 remain untested.
+See [release notes](docs/releases/0.9.4.md) and [validation notes](docs/validation/0.9.4.md).
 
 ## Install
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools) 0.5.1 or later.
-Refresh the catalog and choose **Latest** or **0.9.0**, starting from the original
-Japanese NPJB00689 PKG or exact English public 0.1.5. From 0.1.5, **Next** also
-selects this release. Older public packages can upgrade through the existing release routes.
-[DeltaPatcher](https://github.com/marco-calautti/DeltaPatcher) and
-[xdelta3](https://github.com/jmacd/xdelta) can apply the same patches;
-see [INSTALL.md](docs/INSTALL.md) for commands and exact package hashes.
+Refresh the catalog and choose **Latest** or **0.9.4**, starting from the
+original Japanese NPJB00689 PKG or exact English public **0.9.0** PKG.
+Older public packages can upgrade through existing release routes.
+DeltaPatcher and xdelta3 can apply the same patches; see
+[INSTALL.md](docs/INSTALL.md) for commands and exact package hashes.
 
-The output is **RPCS3-only**, with cleared authentication. It is not a signed
-retail or CFW/HEN installer. Use your matching original license, back up the
-installation/saves and keep `dev_hdd0/game/NPJB00689`. No full game or license
-is distributed. CFW build tooling requires private original inputs.
+The output is **RPCS3-only** with cleared authentication, not a Sony-signed or
+CFW/HEN installer. Keep your matching license, installation and saves.
+No full game or license is distributed.
 
 ## Translation sources
 

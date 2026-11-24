@@ -43,14 +43,14 @@ class Footer024(unittest.TestCase):
         with self.assertRaises(ValueError):
             F.apply(self.raw,self.built,DEFAULT_FONT,'0.1.4')
 
-    def test_bottom_left_alignment_and_unmodified_right_corner(self):
-        self.assertEqual(F.BOX, (28,640,368,696))
+    def test_bottom_right_alignment_and_unmodified_left_corner(self):
+        self.assertEqual(F.BOX, (912,640,1252,696))
         tile=F.overlay(DEFAULT_FONT,'0.1.6')
         for band in ((0,0,340,29),(0,29,340,56)):
             ink=tile.crop(band).getbbox()
             self.assertIsNotNone(ink)
-            self.assertLessEqual(ink[0],2)
-            self.assertLess(ink[2],300)
+            self.assertGreater(ink[0],30)
+            self.assertGreaterEqual(ink[2],338)
         self.assertEqual(F.background(self.built).crop(F.LEGACY_BOX).tobytes(),
                          F.background(self.base).crop(F.LEGACY_BOX).tobytes())
 
@@ -63,6 +63,11 @@ class Footer024(unittest.TestCase):
         if (old_build/'BUILD_REPORT.json').exists():
             report=json.loads((old_build/'BUILD_REPORT.json').read_text(encoding='utf8'))
             self.assertTrue(F.check_packed(old_build,report)['verified'])
+        left_build=ROOT/'work/builds/rengoku_en_031'
+        if (left_build/'BUILD_REPORT.json').exists():
+            report=json.loads((left_build/'BUILD_REPORT.json').read_text(encoding='utf8'))
+            self.assertEqual(report['title_footer']['box'],list(F.LEGACY_BOX))
+            self.assertTrue(F.check_packed(left_build,report)['verified'])
 
     def test_source_drift_or_changes_outside_footer_are_rejected(self):
         bad=bytearray(self.built);bad[100]^=1

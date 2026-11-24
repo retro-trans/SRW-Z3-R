@@ -1,6 +1,6 @@
 """Version/Retro Trans credit on Rengoku's own press-any-button background.
 
-Uses the requested bottom-left placement and sibling two-line font recipe,
+Uses the requested bottom-right placement and sibling two-line font recipe,
 using NPJB00689 EFF member 133 texture 0 and its independently checked source.
 Never applies sibling executable addresses, animation offsets or background.
 """
@@ -18,8 +18,8 @@ from rengoku_runtime import DEFAULT_FONT, require, sha
 ROOT = Path(__file__).resolve().parents[1]
 EFF, MEMBER, GTF = title.EFF, title.MEMBER, title.GTF
 TEXTURE, SIZE = 0, (1280, 720)
-BOX, FONT_SIZE = (28, 640, 368, 696), 18
-LEGACY_BOX = (912, 640, 1252, 696)
+BOX, FONT_SIZE = (912, 640, 1252, 696), 18
+LEGACY_BOX = (28, 640, 368, 696)
 CREDIT = 'github.com/retro-trans'
 BACKGROUND_SHA = '9e0f3820a99d54df08ddba114f4c341eba1868c2793c745da6d7911a11b12b4c'
 
@@ -53,7 +53,7 @@ def overlay(font, version, box=BOX):
         ink = Image.new('RGBA', (r-l, b-t))
         ImageDraw.Draw(ink).text((-l, -t), text, font=face, fill=(240,246,255,255),
                                stroke_width=scale, stroke_fill=(5,12,32,240))
-        left = width*scale-ink.width if box == LEGACY_BOX else 0
+        left = width*scale-ink.width if box[0] >= SIZE[0]//2 else 0
         canvas.alpha_composite(ink, (left, bottom*scale-ink.height))
     return canvas.resize((width, height), Image.Resampling.LANCZOS)
 
@@ -119,7 +119,7 @@ def check_packed(build, report):
 
 
 def corner_image(raw):
-    return background(raw).crop((0, 616, 400, 720))
+    return background(raw).crop((880, 616, 1280, 720))
 
 
 def main():

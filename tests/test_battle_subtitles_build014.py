@@ -58,13 +58,17 @@ class BattleSubtitles014(unittest.TestCase):
         self.assertEqual(c.read(dest + L.BUFFER_BYTES, 8), b'\xcc' * 8)
         self.assertEqual(c.r[1], 0x2000000)
 
-    def test_every_changed_entry_keeps_words_and_native_capacity(self):
+    def test_every_changed_entry_keeps_words_in_owned_storage(self):
         self.assertGreater(len(self.changes), 400)
         for row in self.changes.values():
             before, after = row['before'], row['after']
             self.assertEqual(before.replace(L.BREAK, ' ').split(), after.replace(L.BREAK, ' ').split())
             self.assertEqual(after.count(L.BREAK), 1)
-            self.assertLessEqual(len(L.native_bytes(self.codec, after)), L.BUFFER_BYTES)
+            # English now lives in owned draw storage. Its atlas byte length
+            # must not be confused with the native Japanese object capacity.
+            self.assertEqual(self.build.hooks[next(r['jp'].replace(L.BREAK,'\n').encode('cp932')
+                for r in self.build.bocc.values() if r['message']==row['message'])],
+                self.codec.encode(after.replace(L.BREAK,'\n')))
             self.assertTrue(all(line_width(self.codec, s, 32) <= L.WIDTH
                                 for s in after.split(L.BREAK)))
         for row in self.build.subtitle_report['pending']:
@@ -96,13 +100,16 @@ class BattleSubtitles014(unittest.TestCase):
                 source = old['pool'] + struct.unpack_from('<I', raw, old['index'] + 4*i)[0]
                 target = new['pool'] + struct.unpack_from('<I', b.srvc, new['index'] + 4*i)[0]
                 row = by_offset.get(source)
-                want = (self.codec.encode(L.fit(self.codec, row['english'])[0]) if row
-                        else raw[source:raw.index(b'\0', source)])
+                want = raw[source:raw.index(b'\0', source)]
                 self.assertEqual(b.srvc[target:b.srvc.index(b'\0', target)], want)
+                if row:
+                    self.assertEqual(b.hooks[want.replace(b'\\n',b'\n')],
+                        self.codec.encode(L.fit(self.codec,row['english'])[0].replace(L.BREAK,'\n')))
                 if old['bank'] == 19 and i == 103:
-                    self.assertIn(b'\\n', want)
+                    self.assertIn(b'\n', b.hooks[want.replace(b'\\n',b'\n')])
                 count += 1
         self.assertEqual(count, 6356)
+        self.assertEqual(b.srvc,raw)
 
 
 if __name__ == '__main__':

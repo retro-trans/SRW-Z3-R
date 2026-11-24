@@ -58,7 +58,9 @@ def sha_file(path):
 
 def audit():
     manifest = json.loads((ROOT / 'work/pkg/extraction_manifest.json').read_text(encoding='utf-8'))
-    pkgs = list(ROOT.glob('*.pkg'))
+    # Other platform packages may share the workspace. This extraction and
+    # its immutable manifest belong only to PS3 Rengoku-hen NPJB00689.
+    pkgs = list(ROOT.glob('JP0700-NPJB00689_00-*.pkg'))
     if len(pkgs) != 1 or sha_file(pkgs[0]) != manifest['package_sha256']:
         raise ValueError('Original package hash mismatch or ambiguous package')
     checked_files = 0

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "last_successful_build": "0.9.0",
-  "local_build": "rengoku_en_028",
+  "last_successful_build": "0.9.4",
+  "local_build": "rengoku_en_032",
   "note": "Advance only after complete build/readback and matching title-footer verification."
 }

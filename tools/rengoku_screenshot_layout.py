@@ -79,6 +79,16 @@ def hooks(codec,messages):
             if a and b:level_names[a[1].strip()]=b[1]
     for jp,en in level_names.items():
         require('$$' not in en,'Resolve skill glossary before layout')
+        # When the pilot has no learned base level, the native composer
+        # emits just NAME + bonus, without an L component. Cover all glyph
+        # and spacing forms as well as the level-bearing forms below.
+        for bonus in range(1,10):
+            for left in ('',' ','　'):
+                for right in ('',' ','　'):
+                    for plus in ('+','＋'):
+                        for digit in (str(bonus),chr(0xff10+bonus)):
+                            key=jp+left+plus+right+digit
+                            result[key.encode('cp932')]=codec.encode(en+' +'+str(bonus))
         for n in range(1,10):
             for separator in ('',' ','　'):
                 for level in ('Ｌ','L'):

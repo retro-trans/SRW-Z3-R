@@ -388,6 +388,7 @@ def build_hook_table(pairs):
 def patch_elf(original, codec, pairs, extra_edits=()):
     import rengoku_link_runtime as links
     import rengoku_combo_runtime as combo
+    import rengoku_bonus_runtime as bonus
     from rengoku_ui_runtime import (CENTER,CONVERTED,JOIN_TABLE,lookup_stub,
         converted_stub,center_stub,joined_stub,joined_data,draw_entry)
     require(sha(original)==ELF_SHA,'Wrong Rengoku ELF source')
@@ -419,7 +420,9 @@ def patch_elf(original, codec, pairs, extra_edits=()):
     def put(off,data,label):
         out[off:off+len(data)]=data;edited.append({'offset':off,'bytes':len(data),'label':label})
     stubs={};cursor=CODE
-    for name,make in [('lookup',lambda:lookup_stub(TEXT)),('joined',joined_stub),
+    gold_enabled=hasattr(codec,'encode')
+    bonus.guard(original)
+    for name,make in [('lookup',lambda:lookup_stub(TEXT,bonus.TABLE if gold_enabled else None)),('joined',joined_stub),
                       ('draw',lambda:draw_entry(cursor,stubs['lookup'],stubs['joined'])),
                       ('advance',lambda:advance_stub(cell(codec.codes[CHOICE_PAD]) if CHOICE_PAD in codec.codes else None)),
                       ('keyword_position',keyword_position_stub),('keyword_acc',keyword_acc_stub)]:
@@ -454,6 +457,10 @@ def patch_elf(original, codec, pairs, extra_edits=()):
     if hasattr(codec,'encode'):
         joined=joined_data(codec);require(JOIN_TABLE+len(joined)<0x900000,'Joined heading overflow')
         put(JOIN_TABLE-0x10000,joined,'joined Ace Bonus heading')
+        gold=bonus.data(codec)
+        require(JOIN_TABLE+len(joined)<=bonus.TABLE and bonus.TABLE+len(gold)<0x900000,
+                'Gold table overlaps another owned data region')
+        put(bonus.TABLE-0x10000,gold,'generated gold reward display table')
     put(DRAW-0x10000,struct.pack('>I',branch(DRAW,stubs['draw'])),'drawer entry')
     put(ADVANCE-0x10000,struct.pack('>I',branch(ADVANCE,stubs['advance'],True)),'glyph advance')
     put(KW_ACC-0x10000,struct.pack('>II',branch(KW_ACC,stubs['keyword_acc'],True),0x60000000),'keyword accumulator')
@@ -500,6 +507,9 @@ def patch_elf(original, codec, pairs, extra_edits=()):
     require(newrows[0][3]+newrows[0][6]<=newrows[1][3],'LOAD overlap')
     require(all(r[2]%r[7]==r[3]%r[7] and r[1]&3!=3 for r in newrows[:2]),'Invalid LOAD alignment/permissions')
     return bytes(out), {'source_sha256':ELF_SHA,'active_loads':2,'text_pairs':len(pairs),
+                       'generated_gold_rewards':{'enabled':gold_enabled,'table':bonus.TABLE,
+                           'buffer':bonus.BUFFER,'capacity':bonus.CAPACITY,
+                           'maximum_digits':10,'native_source_unchanged':True},
                        'combo_popup':combo.report(),
                        'link_backgrounds':'measured dialogue/backlog geometry, speaker widths and scene/glossary identity',
                        'link_width_cache':links.LINK_WIDTHS,

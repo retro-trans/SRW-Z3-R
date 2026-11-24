@@ -6,7 +6,7 @@ Never replace published patch bytes or reuse a published version.
 
 1. Verify a complete local NPJB00689 build and `verification/RESULT.json`.
    Read MEMORY.md. New builds must have a matching in-game version/Retro Trans
-   footer at the bottom-left (new builds from 2026-10-20) and a matching
+   footer at the bottom-right (new builds from 2026-11-24) and a matching
    build_manifest.json stamp. Use the build's semantic version for
    its package/release; never relabel old bytes with a newer version.
    Keep original packages and extracted files untouched. Record runtime and
@@ -25,6 +25,9 @@ Never replace published patch bytes or reuse a published version.
    Preview identities, then use `--write` in a NEW release directory. For an
    upgrade supply `--previous` and its published `--previous-manifest`.
    A current `retro-trans-tools` checkout fully decodes/validates both patches.
+   Keep the registered package identity `PS3/project/srw-z3-rengoku-ps3`
+   in the configuration and manifest; current tooling verifies it against
+   its game library before creating release assets.
 5. Publish exactly one `BUILD-MANIFEST.json`, its bare `.xdelta` assets, `VALIDATION.json`
    and `SHA256SUMS.txt`. Additional installation notes or detailed runtime
    evidence may be separate assets. No game binaries or local configurations.

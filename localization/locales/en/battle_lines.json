@@ -4049,45 +4049,45 @@
       "occurrences": [
         "battle_occ:a819a019e2b97ae0340d"
       ],
-      "text": "「Hello, players. My name is $$アドヴェント$$... I am the operations captain of $$クロノ$$, the watchers of humanity's evolution.」",
+      "text": "「Hello, players. I'm $$アドヴェント$$, $$クロノ$$'s ops captain. We watch over human evolution.」",
       "status": "needs_review",
-      "notes": "Independent proof: 行動隊長 retained operations captain; no new formal rank or organization identity inferred beyond the self-introduction."
+      "notes": "Independent proof: 行動隊長 retained operations captain; no new formal rank or organization identity inferred beyond the self-introduction. 2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:3db87d3545819e25": {
       "source_sha256": "3db87d3545819e25802fdffa1b93c0c9e19da740ada6df675d71eb2d43dbbc8a",
       "occurrences": [
         "battle_occ:c77b5a0ed050c27b5a50"
       ],
-      "text": "「Haha... I usually remain in the shadows of human history, so being brought out on an occasion like this leaves me at a loss...」",
+      "text": "「Haha... I usually stay in human history's shadows. It's awkward to be brought out...」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:f5f97a1b8b5621f3": {
       "source_sha256": "f5f97a1b8b5621f35bc09478fbd3383153887e00dda2619252775f87a3fd74e1",
       "occurrences": [
         "battle_occ:2108cc4f3b043d7878a6"
       ],
-      "text": "「Then, as one who knows what lies ahead, I will give you some useful information. Guiding you is also a joy to me.」",
+      "text": "「I know what lies ahead, so here's a useful tip. It's a joy to guide you.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:d023f0fabd50bfeb": {
       "source_sha256": "d023f0fabd50bfeb7a59d5cf7494a0086604be6ad05c6c34b37948fc4d0189fe",
       "occurrences": [
         "battle_occ:f33fa7f273ac1be91f7b"
       ],
-      "text": "「Link your cleared Rengoku-hen data to Tengoku-hen, and something good will happen.」",
+      "text": "「Link your Rengoku-hen clear data to Tengoku-hen. Good things await.」",
       "status": "draft",
-      "notes": "Source title 連獄篇 is this game's actual title, Rengoku-hen. English preserves that established title."
+      "notes": "Source title 連獄篇 is this game's actual title, Rengoku-hen. English preserves that established title. 2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:79683c7e11ad9dff": {
       "source_sha256": "79683c7e11ad9dffc0bf1e25cc98c3cb0e343e2d7765c7d454efdb1e2f140777",
       "occurrences": [
         "battle_occ:378a5c062c31334b5cff"
       ],
-      "text": "「But there is no need to rush through it. You can link your cleared Rengoku-hen data even partway through Tengoku-hen.」",
+      "text": "「No rush. Rengoku-hen clear data can be linked even partway through Tengoku-hen.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:4cd8f92007fcb083": {
       "source_sha256": "4cd8f92007fcb083cba36d950fc385536da5d8e8a896b392cfc7516ba46d5410",
@@ -8151,9 +8151,9 @@
         "battle_occ:86948475a454e63e2b93",
         "battle_occ:d6eed817318a529862f1"
       ],
-      "text": "「We of $$ジェミニス$$ would stay up for three days and nights and clear a game like this without stopping.」",
+      "text": "「We $$ジェミニス$$ could beat a game like this in three nonstop, sleepless days and nights.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:d4bb5cb1a2751c29": {
       "source_sha256": "d4bb5cb1a2751c2947c9cab73df55b754294f7b48bb5f264ee4bf3f7eefbb69f",
@@ -8162,9 +8162,9 @@
         "battle_occ:9225b3c2175ecf3644a5",
         "battle_occ:68759fcf38e63282c220"
       ],
-      "text": "「If that bothers you, show me an Earthling's determination. I await our rematch in the game.」",
+      "text": "「If you're upset, show me Earthling grit. I'll await our rematch in-game.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:866bd1e1737ec60f": {
       "source_sha256": "866bd1e1737ec60f4645efdfa5081303148c291d29d031b6e25413c8f24bd63c",
@@ -8173,9 +8173,9 @@
         "battle_occ:cf32840c7b4b7112bdb9",
         "battle_occ:3fd80ef695a896f9e2e6"
       ],
-      "text": "「...That is what I am supposed to say, but do take regular breaks so you can enjoy the game. Then, I wish you success when you return to the fight.」",
+      "text": "「...That's just talk. Take regular breaks to enjoy the game. Good luck next time!」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:8572b77bbe0c629a": {
       "source_sha256": "8572b77bbe0c629ae460a5a78d4273fb93e1514c2b25ac3abd2083ac4ef70891",
@@ -10436,9 +10436,9 @@
       "occurrences": [
         "battle_occ:13a698f0e4757b220cb6"
       ],
-      "text": "「So long, new $$リアクター$$ who inherited the curse! Your mommy's beckoning to you from hell!」",
+      "text": "「So long, new $$リアクター$$, heir to the curse! Your mom beckons from hell!」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:26ef2201c1265d6f": {
       "source_sha256": "26ef2201c1265d6f7a5a723f1db457bedb69341aa27432ab6ee8b3152eb50dd8",
@@ -14494,18 +14494,18 @@
       "occurrences": [
         "battle_occ:83c12c4084074b116583"
       ],
-      "text": "「Now, I've got a little proposition... Think you could divert some of the mech upgrade budget to me personally?」",
+      "text": "「Say... Could you spare me a little of the mech upgrade budget?」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:c0ed59346439a771": {
       "source_sha256": "c0ed59346439a7717ddb3705cb4b9b003e35b89d41284d38af5d78f4618f4810",
       "occurrences": [
         "battle_occ:56b9f73f2c5e44e3602b"
       ],
-      "text": "「The Chief says the data I've been bringing in lately isn't good enough. It's really hurting my performance reviews.」",
+      "text": "「The Chief's been grading me harshly, saying my recent data's no good.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:8350fd86df34da4a": {
       "source_sha256": "8350fd86df34da4abc8a630b8d519ae996a0e13a79fbbf33fc84cd170ae99e44",
@@ -21408,9 +21408,9 @@
       "occurrences": [
         "battle_occ:b78666c9359e6f89d9fc"
       ],
-      "text": "「Never drop your guard, even against a small opponent...\\nA cardinal rule of the battlefield.」",
+      "text": "「Never drop your guard against a small foe...\\nThat's an iron rule of battle.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:a92ab74be8817e60": {
       "source_sha256": "a92ab74be8817e60451205b0e63a2b32aaf876d4fa6123d5cffdecd3d008e2b0",
@@ -25778,9 +25778,9 @@
       "occurrences": [
         "battle_occ:0c8b1814d8ba9f64f197"
       ],
-      "text": "「I'll be careful not to drink too much and end up regretting it. Well, everyone... Until next time.」",
+      "text": "「I'll take care not to drink too much and regret it. Until next time, everyone...」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:2a0625cee7b61f34": {
       "source_sha256": "2a0625cee7b61f3435fbe3792be280c56a623df216d40237dcac385d73878717",
@@ -27325,9 +27325,9 @@
       "occurrences": [
         "battle_occ:0baf2b1476424cd4816f"
       ],
-      "text": "「Why, hello again from your familiar wandering repair crew, $$ビーター・サービス$$! Our honest service and our employees' smiles are our pride and joy!」",
+      "text": "「$$ビーター・サービス$$, your usual roving repair crew! Honest service and smiling staff!」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:e63af3d4350de3ae": {
       "source_sha256": "e63af3d4350de3ae0917d62d868222e680a718d4504c99ac5a2fdd11ae47de93",
@@ -27343,9 +27343,9 @@
       "occurrences": [
         "battle_occ:001f8833d89195f27f57"
       ],
-      "text": "「When that happens, give the console a full-force chop at a 45-degree angle from the right!!」",
+      "text": "「Then chop the console with all your might, at 45 degrees from the right!!」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:8139424ef0be789a": {
       "source_sha256": "8139424ef0be789a5dde0c45cf5ab467f672147812e6de0e6258a8e1880e8f0d",
@@ -28640,9 +28640,9 @@
       "occurrences": [
         "battle_occ:5d8872fca03c3d3945fc"
       ],
-      "text": "「Today, our company would like to give all you players some advice on getting along with your game consoles.」",
+      "text": "「Today, our company has tips for you players on getting along with game consoles.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:07d459113190a29e": {
       "source_sha256": "07d459113190a29edf7aa8263708e6432824a3f79732c1100dedb1bf6a7e57e1",
@@ -28667,9 +28667,9 @@
       "occurrences": [
         "battle_occ:95d25c358057b776fbc9"
       ],
-      "text": "「...That was an example of what not to do. Everyone, please take good care of your game consoles.」",
+      "text": "「...That's what not to do. Everyone, take good care of your consoles.」",
       "status": "draft",
-      "notes": ""
+      "notes": "2026-11-24 source/context review: concise full-meaning wording for two-row battle panel; controls and terminology preserved."
     },
     "battle:41a8a9b73cfcfd24": {
       "source_sha256": "41a8a9b73cfcfd24e92eee3e9db8fb7ea2f4639e7cf4a3c8b774ca977de1e44e",
